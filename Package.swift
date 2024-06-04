@@ -5,17 +5,22 @@ import PackageDescription
 
 let package = Package(
     name: "LucideIcons",
+	platforms: [
+		.iOS(.v13),
+		.macOS(.v10_13)
+	],
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "LucideIcons",
             targets: ["LucideIcons"]),
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "LucideIcons"),
+            name: "LucideIcons",
+			resources: [
+				.process("icons.xcassets")
+			]
+		),
         .testTarget(
             name: "LucideIconsTests",
             dependencies: ["LucideIcons"]),
