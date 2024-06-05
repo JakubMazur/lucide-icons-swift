@@ -1,3 +1,5 @@
+[![Auto-update Lucide Icons and Generate Swift Files](https://github.com/JakubMazur/lucide-icons-swift/actions/workflows/main.yml/badge.svg)](https://github.com/JakubMazur/lucide-icons-swift/actions/workflows/main.yml)
+
 # Lucide Icons for Swift Package Manager
 
 This repository integrates [Lucide Icons](https://lucide.dev) and makes them available through the Swift Package Manager (SPM). With this package, you can easily use Lucide icons in your macOS and iOS applications.
