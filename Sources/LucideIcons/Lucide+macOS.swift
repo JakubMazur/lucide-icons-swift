@@ -172,6 +172,7 @@ extension Lucide {
   public static let `betweenHorizontalStart`: NSImage = Bundle.module.image(forResource: "between-horizontal-start")!
   public static let `betweenVerticalEnd`: NSImage = Bundle.module.image(forResource: "between-vertical-end")!
   public static let `betweenVerticalStart`: NSImage = Bundle.module.image(forResource: "between-vertical-start")!
+  public static let `bicepsFlexed`: NSImage = Bundle.module.image(forResource: "biceps-flexed")!
   public static let `bike`: NSImage = Bundle.module.image(forResource: "bike")!
   public static let `binary`: NSImage = Bundle.module.image(forResource: "binary")!
   public static let `biohazard`: NSImage = Bundle.module.image(forResource: "biohazard")!
@@ -250,6 +251,7 @@ extension Lucide {
   public static let `calendarCheck2`: NSImage = Bundle.module.image(forResource: "calendar-check-2")!
   public static let `calendarCheck`: NSImage = Bundle.module.image(forResource: "calendar-check")!
   public static let `calendarClock`: NSImage = Bundle.module.image(forResource: "calendar-clock")!
+  public static let `calendarCog`: NSImage = Bundle.module.image(forResource: "calendar-cog")!
   public static let `calendarDays`: NSImage = Bundle.module.image(forResource: "calendar-days")!
   public static let `calendarFold`: NSImage = Bundle.module.image(forResource: "calendar-fold")!
   public static let `calendarHeart`: NSImage = Bundle.module.image(forResource: "calendar-heart")!
@@ -1380,7 +1382,8 @@ extension Lucide {
   public static let `trophy`: NSImage = Bundle.module.image(forResource: "trophy")!
   public static let `truck`: NSImage = Bundle.module.image(forResource: "truck")!
   public static let `turtle`: NSImage = Bundle.module.image(forResource: "turtle")!
-  public static let `tv2`: NSImage = Bundle.module.image(forResource: "tv-2")!
+  public static let `tvMinimalPlay`: NSImage = Bundle.module.image(forResource: "tv-minimal-play")!
+  public static let `tvMinimal`: NSImage = Bundle.module.image(forResource: "tv-minimal")!
   public static let `tv`: NSImage = Bundle.module.image(forResource: "tv")!
   public static let `twitch`: NSImage = Bundle.module.image(forResource: "twitch")!
   public static let `twitter`: NSImage = Bundle.module.image(forResource: "twitter")!

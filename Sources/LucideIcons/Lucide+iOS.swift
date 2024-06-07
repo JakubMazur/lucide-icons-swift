@@ -172,6 +172,7 @@ extension Lucide {
   public static let `betweenHorizontalStart`: UIImage = UIImage(named: "between-horizontal-start", in: Bundle.module, compatibleWith: nil)!
   public static let `betweenVerticalEnd`: UIImage = UIImage(named: "between-vertical-end", in: Bundle.module, compatibleWith: nil)!
   public static let `betweenVerticalStart`: UIImage = UIImage(named: "between-vertical-start", in: Bundle.module, compatibleWith: nil)!
+  public static let `bicepsFlexed`: UIImage = UIImage(named: "biceps-flexed", in: Bundle.module, compatibleWith: nil)!
   public static let `bike`: UIImage = UIImage(named: "bike", in: Bundle.module, compatibleWith: nil)!
   public static let `binary`: UIImage = UIImage(named: "binary", in: Bundle.module, compatibleWith: nil)!
   public static let `biohazard`: UIImage = UIImage(named: "biohazard", in: Bundle.module, compatibleWith: nil)!
@@ -250,6 +251,7 @@ extension Lucide {
   public static let `calendarCheck2`: UIImage = UIImage(named: "calendar-check-2", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarCheck`: UIImage = UIImage(named: "calendar-check", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarClock`: UIImage = UIImage(named: "calendar-clock", in: Bundle.module, compatibleWith: nil)!
+  public static let `calendarCog`: UIImage = UIImage(named: "calendar-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarDays`: UIImage = UIImage(named: "calendar-days", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarFold`: UIImage = UIImage(named: "calendar-fold", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarHeart`: UIImage = UIImage(named: "calendar-heart", in: Bundle.module, compatibleWith: nil)!
@@ -1380,7 +1382,8 @@ extension Lucide {
   public static let `trophy`: UIImage = UIImage(named: "trophy", in: Bundle.module, compatibleWith: nil)!
   public static let `truck`: UIImage = UIImage(named: "truck", in: Bundle.module, compatibleWith: nil)!
   public static let `turtle`: UIImage = UIImage(named: "turtle", in: Bundle.module, compatibleWith: nil)!
-  public static let `tv2`: UIImage = UIImage(named: "tv-2", in: Bundle.module, compatibleWith: nil)!
+  public static let `tvMinimalPlay`: UIImage = UIImage(named: "tv-minimal-play", in: Bundle.module, compatibleWith: nil)!
+  public static let `tvMinimal`: UIImage = UIImage(named: "tv-minimal", in: Bundle.module, compatibleWith: nil)!
   public static let `tv`: UIImage = UIImage(named: "tv", in: Bundle.module, compatibleWith: nil)!
   public static let `twitch`: UIImage = UIImage(named: "twitch", in: Bundle.module, compatibleWith: nil)!
   public static let `twitter`: UIImage = UIImage(named: "twitter", in: Bundle.module, compatibleWith: nil)!
