@@ -991,9 +991,11 @@ extension Lucide {
   public static let `pawPrint`: NSImage = Bundle.module.image(forResource: "paw-print")!
   public static let `pcCase`: NSImage = Bundle.module.image(forResource: "pc-case")!
   public static let `penLine`: NSImage = Bundle.module.image(forResource: "pen-line")!
+  public static let `penOff`: NSImage = Bundle.module.image(forResource: "pen-off")!
   public static let `penTool`: NSImage = Bundle.module.image(forResource: "pen-tool")!
   public static let `pen`: NSImage = Bundle.module.image(forResource: "pen")!
   public static let `pencilLine`: NSImage = Bundle.module.image(forResource: "pencil-line")!
+  public static let `pencilOff`: NSImage = Bundle.module.image(forResource: "pencil-off")!
   public static let `pencilRuler`: NSImage = Bundle.module.image(forResource: "pencil-ruler")!
   public static let `pencil`: NSImage = Bundle.module.image(forResource: "pencil")!
   public static let `pentagon`: NSImage = Bundle.module.image(forResource: "pentagon")!

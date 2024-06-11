@@ -991,9 +991,11 @@ extension Lucide {
   public static let `pawPrint`: UIImage = UIImage(named: "paw-print", in: Bundle.module, compatibleWith: nil)!
   public static let `pcCase`: UIImage = UIImage(named: "pc-case", in: Bundle.module, compatibleWith: nil)!
   public static let `penLine`: UIImage = UIImage(named: "pen-line", in: Bundle.module, compatibleWith: nil)!
+  public static let `penOff`: UIImage = UIImage(named: "pen-off", in: Bundle.module, compatibleWith: nil)!
   public static let `penTool`: UIImage = UIImage(named: "pen-tool", in: Bundle.module, compatibleWith: nil)!
   public static let `pen`: UIImage = UIImage(named: "pen", in: Bundle.module, compatibleWith: nil)!
   public static let `pencilLine`: UIImage = UIImage(named: "pencil-line", in: Bundle.module, compatibleWith: nil)!
+  public static let `pencilOff`: UIImage = UIImage(named: "pencil-off", in: Bundle.module, compatibleWith: nil)!
   public static let `pencilRuler`: UIImage = UIImage(named: "pencil-ruler", in: Bundle.module, compatibleWith: nil)!
   public static let `pencil`: UIImage = UIImage(named: "pencil", in: Bundle.module, compatibleWith: nil)!
   public static let `pentagon`: UIImage = UIImage(named: "pentagon", in: Bundle.module, compatibleWith: nil)!
