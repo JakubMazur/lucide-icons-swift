@@ -8,8 +8,8 @@ public struct Lucide {
 #if canImport(UIKit)
 import UIKit
 public extension UIImage {
-	public convenience init?(lucideId: String) {
-		self.init(named: "a-arrow-down", in: Bundle.module, compatibleWith: nil)
+	convenience init?(lucideId: String) {
+		self.init(named: lucideId, in: Bundle.module, compatibleWith: nil)
 	}
 }
 #endif
