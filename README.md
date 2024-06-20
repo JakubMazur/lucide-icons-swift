@@ -27,16 +27,38 @@ In your Swift files, import the package:
 import LucideIcons
 ```
 
-## Using Icons
+## Usage for iOS
 
-You can use the icons in your macOS or iOS applications as follows:
+For iOS, the `UIImage` extension provides a convenient initializer that loads images by their Lucide ID directly from the module's bundle:
+
 ```swift
-myImageView.image = Lucide.tada
+import UIKit
+
+let image: UIImage = Lucide.tada
+
+if let icon: UIImage? = .init(lucideId: "tada") {
+    // Use your icon
+}
 ```
 
-## Example
+## Usage for macOS
+
+For macOS, the NSImage extension offers a static function that fetches images by their Lucide ID from the module’s bundle:
 
 ```swift
+import AppKit
+
+let image: NSImage = Lucide.tada
+
+if let icon = NSImage.image(lucideId: "yourIconId") {
+    // Use your icon
+}
+```
+
+## Usage for SwiftUI
+
+```swift
+import SwiftUI
 import LucideIcons
 
 struct ContentView: View {
@@ -48,9 +70,21 @@ struct ContentView: View {
         }
     }
 }
-```
 
-Replace tada with any icon name you want to use. The icons are available as static properties on the Lucide class.
+struct ContentView: View {
+    var body: some View {
+        #if canImport(UIKit)
+        if let uiImage = UIImage(lucideId: "tada") {
+            Image(uiImage: uiImage)
+        }
+        #elseif canImport(AppKit)
+        if let nsImage = NSImage.image(lucideId: "tada") {
+            Image(nsImage: nsImage)
+        }
+        #endif
+    }
+}
+```
 
 ## Viewing All Icons
 
