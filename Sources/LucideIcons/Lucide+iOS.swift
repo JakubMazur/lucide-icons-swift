@@ -722,12 +722,14 @@ extension Lucide {
   public static let `hexagon`: UIImage = UIImage(named: "hexagon", in: Bundle.module, compatibleWith: nil)!
   public static let `highlighter`: UIImage = UIImage(named: "highlighter", in: Bundle.module, compatibleWith: nil)!
   public static let `history`: UIImage = UIImage(named: "history", in: Bundle.module, compatibleWith: nil)!
-  public static let `home`: UIImage = UIImage(named: "home", in: Bundle.module, compatibleWith: nil)!
   public static let `hopOff`: UIImage = UIImage(named: "hop-off", in: Bundle.module, compatibleWith: nil)!
   public static let `hop`: UIImage = UIImage(named: "hop", in: Bundle.module, compatibleWith: nil)!
   public static let `hospital`: UIImage = UIImage(named: "hospital", in: Bundle.module, compatibleWith: nil)!
   public static let `hotel`: UIImage = UIImage(named: "hotel", in: Bundle.module, compatibleWith: nil)!
   public static let `hourglass`: UIImage = UIImage(named: "hourglass", in: Bundle.module, compatibleWith: nil)!
+  public static let `housePlug`: UIImage = UIImage(named: "house-plug", in: Bundle.module, compatibleWith: nil)!
+  public static let `housePlus`: UIImage = UIImage(named: "house-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `house`: UIImage = UIImage(named: "house", in: Bundle.module, compatibleWith: nil)!
   public static let `iceCreamBowl`: UIImage = UIImage(named: "ice-cream-bowl", in: Bundle.module, compatibleWith: nil)!
   public static let `iceCreamCone`: UIImage = UIImage(named: "ice-cream-cone", in: Bundle.module, compatibleWith: nil)!
   public static let `imageDown`: UIImage = UIImage(named: "image-down", in: Bundle.module, compatibleWith: nil)!

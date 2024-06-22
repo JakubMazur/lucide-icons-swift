@@ -722,12 +722,14 @@ extension Lucide {
   public static let `hexagon`: NSImage = Bundle.module.image(forResource: "hexagon")!
   public static let `highlighter`: NSImage = Bundle.module.image(forResource: "highlighter")!
   public static let `history`: NSImage = Bundle.module.image(forResource: "history")!
-  public static let `home`: NSImage = Bundle.module.image(forResource: "home")!
   public static let `hopOff`: NSImage = Bundle.module.image(forResource: "hop-off")!
   public static let `hop`: NSImage = Bundle.module.image(forResource: "hop")!
   public static let `hospital`: NSImage = Bundle.module.image(forResource: "hospital")!
   public static let `hotel`: NSImage = Bundle.module.image(forResource: "hotel")!
   public static let `hourglass`: NSImage = Bundle.module.image(forResource: "hourglass")!
+  public static let `housePlug`: NSImage = Bundle.module.image(forResource: "house-plug")!
+  public static let `housePlus`: NSImage = Bundle.module.image(forResource: "house-plus")!
+  public static let `house`: NSImage = Bundle.module.image(forResource: "house")!
   public static let `iceCreamBowl`: NSImage = Bundle.module.image(forResource: "ice-cream-bowl")!
   public static let `iceCreamCone`: NSImage = Bundle.module.image(forResource: "ice-cream-cone")!
   public static let `imageDown`: NSImage = Bundle.module.image(forResource: "image-down")!
