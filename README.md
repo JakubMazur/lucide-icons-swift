@@ -1,4 +1,5 @@
-[![Auto-update Lucide Icons and Generate Swift Files](https://github.com/JakubMazur/lucide-icons-swift/actions/workflows/main.yml/badge.svg)](https://github.com/JakubMazur/lucide-icons-swift/actions/workflows/main.yml)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FJakubMazur%2Flucide-icons-swift%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/JakubMazur/lucide-icons-swift)
+[![Auto-update Lucide Icons](https://github.com/JakubMazur/lucide-icons-swift/actions/workflows/main.yml/badge.svg)](https://github.com/JakubMazur/lucide-icons-swift/actions/workflows/main.yml)
 
 # Lucide Icons for Swift Package Manager
 
