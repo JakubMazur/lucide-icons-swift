@@ -1,4 +1,4 @@
-name: Auto-update Lucide Icons and Generate Swift Files
+name: Auto-update Lucide Icons
 
 on:
   schedule:
