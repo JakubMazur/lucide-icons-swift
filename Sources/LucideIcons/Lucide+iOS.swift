@@ -1189,6 +1189,7 @@ extension Lucide {
   public static let `signalMedium`: UIImage = UIImage(named: "signal-medium", in: Bundle.module, compatibleWith: nil)!
   public static let `signalZero`: UIImage = UIImage(named: "signal-zero", in: Bundle.module, compatibleWith: nil)!
   public static let `signal`: UIImage = UIImage(named: "signal", in: Bundle.module, compatibleWith: nil)!
+  public static let `signature`: UIImage = UIImage(named: "signature", in: Bundle.module, compatibleWith: nil)!
   public static let `signpostBig`: UIImage = UIImage(named: "signpost-big", in: Bundle.module, compatibleWith: nil)!
   public static let `signpost`: UIImage = UIImage(named: "signpost", in: Bundle.module, compatibleWith: nil)!
   public static let `siren`: UIImage = UIImage(named: "siren", in: Bundle.module, compatibleWith: nil)!

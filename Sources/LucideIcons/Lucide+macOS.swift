@@ -1189,6 +1189,7 @@ extension Lucide {
   public static let `signalMedium`: NSImage = Bundle.module.image(forResource: "signal-medium")!
   public static let `signalZero`: NSImage = Bundle.module.image(forResource: "signal-zero")!
   public static let `signal`: NSImage = Bundle.module.image(forResource: "signal")!
+  public static let `signature`: NSImage = Bundle.module.image(forResource: "signature")!
   public static let `signpostBig`: NSImage = Bundle.module.image(forResource: "signpost-big")!
   public static let `signpost`: NSImage = Bundle.module.image(forResource: "signpost")!
   public static let `siren`: NSImage = Bundle.module.image(forResource: "siren")!
