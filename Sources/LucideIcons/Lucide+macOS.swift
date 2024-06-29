@@ -825,6 +825,7 @@ extension Lucide {
   public static let `lock`: NSImage = Bundle.module.image(forResource: "lock")!
   public static let `logIn`: NSImage = Bundle.module.image(forResource: "log-in")!
   public static let `logOut`: NSImage = Bundle.module.image(forResource: "log-out")!
+  public static let `logs`: NSImage = Bundle.module.image(forResource: "logs")!
   public static let `lollipop`: NSImage = Bundle.module.image(forResource: "lollipop")!
   public static let `luggage`: NSImage = Bundle.module.image(forResource: "luggage")!
   public static let `magnet`: NSImage = Bundle.module.image(forResource: "magnet")!
@@ -1120,6 +1121,7 @@ extension Lucide {
   public static let `satelliteDish`: NSImage = Bundle.module.image(forResource: "satellite-dish")!
   public static let `satellite`: NSImage = Bundle.module.image(forResource: "satellite")!
   public static let `saveAll`: NSImage = Bundle.module.image(forResource: "save-all")!
+  public static let `saveOff`: NSImage = Bundle.module.image(forResource: "save-off")!
   public static let `save`: NSImage = Bundle.module.image(forResource: "save")!
   public static let `scale3d`: NSImage = Bundle.module.image(forResource: "scale-3d")!
   public static let `scale`: NSImage = Bundle.module.image(forResource: "scale")!

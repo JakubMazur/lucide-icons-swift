@@ -825,6 +825,7 @@ extension Lucide {
   public static let `lock`: UIImage = UIImage(named: "lock", in: Bundle.module, compatibleWith: nil)!
   public static let `logIn`: UIImage = UIImage(named: "log-in", in: Bundle.module, compatibleWith: nil)!
   public static let `logOut`: UIImage = UIImage(named: "log-out", in: Bundle.module, compatibleWith: nil)!
+  public static let `logs`: UIImage = UIImage(named: "logs", in: Bundle.module, compatibleWith: nil)!
   public static let `lollipop`: UIImage = UIImage(named: "lollipop", in: Bundle.module, compatibleWith: nil)!
   public static let `luggage`: UIImage = UIImage(named: "luggage", in: Bundle.module, compatibleWith: nil)!
   public static let `magnet`: UIImage = UIImage(named: "magnet", in: Bundle.module, compatibleWith: nil)!
@@ -1120,6 +1121,7 @@ extension Lucide {
   public static let `satelliteDish`: UIImage = UIImage(named: "satellite-dish", in: Bundle.module, compatibleWith: nil)!
   public static let `satellite`: UIImage = UIImage(named: "satellite", in: Bundle.module, compatibleWith: nil)!
   public static let `saveAll`: UIImage = UIImage(named: "save-all", in: Bundle.module, compatibleWith: nil)!
+  public static let `saveOff`: UIImage = UIImage(named: "save-off", in: Bundle.module, compatibleWith: nil)!
   public static let `save`: UIImage = UIImage(named: "save", in: Bundle.module, compatibleWith: nil)!
   public static let `scale3d`: UIImage = UIImage(named: "scale-3d", in: Bundle.module, compatibleWith: nil)!
   public static let `scale`: UIImage = UIImage(named: "scale", in: Bundle.module, compatibleWith: nil)!
