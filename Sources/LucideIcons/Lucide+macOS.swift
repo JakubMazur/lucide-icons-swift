@@ -1047,6 +1047,7 @@ extension Lucide {
   public static let `powerOff`: NSImage = Bundle.module.image(forResource: "power-off")!
   public static let `power`: NSImage = Bundle.module.image(forResource: "power")!
   public static let `presentation`: NSImage = Bundle.module.image(forResource: "presentation")!
+  public static let `printerCheck`: NSImage = Bundle.module.image(forResource: "printer-check")!
   public static let `printer`: NSImage = Bundle.module.image(forResource: "printer")!
   public static let `projector`: NSImage = Bundle.module.image(forResource: "projector")!
   public static let `proportions`: NSImage = Bundle.module.image(forResource: "proportions")!

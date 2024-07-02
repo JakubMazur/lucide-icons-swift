@@ -1047,6 +1047,7 @@ extension Lucide {
   public static let `powerOff`: UIImage = UIImage(named: "power-off", in: Bundle.module, compatibleWith: nil)!
   public static let `power`: UIImage = UIImage(named: "power", in: Bundle.module, compatibleWith: nil)!
   public static let `presentation`: UIImage = UIImage(named: "presentation", in: Bundle.module, compatibleWith: nil)!
+  public static let `printerCheck`: UIImage = UIImage(named: "printer-check", in: Bundle.module, compatibleWith: nil)!
   public static let `printer`: UIImage = UIImage(named: "printer", in: Bundle.module, compatibleWith: nil)!
   public static let `projector`: UIImage = UIImage(named: "projector", in: Bundle.module, compatibleWith: nil)!
   public static let `proportions`: UIImage = UIImage(named: "proportions", in: Bundle.module, compatibleWith: nil)!
