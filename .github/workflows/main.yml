@@ -32,7 +32,24 @@ jobs:
           echo $LATEST_RELEASE > .previous_release
           git add .previous_release
 
-      - name: Process SVG files into Xcode asset catalog
+      - name: Install dependencies
+        if: env.LATEST_RELEASE != env.PREVIOUS_RELEASE
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-pip
+          pip3 install cairosvg
+  
+      - name: Convert SVG files to PDFs
+        if: env.LATEST_RELEASE != env.PREVIOUS_RELEASE
+        run: |
+          EXTRACTED_DIR="lucide-$LATEST_RELEASE/icons"
+          for svg in $EXTRACTED_DIR/*.svg; do
+            pdf="${svg%.svg}.pdf"
+            cairosvg "$svg" -o "$pdf"
+          done
+          git add $EXTRACTED_DIR/*.pdf
+  
+      - name: Process SVG and PDF files into Xcode asset catalog
         if: env.LATEST_RELEASE != env.PREVIOUS_RELEASE
         run: |
           EXTRACTED_DIR="lucide-$LATEST_RELEASE/icons"
@@ -42,11 +59,15 @@ jobs:
             svg_name=$(basename "$svg" .svg)
             mkdir -p "Sources/LucideIcons/icons.xcassets/${svg_name}.imageset"
             cp "$svg" "Sources/LucideIcons/icons.xcassets/${svg_name}.imageset/"
+            pdf="${svg%.svg}.pdf"
+            if [ -f "$pdf" ]; then
+              cp "$pdf" "Sources/LucideIcons/icons.xcassets/${svg_name}.imageset/"
+            fi
             cat <<EOF > "Sources/LucideIcons/icons.xcassets/${svg_name}.imageset/Contents.json"
-           {
+            {
               "images" : [
                 {
-                  "filename" : "$svg_name.svg",
+                  "filename" : "$svg_name.pdf",
                   "idiom" : "universal"
                 }
               ],
