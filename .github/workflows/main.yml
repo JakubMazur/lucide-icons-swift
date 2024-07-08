@@ -94,12 +94,23 @@ jobs:
           generate_swift_file "macOS" "AppKit" "NSImage" "Bundle.module.image"
           generate_swift_file "iOS" "UIKit" "UIImage" "UIImage"
 
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes detected"
+            echo "changes_detected=false" >> $GITHUB_ENV
+          else
+            echo "Changes detected"
+            echo "changes_detected=true" >> $GITHUB_ENV
+
       - name: Cleanup
         run: |
           rm lucide.zip
           rm -rf lucide-$LATEST_RELEASE
         
       - name: Create tag and release
+        if: env.changes_detected == 'true'
         run: |
           # Fetch all tags
           git fetch --tags
