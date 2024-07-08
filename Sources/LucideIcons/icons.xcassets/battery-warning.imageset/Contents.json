@@ -1,7 +1,7 @@
- {
+  {
     "images" : [
       {
-        "filename" : "battery-warning.svg",
+        "filename" : "battery-warning.pdf",
         "idiom" : "universal"
       }
     ],

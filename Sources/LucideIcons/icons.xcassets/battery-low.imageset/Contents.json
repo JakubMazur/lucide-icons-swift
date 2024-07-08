@@ -1,7 +1,7 @@
- {
+  {
     "images" : [
       {
-        "filename" : "battery-low.svg",
+        "filename" : "battery-low.pdf",
         "idiom" : "universal"
       }
     ],
