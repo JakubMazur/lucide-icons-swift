@@ -33,7 +33,6 @@ jobs:
           git add .previous_release
 
       - name: Process SVG files into Xcode asset catalog
-        if: env.LATEST_RELEASE != env.PREVIOUS_RELEASE
         run: |
           EXTRACTED_DIR="lucide-$LATEST_RELEASE/icons"
           rm -rf Sources/LucideIcons/icons.xcassets
@@ -63,7 +62,6 @@ jobs:
           git add Sources/LucideIcons/icons.xcassets
 
       - name: Generate Swift files
-        if: env.LATEST_RELEASE != env.PREVIOUS_RELEASE
         run: |
           generate_swift_file() {
             PLATFORM=$1
@@ -97,28 +95,7 @@ jobs:
           generate_swift_file "macOS" "AppKit" "NSImage" "Bundle.module.image"
           generate_swift_file "iOS" "UIKit" "UIImage" "UIImage"
 
-      - name: Create tag and release
-        if: env.LATEST_RELEASE != env.PREVIOUS_RELEASE
-        run: |
-          TAG_NAME=$LATEST_RELEASE
-          git tag $TAG_NAME
-          git push origin $TAG_NAME
-          curl -s -X POST https://api.github.com/repos/${{ github.repository }}/releases \
-          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          -d @- <<EOF
-          {
-            "tag_name": "$TAG_NAME",
-            "target_commitish": "main",
-            "name": "$TAG_NAME",
-            "body": "Release for $TAG_NAME",
-            "draft": false,
-            "prerelease": false,
-            "make_latest": "true"
-          }
-          EOF
-
       - name: Cleanup
-        if: env.LATEST_RELEASE != env.PREVIOUS_RELEASE
         run: |
           rm lucide.zip
           rm -rf lucide-$LATEST_RELEASE
@@ -133,3 +110,46 @@ jobs:
             git commit -m "$LATEST_RELEASE"
             git push origin HEAD:main
           fi
+
+          - name: Create tag and release
+          run: |
+            # Check if the latest release tag already exists
+            EXISTING_TAG=$(git tag -l "$LATEST_RELEASE")
+          
+            if [ -n "$EXISTING_TAG" ]; then
+              # Get the latest tag from the repository
+              LATEST_TAG=$(git describe --tags $(git rev-list --tags --max-count=1))
+          
+              # Extract the major, minor, and patch components from the latest tag
+              IFS='.' read -r MAJOR MINOR PATCH <<< "${LATEST_TAG//v}"
+          
+              # Increase the patch component by one
+              PATCH=$((PATCH + 1))
+          
+              # Form the new tag
+              TAG_NAME="v$MAJOR.$MINOR.$PATCH"
+              else
+              # Use the latest release tag as the new tag name
+              TAG_NAME=$LATEST_RELEASE
+            fi
+          
+            echo "Using tag: $TAG_NAME"
+          
+            # Create a new tag and push it to the repository
+            git tag $TAG_NAME
+            git push origin $TAG_NAME
+          
+            # Create a new release with the new tag
+            curl -s -X POST https://api.github.com/repos/${{ github.repository }}/releases \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -d @- <<EOF
+            {
+              "tag_name": "$TAG_NAME",
+              "target_commitish": "main",
+              "name": "$TAG_NAME",
+              "body": "Release for $TAG_NAME",
+              "draft": false,
+              "prerelease": false,
+              "make_latest": "true"
+            }
+            EOF
