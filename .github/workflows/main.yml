@@ -47,39 +47,38 @@ jobs:
             pdf="${svg%.svg}.pdf"
             cairosvg "$svg" -o "$pdf"
           done
-          git add $EXTRACTED_DIR/*.pdf
   
       - name: Process SVG and PDF files into Xcode asset catalog
         if: env.LATEST_RELEASE != env.PREVIOUS_RELEASE
         run: |
           EXTRACTED_DIR="lucide-$LATEST_RELEASE/icons"
           rm -rf Sources/LucideIcons/icons.xcassets
-          mkdir Sources/LucideIcons/icons.xcassets
+          mkdir -p Sources/LucideIcons/icons.xcassets
           for svg in $EXTRACTED_DIR/*.svg; do
             svg_name=$(basename "$svg" .svg)
             mkdir -p "Sources/LucideIcons/icons.xcassets/${svg_name}.imageset"
-            cp "$svg" "Sources/LucideIcons/icons.xcassets/${svg_name}.imageset/"
             pdf="${svg%.svg}.pdf"
+            cairosvg "$svg" -o "$pdf"
             if [ -f "$pdf" ]; then
               cp "$pdf" "Sources/LucideIcons/icons.xcassets/${svg_name}.imageset/"
-            fi
-            cat <<EOF > "Sources/LucideIcons/icons.xcassets/${svg_name}.imageset/Contents.json"
-            {
-              "images" : [
-                {
-                  "filename" : "$svg_name.pdf",
-                  "idiom" : "universal"
-                }
-              ],
-              "info" : {
-                "author" : "xcode",
-                "version" : 1
-              },
-              "properties" : {
-                "preserves-vector-representation" : true
+              cat <<EOF > "Sources/LucideIcons/icons.xcassets/${svg_name}.imageset/Contents.json"
+          {
+            "images" : [
+              {
+                "filename" : "$svg_name.pdf",
+                "idiom" : "universal"
               }
+            ],
+            "info" : {
+              "author" : "xcode",
+              "version" : 1
+            },
+            "properties" : {
+              "preserves-vector-representation" : true
             }
+          }
           EOF
+            fi
           done
           git add Sources/LucideIcons/icons.xcassets
 
