@@ -1131,6 +1131,7 @@ extension Lucide {
   public static let `scanEye`: UIImage = UIImage(named: "scan-eye", in: Bundle.module, compatibleWith: nil)!
   public static let `scanFace`: UIImage = UIImage(named: "scan-face", in: Bundle.module, compatibleWith: nil)!
   public static let `scanLine`: UIImage = UIImage(named: "scan-line", in: Bundle.module, compatibleWith: nil)!
+  public static let `scanQrCode`: UIImage = UIImage(named: "scan-qr-code", in: Bundle.module, compatibleWith: nil)!
   public static let `scanSearch`: UIImage = UIImage(named: "scan-search", in: Bundle.module, compatibleWith: nil)!
   public static let `scanText`: UIImage = UIImage(named: "scan-text", in: Bundle.module, compatibleWith: nil)!
   public static let `scan`: UIImage = UIImage(named: "scan", in: Bundle.module, compatibleWith: nil)!

@@ -1131,6 +1131,7 @@ extension Lucide {
   public static let `scanEye`: NSImage = Bundle.module.image(forResource: "scan-eye")!
   public static let `scanFace`: NSImage = Bundle.module.image(forResource: "scan-face")!
   public static let `scanLine`: NSImage = Bundle.module.image(forResource: "scan-line")!
+  public static let `scanQrCode`: NSImage = Bundle.module.image(forResource: "scan-qr-code")!
   public static let `scanSearch`: NSImage = Bundle.module.image(forResource: "scan-search")!
   public static let `scanText`: NSImage = Bundle.module.image(forResource: "scan-text")!
   public static let `scan`: NSImage = Bundle.module.image(forResource: "scan")!
