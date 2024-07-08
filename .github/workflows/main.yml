@@ -103,6 +103,7 @@ jobs:
           else
             echo "Changes detected"
             echo "changes_detected=true" >> $GITHUB_ENV
+          fi
 
       - name: Cleanup
         run: |
