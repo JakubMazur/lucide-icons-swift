@@ -1465,7 +1465,10 @@ extension Lucide {
   public static let `wheatOff`: NSImage = Bundle.module.image(forResource: "wheat-off")!
   public static let `wheat`: NSImage = Bundle.module.image(forResource: "wheat")!
   public static let `wholeWord`: NSImage = Bundle.module.image(forResource: "whole-word")!
+  public static let `wifiHigh`: NSImage = Bundle.module.image(forResource: "wifi-high")!
+  public static let `wifiLow`: NSImage = Bundle.module.image(forResource: "wifi-low")!
   public static let `wifiOff`: NSImage = Bundle.module.image(forResource: "wifi-off")!
+  public static let `wifiZero`: NSImage = Bundle.module.image(forResource: "wifi-zero")!
   public static let `wifi`: NSImage = Bundle.module.image(forResource: "wifi")!
   public static let `wind`: NSImage = Bundle.module.image(forResource: "wind")!
   public static let `wineOff`: NSImage = Bundle.module.image(forResource: "wine-off")!
