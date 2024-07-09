@@ -798,6 +798,7 @@ extension Lucide {
   public static let `link2`: NSImage = Bundle.module.image(forResource: "link-2")!
   public static let `link`: NSImage = Bundle.module.image(forResource: "link")!
   public static let `linkedin`: NSImage = Bundle.module.image(forResource: "linkedin")!
+  public static let `listCheck`: NSImage = Bundle.module.image(forResource: "list-check")!
   public static let `listChecks`: NSImage = Bundle.module.image(forResource: "list-checks")!
   public static let `listCollapse`: NSImage = Bundle.module.image(forResource: "list-collapse")!
   public static let `listEnd`: NSImage = Bundle.module.image(forResource: "list-end")!

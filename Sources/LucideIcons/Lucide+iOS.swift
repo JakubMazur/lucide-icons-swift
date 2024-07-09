@@ -798,6 +798,7 @@ extension Lucide {
   public static let `link2`: UIImage = UIImage(named: "link-2", in: Bundle.module, compatibleWith: nil)!
   public static let `link`: UIImage = UIImage(named: "link", in: Bundle.module, compatibleWith: nil)!
   public static let `linkedin`: UIImage = UIImage(named: "linkedin", in: Bundle.module, compatibleWith: nil)!
+  public static let `listCheck`: UIImage = UIImage(named: "list-check", in: Bundle.module, compatibleWith: nil)!
   public static let `listChecks`: UIImage = UIImage(named: "list-checks", in: Bundle.module, compatibleWith: nil)!
   public static let `listCollapse`: UIImage = UIImage(named: "list-collapse", in: Bundle.module, compatibleWith: nil)!
   public static let `listEnd`: UIImage = UIImage(named: "list-end", in: Bundle.module, compatibleWith: nil)!
