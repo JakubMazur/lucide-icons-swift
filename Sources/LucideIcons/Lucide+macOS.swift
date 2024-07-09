@@ -607,6 +607,7 @@ extension Lucide {
   public static let `folderCheck`: NSImage = Bundle.module.image(forResource: "folder-check")!
   public static let `folderClock`: NSImage = Bundle.module.image(forResource: "folder-clock")!
   public static let `folderClosed`: NSImage = Bundle.module.image(forResource: "folder-closed")!
+  public static let `folderCode`: NSImage = Bundle.module.image(forResource: "folder-code")!
   public static let `folderCog`: NSImage = Bundle.module.image(forResource: "folder-cog")!
   public static let `folderDot`: NSImage = Bundle.module.image(forResource: "folder-dot")!
   public static let `folderDown`: NSImage = Bundle.module.image(forResource: "folder-down")!
