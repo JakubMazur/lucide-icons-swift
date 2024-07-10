@@ -248,6 +248,8 @@ extension Lucide {
   public static let `cakeSlice`: NSImage = Bundle.module.image(forResource: "cake-slice")!
   public static let `cake`: NSImage = Bundle.module.image(forResource: "cake")!
   public static let `calculator`: NSImage = Bundle.module.image(forResource: "calculator")!
+  public static let `calendarArrowDown`: NSImage = Bundle.module.image(forResource: "calendar-arrow-down")!
+  public static let `calendarArrowUp`: NSImage = Bundle.module.image(forResource: "calendar-arrow-up")!
   public static let `calendarCheck2`: NSImage = Bundle.module.image(forResource: "calendar-check-2")!
   public static let `calendarCheck`: NSImage = Bundle.module.image(forResource: "calendar-check")!
   public static let `calendarClock`: NSImage = Bundle.module.image(forResource: "calendar-clock")!
@@ -376,6 +378,8 @@ extension Lucide {
   public static let `clock7`: NSImage = Bundle.module.image(forResource: "clock-7")!
   public static let `clock8`: NSImage = Bundle.module.image(forResource: "clock-8")!
   public static let `clock9`: NSImage = Bundle.module.image(forResource: "clock-9")!
+  public static let `clockArrowDown`: NSImage = Bundle.module.image(forResource: "clock-arrow-down")!
+  public static let `clockArrowUp`: NSImage = Bundle.module.image(forResource: "clock-arrow-up")!
   public static let `clock`: NSImage = Bundle.module.image(forResource: "clock")!
   public static let `cloudCog`: NSImage = Bundle.module.image(forResource: "cloud-cog")!
   public static let `cloudDownload`: NSImage = Bundle.module.image(forResource: "cloud-download")!
@@ -1398,6 +1402,7 @@ extension Lucide {
   public static let `tv`: NSImage = Bundle.module.image(forResource: "tv")!
   public static let `twitch`: NSImage = Bundle.module.image(forResource: "twitch")!
   public static let `twitter`: NSImage = Bundle.module.image(forResource: "twitter")!
+  public static let `typeOutline`: NSImage = Bundle.module.image(forResource: "type-outline")!
   public static let `type`: NSImage = Bundle.module.image(forResource: "type")!
   public static let `umbrellaOff`: NSImage = Bundle.module.image(forResource: "umbrella-off")!
   public static let `umbrella`: NSImage = Bundle.module.image(forResource: "umbrella")!
@@ -1417,10 +1422,12 @@ extension Lucide {
   public static let `userCheck`: NSImage = Bundle.module.image(forResource: "user-check")!
   public static let `userCog`: NSImage = Bundle.module.image(forResource: "user-cog")!
   public static let `userMinus`: NSImage = Bundle.module.image(forResource: "user-minus")!
+  public static let `userPen`: NSImage = Bundle.module.image(forResource: "user-pen")!
   public static let `userPlus`: NSImage = Bundle.module.image(forResource: "user-plus")!
   public static let `userRoundCheck`: NSImage = Bundle.module.image(forResource: "user-round-check")!
   public static let `userRoundCog`: NSImage = Bundle.module.image(forResource: "user-round-cog")!
   public static let `userRoundMinus`: NSImage = Bundle.module.image(forResource: "user-round-minus")!
+  public static let `userRoundPen`: NSImage = Bundle.module.image(forResource: "user-round-pen")!
   public static let `userRoundPlus`: NSImage = Bundle.module.image(forResource: "user-round-plus")!
   public static let `userRoundSearch`: NSImage = Bundle.module.image(forResource: "user-round-search")!
   public static let `userRoundX`: NSImage = Bundle.module.image(forResource: "user-round-x")!

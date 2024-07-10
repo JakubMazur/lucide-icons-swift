@@ -248,6 +248,8 @@ extension Lucide {
   public static let `cakeSlice`: UIImage = UIImage(named: "cake-slice", in: Bundle.module, compatibleWith: nil)!
   public static let `cake`: UIImage = UIImage(named: "cake", in: Bundle.module, compatibleWith: nil)!
   public static let `calculator`: UIImage = UIImage(named: "calculator", in: Bundle.module, compatibleWith: nil)!
+  public static let `calendarArrowDown`: UIImage = UIImage(named: "calendar-arrow-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `calendarArrowUp`: UIImage = UIImage(named: "calendar-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarCheck2`: UIImage = UIImage(named: "calendar-check-2", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarCheck`: UIImage = UIImage(named: "calendar-check", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarClock`: UIImage = UIImage(named: "calendar-clock", in: Bundle.module, compatibleWith: nil)!
@@ -376,6 +378,8 @@ extension Lucide {
   public static let `clock7`: UIImage = UIImage(named: "clock-7", in: Bundle.module, compatibleWith: nil)!
   public static let `clock8`: UIImage = UIImage(named: "clock-8", in: Bundle.module, compatibleWith: nil)!
   public static let `clock9`: UIImage = UIImage(named: "clock-9", in: Bundle.module, compatibleWith: nil)!
+  public static let `clockArrowDown`: UIImage = UIImage(named: "clock-arrow-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `clockArrowUp`: UIImage = UIImage(named: "clock-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `clock`: UIImage = UIImage(named: "clock", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudCog`: UIImage = UIImage(named: "cloud-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudDownload`: UIImage = UIImage(named: "cloud-download", in: Bundle.module, compatibleWith: nil)!
@@ -1398,6 +1402,7 @@ extension Lucide {
   public static let `tv`: UIImage = UIImage(named: "tv", in: Bundle.module, compatibleWith: nil)!
   public static let `twitch`: UIImage = UIImage(named: "twitch", in: Bundle.module, compatibleWith: nil)!
   public static let `twitter`: UIImage = UIImage(named: "twitter", in: Bundle.module, compatibleWith: nil)!
+  public static let `typeOutline`: UIImage = UIImage(named: "type-outline", in: Bundle.module, compatibleWith: nil)!
   public static let `type`: UIImage = UIImage(named: "type", in: Bundle.module, compatibleWith: nil)!
   public static let `umbrellaOff`: UIImage = UIImage(named: "umbrella-off", in: Bundle.module, compatibleWith: nil)!
   public static let `umbrella`: UIImage = UIImage(named: "umbrella", in: Bundle.module, compatibleWith: nil)!
@@ -1417,10 +1422,12 @@ extension Lucide {
   public static let `userCheck`: UIImage = UIImage(named: "user-check", in: Bundle.module, compatibleWith: nil)!
   public static let `userCog`: UIImage = UIImage(named: "user-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `userMinus`: UIImage = UIImage(named: "user-minus", in: Bundle.module, compatibleWith: nil)!
+  public static let `userPen`: UIImage = UIImage(named: "user-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `userPlus`: UIImage = UIImage(named: "user-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundCheck`: UIImage = UIImage(named: "user-round-check", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundCog`: UIImage = UIImage(named: "user-round-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundMinus`: UIImage = UIImage(named: "user-round-minus", in: Bundle.module, compatibleWith: nil)!
+  public static let `userRoundPen`: UIImage = UIImage(named: "user-round-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundPlus`: UIImage = UIImage(named: "user-round-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundSearch`: UIImage = UIImage(named: "user-round-search", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundX`: UIImage = UIImage(named: "user-round-x", in: Bundle.module, compatibleWith: nil)!
