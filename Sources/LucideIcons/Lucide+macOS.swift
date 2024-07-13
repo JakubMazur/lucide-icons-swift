@@ -899,6 +899,7 @@ extension Lucide {
   public static let `minimize`: NSImage = Bundle.module.image(forResource: "minimize")!
   public static let `minus`: NSImage = Bundle.module.image(forResource: "minus")!
   public static let `monitorCheck`: NSImage = Bundle.module.image(forResource: "monitor-check")!
+  public static let `monitorCog`: NSImage = Bundle.module.image(forResource: "monitor-cog")!
   public static let `monitorDot`: NSImage = Bundle.module.image(forResource: "monitor-dot")!
   public static let `monitorDown`: NSImage = Bundle.module.image(forResource: "monitor-down")!
   public static let `monitorOff`: NSImage = Bundle.module.image(forResource: "monitor-off")!
