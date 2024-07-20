@@ -1011,6 +1011,7 @@ extension Lucide {
   public static let `pentagon`: NSImage = Bundle.module.image(forResource: "pentagon")!
   public static let `percent`: NSImage = Bundle.module.image(forResource: "percent")!
   public static let `personStanding`: NSImage = Bundle.module.image(forResource: "person-standing")!
+  public static let `philippinePeso`: NSImage = Bundle.module.image(forResource: "philippine-peso")!
   public static let `phoneCall`: NSImage = Bundle.module.image(forResource: "phone-call")!
   public static let `phoneForwarded`: NSImage = Bundle.module.image(forResource: "phone-forwarded")!
   public static let `phoneIncoming`: NSImage = Bundle.module.image(forResource: "phone-incoming")!
@@ -1039,7 +1040,6 @@ extension Lucide {
   public static let `plane`: NSImage = Bundle.module.image(forResource: "plane")!
   public static let `play`: NSImage = Bundle.module.image(forResource: "play")!
   public static let `plug2`: NSImage = Bundle.module.image(forResource: "plug-2")!
-  public static let `plugZap2`: NSImage = Bundle.module.image(forResource: "plug-zap-2")!
   public static let `plugZap`: NSImage = Bundle.module.image(forResource: "plug-zap")!
   public static let `plug`: NSImage = Bundle.module.image(forResource: "plug")!
   public static let `plus`: NSImage = Bundle.module.image(forResource: "plus")!

@@ -1011,6 +1011,7 @@ extension Lucide {
   public static let `pentagon`: UIImage = UIImage(named: "pentagon", in: Bundle.module, compatibleWith: nil)!
   public static let `percent`: UIImage = UIImage(named: "percent", in: Bundle.module, compatibleWith: nil)!
   public static let `personStanding`: UIImage = UIImage(named: "person-standing", in: Bundle.module, compatibleWith: nil)!
+  public static let `philippinePeso`: UIImage = UIImage(named: "philippine-peso", in: Bundle.module, compatibleWith: nil)!
   public static let `phoneCall`: UIImage = UIImage(named: "phone-call", in: Bundle.module, compatibleWith: nil)!
   public static let `phoneForwarded`: UIImage = UIImage(named: "phone-forwarded", in: Bundle.module, compatibleWith: nil)!
   public static let `phoneIncoming`: UIImage = UIImage(named: "phone-incoming", in: Bundle.module, compatibleWith: nil)!
@@ -1039,7 +1040,6 @@ extension Lucide {
   public static let `plane`: UIImage = UIImage(named: "plane", in: Bundle.module, compatibleWith: nil)!
   public static let `play`: UIImage = UIImage(named: "play", in: Bundle.module, compatibleWith: nil)!
   public static let `plug2`: UIImage = UIImage(named: "plug-2", in: Bundle.module, compatibleWith: nil)!
-  public static let `plugZap2`: UIImage = UIImage(named: "plug-zap-2", in: Bundle.module, compatibleWith: nil)!
   public static let `plugZap`: UIImage = UIImage(named: "plug-zap", in: Bundle.module, compatibleWith: nil)!
   public static let `plug`: UIImage = UIImage(named: "plug", in: Bundle.module, compatibleWith: nil)!
   public static let `plus`: UIImage = UIImage(named: "plus", in: Bundle.module, compatibleWith: nil)!
