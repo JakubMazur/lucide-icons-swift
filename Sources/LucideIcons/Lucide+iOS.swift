@@ -792,6 +792,7 @@ extension Lucide {
   public static let `leaf`: UIImage = UIImage(named: "leaf", in: Bundle.module, compatibleWith: nil)!
   public static let `leafyGreen`: UIImage = UIImage(named: "leafy-green", in: Bundle.module, compatibleWith: nil)!
   public static let `lectern`: UIImage = UIImage(named: "lectern", in: Bundle.module, compatibleWith: nil)!
+  public static let `letterText`: UIImage = UIImage(named: "letter-text", in: Bundle.module, compatibleWith: nil)!
   public static let `libraryBig`: UIImage = UIImage(named: "library-big", in: Bundle.module, compatibleWith: nil)!
   public static let `library`: UIImage = UIImage(named: "library", in: Bundle.module, compatibleWith: nil)!
   public static let `lifeBuoy`: UIImage = UIImage(named: "life-buoy", in: Bundle.module, compatibleWith: nil)!

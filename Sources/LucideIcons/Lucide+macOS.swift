@@ -792,6 +792,7 @@ extension Lucide {
   public static let `leaf`: NSImage = Bundle.module.image(forResource: "leaf")!
   public static let `leafyGreen`: NSImage = Bundle.module.image(forResource: "leafy-green")!
   public static let `lectern`: NSImage = Bundle.module.image(forResource: "lectern")!
+  public static let `letterText`: NSImage = Bundle.module.image(forResource: "letter-text")!
   public static let `libraryBig`: NSImage = Bundle.module.image(forResource: "library-big")!
   public static let `library`: NSImage = Bundle.module.image(forResource: "library")!
   public static let `lifeBuoy`: NSImage = Bundle.module.image(forResource: "life-buoy")!
