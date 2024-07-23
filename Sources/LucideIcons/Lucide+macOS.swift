@@ -60,7 +60,6 @@ extension Lucide {
   public static let `archiveRestore`: NSImage = Bundle.module.image(forResource: "archive-restore")!
   public static let `archiveX`: NSImage = Bundle.module.image(forResource: "archive-x")!
   public static let `archive`: NSImage = Bundle.module.image(forResource: "archive")!
-  public static let `areaChart`: NSImage = Bundle.module.image(forResource: "area-chart")!
   public static let `armchair`: NSImage = Bundle.module.image(forResource: "armchair")!
   public static let `arrowBigDownDash`: NSImage = Bundle.module.image(forResource: "arrow-big-down-dash")!
   public static let `arrowBigDown`: NSImage = Bundle.module.image(forResource: "arrow-big-down")!
@@ -136,13 +135,6 @@ extension Lucide {
   public static let `ban`: NSImage = Bundle.module.image(forResource: "ban")!
   public static let `banana`: NSImage = Bundle.module.image(forResource: "banana")!
   public static let `banknote`: NSImage = Bundle.module.image(forResource: "banknote")!
-  public static let `barChart2`: NSImage = Bundle.module.image(forResource: "bar-chart-2")!
-  public static let `barChart3`: NSImage = Bundle.module.image(forResource: "bar-chart-3")!
-  public static let `barChart4`: NSImage = Bundle.module.image(forResource: "bar-chart-4")!
-  public static let `barChartBig`: NSImage = Bundle.module.image(forResource: "bar-chart-big")!
-  public static let `barChartHorizontalBig`: NSImage = Bundle.module.image(forResource: "bar-chart-horizontal-big")!
-  public static let `barChartHorizontal`: NSImage = Bundle.module.image(forResource: "bar-chart-horizontal")!
-  public static let `barChart`: NSImage = Bundle.module.image(forResource: "bar-chart")!
   public static let `barcode`: NSImage = Bundle.module.image(forResource: "barcode")!
   public static let `baseline`: NSImage = Bundle.module.image(forResource: "baseline")!
   public static let `bath`: NSImage = Bundle.module.image(forResource: "bath")!
@@ -269,7 +261,6 @@ extension Lucide {
   public static let `calendar`: NSImage = Bundle.module.image(forResource: "calendar")!
   public static let `cameraOff`: NSImage = Bundle.module.image(forResource: "camera-off")!
   public static let `camera`: NSImage = Bundle.module.image(forResource: "camera")!
-  public static let `candlestickChart`: NSImage = Bundle.module.image(forResource: "candlestick-chart")!
   public static let `candyCane`: NSImage = Bundle.module.image(forResource: "candy-cane")!
   public static let `candyOff`: NSImage = Bundle.module.image(forResource: "candy-off")!
   public static let `candy`: NSImage = Bundle.module.image(forResource: "candy")!
@@ -289,6 +280,28 @@ extension Lucide {
   public static let `castle`: NSImage = Bundle.module.image(forResource: "castle")!
   public static let `cat`: NSImage = Bundle.module.image(forResource: "cat")!
   public static let `cctv`: NSImage = Bundle.module.image(forResource: "cctv")!
+  public static let `chartArea`: NSImage = Bundle.module.image(forResource: "chart-area")!
+  public static let `chartBarBig`: NSImage = Bundle.module.image(forResource: "chart-bar-big")!
+  public static let `chartBarDecreasing`: NSImage = Bundle.module.image(forResource: "chart-bar-decreasing")!
+  public static let `chartBarIncreasing`: NSImage = Bundle.module.image(forResource: "chart-bar-increasing")!
+  public static let `chartBarStacked`: NSImage = Bundle.module.image(forResource: "chart-bar-stacked")!
+  public static let `chartBar`: NSImage = Bundle.module.image(forResource: "chart-bar")!
+  public static let `chartCandlestick`: NSImage = Bundle.module.image(forResource: "chart-candlestick")!
+  public static let `chartColumnBig`: NSImage = Bundle.module.image(forResource: "chart-column-big")!
+  public static let `chartColumnDecreasing`: NSImage = Bundle.module.image(forResource: "chart-column-decreasing")!
+  public static let `chartColumnIncreasing`: NSImage = Bundle.module.image(forResource: "chart-column-increasing")!
+  public static let `chartColumnStacked`: NSImage = Bundle.module.image(forResource: "chart-column-stacked")!
+  public static let `chartColumn`: NSImage = Bundle.module.image(forResource: "chart-column")!
+  public static let `chartLine`: NSImage = Bundle.module.image(forResource: "chart-line")!
+  public static let `chartNetwork`: NSImage = Bundle.module.image(forResource: "chart-network")!
+  public static let `chartNoAxesColumnDecreasing`: NSImage = Bundle.module.image(forResource: "chart-no-axes-column-decreasing")!
+  public static let `chartNoAxesColumnIncreasing`: NSImage = Bundle.module.image(forResource: "chart-no-axes-column-increasing")!
+  public static let `chartNoAxesColumn`: NSImage = Bundle.module.image(forResource: "chart-no-axes-column")!
+  public static let `chartNoAxesCombined`: NSImage = Bundle.module.image(forResource: "chart-no-axes-combined")!
+  public static let `chartNoAxesGantt`: NSImage = Bundle.module.image(forResource: "chart-no-axes-gantt")!
+  public static let `chartPie`: NSImage = Bundle.module.image(forResource: "chart-pie")!
+  public static let `chartScatter`: NSImage = Bundle.module.image(forResource: "chart-scatter")!
+  public static let `chartSpline`: NSImage = Bundle.module.image(forResource: "chart-spline")!
   public static let `checkCheck`: NSImage = Bundle.module.image(forResource: "check-check")!
   public static let `check`: NSImage = Bundle.module.image(forResource: "check")!
   public static let `chefHat`: NSImage = Bundle.module.image(forResource: "chef-hat")!
@@ -452,6 +465,7 @@ extension Lucide {
   public static let `cupSoda`: NSImage = Bundle.module.image(forResource: "cup-soda")!
   public static let `currency`: NSImage = Bundle.module.image(forResource: "currency")!
   public static let `cylinder`: NSImage = Bundle.module.image(forResource: "cylinder")!
+  public static let `dam`: NSImage = Bundle.module.image(forResource: "dam")!
   public static let `databaseBackup`: NSImage = Bundle.module.image(forResource: "database-backup")!
   public static let `databaseZap`: NSImage = Bundle.module.image(forResource: "database-zap")!
   public static let `database`: NSImage = Bundle.module.image(forResource: "database")!
@@ -526,9 +540,11 @@ extension Lucide {
   public static let `fileAxis3d`: NSImage = Bundle.module.image(forResource: "file-axis-3d")!
   public static let `fileBadge2`: NSImage = Bundle.module.image(forResource: "file-badge-2")!
   public static let `fileBadge`: NSImage = Bundle.module.image(forResource: "file-badge")!
-  public static let `fileBarChart2`: NSImage = Bundle.module.image(forResource: "file-bar-chart-2")!
-  public static let `fileBarChart`: NSImage = Bundle.module.image(forResource: "file-bar-chart")!
   public static let `fileBox`: NSImage = Bundle.module.image(forResource: "file-box")!
+  public static let `fileChartColumnIncreasing`: NSImage = Bundle.module.image(forResource: "file-chart-column-increasing")!
+  public static let `fileChartColumn`: NSImage = Bundle.module.image(forResource: "file-chart-column")!
+  public static let `fileChartLine`: NSImage = Bundle.module.image(forResource: "file-chart-line")!
+  public static let `fileChartPie`: NSImage = Bundle.module.image(forResource: "file-chart-pie")!
   public static let `fileCheck2`: NSImage = Bundle.module.image(forResource: "file-check-2")!
   public static let `fileCheck`: NSImage = Bundle.module.image(forResource: "file-check")!
   public static let `fileClock`: NSImage = Bundle.module.image(forResource: "file-clock")!
@@ -545,7 +561,6 @@ extension Lucide {
   public static let `fileJson`: NSImage = Bundle.module.image(forResource: "file-json")!
   public static let `fileKey2`: NSImage = Bundle.module.image(forResource: "file-key-2")!
   public static let `fileKey`: NSImage = Bundle.module.image(forResource: "file-key")!
-  public static let `fileLineChart`: NSImage = Bundle.module.image(forResource: "file-line-chart")!
   public static let `fileLock2`: NSImage = Bundle.module.image(forResource: "file-lock-2")!
   public static let `fileLock`: NSImage = Bundle.module.image(forResource: "file-lock")!
   public static let `fileMinus2`: NSImage = Bundle.module.image(forResource: "file-minus-2")!
@@ -554,7 +569,6 @@ extension Lucide {
   public static let `fileOutput`: NSImage = Bundle.module.image(forResource: "file-output")!
   public static let `filePenLine`: NSImage = Bundle.module.image(forResource: "file-pen-line")!
   public static let `filePen`: NSImage = Bundle.module.image(forResource: "file-pen")!
-  public static let `filePieChart`: NSImage = Bundle.module.image(forResource: "file-pie-chart")!
   public static let `filePlus2`: NSImage = Bundle.module.image(forResource: "file-plus-2")!
   public static let `filePlus`: NSImage = Bundle.module.image(forResource: "file-plus")!
   public static let `fileQuestion`: NSImage = Bundle.module.image(forResource: "file-question")!
@@ -653,7 +667,6 @@ extension Lucide {
   public static let `galleryVertical`: NSImage = Bundle.module.image(forResource: "gallery-vertical")!
   public static let `gamepad2`: NSImage = Bundle.module.image(forResource: "gamepad-2")!
   public static let `gamepad`: NSImage = Bundle.module.image(forResource: "gamepad")!
-  public static let `ganttChart`: NSImage = Bundle.module.image(forResource: "gantt-chart")!
   public static let `gauge`: NSImage = Bundle.module.image(forResource: "gauge")!
   public static let `gavel`: NSImage = Bundle.module.image(forResource: "gavel")!
   public static let `gem`: NSImage = Bundle.module.image(forResource: "gem")!
@@ -799,7 +812,6 @@ extension Lucide {
   public static let `ligature`: NSImage = Bundle.module.image(forResource: "ligature")!
   public static let `lightbulbOff`: NSImage = Bundle.module.image(forResource: "lightbulb-off")!
   public static let `lightbulb`: NSImage = Bundle.module.image(forResource: "lightbulb")!
-  public static let `lineChart`: NSImage = Bundle.module.image(forResource: "line-chart")!
   public static let `link2Off`: NSImage = Bundle.module.image(forResource: "link-2-off")!
   public static let `link2`: NSImage = Bundle.module.image(forResource: "link-2")!
   public static let `link`: NSImage = Bundle.module.image(forResource: "link")!
@@ -1025,7 +1037,6 @@ extension Lucide {
   public static let `pickaxe`: NSImage = Bundle.module.image(forResource: "pickaxe")!
   public static let `pictureInPicture2`: NSImage = Bundle.module.image(forResource: "picture-in-picture-2")!
   public static let `pictureInPicture`: NSImage = Bundle.module.image(forResource: "picture-in-picture")!
-  public static let `pieChart`: NSImage = Bundle.module.image(forResource: "pie-chart")!
   public static let `piggyBank`: NSImage = Bundle.module.image(forResource: "piggy-bank")!
   public static let `pilcrowLeft`: NSImage = Bundle.module.image(forResource: "pilcrow-left")!
   public static let `pilcrowRight`: NSImage = Bundle.module.image(forResource: "pilcrow-right")!
@@ -1143,7 +1154,6 @@ extension Lucide {
   public static let `scanSearch`: NSImage = Bundle.module.image(forResource: "scan-search")!
   public static let `scanText`: NSImage = Bundle.module.image(forResource: "scan-text")!
   public static let `scan`: NSImage = Bundle.module.image(forResource: "scan")!
-  public static let `scatterChart`: NSImage = Bundle.module.image(forResource: "scatter-chart")!
   public static let `school`: NSImage = Bundle.module.image(forResource: "school")!
   public static let `scissorsLineDashed`: NSImage = Bundle.module.image(forResource: "scissors-line-dashed")!
   public static let `scissors`: NSImage = Bundle.module.image(forResource: "scissors")!
@@ -1249,6 +1259,7 @@ extension Lucide {
   public static let `squareArrowUp`: NSImage = Bundle.module.image(forResource: "square-arrow-up")!
   public static let `squareAsterisk`: NSImage = Bundle.module.image(forResource: "square-asterisk")!
   public static let `squareBottomDashedScissors`: NSImage = Bundle.module.image(forResource: "square-bottom-dashed-scissors")!
+  public static let `squareChartGantt`: NSImage = Bundle.module.image(forResource: "square-chart-gantt")!
   public static let `squareCheckBig`: NSImage = Bundle.module.image(forResource: "square-check-big")!
   public static let `squareCheck`: NSImage = Bundle.module.image(forResource: "square-check")!
   public static let `squareChevronDown`: NSImage = Bundle.module.image(forResource: "square-chevron-down")!
@@ -1264,7 +1275,6 @@ extension Lucide {
   public static let `squareDot`: NSImage = Bundle.module.image(forResource: "square-dot")!
   public static let `squareEqual`: NSImage = Bundle.module.image(forResource: "square-equal")!
   public static let `squareFunction`: NSImage = Bundle.module.image(forResource: "square-function")!
-  public static let `squareGanttChart`: NSImage = Bundle.module.image(forResource: "square-gantt-chart")!
   public static let `squareKanban`: NSImage = Bundle.module.image(forResource: "square-kanban")!
   public static let `squareLibrary`: NSImage = Bundle.module.image(forResource: "square-library")!
   public static let `squareM`: NSImage = Bundle.module.image(forResource: "square-m")!

@@ -60,7 +60,6 @@ extension Lucide {
   public static let `archiveRestore`: UIImage = UIImage(named: "archive-restore", in: Bundle.module, compatibleWith: nil)!
   public static let `archiveX`: UIImage = UIImage(named: "archive-x", in: Bundle.module, compatibleWith: nil)!
   public static let `archive`: UIImage = UIImage(named: "archive", in: Bundle.module, compatibleWith: nil)!
-  public static let `areaChart`: UIImage = UIImage(named: "area-chart", in: Bundle.module, compatibleWith: nil)!
   public static let `armchair`: UIImage = UIImage(named: "armchair", in: Bundle.module, compatibleWith: nil)!
   public static let `arrowBigDownDash`: UIImage = UIImage(named: "arrow-big-down-dash", in: Bundle.module, compatibleWith: nil)!
   public static let `arrowBigDown`: UIImage = UIImage(named: "arrow-big-down", in: Bundle.module, compatibleWith: nil)!
@@ -136,13 +135,6 @@ extension Lucide {
   public static let `ban`: UIImage = UIImage(named: "ban", in: Bundle.module, compatibleWith: nil)!
   public static let `banana`: UIImage = UIImage(named: "banana", in: Bundle.module, compatibleWith: nil)!
   public static let `banknote`: UIImage = UIImage(named: "banknote", in: Bundle.module, compatibleWith: nil)!
-  public static let `barChart2`: UIImage = UIImage(named: "bar-chart-2", in: Bundle.module, compatibleWith: nil)!
-  public static let `barChart3`: UIImage = UIImage(named: "bar-chart-3", in: Bundle.module, compatibleWith: nil)!
-  public static let `barChart4`: UIImage = UIImage(named: "bar-chart-4", in: Bundle.module, compatibleWith: nil)!
-  public static let `barChartBig`: UIImage = UIImage(named: "bar-chart-big", in: Bundle.module, compatibleWith: nil)!
-  public static let `barChartHorizontalBig`: UIImage = UIImage(named: "bar-chart-horizontal-big", in: Bundle.module, compatibleWith: nil)!
-  public static let `barChartHorizontal`: UIImage = UIImage(named: "bar-chart-horizontal", in: Bundle.module, compatibleWith: nil)!
-  public static let `barChart`: UIImage = UIImage(named: "bar-chart", in: Bundle.module, compatibleWith: nil)!
   public static let `barcode`: UIImage = UIImage(named: "barcode", in: Bundle.module, compatibleWith: nil)!
   public static let `baseline`: UIImage = UIImage(named: "baseline", in: Bundle.module, compatibleWith: nil)!
   public static let `bath`: UIImage = UIImage(named: "bath", in: Bundle.module, compatibleWith: nil)!
@@ -269,7 +261,6 @@ extension Lucide {
   public static let `calendar`: UIImage = UIImage(named: "calendar", in: Bundle.module, compatibleWith: nil)!
   public static let `cameraOff`: UIImage = UIImage(named: "camera-off", in: Bundle.module, compatibleWith: nil)!
   public static let `camera`: UIImage = UIImage(named: "camera", in: Bundle.module, compatibleWith: nil)!
-  public static let `candlestickChart`: UIImage = UIImage(named: "candlestick-chart", in: Bundle.module, compatibleWith: nil)!
   public static let `candyCane`: UIImage = UIImage(named: "candy-cane", in: Bundle.module, compatibleWith: nil)!
   public static let `candyOff`: UIImage = UIImage(named: "candy-off", in: Bundle.module, compatibleWith: nil)!
   public static let `candy`: UIImage = UIImage(named: "candy", in: Bundle.module, compatibleWith: nil)!
@@ -289,6 +280,28 @@ extension Lucide {
   public static let `castle`: UIImage = UIImage(named: "castle", in: Bundle.module, compatibleWith: nil)!
   public static let `cat`: UIImage = UIImage(named: "cat", in: Bundle.module, compatibleWith: nil)!
   public static let `cctv`: UIImage = UIImage(named: "cctv", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartArea`: UIImage = UIImage(named: "chart-area", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartBarBig`: UIImage = UIImage(named: "chart-bar-big", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartBarDecreasing`: UIImage = UIImage(named: "chart-bar-decreasing", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartBarIncreasing`: UIImage = UIImage(named: "chart-bar-increasing", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartBarStacked`: UIImage = UIImage(named: "chart-bar-stacked", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartBar`: UIImage = UIImage(named: "chart-bar", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartCandlestick`: UIImage = UIImage(named: "chart-candlestick", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartColumnBig`: UIImage = UIImage(named: "chart-column-big", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartColumnDecreasing`: UIImage = UIImage(named: "chart-column-decreasing", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartColumnIncreasing`: UIImage = UIImage(named: "chart-column-increasing", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartColumnStacked`: UIImage = UIImage(named: "chart-column-stacked", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartColumn`: UIImage = UIImage(named: "chart-column", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartLine`: UIImage = UIImage(named: "chart-line", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartNetwork`: UIImage = UIImage(named: "chart-network", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartNoAxesColumnDecreasing`: UIImage = UIImage(named: "chart-no-axes-column-decreasing", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartNoAxesColumnIncreasing`: UIImage = UIImage(named: "chart-no-axes-column-increasing", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartNoAxesColumn`: UIImage = UIImage(named: "chart-no-axes-column", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartNoAxesCombined`: UIImage = UIImage(named: "chart-no-axes-combined", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartNoAxesGantt`: UIImage = UIImage(named: "chart-no-axes-gantt", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartPie`: UIImage = UIImage(named: "chart-pie", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartScatter`: UIImage = UIImage(named: "chart-scatter", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartSpline`: UIImage = UIImage(named: "chart-spline", in: Bundle.module, compatibleWith: nil)!
   public static let `checkCheck`: UIImage = UIImage(named: "check-check", in: Bundle.module, compatibleWith: nil)!
   public static let `check`: UIImage = UIImage(named: "check", in: Bundle.module, compatibleWith: nil)!
   public static let `chefHat`: UIImage = UIImage(named: "chef-hat", in: Bundle.module, compatibleWith: nil)!
@@ -452,6 +465,7 @@ extension Lucide {
   public static let `cupSoda`: UIImage = UIImage(named: "cup-soda", in: Bundle.module, compatibleWith: nil)!
   public static let `currency`: UIImage = UIImage(named: "currency", in: Bundle.module, compatibleWith: nil)!
   public static let `cylinder`: UIImage = UIImage(named: "cylinder", in: Bundle.module, compatibleWith: nil)!
+  public static let `dam`: UIImage = UIImage(named: "dam", in: Bundle.module, compatibleWith: nil)!
   public static let `databaseBackup`: UIImage = UIImage(named: "database-backup", in: Bundle.module, compatibleWith: nil)!
   public static let `databaseZap`: UIImage = UIImage(named: "database-zap", in: Bundle.module, compatibleWith: nil)!
   public static let `database`: UIImage = UIImage(named: "database", in: Bundle.module, compatibleWith: nil)!
@@ -526,9 +540,11 @@ extension Lucide {
   public static let `fileAxis3d`: UIImage = UIImage(named: "file-axis-3d", in: Bundle.module, compatibleWith: nil)!
   public static let `fileBadge2`: UIImage = UIImage(named: "file-badge-2", in: Bundle.module, compatibleWith: nil)!
   public static let `fileBadge`: UIImage = UIImage(named: "file-badge", in: Bundle.module, compatibleWith: nil)!
-  public static let `fileBarChart2`: UIImage = UIImage(named: "file-bar-chart-2", in: Bundle.module, compatibleWith: nil)!
-  public static let `fileBarChart`: UIImage = UIImage(named: "file-bar-chart", in: Bundle.module, compatibleWith: nil)!
   public static let `fileBox`: UIImage = UIImage(named: "file-box", in: Bundle.module, compatibleWith: nil)!
+  public static let `fileChartColumnIncreasing`: UIImage = UIImage(named: "file-chart-column-increasing", in: Bundle.module, compatibleWith: nil)!
+  public static let `fileChartColumn`: UIImage = UIImage(named: "file-chart-column", in: Bundle.module, compatibleWith: nil)!
+  public static let `fileChartLine`: UIImage = UIImage(named: "file-chart-line", in: Bundle.module, compatibleWith: nil)!
+  public static let `fileChartPie`: UIImage = UIImage(named: "file-chart-pie", in: Bundle.module, compatibleWith: nil)!
   public static let `fileCheck2`: UIImage = UIImage(named: "file-check-2", in: Bundle.module, compatibleWith: nil)!
   public static let `fileCheck`: UIImage = UIImage(named: "file-check", in: Bundle.module, compatibleWith: nil)!
   public static let `fileClock`: UIImage = UIImage(named: "file-clock", in: Bundle.module, compatibleWith: nil)!
@@ -545,7 +561,6 @@ extension Lucide {
   public static let `fileJson`: UIImage = UIImage(named: "file-json", in: Bundle.module, compatibleWith: nil)!
   public static let `fileKey2`: UIImage = UIImage(named: "file-key-2", in: Bundle.module, compatibleWith: nil)!
   public static let `fileKey`: UIImage = UIImage(named: "file-key", in: Bundle.module, compatibleWith: nil)!
-  public static let `fileLineChart`: UIImage = UIImage(named: "file-line-chart", in: Bundle.module, compatibleWith: nil)!
   public static let `fileLock2`: UIImage = UIImage(named: "file-lock-2", in: Bundle.module, compatibleWith: nil)!
   public static let `fileLock`: UIImage = UIImage(named: "file-lock", in: Bundle.module, compatibleWith: nil)!
   public static let `fileMinus2`: UIImage = UIImage(named: "file-minus-2", in: Bundle.module, compatibleWith: nil)!
@@ -554,7 +569,6 @@ extension Lucide {
   public static let `fileOutput`: UIImage = UIImage(named: "file-output", in: Bundle.module, compatibleWith: nil)!
   public static let `filePenLine`: UIImage = UIImage(named: "file-pen-line", in: Bundle.module, compatibleWith: nil)!
   public static let `filePen`: UIImage = UIImage(named: "file-pen", in: Bundle.module, compatibleWith: nil)!
-  public static let `filePieChart`: UIImage = UIImage(named: "file-pie-chart", in: Bundle.module, compatibleWith: nil)!
   public static let `filePlus2`: UIImage = UIImage(named: "file-plus-2", in: Bundle.module, compatibleWith: nil)!
   public static let `filePlus`: UIImage = UIImage(named: "file-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `fileQuestion`: UIImage = UIImage(named: "file-question", in: Bundle.module, compatibleWith: nil)!
@@ -653,7 +667,6 @@ extension Lucide {
   public static let `galleryVertical`: UIImage = UIImage(named: "gallery-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `gamepad2`: UIImage = UIImage(named: "gamepad-2", in: Bundle.module, compatibleWith: nil)!
   public static let `gamepad`: UIImage = UIImage(named: "gamepad", in: Bundle.module, compatibleWith: nil)!
-  public static let `ganttChart`: UIImage = UIImage(named: "gantt-chart", in: Bundle.module, compatibleWith: nil)!
   public static let `gauge`: UIImage = UIImage(named: "gauge", in: Bundle.module, compatibleWith: nil)!
   public static let `gavel`: UIImage = UIImage(named: "gavel", in: Bundle.module, compatibleWith: nil)!
   public static let `gem`: UIImage = UIImage(named: "gem", in: Bundle.module, compatibleWith: nil)!
@@ -799,7 +812,6 @@ extension Lucide {
   public static let `ligature`: UIImage = UIImage(named: "ligature", in: Bundle.module, compatibleWith: nil)!
   public static let `lightbulbOff`: UIImage = UIImage(named: "lightbulb-off", in: Bundle.module, compatibleWith: nil)!
   public static let `lightbulb`: UIImage = UIImage(named: "lightbulb", in: Bundle.module, compatibleWith: nil)!
-  public static let `lineChart`: UIImage = UIImage(named: "line-chart", in: Bundle.module, compatibleWith: nil)!
   public static let `link2Off`: UIImage = UIImage(named: "link-2-off", in: Bundle.module, compatibleWith: nil)!
   public static let `link2`: UIImage = UIImage(named: "link-2", in: Bundle.module, compatibleWith: nil)!
   public static let `link`: UIImage = UIImage(named: "link", in: Bundle.module, compatibleWith: nil)!
@@ -1025,7 +1037,6 @@ extension Lucide {
   public static let `pickaxe`: UIImage = UIImage(named: "pickaxe", in: Bundle.module, compatibleWith: nil)!
   public static let `pictureInPicture2`: UIImage = UIImage(named: "picture-in-picture-2", in: Bundle.module, compatibleWith: nil)!
   public static let `pictureInPicture`: UIImage = UIImage(named: "picture-in-picture", in: Bundle.module, compatibleWith: nil)!
-  public static let `pieChart`: UIImage = UIImage(named: "pie-chart", in: Bundle.module, compatibleWith: nil)!
   public static let `piggyBank`: UIImage = UIImage(named: "piggy-bank", in: Bundle.module, compatibleWith: nil)!
   public static let `pilcrowLeft`: UIImage = UIImage(named: "pilcrow-left", in: Bundle.module, compatibleWith: nil)!
   public static let `pilcrowRight`: UIImage = UIImage(named: "pilcrow-right", in: Bundle.module, compatibleWith: nil)!
@@ -1143,7 +1154,6 @@ extension Lucide {
   public static let `scanSearch`: UIImage = UIImage(named: "scan-search", in: Bundle.module, compatibleWith: nil)!
   public static let `scanText`: UIImage = UIImage(named: "scan-text", in: Bundle.module, compatibleWith: nil)!
   public static let `scan`: UIImage = UIImage(named: "scan", in: Bundle.module, compatibleWith: nil)!
-  public static let `scatterChart`: UIImage = UIImage(named: "scatter-chart", in: Bundle.module, compatibleWith: nil)!
   public static let `school`: UIImage = UIImage(named: "school", in: Bundle.module, compatibleWith: nil)!
   public static let `scissorsLineDashed`: UIImage = UIImage(named: "scissors-line-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `scissors`: UIImage = UIImage(named: "scissors", in: Bundle.module, compatibleWith: nil)!
@@ -1249,6 +1259,7 @@ extension Lucide {
   public static let `squareArrowUp`: UIImage = UIImage(named: "square-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `squareAsterisk`: UIImage = UIImage(named: "square-asterisk", in: Bundle.module, compatibleWith: nil)!
   public static let `squareBottomDashedScissors`: UIImage = UIImage(named: "square-bottom-dashed-scissors", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareChartGantt`: UIImage = UIImage(named: "square-chart-gantt", in: Bundle.module, compatibleWith: nil)!
   public static let `squareCheckBig`: UIImage = UIImage(named: "square-check-big", in: Bundle.module, compatibleWith: nil)!
   public static let `squareCheck`: UIImage = UIImage(named: "square-check", in: Bundle.module, compatibleWith: nil)!
   public static let `squareChevronDown`: UIImage = UIImage(named: "square-chevron-down", in: Bundle.module, compatibleWith: nil)!
@@ -1264,7 +1275,6 @@ extension Lucide {
   public static let `squareDot`: UIImage = UIImage(named: "square-dot", in: Bundle.module, compatibleWith: nil)!
   public static let `squareEqual`: UIImage = UIImage(named: "square-equal", in: Bundle.module, compatibleWith: nil)!
   public static let `squareFunction`: UIImage = UIImage(named: "square-function", in: Bundle.module, compatibleWith: nil)!
-  public static let `squareGanttChart`: UIImage = UIImage(named: "square-gantt-chart", in: Bundle.module, compatibleWith: nil)!
   public static let `squareKanban`: UIImage = UIImage(named: "square-kanban", in: Bundle.module, compatibleWith: nil)!
   public static let `squareLibrary`: UIImage = UIImage(named: "square-library", in: Bundle.module, compatibleWith: nil)!
   public static let `squareM`: UIImage = UIImage(named: "square-m", in: Bundle.module, compatibleWith: nil)!
