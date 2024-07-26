@@ -859,7 +859,15 @@ extension Lucide {
   public static let `mail`: UIImage = UIImage(named: "mail", in: Bundle.module, compatibleWith: nil)!
   public static let `mailbox`: UIImage = UIImage(named: "mailbox", in: Bundle.module, compatibleWith: nil)!
   public static let `mails`: UIImage = UIImage(named: "mails", in: Bundle.module, compatibleWith: nil)!
+  public static let `mapPinCheckInside`: UIImage = UIImage(named: "map-pin-check-inside", in: Bundle.module, compatibleWith: nil)!
+  public static let `mapPinCheck`: UIImage = UIImage(named: "map-pin-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `mapPinMinusInside`: UIImage = UIImage(named: "map-pin-minus-inside", in: Bundle.module, compatibleWith: nil)!
+  public static let `mapPinMinus`: UIImage = UIImage(named: "map-pin-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPinOff`: UIImage = UIImage(named: "map-pin-off", in: Bundle.module, compatibleWith: nil)!
+  public static let `mapPinPlusInside`: UIImage = UIImage(named: "map-pin-plus-inside", in: Bundle.module, compatibleWith: nil)!
+  public static let `mapPinPlus`: UIImage = UIImage(named: "map-pin-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `mapPinXInside`: UIImage = UIImage(named: "map-pin-x-inside", in: Bundle.module, compatibleWith: nil)!
+  public static let `mapPinX`: UIImage = UIImage(named: "map-pin-x", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPin`: UIImage = UIImage(named: "map-pin", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPinned`: UIImage = UIImage(named: "map-pinned", in: Bundle.module, compatibleWith: nil)!
   public static let `map`: UIImage = UIImage(named: "map", in: Bundle.module, compatibleWith: nil)!
@@ -1296,6 +1304,7 @@ extension Lucide {
   public static let `squareSlash`: UIImage = UIImage(named: "square-slash", in: Bundle.module, compatibleWith: nil)!
   public static let `squareSplitHorizontal`: UIImage = UIImage(named: "square-split-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `squareSplitVertical`: UIImage = UIImage(named: "square-split-vertical", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareSquare`: UIImage = UIImage(named: "square-square", in: Bundle.module, compatibleWith: nil)!
   public static let `squareStack`: UIImage = UIImage(named: "square-stack", in: Bundle.module, compatibleWith: nil)!
   public static let `squareTerminal`: UIImage = UIImage(named: "square-terminal", in: Bundle.module, compatibleWith: nil)!
   public static let `squareUserRound`: UIImage = UIImage(named: "square-user-round", in: Bundle.module, compatibleWith: nil)!

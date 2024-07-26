@@ -1,0 +1,15 @@
+{
+"images" : [
+  {
+  "filename" : "map-pin-plus-inside.pdf",
+  "idiom" : "universal"
+  }
+],
+"info" : {
+  "author" : "xcode",
+  "version" : 1
+},
+"properties" : {
+  "preserves-vector-representation" : true
+}
+}

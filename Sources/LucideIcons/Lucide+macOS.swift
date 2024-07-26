@@ -859,7 +859,15 @@ extension Lucide {
   public static let `mail`: NSImage = Bundle.module.image(forResource: "mail")!
   public static let `mailbox`: NSImage = Bundle.module.image(forResource: "mailbox")!
   public static let `mails`: NSImage = Bundle.module.image(forResource: "mails")!
+  public static let `mapPinCheckInside`: NSImage = Bundle.module.image(forResource: "map-pin-check-inside")!
+  public static let `mapPinCheck`: NSImage = Bundle.module.image(forResource: "map-pin-check")!
+  public static let `mapPinMinusInside`: NSImage = Bundle.module.image(forResource: "map-pin-minus-inside")!
+  public static let `mapPinMinus`: NSImage = Bundle.module.image(forResource: "map-pin-minus")!
   public static let `mapPinOff`: NSImage = Bundle.module.image(forResource: "map-pin-off")!
+  public static let `mapPinPlusInside`: NSImage = Bundle.module.image(forResource: "map-pin-plus-inside")!
+  public static let `mapPinPlus`: NSImage = Bundle.module.image(forResource: "map-pin-plus")!
+  public static let `mapPinXInside`: NSImage = Bundle.module.image(forResource: "map-pin-x-inside")!
+  public static let `mapPinX`: NSImage = Bundle.module.image(forResource: "map-pin-x")!
   public static let `mapPin`: NSImage = Bundle.module.image(forResource: "map-pin")!
   public static let `mapPinned`: NSImage = Bundle.module.image(forResource: "map-pinned")!
   public static let `map`: NSImage = Bundle.module.image(forResource: "map")!
@@ -1296,6 +1304,7 @@ extension Lucide {
   public static let `squareSlash`: NSImage = Bundle.module.image(forResource: "square-slash")!
   public static let `squareSplitHorizontal`: NSImage = Bundle.module.image(forResource: "square-split-horizontal")!
   public static let `squareSplitVertical`: NSImage = Bundle.module.image(forResource: "square-split-vertical")!
+  public static let `squareSquare`: NSImage = Bundle.module.image(forResource: "square-square")!
   public static let `squareStack`: NSImage = Bundle.module.image(forResource: "square-stack")!
   public static let `squareTerminal`: NSImage = Bundle.module.image(forResource: "square-terminal")!
   public static let `squareUserRound`: NSImage = Bundle.module.image(forResource: "square-user-round")!
