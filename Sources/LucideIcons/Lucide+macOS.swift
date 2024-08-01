@@ -750,6 +750,7 @@ extension Lucide {
   public static let `house`: NSImage = Bundle.module.image(forResource: "house")!
   public static let `iceCreamBowl`: NSImage = Bundle.module.image(forResource: "ice-cream-bowl")!
   public static let `iceCreamCone`: NSImage = Bundle.module.image(forResource: "ice-cream-cone")!
+  public static let `idCard`: NSImage = Bundle.module.image(forResource: "id-card")!
   public static let `imageDown`: NSImage = Bundle.module.image(forResource: "image-down")!
   public static let `imageMinus`: NSImage = Bundle.module.image(forResource: "image-minus")!
   public static let `imageOff`: NSImage = Bundle.module.image(forResource: "image-off")!

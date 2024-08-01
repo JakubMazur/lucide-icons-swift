@@ -750,6 +750,7 @@ extension Lucide {
   public static let `house`: UIImage = UIImage(named: "house", in: Bundle.module, compatibleWith: nil)!
   public static let `iceCreamBowl`: UIImage = UIImage(named: "ice-cream-bowl", in: Bundle.module, compatibleWith: nil)!
   public static let `iceCreamCone`: UIImage = UIImage(named: "ice-cream-cone", in: Bundle.module, compatibleWith: nil)!
+  public static let `idCard`: UIImage = UIImage(named: "id-card", in: Bundle.module, compatibleWith: nil)!
   public static let `imageDown`: UIImage = UIImage(named: "image-down", in: Bundle.module, compatibleWith: nil)!
   public static let `imageMinus`: UIImage = UIImage(named: "image-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `imageOff`: UIImage = UIImage(named: "image-off", in: Bundle.module, compatibleWith: nil)!
