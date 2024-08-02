@@ -346,6 +346,7 @@ extension Lucide {
   public static let `circleDot`: NSImage = Bundle.module.image(forResource: "circle-dot")!
   public static let `circleEllipsis`: NSImage = Bundle.module.image(forResource: "circle-ellipsis")!
   public static let `circleEqual`: NSImage = Bundle.module.image(forResource: "circle-equal")!
+  public static let `circleFadingArrowUp`: NSImage = Bundle.module.image(forResource: "circle-fading-arrow-up")!
   public static let `circleFadingPlus`: NSImage = Bundle.module.image(forResource: "circle-fading-plus")!
   public static let `circleGauge`: NSImage = Bundle.module.image(forResource: "circle-gauge")!
   public static let `circleHelp`: NSImage = Bundle.module.image(forResource: "circle-help")!
