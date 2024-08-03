@@ -48,6 +48,7 @@ extension Lucide {
   public static let `ambulance`: NSImage = Bundle.module.image(forResource: "ambulance")!
   public static let `ampersand`: NSImage = Bundle.module.image(forResource: "ampersand")!
   public static let `ampersands`: NSImage = Bundle.module.image(forResource: "ampersands")!
+  public static let `amphora`: NSImage = Bundle.module.image(forResource: "amphora")!
   public static let `anchor`: NSImage = Bundle.module.image(forResource: "anchor")!
   public static let `angry`: NSImage = Bundle.module.image(forResource: "angry")!
   public static let `annoyed`: NSImage = Bundle.module.image(forResource: "annoyed")!
@@ -863,6 +864,7 @@ extension Lucide {
   public static let `mails`: NSImage = Bundle.module.image(forResource: "mails")!
   public static let `mapPinCheckInside`: NSImage = Bundle.module.image(forResource: "map-pin-check-inside")!
   public static let `mapPinCheck`: NSImage = Bundle.module.image(forResource: "map-pin-check")!
+  public static let `mapPinHouse`: NSImage = Bundle.module.image(forResource: "map-pin-house")!
   public static let `mapPinMinusInside`: NSImage = Bundle.module.image(forResource: "map-pin-minus-inside")!
   public static let `mapPinMinus`: NSImage = Bundle.module.image(forResource: "map-pin-minus")!
   public static let `mapPinOff`: NSImage = Bundle.module.image(forResource: "map-pin-off")!
@@ -913,6 +915,7 @@ extension Lucide {
   public static let `micOff`: NSImage = Bundle.module.image(forResource: "mic-off")!
   public static let `micVocal`: NSImage = Bundle.module.image(forResource: "mic-vocal")!
   public static let `mic`: NSImage = Bundle.module.image(forResource: "mic")!
+  public static let `microchip`: NSImage = Bundle.module.image(forResource: "microchip")!
   public static let `microscope`: NSImage = Bundle.module.image(forResource: "microscope")!
   public static let `microwave`: NSImage = Bundle.module.image(forResource: "microwave")!
   public static let `milestone`: NSImage = Bundle.module.image(forResource: "milestone")!
@@ -981,6 +984,7 @@ extension Lucide {
   public static let `octagonPause`: NSImage = Bundle.module.image(forResource: "octagon-pause")!
   public static let `octagonX`: NSImage = Bundle.module.image(forResource: "octagon-x")!
   public static let `octagon`: NSImage = Bundle.module.image(forResource: "octagon")!
+  public static let `omega`: NSImage = Bundle.module.image(forResource: "omega")!
   public static let `option`: NSImage = Bundle.module.image(forResource: "option")!
   public static let `orbit`: NSImage = Bundle.module.image(forResource: "orbit")!
   public static let `origami`: NSImage = Bundle.module.image(forResource: "origami")!

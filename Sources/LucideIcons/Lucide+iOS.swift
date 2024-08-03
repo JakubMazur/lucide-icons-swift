@@ -48,6 +48,7 @@ extension Lucide {
   public static let `ambulance`: UIImage = UIImage(named: "ambulance", in: Bundle.module, compatibleWith: nil)!
   public static let `ampersand`: UIImage = UIImage(named: "ampersand", in: Bundle.module, compatibleWith: nil)!
   public static let `ampersands`: UIImage = UIImage(named: "ampersands", in: Bundle.module, compatibleWith: nil)!
+  public static let `amphora`: UIImage = UIImage(named: "amphora", in: Bundle.module, compatibleWith: nil)!
   public static let `anchor`: UIImage = UIImage(named: "anchor", in: Bundle.module, compatibleWith: nil)!
   public static let `angry`: UIImage = UIImage(named: "angry", in: Bundle.module, compatibleWith: nil)!
   public static let `annoyed`: UIImage = UIImage(named: "annoyed", in: Bundle.module, compatibleWith: nil)!
@@ -863,6 +864,7 @@ extension Lucide {
   public static let `mails`: UIImage = UIImage(named: "mails", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPinCheckInside`: UIImage = UIImage(named: "map-pin-check-inside", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPinCheck`: UIImage = UIImage(named: "map-pin-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `mapPinHouse`: UIImage = UIImage(named: "map-pin-house", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPinMinusInside`: UIImage = UIImage(named: "map-pin-minus-inside", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPinMinus`: UIImage = UIImage(named: "map-pin-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPinOff`: UIImage = UIImage(named: "map-pin-off", in: Bundle.module, compatibleWith: nil)!
@@ -913,6 +915,7 @@ extension Lucide {
   public static let `micOff`: UIImage = UIImage(named: "mic-off", in: Bundle.module, compatibleWith: nil)!
   public static let `micVocal`: UIImage = UIImage(named: "mic-vocal", in: Bundle.module, compatibleWith: nil)!
   public static let `mic`: UIImage = UIImage(named: "mic", in: Bundle.module, compatibleWith: nil)!
+  public static let `microchip`: UIImage = UIImage(named: "microchip", in: Bundle.module, compatibleWith: nil)!
   public static let `microscope`: UIImage = UIImage(named: "microscope", in: Bundle.module, compatibleWith: nil)!
   public static let `microwave`: UIImage = UIImage(named: "microwave", in: Bundle.module, compatibleWith: nil)!
   public static let `milestone`: UIImage = UIImage(named: "milestone", in: Bundle.module, compatibleWith: nil)!
@@ -981,6 +984,7 @@ extension Lucide {
   public static let `octagonPause`: UIImage = UIImage(named: "octagon-pause", in: Bundle.module, compatibleWith: nil)!
   public static let `octagonX`: UIImage = UIImage(named: "octagon-x", in: Bundle.module, compatibleWith: nil)!
   public static let `octagon`: UIImage = UIImage(named: "octagon", in: Bundle.module, compatibleWith: nil)!
+  public static let `omega`: UIImage = UIImage(named: "omega", in: Bundle.module, compatibleWith: nil)!
   public static let `option`: UIImage = UIImage(named: "option", in: Bundle.module, compatibleWith: nil)!
   public static let `orbit`: UIImage = UIImage(named: "orbit", in: Bundle.module, compatibleWith: nil)!
   public static let `origami`: UIImage = UIImage(named: "origami", in: Bundle.module, compatibleWith: nil)!
