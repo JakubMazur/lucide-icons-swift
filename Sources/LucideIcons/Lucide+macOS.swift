@@ -135,6 +135,7 @@ extension Lucide {
   public static let `baggageClaim`: NSImage = Bundle.module.image(forResource: "baggage-claim")!
   public static let `ban`: NSImage = Bundle.module.image(forResource: "ban")!
   public static let `banana`: NSImage = Bundle.module.image(forResource: "banana")!
+  public static let `bandage`: NSImage = Bundle.module.image(forResource: "bandage")!
   public static let `banknote`: NSImage = Bundle.module.image(forResource: "banknote")!
   public static let `barcode`: NSImage = Bundle.module.image(forResource: "barcode")!
   public static let `baseline`: NSImage = Bundle.module.image(forResource: "baseline")!
@@ -315,6 +316,7 @@ extension Lucide {
   public static let `chevronUp`: NSImage = Bundle.module.image(forResource: "chevron-up")!
   public static let `chevronsDownUp`: NSImage = Bundle.module.image(forResource: "chevrons-down-up")!
   public static let `chevronsDown`: NSImage = Bundle.module.image(forResource: "chevrons-down")!
+  public static let `chevronsLeftRightEllipsis`: NSImage = Bundle.module.image(forResource: "chevrons-left-right-ellipsis")!
   public static let `chevronsLeftRight`: NSImage = Bundle.module.image(forResource: "chevrons-left-right")!
   public static let `chevronsLeft`: NSImage = Bundle.module.image(forResource: "chevrons-left")!
   public static let `chevronsRightLeft`: NSImage = Bundle.module.image(forResource: "chevrons-right-left")!
@@ -523,6 +525,7 @@ extension Lucide {
   public static let `equalNot`: NSImage = Bundle.module.image(forResource: "equal-not")!
   public static let `equal`: NSImage = Bundle.module.image(forResource: "equal")!
   public static let `eraser`: NSImage = Bundle.module.image(forResource: "eraser")!
+  public static let `ethernetPort`: NSImage = Bundle.module.image(forResource: "ethernet-port")!
   public static let `euro`: NSImage = Bundle.module.image(forResource: "euro")!
   public static let `expand`: NSImage = Bundle.module.image(forResource: "expand")!
   public static let `externalLink`: NSImage = Bundle.module.image(forResource: "external-link")!
@@ -1351,6 +1354,7 @@ extension Lucide {
   public static let `tableCellsMerge`: NSImage = Bundle.module.image(forResource: "table-cells-merge")!
   public static let `tableCellsSplit`: NSImage = Bundle.module.image(forResource: "table-cells-split")!
   public static let `tableColumnsSplit`: NSImage = Bundle.module.image(forResource: "table-columns-split")!
+  public static let `tableOfContents`: NSImage = Bundle.module.image(forResource: "table-of-contents")!
   public static let `tableProperties`: NSImage = Bundle.module.image(forResource: "table-properties")!
   public static let `tableRowsSplit`: NSImage = Bundle.module.image(forResource: "table-rows-split")!
   public static let `table`: NSImage = Bundle.module.image(forResource: "table")!

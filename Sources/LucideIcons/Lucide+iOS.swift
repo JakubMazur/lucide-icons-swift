@@ -135,6 +135,7 @@ extension Lucide {
   public static let `baggageClaim`: UIImage = UIImage(named: "baggage-claim", in: Bundle.module, compatibleWith: nil)!
   public static let `ban`: UIImage = UIImage(named: "ban", in: Bundle.module, compatibleWith: nil)!
   public static let `banana`: UIImage = UIImage(named: "banana", in: Bundle.module, compatibleWith: nil)!
+  public static let `bandage`: UIImage = UIImage(named: "bandage", in: Bundle.module, compatibleWith: nil)!
   public static let `banknote`: UIImage = UIImage(named: "banknote", in: Bundle.module, compatibleWith: nil)!
   public static let `barcode`: UIImage = UIImage(named: "barcode", in: Bundle.module, compatibleWith: nil)!
   public static let `baseline`: UIImage = UIImage(named: "baseline", in: Bundle.module, compatibleWith: nil)!
@@ -315,6 +316,7 @@ extension Lucide {
   public static let `chevronUp`: UIImage = UIImage(named: "chevron-up", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsDownUp`: UIImage = UIImage(named: "chevrons-down-up", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsDown`: UIImage = UIImage(named: "chevrons-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `chevronsLeftRightEllipsis`: UIImage = UIImage(named: "chevrons-left-right-ellipsis", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsLeftRight`: UIImage = UIImage(named: "chevrons-left-right", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsLeft`: UIImage = UIImage(named: "chevrons-left", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsRightLeft`: UIImage = UIImage(named: "chevrons-right-left", in: Bundle.module, compatibleWith: nil)!
@@ -523,6 +525,7 @@ extension Lucide {
   public static let `equalNot`: UIImage = UIImage(named: "equal-not", in: Bundle.module, compatibleWith: nil)!
   public static let `equal`: UIImage = UIImage(named: "equal", in: Bundle.module, compatibleWith: nil)!
   public static let `eraser`: UIImage = UIImage(named: "eraser", in: Bundle.module, compatibleWith: nil)!
+  public static let `ethernetPort`: UIImage = UIImage(named: "ethernet-port", in: Bundle.module, compatibleWith: nil)!
   public static let `euro`: UIImage = UIImage(named: "euro", in: Bundle.module, compatibleWith: nil)!
   public static let `expand`: UIImage = UIImage(named: "expand", in: Bundle.module, compatibleWith: nil)!
   public static let `externalLink`: UIImage = UIImage(named: "external-link", in: Bundle.module, compatibleWith: nil)!
@@ -1351,6 +1354,7 @@ extension Lucide {
   public static let `tableCellsMerge`: UIImage = UIImage(named: "table-cells-merge", in: Bundle.module, compatibleWith: nil)!
   public static let `tableCellsSplit`: UIImage = UIImage(named: "table-cells-split", in: Bundle.module, compatibleWith: nil)!
   public static let `tableColumnsSplit`: UIImage = UIImage(named: "table-columns-split", in: Bundle.module, compatibleWith: nil)!
+  public static let `tableOfContents`: UIImage = UIImage(named: "table-of-contents", in: Bundle.module, compatibleWith: nil)!
   public static let `tableProperties`: UIImage = UIImage(named: "table-properties", in: Bundle.module, compatibleWith: nil)!
   public static let `tableRowsSplit`: UIImage = UIImage(named: "table-rows-split", in: Bundle.module, compatibleWith: nil)!
   public static let `table`: UIImage = UIImage(named: "table", in: Bundle.module, compatibleWith: nil)!
