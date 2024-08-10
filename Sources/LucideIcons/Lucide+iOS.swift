@@ -169,6 +169,7 @@ extension Lucide {
   public static let `bicepsFlexed`: UIImage = UIImage(named: "biceps-flexed", in: Bundle.module, compatibleWith: nil)!
   public static let `bike`: UIImage = UIImage(named: "bike", in: Bundle.module, compatibleWith: nil)!
   public static let `binary`: UIImage = UIImage(named: "binary", in: Bundle.module, compatibleWith: nil)!
+  public static let `binoculars`: UIImage = UIImage(named: "binoculars", in: Bundle.module, compatibleWith: nil)!
   public static let `biohazard`: UIImage = UIImage(named: "biohazard", in: Bundle.module, compatibleWith: nil)!
   public static let `bird`: UIImage = UIImage(named: "bird", in: Bundle.module, compatibleWith: nil)!
   public static let `bitcoin`: UIImage = UIImage(named: "bitcoin", in: Bundle.module, compatibleWith: nil)!
@@ -1396,6 +1397,7 @@ extension Lucide {
   public static let `ticketSlash`: UIImage = UIImage(named: "ticket-slash", in: Bundle.module, compatibleWith: nil)!
   public static let `ticketX`: UIImage = UIImage(named: "ticket-x", in: Bundle.module, compatibleWith: nil)!
   public static let `ticket`: UIImage = UIImage(named: "ticket", in: Bundle.module, compatibleWith: nil)!
+  public static let `tickets`: UIImage = UIImage(named: "tickets", in: Bundle.module, compatibleWith: nil)!
   public static let `timerOff`: UIImage = UIImage(named: "timer-off", in: Bundle.module, compatibleWith: nil)!
   public static let `timerReset`: UIImage = UIImage(named: "timer-reset", in: Bundle.module, compatibleWith: nil)!
   public static let `timer`: UIImage = UIImage(named: "timer", in: Bundle.module, compatibleWith: nil)!

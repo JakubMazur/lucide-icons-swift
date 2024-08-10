@@ -169,6 +169,7 @@ extension Lucide {
   public static let `bicepsFlexed`: NSImage = Bundle.module.image(forResource: "biceps-flexed")!
   public static let `bike`: NSImage = Bundle.module.image(forResource: "bike")!
   public static let `binary`: NSImage = Bundle.module.image(forResource: "binary")!
+  public static let `binoculars`: NSImage = Bundle.module.image(forResource: "binoculars")!
   public static let `biohazard`: NSImage = Bundle.module.image(forResource: "biohazard")!
   public static let `bird`: NSImage = Bundle.module.image(forResource: "bird")!
   public static let `bitcoin`: NSImage = Bundle.module.image(forResource: "bitcoin")!
@@ -1396,6 +1397,7 @@ extension Lucide {
   public static let `ticketSlash`: NSImage = Bundle.module.image(forResource: "ticket-slash")!
   public static let `ticketX`: NSImage = Bundle.module.image(forResource: "ticket-x")!
   public static let `ticket`: NSImage = Bundle.module.image(forResource: "ticket")!
+  public static let `tickets`: NSImage = Bundle.module.image(forResource: "tickets")!
   public static let `timerOff`: NSImage = Bundle.module.image(forResource: "timer-off")!
   public static let `timerReset`: NSImage = Bundle.module.image(forResource: "timer-reset")!
   public static let `timer`: NSImage = Bundle.module.image(forResource: "timer")!
