@@ -1397,6 +1397,7 @@ extension Lucide {
   public static let `ticketSlash`: UIImage = UIImage(named: "ticket-slash", in: Bundle.module, compatibleWith: nil)!
   public static let `ticketX`: UIImage = UIImage(named: "ticket-x", in: Bundle.module, compatibleWith: nil)!
   public static let `ticket`: UIImage = UIImage(named: "ticket", in: Bundle.module, compatibleWith: nil)!
+  public static let `ticketsPlane`: UIImage = UIImage(named: "tickets-plane", in: Bundle.module, compatibleWith: nil)!
   public static let `tickets`: UIImage = UIImage(named: "tickets", in: Bundle.module, compatibleWith: nil)!
   public static let `timerOff`: UIImage = UIImage(named: "timer-off", in: Bundle.module, compatibleWith: nil)!
   public static let `timerReset`: UIImage = UIImage(named: "timer-reset", in: Bundle.module, compatibleWith: nil)!
