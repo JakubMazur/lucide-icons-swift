@@ -295,6 +295,7 @@ extension Lucide {
   public static let `chartColumnIncreasing`: NSImage = Bundle.module.image(forResource: "chart-column-increasing")!
   public static let `chartColumnStacked`: NSImage = Bundle.module.image(forResource: "chart-column-stacked")!
   public static let `chartColumn`: NSImage = Bundle.module.image(forResource: "chart-column")!
+  public static let `chartGantt`: NSImage = Bundle.module.image(forResource: "chart-gantt")!
   public static let `chartLine`: NSImage = Bundle.module.image(forResource: "chart-line")!
   public static let `chartNetwork`: NSImage = Bundle.module.image(forResource: "chart-network")!
   public static let `chartNoAxesColumnDecreasing`: NSImage = Bundle.module.image(forResource: "chart-no-axes-column-decreasing")!
@@ -1424,6 +1425,7 @@ extension Lucide {
   public static let `trees`: NSImage = Bundle.module.image(forResource: "trees")!
   public static let `trello`: NSImage = Bundle.module.image(forResource: "trello")!
   public static let `trendingDown`: NSImage = Bundle.module.image(forResource: "trending-down")!
+  public static let `trendingUpDown`: NSImage = Bundle.module.image(forResource: "trending-up-down")!
   public static let `trendingUp`: NSImage = Bundle.module.image(forResource: "trending-up")!
   public static let `triangleAlert`: NSImage = Bundle.module.image(forResource: "triangle-alert")!
   public static let `triangleRight`: NSImage = Bundle.module.image(forResource: "triangle-right")!
@@ -1487,6 +1489,7 @@ extension Lucide {
   public static let `voicemail`: NSImage = Bundle.module.image(forResource: "voicemail")!
   public static let `volume1`: NSImage = Bundle.module.image(forResource: "volume-1")!
   public static let `volume2`: NSImage = Bundle.module.image(forResource: "volume-2")!
+  public static let `volumeOff`: NSImage = Bundle.module.image(forResource: "volume-off")!
   public static let `volumeX`: NSImage = Bundle.module.image(forResource: "volume-x")!
   public static let `volume`: NSImage = Bundle.module.image(forResource: "volume")!
   public static let `vote`: NSImage = Bundle.module.image(forResource: "vote")!

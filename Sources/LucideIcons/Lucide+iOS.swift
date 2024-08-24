@@ -295,6 +295,7 @@ extension Lucide {
   public static let `chartColumnIncreasing`: UIImage = UIImage(named: "chart-column-increasing", in: Bundle.module, compatibleWith: nil)!
   public static let `chartColumnStacked`: UIImage = UIImage(named: "chart-column-stacked", in: Bundle.module, compatibleWith: nil)!
   public static let `chartColumn`: UIImage = UIImage(named: "chart-column", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartGantt`: UIImage = UIImage(named: "chart-gantt", in: Bundle.module, compatibleWith: nil)!
   public static let `chartLine`: UIImage = UIImage(named: "chart-line", in: Bundle.module, compatibleWith: nil)!
   public static let `chartNetwork`: UIImage = UIImage(named: "chart-network", in: Bundle.module, compatibleWith: nil)!
   public static let `chartNoAxesColumnDecreasing`: UIImage = UIImage(named: "chart-no-axes-column-decreasing", in: Bundle.module, compatibleWith: nil)!
@@ -1424,6 +1425,7 @@ extension Lucide {
   public static let `trees`: UIImage = UIImage(named: "trees", in: Bundle.module, compatibleWith: nil)!
   public static let `trello`: UIImage = UIImage(named: "trello", in: Bundle.module, compatibleWith: nil)!
   public static let `trendingDown`: UIImage = UIImage(named: "trending-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `trendingUpDown`: UIImage = UIImage(named: "trending-up-down", in: Bundle.module, compatibleWith: nil)!
   public static let `trendingUp`: UIImage = UIImage(named: "trending-up", in: Bundle.module, compatibleWith: nil)!
   public static let `triangleAlert`: UIImage = UIImage(named: "triangle-alert", in: Bundle.module, compatibleWith: nil)!
   public static let `triangleRight`: UIImage = UIImage(named: "triangle-right", in: Bundle.module, compatibleWith: nil)!
@@ -1487,6 +1489,7 @@ extension Lucide {
   public static let `voicemail`: UIImage = UIImage(named: "voicemail", in: Bundle.module, compatibleWith: nil)!
   public static let `volume1`: UIImage = UIImage(named: "volume-1", in: Bundle.module, compatibleWith: nil)!
   public static let `volume2`: UIImage = UIImage(named: "volume-2", in: Bundle.module, compatibleWith: nil)!
+  public static let `volumeOff`: UIImage = UIImage(named: "volume-off", in: Bundle.module, compatibleWith: nil)!
   public static let `volumeX`: UIImage = UIImage(named: "volume-x", in: Bundle.module, compatibleWith: nil)!
   public static let `volume`: UIImage = UIImage(named: "volume", in: Bundle.module, compatibleWith: nil)!
   public static let `vote`: UIImage = UIImage(named: "vote", in: Bundle.module, compatibleWith: nil)!
