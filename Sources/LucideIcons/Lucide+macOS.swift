@@ -986,6 +986,7 @@ extension Lucide {
   public static let `nutOff`: NSImage = Bundle.module.image(forResource: "nut-off")!
   public static let `nut`: NSImage = Bundle.module.image(forResource: "nut")!
   public static let `octagonAlert`: NSImage = Bundle.module.image(forResource: "octagon-alert")!
+  public static let `octagonMinus`: NSImage = Bundle.module.image(forResource: "octagon-minus")!
   public static let `octagonPause`: NSImage = Bundle.module.image(forResource: "octagon-pause")!
   public static let `octagonX`: NSImage = Bundle.module.image(forResource: "octagon-x")!
   public static let `octagon`: NSImage = Bundle.module.image(forResource: "octagon")!

@@ -986,6 +986,7 @@ extension Lucide {
   public static let `nutOff`: UIImage = UIImage(named: "nut-off", in: Bundle.module, compatibleWith: nil)!
   public static let `nut`: UIImage = UIImage(named: "nut", in: Bundle.module, compatibleWith: nil)!
   public static let `octagonAlert`: UIImage = UIImage(named: "octagon-alert", in: Bundle.module, compatibleWith: nil)!
+  public static let `octagonMinus`: UIImage = UIImage(named: "octagon-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `octagonPause`: UIImage = UIImage(named: "octagon-pause", in: Bundle.module, compatibleWith: nil)!
   public static let `octagonX`: UIImage = UIImage(named: "octagon-x", in: Bundle.module, compatibleWith: nil)!
   public static let `octagon`: UIImage = UIImage(named: "octagon", in: Bundle.module, compatibleWith: nil)!
