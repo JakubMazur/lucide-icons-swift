@@ -705,6 +705,7 @@ extension Lucide {
   public static let `graduationCap`: UIImage = UIImage(named: "graduation-cap", in: Bundle.module, compatibleWith: nil)!
   public static let `grape`: UIImage = UIImage(named: "grape", in: Bundle.module, compatibleWith: nil)!
   public static let `grid2x2Check`: UIImage = UIImage(named: "grid-2x2-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `grid2x2Plus`: UIImage = UIImage(named: "grid-2x2-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `grid2x2X`: UIImage = UIImage(named: "grid-2x2-x", in: Bundle.module, compatibleWith: nil)!
   public static let `grid2x2`: UIImage = UIImage(named: "grid-2x2", in: Bundle.module, compatibleWith: nil)!
   public static let `grid3x3`: UIImage = UIImage(named: "grid-3x3", in: Bundle.module, compatibleWith: nil)!

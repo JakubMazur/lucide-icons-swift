@@ -705,6 +705,7 @@ extension Lucide {
   public static let `graduationCap`: NSImage = Bundle.module.image(forResource: "graduation-cap")!
   public static let `grape`: NSImage = Bundle.module.image(forResource: "grape")!
   public static let `grid2x2Check`: NSImage = Bundle.module.image(forResource: "grid-2x2-check")!
+  public static let `grid2x2Plus`: NSImage = Bundle.module.image(forResource: "grid-2x2-plus")!
   public static let `grid2x2X`: NSImage = Bundle.module.image(forResource: "grid-2x2-x")!
   public static let `grid2x2`: NSImage = Bundle.module.image(forResource: "grid-2x2")!
   public static let `grid3x3`: NSImage = Bundle.module.image(forResource: "grid-3x3")!
