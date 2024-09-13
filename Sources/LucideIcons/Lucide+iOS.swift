@@ -397,6 +397,7 @@ extension Lucide {
   public static let `clock7`: UIImage = UIImage(named: "clock-7", in: Bundle.module, compatibleWith: nil)!
   public static let `clock8`: UIImage = UIImage(named: "clock-8", in: Bundle.module, compatibleWith: nil)!
   public static let `clock9`: UIImage = UIImage(named: "clock-9", in: Bundle.module, compatibleWith: nil)!
+  public static let `clockAlert`: UIImage = UIImage(named: "clock-alert", in: Bundle.module, compatibleWith: nil)!
   public static let `clockArrowDown`: UIImage = UIImage(named: "clock-arrow-down", in: Bundle.module, compatibleWith: nil)!
   public static let `clockArrowUp`: UIImage = UIImage(named: "clock-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `clock`: UIImage = UIImage(named: "clock", in: Bundle.module, compatibleWith: nil)!
@@ -737,6 +738,7 @@ extension Lucide {
   public static let `heading5`: UIImage = UIImage(named: "heading-5", in: Bundle.module, compatibleWith: nil)!
   public static let `heading6`: UIImage = UIImage(named: "heading-6", in: Bundle.module, compatibleWith: nil)!
   public static let `heading`: UIImage = UIImage(named: "heading", in: Bundle.module, compatibleWith: nil)!
+  public static let `headphoneOff`: UIImage = UIImage(named: "headphone-off", in: Bundle.module, compatibleWith: nil)!
   public static let `headphones`: UIImage = UIImage(named: "headphones", in: Bundle.module, compatibleWith: nil)!
   public static let `headset`: UIImage = UIImage(named: "headset", in: Bundle.module, compatibleWith: nil)!
   public static let `heartCrack`: UIImage = UIImage(named: "heart-crack", in: Bundle.module, compatibleWith: nil)!

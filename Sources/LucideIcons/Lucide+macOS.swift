@@ -397,6 +397,7 @@ extension Lucide {
   public static let `clock7`: NSImage = Bundle.module.image(forResource: "clock-7")!
   public static let `clock8`: NSImage = Bundle.module.image(forResource: "clock-8")!
   public static let `clock9`: NSImage = Bundle.module.image(forResource: "clock-9")!
+  public static let `clockAlert`: NSImage = Bundle.module.image(forResource: "clock-alert")!
   public static let `clockArrowDown`: NSImage = Bundle.module.image(forResource: "clock-arrow-down")!
   public static let `clockArrowUp`: NSImage = Bundle.module.image(forResource: "clock-arrow-up")!
   public static let `clock`: NSImage = Bundle.module.image(forResource: "clock")!
@@ -737,6 +738,7 @@ extension Lucide {
   public static let `heading5`: NSImage = Bundle.module.image(forResource: "heading-5")!
   public static let `heading6`: NSImage = Bundle.module.image(forResource: "heading-6")!
   public static let `heading`: NSImage = Bundle.module.image(forResource: "heading")!
+  public static let `headphoneOff`: NSImage = Bundle.module.image(forResource: "headphone-off")!
   public static let `headphones`: NSImage = Bundle.module.image(forResource: "headphones")!
   public static let `headset`: NSImage = Bundle.module.image(forResource: "headset")!
   public static let `heartCrack`: NSImage = Bundle.module.image(forResource: "heart-crack")!
