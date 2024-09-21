@@ -227,6 +227,7 @@ extension Lucide {
   public static let `brain`: NSImage = Bundle.module.image(forResource: "brain")!
   public static let `brickWall`: NSImage = Bundle.module.image(forResource: "brick-wall")!
   public static let `briefcaseBusiness`: NSImage = Bundle.module.image(forResource: "briefcase-business")!
+  public static let `briefcaseConveyorBelt`: NSImage = Bundle.module.image(forResource: "briefcase-conveyor-belt")!
   public static let `briefcaseMedical`: NSImage = Bundle.module.image(forResource: "briefcase-medical")!
   public static let `briefcase`: NSImage = Bundle.module.image(forResource: "briefcase")!
   public static let `bringToFront`: NSImage = Bundle.module.image(forResource: "bring-to-front")!
@@ -909,6 +910,7 @@ extension Lucide {
   public static let `messageSquareDiff`: NSImage = Bundle.module.image(forResource: "message-square-diff")!
   public static let `messageSquareDot`: NSImage = Bundle.module.image(forResource: "message-square-dot")!
   public static let `messageSquareHeart`: NSImage = Bundle.module.image(forResource: "message-square-heart")!
+  public static let `messageSquareLock`: NSImage = Bundle.module.image(forResource: "message-square-lock")!
   public static let `messageSquareMore`: NSImage = Bundle.module.image(forResource: "message-square-more")!
   public static let `messageSquareOff`: NSImage = Bundle.module.image(forResource: "message-square-off")!
   public static let `messageSquarePlus`: NSImage = Bundle.module.image(forResource: "message-square-plus")!

@@ -227,6 +227,7 @@ extension Lucide {
   public static let `brain`: UIImage = UIImage(named: "brain", in: Bundle.module, compatibleWith: nil)!
   public static let `brickWall`: UIImage = UIImage(named: "brick-wall", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcaseBusiness`: UIImage = UIImage(named: "briefcase-business", in: Bundle.module, compatibleWith: nil)!
+  public static let `briefcaseConveyorBelt`: UIImage = UIImage(named: "briefcase-conveyor-belt", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcaseMedical`: UIImage = UIImage(named: "briefcase-medical", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcase`: UIImage = UIImage(named: "briefcase", in: Bundle.module, compatibleWith: nil)!
   public static let `bringToFront`: UIImage = UIImage(named: "bring-to-front", in: Bundle.module, compatibleWith: nil)!
@@ -909,6 +910,7 @@ extension Lucide {
   public static let `messageSquareDiff`: UIImage = UIImage(named: "message-square-diff", in: Bundle.module, compatibleWith: nil)!
   public static let `messageSquareDot`: UIImage = UIImage(named: "message-square-dot", in: Bundle.module, compatibleWith: nil)!
   public static let `messageSquareHeart`: UIImage = UIImage(named: "message-square-heart", in: Bundle.module, compatibleWith: nil)!
+  public static let `messageSquareLock`: UIImage = UIImage(named: "message-square-lock", in: Bundle.module, compatibleWith: nil)!
   public static let `messageSquareMore`: UIImage = UIImage(named: "message-square-more", in: Bundle.module, compatibleWith: nil)!
   public static let `messageSquareOff`: UIImage = UIImage(named: "message-square-off", in: Bundle.module, compatibleWith: nil)!
   public static let `messageSquarePlus`: UIImage = UIImage(named: "message-square-plus", in: Bundle.module, compatibleWith: nil)!
