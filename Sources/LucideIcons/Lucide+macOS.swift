@@ -593,6 +593,7 @@ extension Lucide {
   public static let `fileType2`: NSImage = Bundle.module.image(forResource: "file-type-2")!
   public static let `fileType`: NSImage = Bundle.module.image(forResource: "file-type")!
   public static let `fileUp`: NSImage = Bundle.module.image(forResource: "file-up")!
+  public static let `fileUser`: NSImage = Bundle.module.image(forResource: "file-user")!
   public static let `fileVideo2`: NSImage = Bundle.module.image(forResource: "file-video-2")!
   public static let `fileVideo`: NSImage = Bundle.module.image(forResource: "file-video")!
   public static let `fileVolume2`: NSImage = Bundle.module.image(forResource: "file-volume-2")!

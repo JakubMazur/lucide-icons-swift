@@ -593,6 +593,7 @@ extension Lucide {
   public static let `fileType2`: UIImage = UIImage(named: "file-type-2", in: Bundle.module, compatibleWith: nil)!
   public static let `fileType`: UIImage = UIImage(named: "file-type", in: Bundle.module, compatibleWith: nil)!
   public static let `fileUp`: UIImage = UIImage(named: "file-up", in: Bundle.module, compatibleWith: nil)!
+  public static let `fileUser`: UIImage = UIImage(named: "file-user", in: Bundle.module, compatibleWith: nil)!
   public static let `fileVideo2`: UIImage = UIImage(named: "file-video-2", in: Bundle.module, compatibleWith: nil)!
   public static let `fileVideo`: UIImage = UIImage(named: "file-video", in: Bundle.module, compatibleWith: nil)!
   public static let `fileVolume2`: UIImage = UIImage(named: "file-volume-2", in: Bundle.module, compatibleWith: nil)!
