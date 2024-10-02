@@ -217,7 +217,6 @@ extension Lucide {
   public static let `botMessageSquare`: UIImage = UIImage(named: "bot-message-square", in: Bundle.module, compatibleWith: nil)!
   public static let `botOff`: UIImage = UIImage(named: "bot-off", in: Bundle.module, compatibleWith: nil)!
   public static let `bot`: UIImage = UIImage(named: "bot", in: Bundle.module, compatibleWith: nil)!
-  public static let `boxSelect`: UIImage = UIImage(named: "box-select", in: Bundle.module, compatibleWith: nil)!
   public static let `box`: UIImage = UIImage(named: "box", in: Bundle.module, compatibleWith: nil)!
   public static let `boxes`: UIImage = UIImage(named: "boxes", in: Bundle.module, compatibleWith: nil)!
   public static let `braces`: UIImage = UIImage(named: "braces", in: Bundle.module, compatibleWith: nil)!
@@ -1297,6 +1296,7 @@ extension Lucide {
   public static let `squareDashedBottom`: UIImage = UIImage(named: "square-dashed-bottom", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedKanban`: UIImage = UIImage(named: "square-dashed-kanban", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedMousePointer`: UIImage = UIImage(named: "square-dashed-mouse-pointer", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareDashed`: UIImage = UIImage(named: "square-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDivide`: UIImage = UIImage(named: "square-divide", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDot`: UIImage = UIImage(named: "square-dot", in: Bundle.module, compatibleWith: nil)!
   public static let `squareEqual`: UIImage = UIImage(named: "square-equal", in: Bundle.module, compatibleWith: nil)!

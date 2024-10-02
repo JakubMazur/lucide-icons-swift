@@ -217,7 +217,6 @@ extension Lucide {
   public static let `botMessageSquare`: NSImage = Bundle.module.image(forResource: "bot-message-square")!
   public static let `botOff`: NSImage = Bundle.module.image(forResource: "bot-off")!
   public static let `bot`: NSImage = Bundle.module.image(forResource: "bot")!
-  public static let `boxSelect`: NSImage = Bundle.module.image(forResource: "box-select")!
   public static let `box`: NSImage = Bundle.module.image(forResource: "box")!
   public static let `boxes`: NSImage = Bundle.module.image(forResource: "boxes")!
   public static let `braces`: NSImage = Bundle.module.image(forResource: "braces")!
@@ -1297,6 +1296,7 @@ extension Lucide {
   public static let `squareDashedBottom`: NSImage = Bundle.module.image(forResource: "square-dashed-bottom")!
   public static let `squareDashedKanban`: NSImage = Bundle.module.image(forResource: "square-dashed-kanban")!
   public static let `squareDashedMousePointer`: NSImage = Bundle.module.image(forResource: "square-dashed-mouse-pointer")!
+  public static let `squareDashed`: NSImage = Bundle.module.image(forResource: "square-dashed")!
   public static let `squareDivide`: NSImage = Bundle.module.image(forResource: "square-divide")!
   public static let `squareDot`: NSImage = Bundle.module.image(forResource: "square-dot")!
   public static let `squareEqual`: NSImage = Bundle.module.image(forResource: "square-equal")!
