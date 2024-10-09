@@ -532,6 +532,7 @@ extension Lucide {
   public static let `euro`: NSImage = Bundle.module.image(forResource: "euro")!
   public static let `expand`: NSImage = Bundle.module.image(forResource: "expand")!
   public static let `externalLink`: NSImage = Bundle.module.image(forResource: "external-link")!
+  public static let `eyeClosed`: NSImage = Bundle.module.image(forResource: "eye-closed")!
   public static let `eyeOff`: NSImage = Bundle.module.image(forResource: "eye-off")!
   public static let `eye`: NSImage = Bundle.module.image(forResource: "eye")!
   public static let `facebook`: NSImage = Bundle.module.image(forResource: "facebook")!
@@ -1494,6 +1495,7 @@ extension Lucide {
   public static let `videotape`: NSImage = Bundle.module.image(forResource: "videotape")!
   public static let `view`: NSImage = Bundle.module.image(forResource: "view")!
   public static let `voicemail`: NSImage = Bundle.module.image(forResource: "voicemail")!
+  public static let `volleyball`: NSImage = Bundle.module.image(forResource: "volleyball")!
   public static let `volume1`: NSImage = Bundle.module.image(forResource: "volume-1")!
   public static let `volume2`: NSImage = Bundle.module.image(forResource: "volume-2")!
   public static let `volumeOff`: NSImage = Bundle.module.image(forResource: "volume-off")!

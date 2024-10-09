@@ -532,6 +532,7 @@ extension Lucide {
   public static let `euro`: UIImage = UIImage(named: "euro", in: Bundle.module, compatibleWith: nil)!
   public static let `expand`: UIImage = UIImage(named: "expand", in: Bundle.module, compatibleWith: nil)!
   public static let `externalLink`: UIImage = UIImage(named: "external-link", in: Bundle.module, compatibleWith: nil)!
+  public static let `eyeClosed`: UIImage = UIImage(named: "eye-closed", in: Bundle.module, compatibleWith: nil)!
   public static let `eyeOff`: UIImage = UIImage(named: "eye-off", in: Bundle.module, compatibleWith: nil)!
   public static let `eye`: UIImage = UIImage(named: "eye", in: Bundle.module, compatibleWith: nil)!
   public static let `facebook`: UIImage = UIImage(named: "facebook", in: Bundle.module, compatibleWith: nil)!
@@ -1494,6 +1495,7 @@ extension Lucide {
   public static let `videotape`: UIImage = UIImage(named: "videotape", in: Bundle.module, compatibleWith: nil)!
   public static let `view`: UIImage = UIImage(named: "view", in: Bundle.module, compatibleWith: nil)!
   public static let `voicemail`: UIImage = UIImage(named: "voicemail", in: Bundle.module, compatibleWith: nil)!
+  public static let `volleyball`: UIImage = UIImage(named: "volleyball", in: Bundle.module, compatibleWith: nil)!
   public static let `volume1`: UIImage = UIImage(named: "volume-1", in: Bundle.module, compatibleWith: nil)!
   public static let `volume2`: UIImage = UIImage(named: "volume-2", in: Bundle.module, compatibleWith: nil)!
   public static let `volumeOff`: UIImage = UIImage(named: "volume-off", in: Bundle.module, compatibleWith: nil)!
