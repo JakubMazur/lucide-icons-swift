@@ -243,6 +243,7 @@ extension Lucide {
   public static let `cakeSlice`: UIImage = UIImage(named: "cake-slice", in: Bundle.module, compatibleWith: nil)!
   public static let `cake`: UIImage = UIImage(named: "cake", in: Bundle.module, compatibleWith: nil)!
   public static let `calculator`: UIImage = UIImage(named: "calculator", in: Bundle.module, compatibleWith: nil)!
+  public static let `calendar1`: UIImage = UIImage(named: "calendar-1", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarArrowDown`: UIImage = UIImage(named: "calendar-arrow-down", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarArrowUp`: UIImage = UIImage(named: "calendar-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarCheck2`: UIImage = UIImage(named: "calendar-check-2", in: Bundle.module, compatibleWith: nil)!

@@ -243,6 +243,7 @@ extension Lucide {
   public static let `cakeSlice`: NSImage = Bundle.module.image(forResource: "cake-slice")!
   public static let `cake`: NSImage = Bundle.module.image(forResource: "cake")!
   public static let `calculator`: NSImage = Bundle.module.image(forResource: "calculator")!
+  public static let `calendar1`: NSImage = Bundle.module.image(forResource: "calendar-1")!
   public static let `calendarArrowDown`: NSImage = Bundle.module.image(forResource: "calendar-arrow-down")!
   public static let `calendarArrowUp`: NSImage = Bundle.module.image(forResource: "calendar-arrow-up")!
   public static let `calendarCheck2`: NSImage = Bundle.module.image(forResource: "calendar-check-2")!
