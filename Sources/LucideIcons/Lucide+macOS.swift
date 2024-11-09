@@ -1526,6 +1526,7 @@ extension Lucide {
   public static let `wifiOff`: NSImage = Bundle.module.image(forResource: "wifi-off")!
   public static let `wifiZero`: NSImage = Bundle.module.image(forResource: "wifi-zero")!
   public static let `wifi`: NSImage = Bundle.module.image(forResource: "wifi")!
+  public static let `windArrowDown`: NSImage = Bundle.module.image(forResource: "wind-arrow-down")!
   public static let `wind`: NSImage = Bundle.module.image(forResource: "wind")!
   public static let `wineOff`: NSImage = Bundle.module.image(forResource: "wine-off")!
   public static let `wine`: NSImage = Bundle.module.image(forResource: "wine")!
