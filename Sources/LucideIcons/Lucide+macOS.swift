@@ -402,6 +402,7 @@ extension Lucide {
   public static let `clockArrowDown`: NSImage = Bundle.module.image(forResource: "clock-arrow-down")!
   public static let `clockArrowUp`: NSImage = Bundle.module.image(forResource: "clock-arrow-up")!
   public static let `clock`: NSImage = Bundle.module.image(forResource: "clock")!
+  public static let `cloudAlert`: NSImage = Bundle.module.image(forResource: "cloud-alert")!
   public static let `cloudCog`: NSImage = Bundle.module.image(forResource: "cloud-cog")!
   public static let `cloudDownload`: NSImage = Bundle.module.image(forResource: "cloud-download")!
   public static let `cloudDrizzle`: NSImage = Bundle.module.image(forResource: "cloud-drizzle")!
@@ -526,6 +527,7 @@ extension Lucide {
   public static let `egg`: NSImage = Bundle.module.image(forResource: "egg")!
   public static let `ellipsisVertical`: NSImage = Bundle.module.image(forResource: "ellipsis-vertical")!
   public static let `ellipsis`: NSImage = Bundle.module.image(forResource: "ellipsis")!
+  public static let `equalApproximately`: NSImage = Bundle.module.image(forResource: "equal-approximately")!
   public static let `equalNot`: NSImage = Bundle.module.image(forResource: "equal-not")!
   public static let `equal`: NSImage = Bundle.module.image(forResource: "equal")!
   public static let `eraser`: NSImage = Bundle.module.image(forResource: "eraser")!
@@ -802,6 +804,7 @@ extension Lucide {
   public static let `landPlot`: NSImage = Bundle.module.image(forResource: "land-plot")!
   public static let `landmark`: NSImage = Bundle.module.image(forResource: "landmark")!
   public static let `languages`: NSImage = Bundle.module.image(forResource: "languages")!
+  public static let `laptopMinimalCheck`: NSImage = Bundle.module.image(forResource: "laptop-minimal-check")!
   public static let `laptopMinimal`: NSImage = Bundle.module.image(forResource: "laptop-minimal")!
   public static let `laptop`: NSImage = Bundle.module.image(forResource: "laptop")!
   public static let `lassoSelect`: NSImage = Bundle.module.image(forResource: "lasso-select")!
@@ -1414,6 +1417,7 @@ extension Lucide {
   public static let `timer`: NSImage = Bundle.module.image(forResource: "timer")!
   public static let `toggleLeft`: NSImage = Bundle.module.image(forResource: "toggle-left")!
   public static let `toggleRight`: NSImage = Bundle.module.image(forResource: "toggle-right")!
+  public static let `toilet`: NSImage = Bundle.module.image(forResource: "toilet")!
   public static let `tornado`: NSImage = Bundle.module.image(forResource: "tornado")!
   public static let `torus`: NSImage = Bundle.module.image(forResource: "torus")!
   public static let `touchpadOff`: NSImage = Bundle.module.image(forResource: "touchpad-off")!

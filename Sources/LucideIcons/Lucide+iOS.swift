@@ -402,6 +402,7 @@ extension Lucide {
   public static let `clockArrowDown`: UIImage = UIImage(named: "clock-arrow-down", in: Bundle.module, compatibleWith: nil)!
   public static let `clockArrowUp`: UIImage = UIImage(named: "clock-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `clock`: UIImage = UIImage(named: "clock", in: Bundle.module, compatibleWith: nil)!
+  public static let `cloudAlert`: UIImage = UIImage(named: "cloud-alert", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudCog`: UIImage = UIImage(named: "cloud-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudDownload`: UIImage = UIImage(named: "cloud-download", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudDrizzle`: UIImage = UIImage(named: "cloud-drizzle", in: Bundle.module, compatibleWith: nil)!
@@ -526,6 +527,7 @@ extension Lucide {
   public static let `egg`: UIImage = UIImage(named: "egg", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsisVertical`: UIImage = UIImage(named: "ellipsis-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsis`: UIImage = UIImage(named: "ellipsis", in: Bundle.module, compatibleWith: nil)!
+  public static let `equalApproximately`: UIImage = UIImage(named: "equal-approximately", in: Bundle.module, compatibleWith: nil)!
   public static let `equalNot`: UIImage = UIImage(named: "equal-not", in: Bundle.module, compatibleWith: nil)!
   public static let `equal`: UIImage = UIImage(named: "equal", in: Bundle.module, compatibleWith: nil)!
   public static let `eraser`: UIImage = UIImage(named: "eraser", in: Bundle.module, compatibleWith: nil)!
@@ -802,6 +804,7 @@ extension Lucide {
   public static let `landPlot`: UIImage = UIImage(named: "land-plot", in: Bundle.module, compatibleWith: nil)!
   public static let `landmark`: UIImage = UIImage(named: "landmark", in: Bundle.module, compatibleWith: nil)!
   public static let `languages`: UIImage = UIImage(named: "languages", in: Bundle.module, compatibleWith: nil)!
+  public static let `laptopMinimalCheck`: UIImage = UIImage(named: "laptop-minimal-check", in: Bundle.module, compatibleWith: nil)!
   public static let `laptopMinimal`: UIImage = UIImage(named: "laptop-minimal", in: Bundle.module, compatibleWith: nil)!
   public static let `laptop`: UIImage = UIImage(named: "laptop", in: Bundle.module, compatibleWith: nil)!
   public static let `lassoSelect`: UIImage = UIImage(named: "lasso-select", in: Bundle.module, compatibleWith: nil)!
@@ -1414,6 +1417,7 @@ extension Lucide {
   public static let `timer`: UIImage = UIImage(named: "timer", in: Bundle.module, compatibleWith: nil)!
   public static let `toggleLeft`: UIImage = UIImage(named: "toggle-left", in: Bundle.module, compatibleWith: nil)!
   public static let `toggleRight`: UIImage = UIImage(named: "toggle-right", in: Bundle.module, compatibleWith: nil)!
+  public static let `toilet`: UIImage = UIImage(named: "toilet", in: Bundle.module, compatibleWith: nil)!
   public static let `tornado`: UIImage = UIImage(named: "tornado", in: Bundle.module, compatibleWith: nil)!
   public static let `torus`: UIImage = UIImage(named: "torus", in: Bundle.module, compatibleWith: nil)!
   public static let `touchpadOff`: UIImage = UIImage(named: "touchpad-off", in: Bundle.module, compatibleWith: nil)!
