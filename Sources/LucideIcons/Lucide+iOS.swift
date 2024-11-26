@@ -260,6 +260,7 @@ extension Lucide {
   public static let `calendarPlus`: UIImage = UIImage(named: "calendar-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarRange`: UIImage = UIImage(named: "calendar-range", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarSearch`: UIImage = UIImage(named: "calendar-search", in: Bundle.module, compatibleWith: nil)!
+  public static let `calendarSync`: UIImage = UIImage(named: "calendar-sync", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarX2`: UIImage = UIImage(named: "calendar-x-2", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarX`: UIImage = UIImage(named: "calendar-x", in: Bundle.module, compatibleWith: nil)!
   public static let `calendar`: UIImage = UIImage(named: "calendar", in: Bundle.module, compatibleWith: nil)!
