@@ -773,6 +773,7 @@ extension Lucide {
   public static let `imagePlay`: NSImage = Bundle.module.image(forResource: "image-play")!
   public static let `imagePlus`: NSImage = Bundle.module.image(forResource: "image-plus")!
   public static let `imageUp`: NSImage = Bundle.module.image(forResource: "image-up")!
+  public static let `imageUpscale`: NSImage = Bundle.module.image(forResource: "image-upscale")!
   public static let `image`: NSImage = Bundle.module.image(forResource: "image")!
   public static let `images`: NSImage = Bundle.module.image(forResource: "images")!
   public static let `import`: NSImage = Bundle.module.image(forResource: "import")!

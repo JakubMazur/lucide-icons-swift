@@ -773,6 +773,7 @@ extension Lucide {
   public static let `imagePlay`: UIImage = UIImage(named: "image-play", in: Bundle.module, compatibleWith: nil)!
   public static let `imagePlus`: UIImage = UIImage(named: "image-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `imageUp`: UIImage = UIImage(named: "image-up", in: Bundle.module, compatibleWith: nil)!
+  public static let `imageUpscale`: UIImage = UIImage(named: "image-upscale", in: Bundle.module, compatibleWith: nil)!
   public static let `image`: UIImage = UIImage(named: "image", in: Bundle.module, compatibleWith: nil)!
   public static let `images`: UIImage = UIImage(named: "images", in: Bundle.module, compatibleWith: nil)!
   public static let `import`: UIImage = UIImage(named: "import", in: Bundle.module, compatibleWith: nil)!
