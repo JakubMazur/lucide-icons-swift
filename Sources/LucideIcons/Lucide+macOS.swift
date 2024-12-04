@@ -813,7 +813,6 @@ extension Lucide {
   public static let `lasso`: NSImage = Bundle.module.image(forResource: "lasso")!
   public static let `laugh`: NSImage = Bundle.module.image(forResource: "laugh")!
   public static let `layers2`: NSImage = Bundle.module.image(forResource: "layers-2")!
-  public static let `layers3`: NSImage = Bundle.module.image(forResource: "layers-3")!
   public static let `layers`: NSImage = Bundle.module.image(forResource: "layers")!
   public static let `layoutDashboard`: NSImage = Bundle.module.image(forResource: "layout-dashboard")!
   public static let `layoutGrid`: NSImage = Bundle.module.image(forResource: "layout-grid")!

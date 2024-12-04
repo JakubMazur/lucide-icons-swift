@@ -813,7 +813,6 @@ extension Lucide {
   public static let `lasso`: UIImage = UIImage(named: "lasso", in: Bundle.module, compatibleWith: nil)!
   public static let `laugh`: UIImage = UIImage(named: "laugh", in: Bundle.module, compatibleWith: nil)!
   public static let `layers2`: UIImage = UIImage(named: "layers-2", in: Bundle.module, compatibleWith: nil)!
-  public static let `layers3`: UIImage = UIImage(named: "layers-3", in: Bundle.module, compatibleWith: nil)!
   public static let `layers`: UIImage = UIImage(named: "layers", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutDashboard`: UIImage = UIImage(named: "layout-dashboard", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutGrid`: UIImage = UIImage(named: "layout-grid", in: Bundle.module, compatibleWith: nil)!
