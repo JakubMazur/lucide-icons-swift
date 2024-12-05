@@ -513,6 +513,7 @@ extension Lucide {
   public static let `drama`: NSImage = Bundle.module.image(forResource: "drama")!
   public static let `dribbble`: NSImage = Bundle.module.image(forResource: "dribbble")!
   public static let `drill`: NSImage = Bundle.module.image(forResource: "drill")!
+  public static let `dropletOff`: NSImage = Bundle.module.image(forResource: "droplet-off")!
   public static let `droplet`: NSImage = Bundle.module.image(forResource: "droplet")!
   public static let `droplets`: NSImage = Bundle.module.image(forResource: "droplets")!
   public static let `drum`: NSImage = Bundle.module.image(forResource: "drum")!

@@ -513,6 +513,7 @@ extension Lucide {
   public static let `drama`: UIImage = UIImage(named: "drama", in: Bundle.module, compatibleWith: nil)!
   public static let `dribbble`: UIImage = UIImage(named: "dribbble", in: Bundle.module, compatibleWith: nil)!
   public static let `drill`: UIImage = UIImage(named: "drill", in: Bundle.module, compatibleWith: nil)!
+  public static let `dropletOff`: UIImage = UIImage(named: "droplet-off", in: Bundle.module, compatibleWith: nil)!
   public static let `droplet`: UIImage = UIImage(named: "droplet", in: Bundle.module, compatibleWith: nil)!
   public static let `droplets`: UIImage = UIImage(named: "droplets", in: Bundle.module, compatibleWith: nil)!
   public static let `drum`: UIImage = UIImage(named: "drum", in: Bundle.module, compatibleWith: nil)!
