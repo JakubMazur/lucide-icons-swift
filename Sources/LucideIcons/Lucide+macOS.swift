@@ -839,6 +839,7 @@ extension Lucide {
   public static let `listChecks`: NSImage = Bundle.module.image(forResource: "list-checks")!
   public static let `listCollapse`: NSImage = Bundle.module.image(forResource: "list-collapse")!
   public static let `listEnd`: NSImage = Bundle.module.image(forResource: "list-end")!
+  public static let `listFilterPlus`: NSImage = Bundle.module.image(forResource: "list-filter-plus")!
   public static let `listFilter`: NSImage = Bundle.module.image(forResource: "list-filter")!
   public static let `listMinus`: NSImage = Bundle.module.image(forResource: "list-minus")!
   public static let `listMusic`: NSImage = Bundle.module.image(forResource: "list-music")!
@@ -1181,6 +1182,7 @@ extension Lucide {
   public static let `scanBarcode`: NSImage = Bundle.module.image(forResource: "scan-barcode")!
   public static let `scanEye`: NSImage = Bundle.module.image(forResource: "scan-eye")!
   public static let `scanFace`: NSImage = Bundle.module.image(forResource: "scan-face")!
+  public static let `scanHeart`: NSImage = Bundle.module.image(forResource: "scan-heart")!
   public static let `scanLine`: NSImage = Bundle.module.image(forResource: "scan-line")!
   public static let `scanQrCode`: NSImage = Bundle.module.image(forResource: "scan-qr-code")!
   public static let `scanSearch`: NSImage = Bundle.module.image(forResource: "scan-search")!
@@ -1518,6 +1520,7 @@ extension Lucide {
   public static let `warehouse`: NSImage = Bundle.module.image(forResource: "warehouse")!
   public static let `washingMachine`: NSImage = Bundle.module.image(forResource: "washing-machine")!
   public static let `watch`: NSImage = Bundle.module.image(forResource: "watch")!
+  public static let `wavesLadder`: NSImage = Bundle.module.image(forResource: "waves-ladder")!
   public static let `waves`: NSImage = Bundle.module.image(forResource: "waves")!
   public static let `waypoints`: NSImage = Bundle.module.image(forResource: "waypoints")!
   public static let `webcam`: NSImage = Bundle.module.image(forResource: "webcam")!

@@ -839,6 +839,7 @@ extension Lucide {
   public static let `listChecks`: UIImage = UIImage(named: "list-checks", in: Bundle.module, compatibleWith: nil)!
   public static let `listCollapse`: UIImage = UIImage(named: "list-collapse", in: Bundle.module, compatibleWith: nil)!
   public static let `listEnd`: UIImage = UIImage(named: "list-end", in: Bundle.module, compatibleWith: nil)!
+  public static let `listFilterPlus`: UIImage = UIImage(named: "list-filter-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `listFilter`: UIImage = UIImage(named: "list-filter", in: Bundle.module, compatibleWith: nil)!
   public static let `listMinus`: UIImage = UIImage(named: "list-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `listMusic`: UIImage = UIImage(named: "list-music", in: Bundle.module, compatibleWith: nil)!
@@ -1181,6 +1182,7 @@ extension Lucide {
   public static let `scanBarcode`: UIImage = UIImage(named: "scan-barcode", in: Bundle.module, compatibleWith: nil)!
   public static let `scanEye`: UIImage = UIImage(named: "scan-eye", in: Bundle.module, compatibleWith: nil)!
   public static let `scanFace`: UIImage = UIImage(named: "scan-face", in: Bundle.module, compatibleWith: nil)!
+  public static let `scanHeart`: UIImage = UIImage(named: "scan-heart", in: Bundle.module, compatibleWith: nil)!
   public static let `scanLine`: UIImage = UIImage(named: "scan-line", in: Bundle.module, compatibleWith: nil)!
   public static let `scanQrCode`: UIImage = UIImage(named: "scan-qr-code", in: Bundle.module, compatibleWith: nil)!
   public static let `scanSearch`: UIImage = UIImage(named: "scan-search", in: Bundle.module, compatibleWith: nil)!
@@ -1518,6 +1520,7 @@ extension Lucide {
   public static let `warehouse`: UIImage = UIImage(named: "warehouse", in: Bundle.module, compatibleWith: nil)!
   public static let `washingMachine`: UIImage = UIImage(named: "washing-machine", in: Bundle.module, compatibleWith: nil)!
   public static let `watch`: UIImage = UIImage(named: "watch", in: Bundle.module, compatibleWith: nil)!
+  public static let `wavesLadder`: UIImage = UIImage(named: "waves-ladder", in: Bundle.module, compatibleWith: nil)!
   public static let `waves`: UIImage = UIImage(named: "waves", in: Bundle.module, compatibleWith: nil)!
   public static let `waypoints`: UIImage = UIImage(named: "waypoints", in: Bundle.module, compatibleWith: nil)!
   public static let `webcam`: UIImage = UIImage(named: "webcam", in: Bundle.module, compatibleWith: nil)!
