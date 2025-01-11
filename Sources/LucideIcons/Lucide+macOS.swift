@@ -764,6 +764,7 @@ extension Lucide {
   public static let `hourglass`: NSImage = Bundle.module.image(forResource: "hourglass")!
   public static let `housePlug`: NSImage = Bundle.module.image(forResource: "house-plug")!
   public static let `housePlus`: NSImage = Bundle.module.image(forResource: "house-plus")!
+  public static let `houseWifi`: NSImage = Bundle.module.image(forResource: "house-wifi")!
   public static let `house`: NSImage = Bundle.module.image(forResource: "house")!
   public static let `iceCreamBowl`: NSImage = Bundle.module.image(forResource: "ice-cream-bowl")!
   public static let `iceCreamCone`: NSImage = Bundle.module.image(forResource: "ice-cream-cone")!
@@ -1445,6 +1446,7 @@ extension Lucide {
   public static let `trendingUpDown`: NSImage = Bundle.module.image(forResource: "trending-up-down")!
   public static let `trendingUp`: NSImage = Bundle.module.image(forResource: "trending-up")!
   public static let `triangleAlert`: NSImage = Bundle.module.image(forResource: "triangle-alert")!
+  public static let `triangleDashed`: NSImage = Bundle.module.image(forResource: "triangle-dashed")!
   public static let `triangleRight`: NSImage = Bundle.module.image(forResource: "triangle-right")!
   public static let `triangle`: NSImage = Bundle.module.image(forResource: "triangle")!
   public static let `trophy`: NSImage = Bundle.module.image(forResource: "trophy")!

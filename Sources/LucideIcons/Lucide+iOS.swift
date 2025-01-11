@@ -764,6 +764,7 @@ extension Lucide {
   public static let `hourglass`: UIImage = UIImage(named: "hourglass", in: Bundle.module, compatibleWith: nil)!
   public static let `housePlug`: UIImage = UIImage(named: "house-plug", in: Bundle.module, compatibleWith: nil)!
   public static let `housePlus`: UIImage = UIImage(named: "house-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `houseWifi`: UIImage = UIImage(named: "house-wifi", in: Bundle.module, compatibleWith: nil)!
   public static let `house`: UIImage = UIImage(named: "house", in: Bundle.module, compatibleWith: nil)!
   public static let `iceCreamBowl`: UIImage = UIImage(named: "ice-cream-bowl", in: Bundle.module, compatibleWith: nil)!
   public static let `iceCreamCone`: UIImage = UIImage(named: "ice-cream-cone", in: Bundle.module, compatibleWith: nil)!
@@ -1445,6 +1446,7 @@ extension Lucide {
   public static let `trendingUpDown`: UIImage = UIImage(named: "trending-up-down", in: Bundle.module, compatibleWith: nil)!
   public static let `trendingUp`: UIImage = UIImage(named: "trending-up", in: Bundle.module, compatibleWith: nil)!
   public static let `triangleAlert`: UIImage = UIImage(named: "triangle-alert", in: Bundle.module, compatibleWith: nil)!
+  public static let `triangleDashed`: UIImage = UIImage(named: "triangle-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `triangleRight`: UIImage = UIImage(named: "triangle-right", in: Bundle.module, compatibleWith: nil)!
   public static let `triangle`: UIImage = UIImage(named: "triangle", in: Bundle.module, compatibleWith: nil)!
   public static let `trophy`: UIImage = UIImage(named: "trophy", in: Bundle.module, compatibleWith: nil)!
