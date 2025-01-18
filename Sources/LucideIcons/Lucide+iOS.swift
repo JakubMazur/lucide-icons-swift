@@ -144,6 +144,7 @@ extension Lucide {
   public static let `batteryFull`: UIImage = UIImage(named: "battery-full", in: Bundle.module, compatibleWith: nil)!
   public static let `batteryLow`: UIImage = UIImage(named: "battery-low", in: Bundle.module, compatibleWith: nil)!
   public static let `batteryMedium`: UIImage = UIImage(named: "battery-medium", in: Bundle.module, compatibleWith: nil)!
+  public static let `batteryPlus`: UIImage = UIImage(named: "battery-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `batteryWarning`: UIImage = UIImage(named: "battery-warning", in: Bundle.module, compatibleWith: nil)!
   public static let `battery`: UIImage = UIImage(named: "battery", in: Bundle.module, compatibleWith: nil)!
   public static let `beaker`: UIImage = UIImage(named: "beaker", in: Bundle.module, compatibleWith: nil)!
@@ -892,6 +893,7 @@ extension Lucide {
   public static let `mapPinX`: UIImage = UIImage(named: "map-pin-x", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPin`: UIImage = UIImage(named: "map-pin", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPinned`: UIImage = UIImage(named: "map-pinned", in: Bundle.module, compatibleWith: nil)!
+  public static let `mapPlus`: UIImage = UIImage(named: "map-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `map`: UIImage = UIImage(named: "map", in: Bundle.module, compatibleWith: nil)!
   public static let `martini`: UIImage = UIImage(named: "martini", in: Bundle.module, compatibleWith: nil)!
   public static let `maximize2`: UIImage = UIImage(named: "maximize-2", in: Bundle.module, compatibleWith: nil)!

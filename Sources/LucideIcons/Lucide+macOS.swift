@@ -144,6 +144,7 @@ extension Lucide {
   public static let `batteryFull`: NSImage = Bundle.module.image(forResource: "battery-full")!
   public static let `batteryLow`: NSImage = Bundle.module.image(forResource: "battery-low")!
   public static let `batteryMedium`: NSImage = Bundle.module.image(forResource: "battery-medium")!
+  public static let `batteryPlus`: NSImage = Bundle.module.image(forResource: "battery-plus")!
   public static let `batteryWarning`: NSImage = Bundle.module.image(forResource: "battery-warning")!
   public static let `battery`: NSImage = Bundle.module.image(forResource: "battery")!
   public static let `beaker`: NSImage = Bundle.module.image(forResource: "beaker")!
@@ -892,6 +893,7 @@ extension Lucide {
   public static let `mapPinX`: NSImage = Bundle.module.image(forResource: "map-pin-x")!
   public static let `mapPin`: NSImage = Bundle.module.image(forResource: "map-pin")!
   public static let `mapPinned`: NSImage = Bundle.module.image(forResource: "map-pinned")!
+  public static let `mapPlus`: NSImage = Bundle.module.image(forResource: "map-plus")!
   public static let `map`: NSImage = Bundle.module.image(forResource: "map")!
   public static let `martini`: NSImage = Bundle.module.image(forResource: "martini")!
   public static let `maximize2`: NSImage = Bundle.module.image(forResource: "maximize-2")!
