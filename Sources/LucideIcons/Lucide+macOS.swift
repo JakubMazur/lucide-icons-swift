@@ -369,6 +369,7 @@ extension Lucide {
   public static let `circlePower`: NSImage = Bundle.module.image(forResource: "circle-power")!
   public static let `circleSlash2`: NSImage = Bundle.module.image(forResource: "circle-slash-2")!
   public static let `circleSlash`: NSImage = Bundle.module.image(forResource: "circle-slash")!
+  public static let `circleSmall`: NSImage = Bundle.module.image(forResource: "circle-small")!
   public static let `circleStop`: NSImage = Bundle.module.image(forResource: "circle-stop")!
   public static let `circleUserRound`: NSImage = Bundle.module.image(forResource: "circle-user-round")!
   public static let `circleUser`: NSImage = Bundle.module.image(forResource: "circle-user")!
@@ -895,6 +896,8 @@ extension Lucide {
   public static let `mapPinned`: NSImage = Bundle.module.image(forResource: "map-pinned")!
   public static let `mapPlus`: NSImage = Bundle.module.image(forResource: "map-plus")!
   public static let `map`: NSImage = Bundle.module.image(forResource: "map")!
+  public static let `marsStroke`: NSImage = Bundle.module.image(forResource: "mars-stroke")!
+  public static let `mars`: NSImage = Bundle.module.image(forResource: "mars")!
   public static let `martini`: NSImage = Bundle.module.image(forResource: "martini")!
   public static let `maximize2`: NSImage = Bundle.module.image(forResource: "maximize-2")!
   public static let `maximize`: NSImage = Bundle.module.image(forResource: "maximize")!
@@ -993,6 +996,7 @@ extension Lucide {
   public static let `network`: NSImage = Bundle.module.image(forResource: "network")!
   public static let `newspaper`: NSImage = Bundle.module.image(forResource: "newspaper")!
   public static let `nfc`: NSImage = Bundle.module.image(forResource: "nfc")!
+  public static let `nonBinary`: NSImage = Bundle.module.image(forResource: "non-binary")!
   public static let `notebookPen`: NSImage = Bundle.module.image(forResource: "notebook-pen")!
   public static let `notebookTabs`: NSImage = Bundle.module.image(forResource: "notebook-tabs")!
   public static let `notebookText`: NSImage = Bundle.module.image(forResource: "notebook-text")!
@@ -1437,6 +1441,7 @@ extension Lucide {
   public static let `trainFront`: NSImage = Bundle.module.image(forResource: "train-front")!
   public static let `trainTrack`: NSImage = Bundle.module.image(forResource: "train-track")!
   public static let `tramFront`: NSImage = Bundle.module.image(forResource: "tram-front")!
+  public static let `transgender`: NSImage = Bundle.module.image(forResource: "transgender")!
   public static let `trash2`: NSImage = Bundle.module.image(forResource: "trash-2")!
   public static let `trash`: NSImage = Bundle.module.image(forResource: "trash")!
   public static let `treeDeciduous`: NSImage = Bundle.module.image(forResource: "tree-deciduous")!
@@ -1501,6 +1506,8 @@ extension Lucide {
   public static let `vault`: NSImage = Bundle.module.image(forResource: "vault")!
   public static let `vegan`: NSImage = Bundle.module.image(forResource: "vegan")!
   public static let `venetianMask`: NSImage = Bundle.module.image(forResource: "venetian-mask")!
+  public static let `venusAndMars`: NSImage = Bundle.module.image(forResource: "venus-and-mars")!
+  public static let `venus`: NSImage = Bundle.module.image(forResource: "venus")!
   public static let `vibrateOff`: NSImage = Bundle.module.image(forResource: "vibrate-off")!
   public static let `vibrate`: NSImage = Bundle.module.image(forResource: "vibrate")!
   public static let `videoOff`: NSImage = Bundle.module.image(forResource: "video-off")!
