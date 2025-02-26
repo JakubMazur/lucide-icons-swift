@@ -1233,6 +1233,7 @@ extension Lucide {
   public static let `shieldOff`: UIImage = UIImage(named: "shield-off", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldPlus`: UIImage = UIImage(named: "shield-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldQuestion`: UIImage = UIImage(named: "shield-question", in: Bundle.module, compatibleWith: nil)!
+  public static let `shieldUser`: UIImage = UIImage(named: "shield-user", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldX`: UIImage = UIImage(named: "shield-x", in: Bundle.module, compatibleWith: nil)!
   public static let `shield`: UIImage = UIImage(named: "shield", in: Bundle.module, compatibleWith: nil)!
   public static let `shipWheel`: UIImage = UIImage(named: "ship-wheel", in: Bundle.module, compatibleWith: nil)!

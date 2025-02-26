@@ -1233,6 +1233,7 @@ extension Lucide {
   public static let `shieldOff`: NSImage = Bundle.module.image(forResource: "shield-off")!
   public static let `shieldPlus`: NSImage = Bundle.module.image(forResource: "shield-plus")!
   public static let `shieldQuestion`: NSImage = Bundle.module.image(forResource: "shield-question")!
+  public static let `shieldUser`: NSImage = Bundle.module.image(forResource: "shield-user")!
   public static let `shieldX`: NSImage = Bundle.module.image(forResource: "shield-x")!
   public static let `shield`: NSImage = Bundle.module.image(forResource: "shield")!
   public static let `shipWheel`: NSImage = Bundle.module.image(forResource: "ship-wheel")!
