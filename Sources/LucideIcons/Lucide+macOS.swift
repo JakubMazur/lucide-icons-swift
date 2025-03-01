@@ -1334,6 +1334,7 @@ extension Lucide {
   public static let `squarePlus`: NSImage = Bundle.module.image(forResource: "square-plus")!
   public static let `squarePower`: NSImage = Bundle.module.image(forResource: "square-power")!
   public static let `squareRadical`: NSImage = Bundle.module.image(forResource: "square-radical")!
+  public static let `squareRoundCorner`: NSImage = Bundle.module.image(forResource: "square-round-corner")!
   public static let `squareScissors`: NSImage = Bundle.module.image(forResource: "square-scissors")!
   public static let `squareSigma`: NSImage = Bundle.module.image(forResource: "square-sigma")!
   public static let `squareSlash`: NSImage = Bundle.module.image(forResource: "square-slash")!

@@ -1334,6 +1334,7 @@ extension Lucide {
   public static let `squarePlus`: UIImage = UIImage(named: "square-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `squarePower`: UIImage = UIImage(named: "square-power", in: Bundle.module, compatibleWith: nil)!
   public static let `squareRadical`: UIImage = UIImage(named: "square-radical", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareRoundCorner`: UIImage = UIImage(named: "square-round-corner", in: Bundle.module, compatibleWith: nil)!
   public static let `squareScissors`: UIImage = UIImage(named: "square-scissors", in: Bundle.module, compatibleWith: nil)!
   public static let `squareSigma`: UIImage = UIImage(named: "square-sigma", in: Bundle.module, compatibleWith: nil)!
   public static let `squareSlash`: UIImage = UIImage(named: "square-slash", in: Bundle.module, compatibleWith: nil)!
