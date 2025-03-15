@@ -404,6 +404,7 @@ extension Lucide {
   public static let `clockAlert`: NSImage = Bundle.module.image(forResource: "clock-alert")!
   public static let `clockArrowDown`: NSImage = Bundle.module.image(forResource: "clock-arrow-down")!
   public static let `clockArrowUp`: NSImage = Bundle.module.image(forResource: "clock-arrow-up")!
+  public static let `clockFading`: NSImage = Bundle.module.image(forResource: "clock-fading")!
   public static let `clock`: NSImage = Bundle.module.image(forResource: "clock")!
   public static let `cloudAlert`: NSImage = Bundle.module.image(forResource: "cloud-alert")!
   public static let `cloudCog`: NSImage = Bundle.module.image(forResource: "cloud-cog")!
@@ -1180,6 +1181,7 @@ extension Lucide {
   public static let `sandwich`: NSImage = Bundle.module.image(forResource: "sandwich")!
   public static let `satelliteDish`: NSImage = Bundle.module.image(forResource: "satellite-dish")!
   public static let `satellite`: NSImage = Bundle.module.image(forResource: "satellite")!
+  public static let `saudiRiyal`: NSImage = Bundle.module.image(forResource: "saudi-riyal")!
   public static let `saveAll`: NSImage = Bundle.module.image(forResource: "save-all")!
   public static let `saveOff`: NSImage = Bundle.module.image(forResource: "save-off")!
   public static let `save`: NSImage = Bundle.module.image(forResource: "save")!
@@ -1244,6 +1246,7 @@ extension Lucide {
   public static let `shoppingCart`: NSImage = Bundle.module.image(forResource: "shopping-cart")!
   public static let `shovel`: NSImage = Bundle.module.image(forResource: "shovel")!
   public static let `showerHead`: NSImage = Bundle.module.image(forResource: "shower-head")!
+  public static let `shrimp`: NSImage = Bundle.module.image(forResource: "shrimp")!
   public static let `shrink`: NSImage = Bundle.module.image(forResource: "shrink")!
   public static let `shrub`: NSImage = Bundle.module.image(forResource: "shrub")!
   public static let `shuffle`: NSImage = Bundle.module.image(forResource: "shuffle")!

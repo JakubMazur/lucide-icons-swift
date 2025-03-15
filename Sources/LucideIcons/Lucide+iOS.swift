@@ -404,6 +404,7 @@ extension Lucide {
   public static let `clockAlert`: UIImage = UIImage(named: "clock-alert", in: Bundle.module, compatibleWith: nil)!
   public static let `clockArrowDown`: UIImage = UIImage(named: "clock-arrow-down", in: Bundle.module, compatibleWith: nil)!
   public static let `clockArrowUp`: UIImage = UIImage(named: "clock-arrow-up", in: Bundle.module, compatibleWith: nil)!
+  public static let `clockFading`: UIImage = UIImage(named: "clock-fading", in: Bundle.module, compatibleWith: nil)!
   public static let `clock`: UIImage = UIImage(named: "clock", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudAlert`: UIImage = UIImage(named: "cloud-alert", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudCog`: UIImage = UIImage(named: "cloud-cog", in: Bundle.module, compatibleWith: nil)!
@@ -1180,6 +1181,7 @@ extension Lucide {
   public static let `sandwich`: UIImage = UIImage(named: "sandwich", in: Bundle.module, compatibleWith: nil)!
   public static let `satelliteDish`: UIImage = UIImage(named: "satellite-dish", in: Bundle.module, compatibleWith: nil)!
   public static let `satellite`: UIImage = UIImage(named: "satellite", in: Bundle.module, compatibleWith: nil)!
+  public static let `saudiRiyal`: UIImage = UIImage(named: "saudi-riyal", in: Bundle.module, compatibleWith: nil)!
   public static let `saveAll`: UIImage = UIImage(named: "save-all", in: Bundle.module, compatibleWith: nil)!
   public static let `saveOff`: UIImage = UIImage(named: "save-off", in: Bundle.module, compatibleWith: nil)!
   public static let `save`: UIImage = UIImage(named: "save", in: Bundle.module, compatibleWith: nil)!
@@ -1244,6 +1246,7 @@ extension Lucide {
   public static let `shoppingCart`: UIImage = UIImage(named: "shopping-cart", in: Bundle.module, compatibleWith: nil)!
   public static let `shovel`: UIImage = UIImage(named: "shovel", in: Bundle.module, compatibleWith: nil)!
   public static let `showerHead`: UIImage = UIImage(named: "shower-head", in: Bundle.module, compatibleWith: nil)!
+  public static let `shrimp`: UIImage = UIImage(named: "shrimp", in: Bundle.module, compatibleWith: nil)!
   public static let `shrink`: UIImage = UIImage(named: "shrink", in: Bundle.module, compatibleWith: nil)!
   public static let `shrub`: UIImage = UIImage(named: "shrub", in: Bundle.module, compatibleWith: nil)!
   public static let `shuffle`: UIImage = UIImage(named: "shuffle", in: Bundle.module, compatibleWith: nil)!
