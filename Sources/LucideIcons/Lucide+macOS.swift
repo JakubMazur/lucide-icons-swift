@@ -612,8 +612,6 @@ extension Lucide {
   public static let `file`: NSImage = Bundle.module.image(forResource: "file")!
   public static let `files`: NSImage = Bundle.module.image(forResource: "files")!
   public static let `film`: NSImage = Bundle.module.image(forResource: "film")!
-  public static let `filterX`: NSImage = Bundle.module.image(forResource: "filter-x")!
-  public static let `filter`: NSImage = Bundle.module.image(forResource: "filter")!
   public static let `fingerprint`: NSImage = Bundle.module.image(forResource: "fingerprint")!
   public static let `fireExtinguisher`: NSImage = Bundle.module.image(forResource: "fire-extinguisher")!
   public static let `fishOff`: NSImage = Bundle.module.image(forResource: "fish-off")!
@@ -678,6 +676,9 @@ extension Lucide {
   public static let `frown`: NSImage = Bundle.module.image(forResource: "frown")!
   public static let `fuel`: NSImage = Bundle.module.image(forResource: "fuel")!
   public static let `fullscreen`: NSImage = Bundle.module.image(forResource: "fullscreen")!
+  public static let `funnelPlus`: NSImage = Bundle.module.image(forResource: "funnel-plus")!
+  public static let `funnelX`: NSImage = Bundle.module.image(forResource: "funnel-x")!
+  public static let `funnel`: NSImage = Bundle.module.image(forResource: "funnel")!
   public static let `galleryHorizontalEnd`: NSImage = Bundle.module.image(forResource: "gallery-horizontal-end")!
   public static let `galleryHorizontal`: NSImage = Bundle.module.image(forResource: "gallery-horizontal")!
   public static let `galleryThumbnails`: NSImage = Bundle.module.image(forResource: "gallery-thumbnails")!

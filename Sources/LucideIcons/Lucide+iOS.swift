@@ -612,8 +612,6 @@ extension Lucide {
   public static let `file`: UIImage = UIImage(named: "file", in: Bundle.module, compatibleWith: nil)!
   public static let `files`: UIImage = UIImage(named: "files", in: Bundle.module, compatibleWith: nil)!
   public static let `film`: UIImage = UIImage(named: "film", in: Bundle.module, compatibleWith: nil)!
-  public static let `filterX`: UIImage = UIImage(named: "filter-x", in: Bundle.module, compatibleWith: nil)!
-  public static let `filter`: UIImage = UIImage(named: "filter", in: Bundle.module, compatibleWith: nil)!
   public static let `fingerprint`: UIImage = UIImage(named: "fingerprint", in: Bundle.module, compatibleWith: nil)!
   public static let `fireExtinguisher`: UIImage = UIImage(named: "fire-extinguisher", in: Bundle.module, compatibleWith: nil)!
   public static let `fishOff`: UIImage = UIImage(named: "fish-off", in: Bundle.module, compatibleWith: nil)!
@@ -678,6 +676,9 @@ extension Lucide {
   public static let `frown`: UIImage = UIImage(named: "frown", in: Bundle.module, compatibleWith: nil)!
   public static let `fuel`: UIImage = UIImage(named: "fuel", in: Bundle.module, compatibleWith: nil)!
   public static let `fullscreen`: UIImage = UIImage(named: "fullscreen", in: Bundle.module, compatibleWith: nil)!
+  public static let `funnelPlus`: UIImage = UIImage(named: "funnel-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `funnelX`: UIImage = UIImage(named: "funnel-x", in: Bundle.module, compatibleWith: nil)!
+  public static let `funnel`: UIImage = UIImage(named: "funnel", in: Bundle.module, compatibleWith: nil)!
   public static let `galleryHorizontalEnd`: UIImage = UIImage(named: "gallery-horizontal-end", in: Bundle.module, compatibleWith: nil)!
   public static let `galleryHorizontal`: UIImage = UIImage(named: "gallery-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `galleryThumbnails`: UIImage = UIImage(named: "gallery-thumbnails", in: Bundle.module, compatibleWith: nil)!
