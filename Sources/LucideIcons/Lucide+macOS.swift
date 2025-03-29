@@ -136,6 +136,9 @@ extension Lucide {
   public static let `ban`: NSImage = Bundle.module.image(forResource: "ban")!
   public static let `banana`: NSImage = Bundle.module.image(forResource: "banana")!
   public static let `bandage`: NSImage = Bundle.module.image(forResource: "bandage")!
+  public static let `banknoteArrowDown`: NSImage = Bundle.module.image(forResource: "banknote-arrow-down")!
+  public static let `banknoteArrowUp`: NSImage = Bundle.module.image(forResource: "banknote-arrow-up")!
+  public static let `banknoteX`: NSImage = Bundle.module.image(forResource: "banknote-x")!
   public static let `banknote`: NSImage = Bundle.module.image(forResource: "banknote")!
   public static let `barcode`: NSImage = Bundle.module.image(forResource: "barcode")!
   public static let `baseline`: NSImage = Bundle.module.image(forResource: "baseline")!
