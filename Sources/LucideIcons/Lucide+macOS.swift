@@ -1289,6 +1289,7 @@ extension Lucide {
   public static let `speech`: NSImage = Bundle.module.image(forResource: "speech")!
   public static let `spellCheck2`: NSImage = Bundle.module.image(forResource: "spell-check-2")!
   public static let `spellCheck`: NSImage = Bundle.module.image(forResource: "spell-check")!
+  public static let `splinePointer`: NSImage = Bundle.module.image(forResource: "spline-pointer")!
   public static let `spline`: NSImage = Bundle.module.image(forResource: "spline")!
   public static let `split`: NSImage = Bundle.module.image(forResource: "split")!
   public static let `sprayCan`: NSImage = Bundle.module.image(forResource: "spray-can")!

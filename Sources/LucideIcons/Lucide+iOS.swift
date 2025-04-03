@@ -1289,6 +1289,7 @@ extension Lucide {
   public static let `speech`: UIImage = UIImage(named: "speech", in: Bundle.module, compatibleWith: nil)!
   public static let `spellCheck2`: UIImage = UIImage(named: "spell-check-2", in: Bundle.module, compatibleWith: nil)!
   public static let `spellCheck`: UIImage = UIImage(named: "spell-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `splinePointer`: UIImage = UIImage(named: "spline-pointer", in: Bundle.module, compatibleWith: nil)!
   public static let `spline`: UIImage = UIImage(named: "spline", in: Bundle.module, compatibleWith: nil)!
   public static let `split`: UIImage = UIImage(named: "split", in: Bundle.module, compatibleWith: nil)!
   public static let `sprayCan`: UIImage = UIImage(named: "spray-can", in: Bundle.module, compatibleWith: nil)!
