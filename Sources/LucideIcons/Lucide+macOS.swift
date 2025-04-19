@@ -221,6 +221,7 @@ extension Lucide {
   public static let `botMessageSquare`: NSImage = Bundle.module.image(forResource: "bot-message-square")!
   public static let `botOff`: NSImage = Bundle.module.image(forResource: "bot-off")!
   public static let `bot`: NSImage = Bundle.module.image(forResource: "bot")!
+  public static let `bowArrow`: NSImage = Bundle.module.image(forResource: "bow-arrow")!
   public static let `box`: NSImage = Bundle.module.image(forResource: "box")!
   public static let `boxes`: NSImage = Bundle.module.image(forResource: "boxes")!
   public static let `braces`: NSImage = Bundle.module.image(forResource: "braces")!
@@ -228,6 +229,7 @@ extension Lucide {
   public static let `brainCircuit`: NSImage = Bundle.module.image(forResource: "brain-circuit")!
   public static let `brainCog`: NSImage = Bundle.module.image(forResource: "brain-cog")!
   public static let `brain`: NSImage = Bundle.module.image(forResource: "brain")!
+  public static let `brickWallFire`: NSImage = Bundle.module.image(forResource: "brick-wall-fire")!
   public static let `brickWall`: NSImage = Bundle.module.image(forResource: "brick-wall")!
   public static let `briefcaseBusiness`: NSImage = Bundle.module.image(forResource: "briefcase-business")!
   public static let `briefcaseConveyorBelt`: NSImage = Bundle.module.image(forResource: "briefcase-conveyor-belt")!
@@ -235,6 +237,7 @@ extension Lucide {
   public static let `briefcase`: NSImage = Bundle.module.image(forResource: "briefcase")!
   public static let `bringToFront`: NSImage = Bundle.module.image(forResource: "bring-to-front")!
   public static let `brush`: NSImage = Bundle.module.image(forResource: "brush")!
+  public static let `bubbles`: NSImage = Bundle.module.image(forResource: "bubbles")!
   public static let `bugOff`: NSImage = Bundle.module.image(forResource: "bug-off")!
   public static let `bugPlay`: NSImage = Bundle.module.image(forResource: "bug-play")!
   public static let `bug`: NSImage = Bundle.module.image(forResource: "bug")!
@@ -437,6 +440,7 @@ extension Lucide {
   public static let `cog`: NSImage = Bundle.module.image(forResource: "cog")!
   public static let `coins`: NSImage = Bundle.module.image(forResource: "coins")!
   public static let `columns2`: NSImage = Bundle.module.image(forResource: "columns-2")!
+  public static let `columns3Cog`: NSImage = Bundle.module.image(forResource: "columns-3-cog")!
   public static let `columns3`: NSImage = Bundle.module.image(forResource: "columns-3")!
   public static let `columns4`: NSImage = Bundle.module.image(forResource: "columns-4")!
   public static let `combine`: NSImage = Bundle.module.image(forResource: "combine")!
@@ -485,6 +489,8 @@ extension Lucide {
   public static let `databaseBackup`: NSImage = Bundle.module.image(forResource: "database-backup")!
   public static let `databaseZap`: NSImage = Bundle.module.image(forResource: "database-zap")!
   public static let `database`: NSImage = Bundle.module.image(forResource: "database")!
+  public static let `decimalsArrowLeft`: NSImage = Bundle.module.image(forResource: "decimals-arrow-left")!
+  public static let `decimalsArrowRight`: NSImage = Bundle.module.image(forResource: "decimals-arrow-right")!
   public static let `delete`: NSImage = Bundle.module.image(forResource: "delete")!
   public static let `dessert`: NSImage = Bundle.module.image(forResource: "dessert")!
   public static let `diameter`: NSImage = Bundle.module.image(forResource: "diameter")!
@@ -757,7 +763,9 @@ extension Lucide {
   public static let `headset`: NSImage = Bundle.module.image(forResource: "headset")!
   public static let `heartCrack`: NSImage = Bundle.module.image(forResource: "heart-crack")!
   public static let `heartHandshake`: NSImage = Bundle.module.image(forResource: "heart-handshake")!
+  public static let `heartMinus`: NSImage = Bundle.module.image(forResource: "heart-minus")!
   public static let `heartOff`: NSImage = Bundle.module.image(forResource: "heart-off")!
+  public static let `heartPlus`: NSImage = Bundle.module.image(forResource: "heart-plus")!
   public static let `heartPulse`: NSImage = Bundle.module.image(forResource: "heart-pulse")!
   public static let `heart`: NSImage = Bundle.module.image(forResource: "heart")!
   public static let `heater`: NSImage = Bundle.module.image(forResource: "heater")!
@@ -866,6 +874,7 @@ extension Lucide {
   public static let `locateFixed`: NSImage = Bundle.module.image(forResource: "locate-fixed")!
   public static let `locateOff`: NSImage = Bundle.module.image(forResource: "locate-off")!
   public static let `locate`: NSImage = Bundle.module.image(forResource: "locate")!
+  public static let `locationEdit`: NSImage = Bundle.module.image(forResource: "location-edit")!
   public static let `lockKeyholeOpen`: NSImage = Bundle.module.image(forResource: "lock-keyhole-open")!
   public static let `lockKeyhole`: NSImage = Bundle.module.image(forResource: "lock-keyhole")!
   public static let `lockOpen`: NSImage = Bundle.module.image(forResource: "lock-open")!
@@ -1141,6 +1150,7 @@ extension Lucide {
   public static let `receiptText`: NSImage = Bundle.module.image(forResource: "receipt-text")!
   public static let `receipt`: NSImage = Bundle.module.image(forResource: "receipt")!
   public static let `rectangleEllipsis`: NSImage = Bundle.module.image(forResource: "rectangle-ellipsis")!
+  public static let `rectangleGoggles`: NSImage = Bundle.module.image(forResource: "rectangle-goggles")!
   public static let `rectangleHorizontal`: NSImage = Bundle.module.image(forResource: "rectangle-horizontal")!
   public static let `rectangleVertical`: NSImage = Bundle.module.image(forResource: "rectangle-vertical")!
   public static let `recycle`: NSImage = Bundle.module.image(forResource: "recycle")!
@@ -1167,6 +1177,7 @@ extension Lucide {
   public static let `rockingChair`: NSImage = Bundle.module.image(forResource: "rocking-chair")!
   public static let `rollerCoaster`: NSImage = Bundle.module.image(forResource: "roller-coaster")!
   public static let `rotate3d`: NSImage = Bundle.module.image(forResource: "rotate-3d")!
+  public static let `rotateCcwKey`: NSImage = Bundle.module.image(forResource: "rotate-ccw-key")!
   public static let `rotateCcwSquare`: NSImage = Bundle.module.image(forResource: "rotate-ccw-square")!
   public static let `rotateCcw`: NSImage = Bundle.module.image(forResource: "rotate-ccw")!
   public static let `rotateCwSquare`: NSImage = Bundle.module.image(forResource: "rotate-cw-square")!
@@ -1250,6 +1261,7 @@ extension Lucide {
   public static let `shoppingCart`: NSImage = Bundle.module.image(forResource: "shopping-cart")!
   public static let `shovel`: NSImage = Bundle.module.image(forResource: "shovel")!
   public static let `showerHead`: NSImage = Bundle.module.image(forResource: "shower-head")!
+  public static let `shredder`: NSImage = Bundle.module.image(forResource: "shredder")!
   public static let `shrimp`: NSImage = Bundle.module.image(forResource: "shrimp")!
   public static let `shrink`: NSImage = Bundle.module.image(forResource: "shrink")!
   public static let `shrub`: NSImage = Bundle.module.image(forResource: "shrub")!
@@ -1355,6 +1367,10 @@ extension Lucide {
   public static let `squareUser`: NSImage = Bundle.module.image(forResource: "square-user")!
   public static let `squareX`: NSImage = Bundle.module.image(forResource: "square-x")!
   public static let `square`: NSImage = Bundle.module.image(forResource: "square")!
+  public static let `squaresExclude`: NSImage = Bundle.module.image(forResource: "squares-exclude")!
+  public static let `squaresIntersect`: NSImage = Bundle.module.image(forResource: "squares-intersect")!
+  public static let `squaresSubtract`: NSImage = Bundle.module.image(forResource: "squares-subtract")!
+  public static let `squaresUnite`: NSImage = Bundle.module.image(forResource: "squares-unite")!
   public static let `squircle`: NSImage = Bundle.module.image(forResource: "squircle")!
   public static let `squirrel`: NSImage = Bundle.module.image(forResource: "squirrel")!
   public static let `stamp`: NSImage = Bundle.module.image(forResource: "stamp")!
@@ -1467,6 +1483,7 @@ extension Lucide {
   public static let `triangleRight`: NSImage = Bundle.module.image(forResource: "triangle-right")!
   public static let `triangle`: NSImage = Bundle.module.image(forResource: "triangle")!
   public static let `trophy`: NSImage = Bundle.module.image(forResource: "trophy")!
+  public static let `truckElectric`: NSImage = Bundle.module.image(forResource: "truck-electric")!
   public static let `truck`: NSImage = Bundle.module.image(forResource: "truck")!
   public static let `turtle`: NSImage = Bundle.module.image(forResource: "turtle")!
   public static let `tvMinimalPlay`: NSImage = Bundle.module.image(forResource: "tv-minimal-play")!
@@ -1493,6 +1510,7 @@ extension Lucide {
   public static let `usb`: NSImage = Bundle.module.image(forResource: "usb")!
   public static let `userCheck`: NSImage = Bundle.module.image(forResource: "user-check")!
   public static let `userCog`: NSImage = Bundle.module.image(forResource: "user-cog")!
+  public static let `userLock`: NSImage = Bundle.module.image(forResource: "user-lock")!
   public static let `userMinus`: NSImage = Bundle.module.image(forResource: "user-minus")!
   public static let `userPen`: NSImage = Bundle.module.image(forResource: "user-pen")!
   public static let `userPlus`: NSImage = Bundle.module.image(forResource: "user-plus")!
