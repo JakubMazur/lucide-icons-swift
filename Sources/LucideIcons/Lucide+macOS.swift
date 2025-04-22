@@ -1189,6 +1189,7 @@ extension Lucide {
   public static let `rows3`: NSImage = Bundle.module.image(forResource: "rows-3")!
   public static let `rows4`: NSImage = Bundle.module.image(forResource: "rows-4")!
   public static let `rss`: NSImage = Bundle.module.image(forResource: "rss")!
+  public static let `rulerDimensionLine`: NSImage = Bundle.module.image(forResource: "ruler-dimension-line")!
   public static let `ruler`: NSImage = Bundle.module.image(forResource: "ruler")!
   public static let `russianRuble`: NSImage = Bundle.module.image(forResource: "russian-ruble")!
   public static let `sailboat`: NSImage = Bundle.module.image(forResource: "sailboat")!
@@ -1572,6 +1573,7 @@ extension Lucide {
   public static let `wifiHigh`: NSImage = Bundle.module.image(forResource: "wifi-high")!
   public static let `wifiLow`: NSImage = Bundle.module.image(forResource: "wifi-low")!
   public static let `wifiOff`: NSImage = Bundle.module.image(forResource: "wifi-off")!
+  public static let `wifiPen`: NSImage = Bundle.module.image(forResource: "wifi-pen")!
   public static let `wifiZero`: NSImage = Bundle.module.image(forResource: "wifi-zero")!
   public static let `wifi`: NSImage = Bundle.module.image(forResource: "wifi")!
   public static let `windArrowDown`: NSImage = Bundle.module.image(forResource: "wind-arrow-down")!

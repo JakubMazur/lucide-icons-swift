@@ -1189,6 +1189,7 @@ extension Lucide {
   public static let `rows3`: UIImage = UIImage(named: "rows-3", in: Bundle.module, compatibleWith: nil)!
   public static let `rows4`: UIImage = UIImage(named: "rows-4", in: Bundle.module, compatibleWith: nil)!
   public static let `rss`: UIImage = UIImage(named: "rss", in: Bundle.module, compatibleWith: nil)!
+  public static let `rulerDimensionLine`: UIImage = UIImage(named: "ruler-dimension-line", in: Bundle.module, compatibleWith: nil)!
   public static let `ruler`: UIImage = UIImage(named: "ruler", in: Bundle.module, compatibleWith: nil)!
   public static let `russianRuble`: UIImage = UIImage(named: "russian-ruble", in: Bundle.module, compatibleWith: nil)!
   public static let `sailboat`: UIImage = UIImage(named: "sailboat", in: Bundle.module, compatibleWith: nil)!
@@ -1572,6 +1573,7 @@ extension Lucide {
   public static let `wifiHigh`: UIImage = UIImage(named: "wifi-high", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiLow`: UIImage = UIImage(named: "wifi-low", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiOff`: UIImage = UIImage(named: "wifi-off", in: Bundle.module, compatibleWith: nil)!
+  public static let `wifiPen`: UIImage = UIImage(named: "wifi-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiZero`: UIImage = UIImage(named: "wifi-zero", in: Bundle.module, compatibleWith: nil)!
   public static let `wifi`: UIImage = UIImage(named: "wifi", in: Bundle.module, compatibleWith: nil)!
   public static let `windArrowDown`: UIImage = UIImage(named: "wind-arrow-down", in: Bundle.module, compatibleWith: nil)!
