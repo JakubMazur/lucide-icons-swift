@@ -236,6 +236,7 @@ extension Lucide {
   public static let `briefcaseMedical`: NSImage = Bundle.module.image(forResource: "briefcase-medical")!
   public static let `briefcase`: NSImage = Bundle.module.image(forResource: "briefcase")!
   public static let `bringToFront`: NSImage = Bundle.module.image(forResource: "bring-to-front")!
+  public static let `brushCleaning`: NSImage = Bundle.module.image(forResource: "brush-cleaning")!
   public static let `brush`: NSImage = Bundle.module.image(forResource: "brush")!
   public static let `bubbles`: NSImage = Bundle.module.image(forResource: "bubbles")!
   public static let `bugOff`: NSImage = Bundle.module.image(forResource: "bug-off")!
@@ -411,6 +412,7 @@ extension Lucide {
   public static let `clockArrowDown`: NSImage = Bundle.module.image(forResource: "clock-arrow-down")!
   public static let `clockArrowUp`: NSImage = Bundle.module.image(forResource: "clock-arrow-up")!
   public static let `clockFading`: NSImage = Bundle.module.image(forResource: "clock-fading")!
+  public static let `clockPlus`: NSImage = Bundle.module.image(forResource: "clock-plus")!
   public static let `clock`: NSImage = Bundle.module.image(forResource: "clock")!
   public static let `cloudAlert`: NSImage = Bundle.module.image(forResource: "cloud-alert")!
   public static let `cloudCog`: NSImage = Bundle.module.image(forResource: "cloud-cog")!
@@ -517,6 +519,7 @@ extension Lucide {
   public static let `dog`: NSImage = Bundle.module.image(forResource: "dog")!
   public static let `dollarSign`: NSImage = Bundle.module.image(forResource: "dollar-sign")!
   public static let `donut`: NSImage = Bundle.module.image(forResource: "donut")!
+  public static let `doorClosedLocked`: NSImage = Bundle.module.image(forResource: "door-closed-locked")!
   public static let `doorClosed`: NSImage = Bundle.module.image(forResource: "door-closed")!
   public static let `doorOpen`: NSImage = Bundle.module.image(forResource: "door-open")!
   public static let `dot`: NSImage = Bundle.module.image(forResource: "dot")!
@@ -736,6 +739,7 @@ extension Lucide {
   public static let `group`: NSImage = Bundle.module.image(forResource: "group")!
   public static let `guitar`: NSImage = Bundle.module.image(forResource: "guitar")!
   public static let `ham`: NSImage = Bundle.module.image(forResource: "ham")!
+  public static let `hamburger`: NSImage = Bundle.module.image(forResource: "hamburger")!
   public static let `hammer`: NSImage = Bundle.module.image(forResource: "hammer")!
   public static let `handCoins`: NSImage = Bundle.module.image(forResource: "hand-coins")!
   public static let `handHeart`: NSImage = Bundle.module.image(forResource: "hand-heart")!
@@ -1041,6 +1045,7 @@ extension Lucide {
   public static let `paintbrushVertical`: NSImage = Bundle.module.image(forResource: "paintbrush-vertical")!
   public static let `paintbrush`: NSImage = Bundle.module.image(forResource: "paintbrush")!
   public static let `palette`: NSImage = Bundle.module.image(forResource: "palette")!
+  public static let `panda`: NSImage = Bundle.module.image(forResource: "panda")!
   public static let `panelBottomClose`: NSImage = Bundle.module.image(forResource: "panel-bottom-close")!
   public static let `panelBottomDashed`: NSImage = Bundle.module.image(forResource: "panel-bottom-dashed")!
   public static let `panelBottomOpen`: NSImage = Bundle.module.image(forResource: "panel-bottom-open")!
@@ -1292,6 +1297,7 @@ extension Lucide {
   public static let `smile`: NSImage = Bundle.module.image(forResource: "smile")!
   public static let `snail`: NSImage = Bundle.module.image(forResource: "snail")!
   public static let `snowflake`: NSImage = Bundle.module.image(forResource: "snowflake")!
+  public static let `soapDispenserDroplet`: NSImage = Bundle.module.image(forResource: "soap-dispenser-droplet")!
   public static let `sofa`: NSImage = Bundle.module.image(forResource: "sofa")!
   public static let `soup`: NSImage = Bundle.module.image(forResource: "soup")!
   public static let `space`: NSImage = Bundle.module.image(forResource: "space")!

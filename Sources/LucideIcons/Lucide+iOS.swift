@@ -236,6 +236,7 @@ extension Lucide {
   public static let `briefcaseMedical`: UIImage = UIImage(named: "briefcase-medical", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcase`: UIImage = UIImage(named: "briefcase", in: Bundle.module, compatibleWith: nil)!
   public static let `bringToFront`: UIImage = UIImage(named: "bring-to-front", in: Bundle.module, compatibleWith: nil)!
+  public static let `brushCleaning`: UIImage = UIImage(named: "brush-cleaning", in: Bundle.module, compatibleWith: nil)!
   public static let `brush`: UIImage = UIImage(named: "brush", in: Bundle.module, compatibleWith: nil)!
   public static let `bubbles`: UIImage = UIImage(named: "bubbles", in: Bundle.module, compatibleWith: nil)!
   public static let `bugOff`: UIImage = UIImage(named: "bug-off", in: Bundle.module, compatibleWith: nil)!
@@ -411,6 +412,7 @@ extension Lucide {
   public static let `clockArrowDown`: UIImage = UIImage(named: "clock-arrow-down", in: Bundle.module, compatibleWith: nil)!
   public static let `clockArrowUp`: UIImage = UIImage(named: "clock-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `clockFading`: UIImage = UIImage(named: "clock-fading", in: Bundle.module, compatibleWith: nil)!
+  public static let `clockPlus`: UIImage = UIImage(named: "clock-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `clock`: UIImage = UIImage(named: "clock", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudAlert`: UIImage = UIImage(named: "cloud-alert", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudCog`: UIImage = UIImage(named: "cloud-cog", in: Bundle.module, compatibleWith: nil)!
@@ -517,6 +519,7 @@ extension Lucide {
   public static let `dog`: UIImage = UIImage(named: "dog", in: Bundle.module, compatibleWith: nil)!
   public static let `dollarSign`: UIImage = UIImage(named: "dollar-sign", in: Bundle.module, compatibleWith: nil)!
   public static let `donut`: UIImage = UIImage(named: "donut", in: Bundle.module, compatibleWith: nil)!
+  public static let `doorClosedLocked`: UIImage = UIImage(named: "door-closed-locked", in: Bundle.module, compatibleWith: nil)!
   public static let `doorClosed`: UIImage = UIImage(named: "door-closed", in: Bundle.module, compatibleWith: nil)!
   public static let `doorOpen`: UIImage = UIImage(named: "door-open", in: Bundle.module, compatibleWith: nil)!
   public static let `dot`: UIImage = UIImage(named: "dot", in: Bundle.module, compatibleWith: nil)!
@@ -736,6 +739,7 @@ extension Lucide {
   public static let `group`: UIImage = UIImage(named: "group", in: Bundle.module, compatibleWith: nil)!
   public static let `guitar`: UIImage = UIImage(named: "guitar", in: Bundle.module, compatibleWith: nil)!
   public static let `ham`: UIImage = UIImage(named: "ham", in: Bundle.module, compatibleWith: nil)!
+  public static let `hamburger`: UIImage = UIImage(named: "hamburger", in: Bundle.module, compatibleWith: nil)!
   public static let `hammer`: UIImage = UIImage(named: "hammer", in: Bundle.module, compatibleWith: nil)!
   public static let `handCoins`: UIImage = UIImage(named: "hand-coins", in: Bundle.module, compatibleWith: nil)!
   public static let `handHeart`: UIImage = UIImage(named: "hand-heart", in: Bundle.module, compatibleWith: nil)!
@@ -1041,6 +1045,7 @@ extension Lucide {
   public static let `paintbrushVertical`: UIImage = UIImage(named: "paintbrush-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `paintbrush`: UIImage = UIImage(named: "paintbrush", in: Bundle.module, compatibleWith: nil)!
   public static let `palette`: UIImage = UIImage(named: "palette", in: Bundle.module, compatibleWith: nil)!
+  public static let `panda`: UIImage = UIImage(named: "panda", in: Bundle.module, compatibleWith: nil)!
   public static let `panelBottomClose`: UIImage = UIImage(named: "panel-bottom-close", in: Bundle.module, compatibleWith: nil)!
   public static let `panelBottomDashed`: UIImage = UIImage(named: "panel-bottom-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `panelBottomOpen`: UIImage = UIImage(named: "panel-bottom-open", in: Bundle.module, compatibleWith: nil)!
@@ -1292,6 +1297,7 @@ extension Lucide {
   public static let `smile`: UIImage = UIImage(named: "smile", in: Bundle.module, compatibleWith: nil)!
   public static let `snail`: UIImage = UIImage(named: "snail", in: Bundle.module, compatibleWith: nil)!
   public static let `snowflake`: UIImage = UIImage(named: "snowflake", in: Bundle.module, compatibleWith: nil)!
+  public static let `soapDispenserDroplet`: UIImage = UIImage(named: "soap-dispenser-droplet", in: Bundle.module, compatibleWith: nil)!
   public static let `sofa`: UIImage = UIImage(named: "sofa", in: Bundle.module, compatibleWith: nil)!
   public static let `soup`: UIImage = UIImage(named: "soup", in: Bundle.module, compatibleWith: nil)!
   public static let `space`: UIImage = UIImage(named: "space", in: Bundle.module, compatibleWith: nil)!
