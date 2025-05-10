@@ -725,6 +725,7 @@ extension Lucide {
   public static let `globeLock`: UIImage = UIImage(named: "globe-lock", in: Bundle.module, compatibleWith: nil)!
   public static let `globe`: UIImage = UIImage(named: "globe", in: Bundle.module, compatibleWith: nil)!
   public static let `goal`: UIImage = UIImage(named: "goal", in: Bundle.module, compatibleWith: nil)!
+  public static let `gpu`: UIImage = UIImage(named: "gpu", in: Bundle.module, compatibleWith: nil)!
   public static let `grab`: UIImage = UIImage(named: "grab", in: Bundle.module, compatibleWith: nil)!
   public static let `graduationCap`: UIImage = UIImage(named: "graduation-cap", in: Bundle.module, compatibleWith: nil)!
   public static let `grape`: UIImage = UIImage(named: "grape", in: Bundle.module, compatibleWith: nil)!

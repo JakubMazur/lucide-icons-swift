@@ -725,6 +725,7 @@ extension Lucide {
   public static let `globeLock`: NSImage = Bundle.module.image(forResource: "globe-lock")!
   public static let `globe`: NSImage = Bundle.module.image(forResource: "globe")!
   public static let `goal`: NSImage = Bundle.module.image(forResource: "goal")!
+  public static let `gpu`: NSImage = Bundle.module.image(forResource: "gpu")!
   public static let `grab`: NSImage = Bundle.module.image(forResource: "grab")!
   public static let `graduationCap`: NSImage = Bundle.module.image(forResource: "graduation-cap")!
   public static let `grape`: NSImage = Bundle.module.image(forResource: "grape")!
