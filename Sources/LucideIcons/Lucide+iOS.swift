@@ -317,6 +317,7 @@ extension Lucide {
   public static let `chartScatter`: UIImage = UIImage(named: "chart-scatter", in: Bundle.module, compatibleWith: nil)!
   public static let `chartSpline`: UIImage = UIImage(named: "chart-spline", in: Bundle.module, compatibleWith: nil)!
   public static let `checkCheck`: UIImage = UIImage(named: "check-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `checkLine`: UIImage = UIImage(named: "check-line", in: Bundle.module, compatibleWith: nil)!
   public static let `check`: UIImage = UIImage(named: "check", in: Bundle.module, compatibleWith: nil)!
   public static let `chefHat`: UIImage = UIImage(named: "chef-hat", in: Bundle.module, compatibleWith: nil)!
   public static let `cherry`: UIImage = UIImage(named: "cherry", in: Bundle.module, compatibleWith: nil)!

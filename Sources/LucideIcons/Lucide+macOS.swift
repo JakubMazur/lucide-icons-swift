@@ -317,6 +317,7 @@ extension Lucide {
   public static let `chartScatter`: NSImage = Bundle.module.image(forResource: "chart-scatter")!
   public static let `chartSpline`: NSImage = Bundle.module.image(forResource: "chart-spline")!
   public static let `checkCheck`: NSImage = Bundle.module.image(forResource: "check-check")!
+  public static let `checkLine`: NSImage = Bundle.module.image(forResource: "check-line")!
   public static let `check`: NSImage = Bundle.module.image(forResource: "check")!
   public static let `chefHat`: NSImage = Bundle.module.image(forResource: "chef-hat")!
   public static let `cherry`: NSImage = Bundle.module.image(forResource: "cherry")!
