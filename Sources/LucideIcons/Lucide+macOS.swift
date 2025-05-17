@@ -1342,6 +1342,7 @@ extension Lucide {
   public static let `squareDashedBottom`: NSImage = Bundle.module.image(forResource: "square-dashed-bottom")!
   public static let `squareDashedKanban`: NSImage = Bundle.module.image(forResource: "square-dashed-kanban")!
   public static let `squareDashedMousePointer`: NSImage = Bundle.module.image(forResource: "square-dashed-mouse-pointer")!
+  public static let `squareDashedTopSolid`: NSImage = Bundle.module.image(forResource: "square-dashed-top-solid")!
   public static let `squareDashed`: NSImage = Bundle.module.image(forResource: "square-dashed")!
   public static let `squareDivide`: NSImage = Bundle.module.image(forResource: "square-divide")!
   public static let `squareDot`: NSImage = Bundle.module.image(forResource: "square-dot")!

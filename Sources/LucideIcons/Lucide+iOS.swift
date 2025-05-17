@@ -1342,6 +1342,7 @@ extension Lucide {
   public static let `squareDashedBottom`: UIImage = UIImage(named: "square-dashed-bottom", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedKanban`: UIImage = UIImage(named: "square-dashed-kanban", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedMousePointer`: UIImage = UIImage(named: "square-dashed-mouse-pointer", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareDashedTopSolid`: UIImage = UIImage(named: "square-dashed-top-solid", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashed`: UIImage = UIImage(named: "square-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDivide`: UIImage = UIImage(named: "square-divide", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDot`: UIImage = UIImage(named: "square-dot", in: Bundle.module, compatibleWith: nil)!
