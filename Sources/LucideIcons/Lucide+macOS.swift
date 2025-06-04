@@ -374,6 +374,7 @@ extension Lucide {
   public static let `circlePercent`: NSImage = Bundle.module.image(forResource: "circle-percent")!
   public static let `circlePlay`: NSImage = Bundle.module.image(forResource: "circle-play")!
   public static let `circlePlus`: NSImage = Bundle.module.image(forResource: "circle-plus")!
+  public static let `circlePoundSterling`: NSImage = Bundle.module.image(forResource: "circle-pound-sterling")!
   public static let `circlePower`: NSImage = Bundle.module.image(forResource: "circle-power")!
   public static let `circleSlash2`: NSImage = Bundle.module.image(forResource: "circle-slash-2")!
   public static let `circleSlash`: NSImage = Bundle.module.image(forResource: "circle-slash")!
@@ -416,6 +417,7 @@ extension Lucide {
   public static let `clockPlus`: NSImage = Bundle.module.image(forResource: "clock-plus")!
   public static let `clock`: NSImage = Bundle.module.image(forResource: "clock")!
   public static let `cloudAlert`: NSImage = Bundle.module.image(forResource: "cloud-alert")!
+  public static let `cloudCheck`: NSImage = Bundle.module.image(forResource: "cloud-check")!
   public static let `cloudCog`: NSImage = Bundle.module.image(forResource: "cloud-cog")!
   public static let `cloudDownload`: NSImage = Bundle.module.image(forResource: "cloud-download")!
   public static let `cloudDrizzle`: NSImage = Bundle.module.image(forResource: "cloud-drizzle")!
@@ -734,6 +736,7 @@ extension Lucide {
   public static let `grid2x2Plus`: NSImage = Bundle.module.image(forResource: "grid-2x2-plus")!
   public static let `grid2x2X`: NSImage = Bundle.module.image(forResource: "grid-2x2-x")!
   public static let `grid2x2`: NSImage = Bundle.module.image(forResource: "grid-2x2")!
+  public static let `grid3x2`: NSImage = Bundle.module.image(forResource: "grid-3x2")!
   public static let `grid3x3`: NSImage = Bundle.module.image(forResource: "grid-3x3")!
   public static let `gripHorizontal`: NSImage = Bundle.module.image(forResource: "grip-horizontal")!
   public static let `gripVertical`: NSImage = Bundle.module.image(forResource: "grip-vertical")!
@@ -789,6 +792,7 @@ extension Lucide {
   public static let `house`: NSImage = Bundle.module.image(forResource: "house")!
   public static let `iceCreamBowl`: NSImage = Bundle.module.image(forResource: "ice-cream-bowl")!
   public static let `iceCreamCone`: NSImage = Bundle.module.image(forResource: "ice-cream-cone")!
+  public static let `idCardLanyard`: NSImage = Bundle.module.image(forResource: "id-card-lanyard")!
   public static let `idCard`: NSImage = Bundle.module.image(forResource: "id-card")!
   public static let `imageDown`: NSImage = Bundle.module.image(forResource: "image-down")!
   public static let `imageMinus`: NSImage = Bundle.module.image(forResource: "image-minus")!

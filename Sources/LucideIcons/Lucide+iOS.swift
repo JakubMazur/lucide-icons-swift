@@ -374,6 +374,7 @@ extension Lucide {
   public static let `circlePercent`: UIImage = UIImage(named: "circle-percent", in: Bundle.module, compatibleWith: nil)!
   public static let `circlePlay`: UIImage = UIImage(named: "circle-play", in: Bundle.module, compatibleWith: nil)!
   public static let `circlePlus`: UIImage = UIImage(named: "circle-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `circlePoundSterling`: UIImage = UIImage(named: "circle-pound-sterling", in: Bundle.module, compatibleWith: nil)!
   public static let `circlePower`: UIImage = UIImage(named: "circle-power", in: Bundle.module, compatibleWith: nil)!
   public static let `circleSlash2`: UIImage = UIImage(named: "circle-slash-2", in: Bundle.module, compatibleWith: nil)!
   public static let `circleSlash`: UIImage = UIImage(named: "circle-slash", in: Bundle.module, compatibleWith: nil)!
@@ -416,6 +417,7 @@ extension Lucide {
   public static let `clockPlus`: UIImage = UIImage(named: "clock-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `clock`: UIImage = UIImage(named: "clock", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudAlert`: UIImage = UIImage(named: "cloud-alert", in: Bundle.module, compatibleWith: nil)!
+  public static let `cloudCheck`: UIImage = UIImage(named: "cloud-check", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudCog`: UIImage = UIImage(named: "cloud-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudDownload`: UIImage = UIImage(named: "cloud-download", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudDrizzle`: UIImage = UIImage(named: "cloud-drizzle", in: Bundle.module, compatibleWith: nil)!
@@ -734,6 +736,7 @@ extension Lucide {
   public static let `grid2x2Plus`: UIImage = UIImage(named: "grid-2x2-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `grid2x2X`: UIImage = UIImage(named: "grid-2x2-x", in: Bundle.module, compatibleWith: nil)!
   public static let `grid2x2`: UIImage = UIImage(named: "grid-2x2", in: Bundle.module, compatibleWith: nil)!
+  public static let `grid3x2`: UIImage = UIImage(named: "grid-3x2", in: Bundle.module, compatibleWith: nil)!
   public static let `grid3x3`: UIImage = UIImage(named: "grid-3x3", in: Bundle.module, compatibleWith: nil)!
   public static let `gripHorizontal`: UIImage = UIImage(named: "grip-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `gripVertical`: UIImage = UIImage(named: "grip-vertical", in: Bundle.module, compatibleWith: nil)!
@@ -789,6 +792,7 @@ extension Lucide {
   public static let `house`: UIImage = UIImage(named: "house", in: Bundle.module, compatibleWith: nil)!
   public static let `iceCreamBowl`: UIImage = UIImage(named: "ice-cream-bowl", in: Bundle.module, compatibleWith: nil)!
   public static let `iceCreamCone`: UIImage = UIImage(named: "ice-cream-cone", in: Bundle.module, compatibleWith: nil)!
+  public static let `idCardLanyard`: UIImage = UIImage(named: "id-card-lanyard", in: Bundle.module, compatibleWith: nil)!
   public static let `idCard`: UIImage = UIImage(named: "id-card", in: Bundle.module, compatibleWith: nil)!
   public static let `imageDown`: UIImage = UIImage(named: "image-down", in: Bundle.module, compatibleWith: nil)!
   public static let `imageMinus`: UIImage = UIImage(named: "image-minus", in: Bundle.module, compatibleWith: nil)!
