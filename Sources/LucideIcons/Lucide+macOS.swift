@@ -284,6 +284,7 @@ extension Lucide {
   public static let `carTaxiFront`: NSImage = Bundle.module.image(forResource: "car-taxi-front")!
   public static let `car`: NSImage = Bundle.module.image(forResource: "car")!
   public static let `caravan`: NSImage = Bundle.module.image(forResource: "caravan")!
+  public static let `cardSim`: NSImage = Bundle.module.image(forResource: "card-sim")!
   public static let `carrot`: NSImage = Bundle.module.image(forResource: "carrot")!
   public static let `caseLower`: NSImage = Bundle.module.image(forResource: "case-lower")!
   public static let `caseSensitive`: NSImage = Bundle.module.image(forResource: "case-sensitive")!

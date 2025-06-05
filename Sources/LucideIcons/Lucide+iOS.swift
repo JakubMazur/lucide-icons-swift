@@ -284,6 +284,7 @@ extension Lucide {
   public static let `carTaxiFront`: UIImage = UIImage(named: "car-taxi-front", in: Bundle.module, compatibleWith: nil)!
   public static let `car`: UIImage = UIImage(named: "car", in: Bundle.module, compatibleWith: nil)!
   public static let `caravan`: UIImage = UIImage(named: "caravan", in: Bundle.module, compatibleWith: nil)!
+  public static let `cardSim`: UIImage = UIImage(named: "card-sim", in: Bundle.module, compatibleWith: nil)!
   public static let `carrot`: UIImage = UIImage(named: "carrot", in: Bundle.module, compatibleWith: nil)!
   public static let `caseLower`: UIImage = UIImage(named: "case-lower", in: Bundle.module, compatibleWith: nil)!
   public static let `caseSensitive`: UIImage = UIImage(named: "case-sensitive", in: Bundle.module, compatibleWith: nil)!
