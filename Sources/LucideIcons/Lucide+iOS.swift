@@ -189,6 +189,7 @@ extension Lucide {
   public static let `bomb`: UIImage = UIImage(named: "bomb", in: Bundle.module, compatibleWith: nil)!
   public static let `bone`: UIImage = UIImage(named: "bone", in: Bundle.module, compatibleWith: nil)!
   public static let `bookA`: UIImage = UIImage(named: "book-a", in: Bundle.module, compatibleWith: nil)!
+  public static let `bookAlert`: UIImage = UIImage(named: "book-alert", in: Bundle.module, compatibleWith: nil)!
   public static let `bookAudio`: UIImage = UIImage(named: "book-audio", in: Bundle.module, compatibleWith: nil)!
   public static let `bookCheck`: UIImage = UIImage(named: "book-check", in: Bundle.module, compatibleWith: nil)!
   public static let `bookCopy`: UIImage = UIImage(named: "book-copy", in: Bundle.module, compatibleWith: nil)!
