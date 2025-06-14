@@ -1162,6 +1162,7 @@ extension Lucide {
   public static let `receiptSwissFranc`: UIImage = UIImage(named: "receipt-swiss-franc", in: Bundle.module, compatibleWith: nil)!
   public static let `receiptText`: UIImage = UIImage(named: "receipt-text", in: Bundle.module, compatibleWith: nil)!
   public static let `receipt`: UIImage = UIImage(named: "receipt", in: Bundle.module, compatibleWith: nil)!
+  public static let `rectangleCircle`: UIImage = UIImage(named: "rectangle-circle", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleEllipsis`: UIImage = UIImage(named: "rectangle-ellipsis", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleGoggles`: UIImage = UIImage(named: "rectangle-goggles", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleHorizontal`: UIImage = UIImage(named: "rectangle-horizontal", in: Bundle.module, compatibleWith: nil)!

@@ -1162,6 +1162,7 @@ extension Lucide {
   public static let `receiptSwissFranc`: NSImage = Bundle.module.image(forResource: "receipt-swiss-franc")!
   public static let `receiptText`: NSImage = Bundle.module.image(forResource: "receipt-text")!
   public static let `receipt`: NSImage = Bundle.module.image(forResource: "receipt")!
+  public static let `rectangleCircle`: NSImage = Bundle.module.image(forResource: "rectangle-circle")!
   public static let `rectangleEllipsis`: NSImage = Bundle.module.image(forResource: "rectangle-ellipsis")!
   public static let `rectangleGoggles`: NSImage = Bundle.module.image(forResource: "rectangle-goggles")!
   public static let `rectangleHorizontal`: NSImage = Bundle.module.image(forResource: "rectangle-horizontal")!
