@@ -1586,6 +1586,7 @@ extension Lucide {
   public static let `wheatOff`: UIImage = UIImage(named: "wheat-off", in: Bundle.module, compatibleWith: nil)!
   public static let `wheat`: UIImage = UIImage(named: "wheat", in: Bundle.module, compatibleWith: nil)!
   public static let `wholeWord`: UIImage = UIImage(named: "whole-word", in: Bundle.module, compatibleWith: nil)!
+  public static let `wifiCog`: UIImage = UIImage(named: "wifi-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiHigh`: UIImage = UIImage(named: "wifi-high", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiLow`: UIImage = UIImage(named: "wifi-low", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiOff`: UIImage = UIImage(named: "wifi-off", in: Bundle.module, compatibleWith: nil)!
