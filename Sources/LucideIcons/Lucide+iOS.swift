@@ -141,6 +141,7 @@ extension Lucide {
   public static let `banknoteX`: UIImage = UIImage(named: "banknote-x", in: Bundle.module, compatibleWith: nil)!
   public static let `banknote`: UIImage = UIImage(named: "banknote", in: Bundle.module, compatibleWith: nil)!
   public static let `barcode`: UIImage = UIImage(named: "barcode", in: Bundle.module, compatibleWith: nil)!
+  public static let `barrel`: UIImage = UIImage(named: "barrel", in: Bundle.module, compatibleWith: nil)!
   public static let `baseline`: UIImage = UIImage(named: "baseline", in: Bundle.module, compatibleWith: nil)!
   public static let `bath`: UIImage = UIImage(named: "bath", in: Bundle.module, compatibleWith: nil)!
   public static let `batteryCharging`: UIImage = UIImage(named: "battery-charging", in: Bundle.module, compatibleWith: nil)!

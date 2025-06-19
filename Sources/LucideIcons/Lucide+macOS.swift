@@ -141,6 +141,7 @@ extension Lucide {
   public static let `banknoteX`: NSImage = Bundle.module.image(forResource: "banknote-x")!
   public static let `banknote`: NSImage = Bundle.module.image(forResource: "banknote")!
   public static let `barcode`: NSImage = Bundle.module.image(forResource: "barcode")!
+  public static let `barrel`: NSImage = Bundle.module.image(forResource: "barrel")!
   public static let `baseline`: NSImage = Bundle.module.image(forResource: "baseline")!
   public static let `bath`: NSImage = Bundle.module.image(forResource: "bath")!
   public static let `batteryCharging`: NSImage = Bundle.module.image(forResource: "battery-charging")!
