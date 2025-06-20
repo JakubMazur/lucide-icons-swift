@@ -120,7 +120,6 @@ extension Lucide {
   public static let `badgeCheck`: NSImage = Bundle.module.image(forResource: "badge-check")!
   public static let `badgeDollarSign`: NSImage = Bundle.module.image(forResource: "badge-dollar-sign")!
   public static let `badgeEuro`: NSImage = Bundle.module.image(forResource: "badge-euro")!
-  public static let `badgeHelp`: NSImage = Bundle.module.image(forResource: "badge-help")!
   public static let `badgeIndianRupee`: NSImage = Bundle.module.image(forResource: "badge-indian-rupee")!
   public static let `badgeInfo`: NSImage = Bundle.module.image(forResource: "badge-info")!
   public static let `badgeJapaneseYen`: NSImage = Bundle.module.image(forResource: "badge-japanese-yen")!
@@ -128,6 +127,7 @@ extension Lucide {
   public static let `badgePercent`: NSImage = Bundle.module.image(forResource: "badge-percent")!
   public static let `badgePlus`: NSImage = Bundle.module.image(forResource: "badge-plus")!
   public static let `badgePoundSterling`: NSImage = Bundle.module.image(forResource: "badge-pound-sterling")!
+  public static let `badgeQuestionMark`: NSImage = Bundle.module.image(forResource: "badge-question-mark")!
   public static let `badgeRussianRuble`: NSImage = Bundle.module.image(forResource: "badge-russian-ruble")!
   public static let `badgeSwissFranc`: NSImage = Bundle.module.image(forResource: "badge-swiss-franc")!
   public static let `badgeX`: NSImage = Bundle.module.image(forResource: "badge-x")!
@@ -368,7 +368,6 @@ extension Lucide {
   public static let `circleFadingArrowUp`: NSImage = Bundle.module.image(forResource: "circle-fading-arrow-up")!
   public static let `circleFadingPlus`: NSImage = Bundle.module.image(forResource: "circle-fading-plus")!
   public static let `circleGauge`: NSImage = Bundle.module.image(forResource: "circle-gauge")!
-  public static let `circleHelp`: NSImage = Bundle.module.image(forResource: "circle-help")!
   public static let `circleMinus`: NSImage = Bundle.module.image(forResource: "circle-minus")!
   public static let `circleOff`: NSImage = Bundle.module.image(forResource: "circle-off")!
   public static let `circleParkingOff`: NSImage = Bundle.module.image(forResource: "circle-parking-off")!
@@ -379,6 +378,7 @@ extension Lucide {
   public static let `circlePlus`: NSImage = Bundle.module.image(forResource: "circle-plus")!
   public static let `circlePoundSterling`: NSImage = Bundle.module.image(forResource: "circle-pound-sterling")!
   public static let `circlePower`: NSImage = Bundle.module.image(forResource: "circle-power")!
+  public static let `circleQuestionMark`: NSImage = Bundle.module.image(forResource: "circle-question-mark")!
   public static let `circleSlash2`: NSImage = Bundle.module.image(forResource: "circle-slash-2")!
   public static let `circleSlash`: NSImage = Bundle.module.image(forResource: "circle-slash")!
   public static let `circleSmall`: NSImage = Bundle.module.image(forResource: "circle-small")!
@@ -534,6 +534,7 @@ extension Lucide {
   public static let `drama`: NSImage = Bundle.module.image(forResource: "drama")!
   public static let `dribbble`: NSImage = Bundle.module.image(forResource: "dribbble")!
   public static let `drill`: NSImage = Bundle.module.image(forResource: "drill")!
+  public static let `drone`: NSImage = Bundle.module.image(forResource: "drone")!
   public static let `dropletOff`: NSImage = Bundle.module.image(forResource: "droplet-off")!
   public static let `droplet`: NSImage = Bundle.module.image(forResource: "droplet")!
   public static let `droplets`: NSImage = Bundle.module.image(forResource: "droplets")!
@@ -606,7 +607,7 @@ extension Lucide {
   public static let `filePen`: NSImage = Bundle.module.image(forResource: "file-pen")!
   public static let `filePlus2`: NSImage = Bundle.module.image(forResource: "file-plus-2")!
   public static let `filePlus`: NSImage = Bundle.module.image(forResource: "file-plus")!
-  public static let `fileQuestion`: NSImage = Bundle.module.image(forResource: "file-question")!
+  public static let `fileQuestionMark`: NSImage = Bundle.module.image(forResource: "file-question-mark")!
   public static let `fileScan`: NSImage = Bundle.module.image(forResource: "file-scan")!
   public static let `fileSearch2`: NSImage = Bundle.module.image(forResource: "file-search-2")!
   public static let `fileSearch`: NSImage = Bundle.module.image(forResource: "file-search")!
@@ -902,7 +903,7 @@ extension Lucide {
   public static let `mailMinus`: NSImage = Bundle.module.image(forResource: "mail-minus")!
   public static let `mailOpen`: NSImage = Bundle.module.image(forResource: "mail-open")!
   public static let `mailPlus`: NSImage = Bundle.module.image(forResource: "mail-plus")!
-  public static let `mailQuestion`: NSImage = Bundle.module.image(forResource: "mail-question")!
+  public static let `mailQuestionMark`: NSImage = Bundle.module.image(forResource: "mail-question-mark")!
   public static let `mailSearch`: NSImage = Bundle.module.image(forResource: "mail-search")!
   public static let `mailWarning`: NSImage = Bundle.module.image(forResource: "mail-warning")!
   public static let `mailX`: NSImage = Bundle.module.image(forResource: "mail-x")!
@@ -941,7 +942,7 @@ extension Lucide {
   public static let `messageCircleMore`: NSImage = Bundle.module.image(forResource: "message-circle-more")!
   public static let `messageCircleOff`: NSImage = Bundle.module.image(forResource: "message-circle-off")!
   public static let `messageCirclePlus`: NSImage = Bundle.module.image(forResource: "message-circle-plus")!
-  public static let `messageCircleQuestion`: NSImage = Bundle.module.image(forResource: "message-circle-question")!
+  public static let `messageCircleQuestionMark`: NSImage = Bundle.module.image(forResource: "message-circle-question-mark")!
   public static let `messageCircleReply`: NSImage = Bundle.module.image(forResource: "message-circle-reply")!
   public static let `messageCircleWarning`: NSImage = Bundle.module.image(forResource: "message-circle-warning")!
   public static let `messageCircleX`: NSImage = Bundle.module.image(forResource: "message-circle-x")!
@@ -1265,7 +1266,7 @@ extension Lucide {
   public static let `shieldMinus`: NSImage = Bundle.module.image(forResource: "shield-minus")!
   public static let `shieldOff`: NSImage = Bundle.module.image(forResource: "shield-off")!
   public static let `shieldPlus`: NSImage = Bundle.module.image(forResource: "shield-plus")!
-  public static let `shieldQuestion`: NSImage = Bundle.module.image(forResource: "shield-question")!
+  public static let `shieldQuestionMark`: NSImage = Bundle.module.image(forResource: "shield-question-mark")!
   public static let `shieldUser`: NSImage = Bundle.module.image(forResource: "shield-user")!
   public static let `shieldX`: NSImage = Bundle.module.image(forResource: "shield-x")!
   public static let `shield`: NSImage = Bundle.module.image(forResource: "shield")!

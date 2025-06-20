@@ -120,7 +120,6 @@ extension Lucide {
   public static let `badgeCheck`: UIImage = UIImage(named: "badge-check", in: Bundle.module, compatibleWith: nil)!
   public static let `badgeDollarSign`: UIImage = UIImage(named: "badge-dollar-sign", in: Bundle.module, compatibleWith: nil)!
   public static let `badgeEuro`: UIImage = UIImage(named: "badge-euro", in: Bundle.module, compatibleWith: nil)!
-  public static let `badgeHelp`: UIImage = UIImage(named: "badge-help", in: Bundle.module, compatibleWith: nil)!
   public static let `badgeIndianRupee`: UIImage = UIImage(named: "badge-indian-rupee", in: Bundle.module, compatibleWith: nil)!
   public static let `badgeInfo`: UIImage = UIImage(named: "badge-info", in: Bundle.module, compatibleWith: nil)!
   public static let `badgeJapaneseYen`: UIImage = UIImage(named: "badge-japanese-yen", in: Bundle.module, compatibleWith: nil)!
@@ -128,6 +127,7 @@ extension Lucide {
   public static let `badgePercent`: UIImage = UIImage(named: "badge-percent", in: Bundle.module, compatibleWith: nil)!
   public static let `badgePlus`: UIImage = UIImage(named: "badge-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `badgePoundSterling`: UIImage = UIImage(named: "badge-pound-sterling", in: Bundle.module, compatibleWith: nil)!
+  public static let `badgeQuestionMark`: UIImage = UIImage(named: "badge-question-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `badgeRussianRuble`: UIImage = UIImage(named: "badge-russian-ruble", in: Bundle.module, compatibleWith: nil)!
   public static let `badgeSwissFranc`: UIImage = UIImage(named: "badge-swiss-franc", in: Bundle.module, compatibleWith: nil)!
   public static let `badgeX`: UIImage = UIImage(named: "badge-x", in: Bundle.module, compatibleWith: nil)!
@@ -368,7 +368,6 @@ extension Lucide {
   public static let `circleFadingArrowUp`: UIImage = UIImage(named: "circle-fading-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `circleFadingPlus`: UIImage = UIImage(named: "circle-fading-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `circleGauge`: UIImage = UIImage(named: "circle-gauge", in: Bundle.module, compatibleWith: nil)!
-  public static let `circleHelp`: UIImage = UIImage(named: "circle-help", in: Bundle.module, compatibleWith: nil)!
   public static let `circleMinus`: UIImage = UIImage(named: "circle-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `circleOff`: UIImage = UIImage(named: "circle-off", in: Bundle.module, compatibleWith: nil)!
   public static let `circleParkingOff`: UIImage = UIImage(named: "circle-parking-off", in: Bundle.module, compatibleWith: nil)!
@@ -379,6 +378,7 @@ extension Lucide {
   public static let `circlePlus`: UIImage = UIImage(named: "circle-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `circlePoundSterling`: UIImage = UIImage(named: "circle-pound-sterling", in: Bundle.module, compatibleWith: nil)!
   public static let `circlePower`: UIImage = UIImage(named: "circle-power", in: Bundle.module, compatibleWith: nil)!
+  public static let `circleQuestionMark`: UIImage = UIImage(named: "circle-question-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `circleSlash2`: UIImage = UIImage(named: "circle-slash-2", in: Bundle.module, compatibleWith: nil)!
   public static let `circleSlash`: UIImage = UIImage(named: "circle-slash", in: Bundle.module, compatibleWith: nil)!
   public static let `circleSmall`: UIImage = UIImage(named: "circle-small", in: Bundle.module, compatibleWith: nil)!
@@ -534,6 +534,7 @@ extension Lucide {
   public static let `drama`: UIImage = UIImage(named: "drama", in: Bundle.module, compatibleWith: nil)!
   public static let `dribbble`: UIImage = UIImage(named: "dribbble", in: Bundle.module, compatibleWith: nil)!
   public static let `drill`: UIImage = UIImage(named: "drill", in: Bundle.module, compatibleWith: nil)!
+  public static let `drone`: UIImage = UIImage(named: "drone", in: Bundle.module, compatibleWith: nil)!
   public static let `dropletOff`: UIImage = UIImage(named: "droplet-off", in: Bundle.module, compatibleWith: nil)!
   public static let `droplet`: UIImage = UIImage(named: "droplet", in: Bundle.module, compatibleWith: nil)!
   public static let `droplets`: UIImage = UIImage(named: "droplets", in: Bundle.module, compatibleWith: nil)!
@@ -606,7 +607,7 @@ extension Lucide {
   public static let `filePen`: UIImage = UIImage(named: "file-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `filePlus2`: UIImage = UIImage(named: "file-plus-2", in: Bundle.module, compatibleWith: nil)!
   public static let `filePlus`: UIImage = UIImage(named: "file-plus", in: Bundle.module, compatibleWith: nil)!
-  public static let `fileQuestion`: UIImage = UIImage(named: "file-question", in: Bundle.module, compatibleWith: nil)!
+  public static let `fileQuestionMark`: UIImage = UIImage(named: "file-question-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `fileScan`: UIImage = UIImage(named: "file-scan", in: Bundle.module, compatibleWith: nil)!
   public static let `fileSearch2`: UIImage = UIImage(named: "file-search-2", in: Bundle.module, compatibleWith: nil)!
   public static let `fileSearch`: UIImage = UIImage(named: "file-search", in: Bundle.module, compatibleWith: nil)!
@@ -902,7 +903,7 @@ extension Lucide {
   public static let `mailMinus`: UIImage = UIImage(named: "mail-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `mailOpen`: UIImage = UIImage(named: "mail-open", in: Bundle.module, compatibleWith: nil)!
   public static let `mailPlus`: UIImage = UIImage(named: "mail-plus", in: Bundle.module, compatibleWith: nil)!
-  public static let `mailQuestion`: UIImage = UIImage(named: "mail-question", in: Bundle.module, compatibleWith: nil)!
+  public static let `mailQuestionMark`: UIImage = UIImage(named: "mail-question-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `mailSearch`: UIImage = UIImage(named: "mail-search", in: Bundle.module, compatibleWith: nil)!
   public static let `mailWarning`: UIImage = UIImage(named: "mail-warning", in: Bundle.module, compatibleWith: nil)!
   public static let `mailX`: UIImage = UIImage(named: "mail-x", in: Bundle.module, compatibleWith: nil)!
@@ -941,7 +942,7 @@ extension Lucide {
   public static let `messageCircleMore`: UIImage = UIImage(named: "message-circle-more", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleOff`: UIImage = UIImage(named: "message-circle-off", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCirclePlus`: UIImage = UIImage(named: "message-circle-plus", in: Bundle.module, compatibleWith: nil)!
-  public static let `messageCircleQuestion`: UIImage = UIImage(named: "message-circle-question", in: Bundle.module, compatibleWith: nil)!
+  public static let `messageCircleQuestionMark`: UIImage = UIImage(named: "message-circle-question-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleReply`: UIImage = UIImage(named: "message-circle-reply", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleWarning`: UIImage = UIImage(named: "message-circle-warning", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleX`: UIImage = UIImage(named: "message-circle-x", in: Bundle.module, compatibleWith: nil)!
@@ -1265,7 +1266,7 @@ extension Lucide {
   public static let `shieldMinus`: UIImage = UIImage(named: "shield-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldOff`: UIImage = UIImage(named: "shield-off", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldPlus`: UIImage = UIImage(named: "shield-plus", in: Bundle.module, compatibleWith: nil)!
-  public static let `shieldQuestion`: UIImage = UIImage(named: "shield-question", in: Bundle.module, compatibleWith: nil)!
+  public static let `shieldQuestionMark`: UIImage = UIImage(named: "shield-question-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldUser`: UIImage = UIImage(named: "shield-user", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldX`: UIImage = UIImage(named: "shield-x", in: Bundle.module, compatibleWith: nil)!
   public static let `shield`: UIImage = UIImage(named: "shield", in: Bundle.module, compatibleWith: nil)!
