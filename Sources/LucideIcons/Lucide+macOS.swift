@@ -1322,6 +1322,7 @@ extension Lucide {
   public static let `splinePointer`: NSImage = Bundle.module.image(forResource: "spline-pointer")!
   public static let `spline`: NSImage = Bundle.module.image(forResource: "spline")!
   public static let `split`: NSImage = Bundle.module.image(forResource: "split")!
+  public static let `spool`: NSImage = Bundle.module.image(forResource: "spool")!
   public static let `sprayCan`: NSImage = Bundle.module.image(forResource: "spray-can")!
   public static let `sprout`: NSImage = Bundle.module.image(forResource: "sprout")!
   public static let `squareActivity`: NSImage = Bundle.module.image(forResource: "square-activity")!

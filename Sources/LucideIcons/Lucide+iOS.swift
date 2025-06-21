@@ -1322,6 +1322,7 @@ extension Lucide {
   public static let `splinePointer`: UIImage = UIImage(named: "spline-pointer", in: Bundle.module, compatibleWith: nil)!
   public static let `spline`: UIImage = UIImage(named: "spline", in: Bundle.module, compatibleWith: nil)!
   public static let `split`: UIImage = UIImage(named: "split", in: Bundle.module, compatibleWith: nil)!
+  public static let `spool`: UIImage = UIImage(named: "spool", in: Bundle.module, compatibleWith: nil)!
   public static let `sprayCan`: UIImage = UIImage(named: "spray-can", in: Bundle.module, compatibleWith: nil)!
   public static let `sprout`: UIImage = UIImage(named: "sprout", in: Bundle.module, compatibleWith: nil)!
   public static let `squareActivity`: UIImage = UIImage(named: "square-activity", in: Bundle.module, compatibleWith: nil)!
