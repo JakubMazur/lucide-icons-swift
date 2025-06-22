@@ -708,6 +708,7 @@ extension Lucide {
   public static let `gauge`: NSImage = Bundle.module.image(forResource: "gauge")!
   public static let `gavel`: NSImage = Bundle.module.image(forResource: "gavel")!
   public static let `gem`: NSImage = Bundle.module.image(forResource: "gem")!
+  public static let `georgianLari`: NSImage = Bundle.module.image(forResource: "georgian-lari")!
   public static let `ghost`: NSImage = Bundle.module.image(forResource: "ghost")!
   public static let `gift`: NSImage = Bundle.module.image(forResource: "gift")!
   public static let `gitBranchPlus`: NSImage = Bundle.module.image(forResource: "git-branch-plus")!
@@ -861,6 +862,7 @@ extension Lucide {
   public static let `ligature`: NSImage = Bundle.module.image(forResource: "ligature")!
   public static let `lightbulbOff`: NSImage = Bundle.module.image(forResource: "lightbulb-off")!
   public static let `lightbulb`: NSImage = Bundle.module.image(forResource: "lightbulb")!
+  public static let `lineSquiggle`: NSImage = Bundle.module.image(forResource: "line-squiggle")!
   public static let `link2Off`: NSImage = Bundle.module.image(forResource: "link-2-off")!
   public static let `link2`: NSImage = Bundle.module.image(forResource: "link-2")!
   public static let `link`: NSImage = Bundle.module.image(forResource: "link")!
@@ -1391,6 +1393,7 @@ extension Lucide {
   public static let `squaresIntersect`: NSImage = Bundle.module.image(forResource: "squares-intersect")!
   public static let `squaresSubtract`: NSImage = Bundle.module.image(forResource: "squares-subtract")!
   public static let `squaresUnite`: NSImage = Bundle.module.image(forResource: "squares-unite")!
+  public static let `squircleDashed`: NSImage = Bundle.module.image(forResource: "squircle-dashed")!
   public static let `squircle`: NSImage = Bundle.module.image(forResource: "squircle")!
   public static let `squirrel`: NSImage = Bundle.module.image(forResource: "squirrel")!
   public static let `stamp`: NSImage = Bundle.module.image(forResource: "stamp")!

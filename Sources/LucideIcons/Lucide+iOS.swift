@@ -708,6 +708,7 @@ extension Lucide {
   public static let `gauge`: UIImage = UIImage(named: "gauge", in: Bundle.module, compatibleWith: nil)!
   public static let `gavel`: UIImage = UIImage(named: "gavel", in: Bundle.module, compatibleWith: nil)!
   public static let `gem`: UIImage = UIImage(named: "gem", in: Bundle.module, compatibleWith: nil)!
+  public static let `georgianLari`: UIImage = UIImage(named: "georgian-lari", in: Bundle.module, compatibleWith: nil)!
   public static let `ghost`: UIImage = UIImage(named: "ghost", in: Bundle.module, compatibleWith: nil)!
   public static let `gift`: UIImage = UIImage(named: "gift", in: Bundle.module, compatibleWith: nil)!
   public static let `gitBranchPlus`: UIImage = UIImage(named: "git-branch-plus", in: Bundle.module, compatibleWith: nil)!
@@ -861,6 +862,7 @@ extension Lucide {
   public static let `ligature`: UIImage = UIImage(named: "ligature", in: Bundle.module, compatibleWith: nil)!
   public static let `lightbulbOff`: UIImage = UIImage(named: "lightbulb-off", in: Bundle.module, compatibleWith: nil)!
   public static let `lightbulb`: UIImage = UIImage(named: "lightbulb", in: Bundle.module, compatibleWith: nil)!
+  public static let `lineSquiggle`: UIImage = UIImage(named: "line-squiggle", in: Bundle.module, compatibleWith: nil)!
   public static let `link2Off`: UIImage = UIImage(named: "link-2-off", in: Bundle.module, compatibleWith: nil)!
   public static let `link2`: UIImage = UIImage(named: "link-2", in: Bundle.module, compatibleWith: nil)!
   public static let `link`: UIImage = UIImage(named: "link", in: Bundle.module, compatibleWith: nil)!
@@ -1391,6 +1393,7 @@ extension Lucide {
   public static let `squaresIntersect`: UIImage = UIImage(named: "squares-intersect", in: Bundle.module, compatibleWith: nil)!
   public static let `squaresSubtract`: UIImage = UIImage(named: "squares-subtract", in: Bundle.module, compatibleWith: nil)!
   public static let `squaresUnite`: UIImage = UIImage(named: "squares-unite", in: Bundle.module, compatibleWith: nil)!
+  public static let `squircleDashed`: UIImage = UIImage(named: "squircle-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `squircle`: UIImage = UIImage(named: "squircle", in: Bundle.module, compatibleWith: nil)!
   public static let `squirrel`: UIImage = UIImage(named: "squirrel", in: Bundle.module, compatibleWith: nil)!
   public static let `stamp`: UIImage = UIImage(named: "stamp", in: Bundle.module, compatibleWith: nil)!
