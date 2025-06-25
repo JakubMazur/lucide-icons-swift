@@ -223,6 +223,7 @@ extension Lucide {
   public static let `botMessageSquare`: UIImage = UIImage(named: "bot-message-square", in: Bundle.module, compatibleWith: nil)!
   public static let `botOff`: UIImage = UIImage(named: "bot-off", in: Bundle.module, compatibleWith: nil)!
   public static let `bot`: UIImage = UIImage(named: "bot", in: Bundle.module, compatibleWith: nil)!
+  public static let `bottleWine`: UIImage = UIImage(named: "bottle-wine", in: Bundle.module, compatibleWith: nil)!
   public static let `bowArrow`: UIImage = UIImage(named: "bow-arrow", in: Bundle.module, compatibleWith: nil)!
   public static let `box`: UIImage = UIImage(named: "box", in: Bundle.module, compatibleWith: nil)!
   public static let `boxes`: UIImage = UIImage(named: "boxes", in: Bundle.module, compatibleWith: nil)!

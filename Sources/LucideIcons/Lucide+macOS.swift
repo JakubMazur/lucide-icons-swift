@@ -223,6 +223,7 @@ extension Lucide {
   public static let `botMessageSquare`: NSImage = Bundle.module.image(forResource: "bot-message-square")!
   public static let `botOff`: NSImage = Bundle.module.image(forResource: "bot-off")!
   public static let `bot`: NSImage = Bundle.module.image(forResource: "bot")!
+  public static let `bottleWine`: NSImage = Bundle.module.image(forResource: "bottle-wine")!
   public static let `bowArrow`: NSImage = Bundle.module.image(forResource: "bow-arrow")!
   public static let `box`: NSImage = Bundle.module.image(forResource: "box")!
   public static let `boxes`: NSImage = Bundle.module.image(forResource: "boxes")!
