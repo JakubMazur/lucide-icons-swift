@@ -1479,6 +1479,7 @@ extension Lucide {
   public static let `toggleLeft`: UIImage = UIImage(named: "toggle-left", in: Bundle.module, compatibleWith: nil)!
   public static let `toggleRight`: UIImage = UIImage(named: "toggle-right", in: Bundle.module, compatibleWith: nil)!
   public static let `toilet`: UIImage = UIImage(named: "toilet", in: Bundle.module, compatibleWith: nil)!
+  public static let `toolCase`: UIImage = UIImage(named: "tool-case", in: Bundle.module, compatibleWith: nil)!
   public static let `tornado`: UIImage = UIImage(named: "tornado", in: Bundle.module, compatibleWith: nil)!
   public static let `torus`: UIImage = UIImage(named: "torus", in: Bundle.module, compatibleWith: nil)!
   public static let `touchpadOff`: UIImage = UIImage(named: "touchpad-off", in: Bundle.module, compatibleWith: nil)!
@@ -1556,6 +1557,7 @@ extension Lucide {
   public static let `utilityPole`: UIImage = UIImage(named: "utility-pole", in: Bundle.module, compatibleWith: nil)!
   public static let `variable`: UIImage = UIImage(named: "variable", in: Bundle.module, compatibleWith: nil)!
   public static let `vault`: UIImage = UIImage(named: "vault", in: Bundle.module, compatibleWith: nil)!
+  public static let `vectorSquare`: UIImage = UIImage(named: "vector-square", in: Bundle.module, compatibleWith: nil)!
   public static let `vegan`: UIImage = UIImage(named: "vegan", in: Bundle.module, compatibleWith: nil)!
   public static let `venetianMask`: UIImage = UIImage(named: "venetian-mask", in: Bundle.module, compatibleWith: nil)!
   public static let `venusAndMars`: UIImage = UIImage(named: "venus-and-mars", in: Bundle.module, compatibleWith: nil)!

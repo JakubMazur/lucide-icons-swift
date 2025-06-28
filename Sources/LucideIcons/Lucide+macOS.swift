@@ -1479,6 +1479,7 @@ extension Lucide {
   public static let `toggleLeft`: NSImage = Bundle.module.image(forResource: "toggle-left")!
   public static let `toggleRight`: NSImage = Bundle.module.image(forResource: "toggle-right")!
   public static let `toilet`: NSImage = Bundle.module.image(forResource: "toilet")!
+  public static let `toolCase`: NSImage = Bundle.module.image(forResource: "tool-case")!
   public static let `tornado`: NSImage = Bundle.module.image(forResource: "tornado")!
   public static let `torus`: NSImage = Bundle.module.image(forResource: "torus")!
   public static let `touchpadOff`: NSImage = Bundle.module.image(forResource: "touchpad-off")!
@@ -1556,6 +1557,7 @@ extension Lucide {
   public static let `utilityPole`: NSImage = Bundle.module.image(forResource: "utility-pole")!
   public static let `variable`: NSImage = Bundle.module.image(forResource: "variable")!
   public static let `vault`: NSImage = Bundle.module.image(forResource: "vault")!
+  public static let `vectorSquare`: NSImage = Bundle.module.image(forResource: "vector-square")!
   public static let `vegan`: NSImage = Bundle.module.image(forResource: "vegan")!
   public static let `venetianMask`: NSImage = Bundle.module.image(forResource: "venetian-mask")!
   public static let `venusAndMars`: NSImage = Bundle.module.image(forResource: "venus-and-mars")!
