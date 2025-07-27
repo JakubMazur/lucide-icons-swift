@@ -130,6 +130,7 @@ extension Lucide {
   public static let `badgeQuestionMark`: NSImage = Bundle.module.image(forResource: "badge-question-mark")!
   public static let `badgeRussianRuble`: NSImage = Bundle.module.image(forResource: "badge-russian-ruble")!
   public static let `badgeSwissFranc`: NSImage = Bundle.module.image(forResource: "badge-swiss-franc")!
+  public static let `badgeTurkishLira`: NSImage = Bundle.module.image(forResource: "badge-turkish-lira")!
   public static let `badgeX`: NSImage = Bundle.module.image(forResource: "badge-x")!
   public static let `badge`: NSImage = Bundle.module.image(forResource: "badge")!
   public static let `baggageClaim`: NSImage = Bundle.module.image(forResource: "baggage-claim")!
@@ -1166,6 +1167,7 @@ extension Lucide {
   public static let `receiptRussianRuble`: NSImage = Bundle.module.image(forResource: "receipt-russian-ruble")!
   public static let `receiptSwissFranc`: NSImage = Bundle.module.image(forResource: "receipt-swiss-franc")!
   public static let `receiptText`: NSImage = Bundle.module.image(forResource: "receipt-text")!
+  public static let `receiptTurkishLira`: NSImage = Bundle.module.image(forResource: "receipt-turkish-lira")!
   public static let `receipt`: NSImage = Bundle.module.image(forResource: "receipt")!
   public static let `rectangleCircle`: NSImage = Bundle.module.image(forResource: "rectangle-circle")!
   public static let `rectangleEllipsis`: NSImage = Bundle.module.image(forResource: "rectangle-ellipsis")!
@@ -1510,6 +1512,7 @@ extension Lucide {
   public static let `trophy`: NSImage = Bundle.module.image(forResource: "trophy")!
   public static let `truckElectric`: NSImage = Bundle.module.image(forResource: "truck-electric")!
   public static let `truck`: NSImage = Bundle.module.image(forResource: "truck")!
+  public static let `turkishLira`: NSImage = Bundle.module.image(forResource: "turkish-lira")!
   public static let `turtle`: NSImage = Bundle.module.image(forResource: "turtle")!
   public static let `tvMinimalPlay`: NSImage = Bundle.module.image(forResource: "tv-minimal-play")!
   public static let `tvMinimal`: NSImage = Bundle.module.image(forResource: "tv-minimal")!
@@ -1600,6 +1603,7 @@ extension Lucide {
   public static let `wifiLow`: NSImage = Bundle.module.image(forResource: "wifi-low")!
   public static let `wifiOff`: NSImage = Bundle.module.image(forResource: "wifi-off")!
   public static let `wifiPen`: NSImage = Bundle.module.image(forResource: "wifi-pen")!
+  public static let `wifiSync`: NSImage = Bundle.module.image(forResource: "wifi-sync")!
   public static let `wifiZero`: NSImage = Bundle.module.image(forResource: "wifi-zero")!
   public static let `wifi`: NSImage = Bundle.module.image(forResource: "wifi")!
   public static let `windArrowDown`: NSImage = Bundle.module.image(forResource: "wind-arrow-down")!

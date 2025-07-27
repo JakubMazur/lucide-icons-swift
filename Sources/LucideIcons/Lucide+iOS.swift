@@ -130,6 +130,7 @@ extension Lucide {
   public static let `badgeQuestionMark`: UIImage = UIImage(named: "badge-question-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `badgeRussianRuble`: UIImage = UIImage(named: "badge-russian-ruble", in: Bundle.module, compatibleWith: nil)!
   public static let `badgeSwissFranc`: UIImage = UIImage(named: "badge-swiss-franc", in: Bundle.module, compatibleWith: nil)!
+  public static let `badgeTurkishLira`: UIImage = UIImage(named: "badge-turkish-lira", in: Bundle.module, compatibleWith: nil)!
   public static let `badgeX`: UIImage = UIImage(named: "badge-x", in: Bundle.module, compatibleWith: nil)!
   public static let `badge`: UIImage = UIImage(named: "badge", in: Bundle.module, compatibleWith: nil)!
   public static let `baggageClaim`: UIImage = UIImage(named: "baggage-claim", in: Bundle.module, compatibleWith: nil)!
@@ -1166,6 +1167,7 @@ extension Lucide {
   public static let `receiptRussianRuble`: UIImage = UIImage(named: "receipt-russian-ruble", in: Bundle.module, compatibleWith: nil)!
   public static let `receiptSwissFranc`: UIImage = UIImage(named: "receipt-swiss-franc", in: Bundle.module, compatibleWith: nil)!
   public static let `receiptText`: UIImage = UIImage(named: "receipt-text", in: Bundle.module, compatibleWith: nil)!
+  public static let `receiptTurkishLira`: UIImage = UIImage(named: "receipt-turkish-lira", in: Bundle.module, compatibleWith: nil)!
   public static let `receipt`: UIImage = UIImage(named: "receipt", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleCircle`: UIImage = UIImage(named: "rectangle-circle", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleEllipsis`: UIImage = UIImage(named: "rectangle-ellipsis", in: Bundle.module, compatibleWith: nil)!
@@ -1510,6 +1512,7 @@ extension Lucide {
   public static let `trophy`: UIImage = UIImage(named: "trophy", in: Bundle.module, compatibleWith: nil)!
   public static let `truckElectric`: UIImage = UIImage(named: "truck-electric", in: Bundle.module, compatibleWith: nil)!
   public static let `truck`: UIImage = UIImage(named: "truck", in: Bundle.module, compatibleWith: nil)!
+  public static let `turkishLira`: UIImage = UIImage(named: "turkish-lira", in: Bundle.module, compatibleWith: nil)!
   public static let `turtle`: UIImage = UIImage(named: "turtle", in: Bundle.module, compatibleWith: nil)!
   public static let `tvMinimalPlay`: UIImage = UIImage(named: "tv-minimal-play", in: Bundle.module, compatibleWith: nil)!
   public static let `tvMinimal`: UIImage = UIImage(named: "tv-minimal", in: Bundle.module, compatibleWith: nil)!
@@ -1600,6 +1603,7 @@ extension Lucide {
   public static let `wifiLow`: UIImage = UIImage(named: "wifi-low", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiOff`: UIImage = UIImage(named: "wifi-off", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiPen`: UIImage = UIImage(named: "wifi-pen", in: Bundle.module, compatibleWith: nil)!
+  public static let `wifiSync`: UIImage = UIImage(named: "wifi-sync", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiZero`: UIImage = UIImage(named: "wifi-zero", in: Bundle.module, compatibleWith: nil)!
   public static let `wifi`: UIImage = UIImage(named: "wifi", in: Bundle.module, compatibleWith: nil)!
   public static let `windArrowDown`: UIImage = UIImage(named: "wind-arrow-down", in: Bundle.module, compatibleWith: nil)!
