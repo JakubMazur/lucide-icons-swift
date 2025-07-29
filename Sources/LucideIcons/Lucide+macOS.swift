@@ -393,6 +393,7 @@ extension Lucide {
   public static let `citrus`: NSImage = Bundle.module.image(forResource: "citrus")!
   public static let `clapperboard`: NSImage = Bundle.module.image(forResource: "clapperboard")!
   public static let `clipboardCheck`: NSImage = Bundle.module.image(forResource: "clipboard-check")!
+  public static let `clipboardClock`: NSImage = Bundle.module.image(forResource: "clipboard-clock")!
   public static let `clipboardCopy`: NSImage = Bundle.module.image(forResource: "clipboard-copy")!
   public static let `clipboardList`: NSImage = Bundle.module.image(forResource: "clipboard-list")!
   public static let `clipboardMinus`: NSImage = Bundle.module.image(forResource: "clipboard-minus")!
@@ -607,6 +608,7 @@ extension Lucide {
   public static let `fileOutput`: NSImage = Bundle.module.image(forResource: "file-output")!
   public static let `filePenLine`: NSImage = Bundle.module.image(forResource: "file-pen-line")!
   public static let `filePen`: NSImage = Bundle.module.image(forResource: "file-pen")!
+  public static let `filePlay`: NSImage = Bundle.module.image(forResource: "file-play")!
   public static let `filePlus2`: NSImage = Bundle.module.image(forResource: "file-plus-2")!
   public static let `filePlus`: NSImage = Bundle.module.image(forResource: "file-plus")!
   public static let `fileQuestionMark`: NSImage = Bundle.module.image(forResource: "file-question-mark")!
@@ -623,8 +625,7 @@ extension Lucide {
   public static let `fileType`: NSImage = Bundle.module.image(forResource: "file-type")!
   public static let `fileUp`: NSImage = Bundle.module.image(forResource: "file-up")!
   public static let `fileUser`: NSImage = Bundle.module.image(forResource: "file-user")!
-  public static let `fileVideo2`: NSImage = Bundle.module.image(forResource: "file-video-2")!
-  public static let `fileVideo`: NSImage = Bundle.module.image(forResource: "file-video")!
+  public static let `fileVideoCamera`: NSImage = Bundle.module.image(forResource: "file-video-camera")!
   public static let `fileVolume2`: NSImage = Bundle.module.image(forResource: "file-volume-2")!
   public static let `fileVolume`: NSImage = Bundle.module.image(forResource: "file-volume")!
   public static let `fileWarning`: NSImage = Bundle.module.image(forResource: "file-warning")!
@@ -759,12 +760,14 @@ extension Lucide {
   public static let `handMetal`: NSImage = Bundle.module.image(forResource: "hand-metal")!
   public static let `handPlatter`: NSImage = Bundle.module.image(forResource: "hand-platter")!
   public static let `hand`: NSImage = Bundle.module.image(forResource: "hand")!
+  public static let `handbag`: NSImage = Bundle.module.image(forResource: "handbag")!
   public static let `handshake`: NSImage = Bundle.module.image(forResource: "handshake")!
   public static let `hardDriveDownload`: NSImage = Bundle.module.image(forResource: "hard-drive-download")!
   public static let `hardDriveUpload`: NSImage = Bundle.module.image(forResource: "hard-drive-upload")!
   public static let `hardDrive`: NSImage = Bundle.module.image(forResource: "hard-drive")!
   public static let `hardHat`: NSImage = Bundle.module.image(forResource: "hard-hat")!
   public static let `hash`: NSImage = Bundle.module.image(forResource: "hash")!
+  public static let `hatGlasses`: NSImage = Bundle.module.image(forResource: "hat-glasses")!
   public static let `haze`: NSImage = Bundle.module.image(forResource: "haze")!
   public static let `hdmiPort`: NSImage = Bundle.module.image(forResource: "hdmi-port")!
   public static let `heading1`: NSImage = Bundle.module.image(forResource: "heading-1")!
@@ -892,7 +895,6 @@ extension Lucide {
   public static let `locateFixed`: NSImage = Bundle.module.image(forResource: "locate-fixed")!
   public static let `locateOff`: NSImage = Bundle.module.image(forResource: "locate-off")!
   public static let `locate`: NSImage = Bundle.module.image(forResource: "locate")!
-  public static let `locationEdit`: NSImage = Bundle.module.image(forResource: "location-edit")!
   public static let `lockKeyholeOpen`: NSImage = Bundle.module.image(forResource: "lock-keyhole-open")!
   public static let `lockKeyhole`: NSImage = Bundle.module.image(forResource: "lock-keyhole")!
   public static let `lockOpen`: NSImage = Bundle.module.image(forResource: "lock-open")!
@@ -914,12 +916,14 @@ extension Lucide {
   public static let `mail`: NSImage = Bundle.module.image(forResource: "mail")!
   public static let `mailbox`: NSImage = Bundle.module.image(forResource: "mailbox")!
   public static let `mails`: NSImage = Bundle.module.image(forResource: "mails")!
+  public static let `mapMinus`: NSImage = Bundle.module.image(forResource: "map-minus")!
   public static let `mapPinCheckInside`: NSImage = Bundle.module.image(forResource: "map-pin-check-inside")!
   public static let `mapPinCheck`: NSImage = Bundle.module.image(forResource: "map-pin-check")!
   public static let `mapPinHouse`: NSImage = Bundle.module.image(forResource: "map-pin-house")!
   public static let `mapPinMinusInside`: NSImage = Bundle.module.image(forResource: "map-pin-minus-inside")!
   public static let `mapPinMinus`: NSImage = Bundle.module.image(forResource: "map-pin-minus")!
   public static let `mapPinOff`: NSImage = Bundle.module.image(forResource: "map-pin-off")!
+  public static let `mapPinPen`: NSImage = Bundle.module.image(forResource: "map-pin-pen")!
   public static let `mapPinPlusInside`: NSImage = Bundle.module.image(forResource: "map-pin-plus-inside")!
   public static let `mapPinPlus`: NSImage = Bundle.module.image(forResource: "map-pin-plus")!
   public static let `mapPinXInside`: NSImage = Bundle.module.image(forResource: "map-pin-x-inside")!
@@ -1328,6 +1332,7 @@ extension Lucide {
   public static let `spline`: NSImage = Bundle.module.image(forResource: "spline")!
   public static let `split`: NSImage = Bundle.module.image(forResource: "split")!
   public static let `spool`: NSImage = Bundle.module.image(forResource: "spool")!
+  public static let `spotlight`: NSImage = Bundle.module.image(forResource: "spotlight")!
   public static let `sprayCan`: NSImage = Bundle.module.image(forResource: "spray-can")!
   public static let `sprout`: NSImage = Bundle.module.image(forResource: "sprout")!
   public static let `squareActivity`: NSImage = Bundle.module.image(forResource: "square-activity")!
@@ -1371,6 +1376,7 @@ extension Lucide {
   public static let `squareMousePointer`: NSImage = Bundle.module.image(forResource: "square-mouse-pointer")!
   public static let `squareParkingOff`: NSImage = Bundle.module.image(forResource: "square-parking-off")!
   public static let `squareParking`: NSImage = Bundle.module.image(forResource: "square-parking")!
+  public static let `squarePause`: NSImage = Bundle.module.image(forResource: "square-pause")!
   public static let `squarePen`: NSImage = Bundle.module.image(forResource: "square-pen")!
   public static let `squarePercent`: NSImage = Bundle.module.image(forResource: "square-percent")!
   public static let `squarePi`: NSImage = Bundle.module.image(forResource: "square-pi")!
@@ -1387,6 +1393,7 @@ extension Lucide {
   public static let `squareSplitVertical`: NSImage = Bundle.module.image(forResource: "square-split-vertical")!
   public static let `squareSquare`: NSImage = Bundle.module.image(forResource: "square-square")!
   public static let `squareStack`: NSImage = Bundle.module.image(forResource: "square-stack")!
+  public static let `squareStop`: NSImage = Bundle.module.image(forResource: "square-stop")!
   public static let `squareTerminal`: NSImage = Bundle.module.image(forResource: "square-terminal")!
   public static let `squareUserRound`: NSImage = Bundle.module.image(forResource: "square-user-round")!
   public static let `squareUser`: NSImage = Bundle.module.image(forResource: "square-user")!
@@ -1551,6 +1558,7 @@ extension Lucide {
   public static let `userRoundX`: NSImage = Bundle.module.image(forResource: "user-round-x")!
   public static let `userRound`: NSImage = Bundle.module.image(forResource: "user-round")!
   public static let `userSearch`: NSImage = Bundle.module.image(forResource: "user-search")!
+  public static let `userStar`: NSImage = Bundle.module.image(forResource: "user-star")!
   public static let `userX`: NSImage = Bundle.module.image(forResource: "user-x")!
   public static let `user`: NSImage = Bundle.module.image(forResource: "user")!
   public static let `usersRound`: NSImage = Bundle.module.image(forResource: "users-round")!
