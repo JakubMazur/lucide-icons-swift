@@ -422,6 +422,7 @@ extension Lucide {
   public static let `clockFading`: UIImage = UIImage(named: "clock-fading", in: Bundle.module, compatibleWith: nil)!
   public static let `clockPlus`: UIImage = UIImage(named: "clock-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `clock`: UIImage = UIImage(named: "clock", in: Bundle.module, compatibleWith: nil)!
+  public static let `closedCaption`: UIImage = UIImage(named: "closed-caption", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudAlert`: UIImage = UIImage(named: "cloud-alert", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudCheck`: UIImage = UIImage(named: "cloud-check", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudCog`: UIImage = UIImage(named: "cloud-cog", in: Bundle.module, compatibleWith: nil)!

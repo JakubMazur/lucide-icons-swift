@@ -422,6 +422,7 @@ extension Lucide {
   public static let `clockFading`: NSImage = Bundle.module.image(forResource: "clock-fading")!
   public static let `clockPlus`: NSImage = Bundle.module.image(forResource: "clock-plus")!
   public static let `clock`: NSImage = Bundle.module.image(forResource: "clock")!
+  public static let `closedCaption`: NSImage = Bundle.module.image(forResource: "closed-caption")!
   public static let `cloudAlert`: NSImage = Bundle.module.image(forResource: "cloud-alert")!
   public static let `cloudCheck`: NSImage = Bundle.module.image(forResource: "cloud-check")!
   public static let `cloudCog`: NSImage = Bundle.module.image(forResource: "cloud-cog")!
