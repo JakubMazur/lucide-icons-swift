@@ -738,7 +738,6 @@ extension Lucide {
   public static let `globe`: UIImage = UIImage(named: "globe", in: Bundle.module, compatibleWith: nil)!
   public static let `goal`: UIImage = UIImage(named: "goal", in: Bundle.module, compatibleWith: nil)!
   public static let `gpu`: UIImage = UIImage(named: "gpu", in: Bundle.module, compatibleWith: nil)!
-  public static let `grab`: UIImage = UIImage(named: "grab", in: Bundle.module, compatibleWith: nil)!
   public static let `graduationCap`: UIImage = UIImage(named: "graduation-cap", in: Bundle.module, compatibleWith: nil)!
   public static let `grape`: UIImage = UIImage(named: "grape", in: Bundle.module, compatibleWith: nil)!
   public static let `grid2x2Check`: UIImage = UIImage(named: "grid-2x2-check", in: Bundle.module, compatibleWith: nil)!
@@ -756,6 +755,8 @@ extension Lucide {
   public static let `hamburger`: UIImage = UIImage(named: "hamburger", in: Bundle.module, compatibleWith: nil)!
   public static let `hammer`: UIImage = UIImage(named: "hammer", in: Bundle.module, compatibleWith: nil)!
   public static let `handCoins`: UIImage = UIImage(named: "hand-coins", in: Bundle.module, compatibleWith: nil)!
+  public static let `handFist`: UIImage = UIImage(named: "hand-fist", in: Bundle.module, compatibleWith: nil)!
+  public static let `handGrab`: UIImage = UIImage(named: "hand-grab", in: Bundle.module, compatibleWith: nil)!
   public static let `handHeart`: UIImage = UIImage(named: "hand-heart", in: Bundle.module, compatibleWith: nil)!
   public static let `handHelping`: UIImage = UIImage(named: "hand-helping", in: Bundle.module, compatibleWith: nil)!
   public static let `handMetal`: UIImage = UIImage(named: "hand-metal", in: Bundle.module, compatibleWith: nil)!

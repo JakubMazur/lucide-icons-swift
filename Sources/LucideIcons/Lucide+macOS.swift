@@ -738,7 +738,6 @@ extension Lucide {
   public static let `globe`: NSImage = Bundle.module.image(forResource: "globe")!
   public static let `goal`: NSImage = Bundle.module.image(forResource: "goal")!
   public static let `gpu`: NSImage = Bundle.module.image(forResource: "gpu")!
-  public static let `grab`: NSImage = Bundle.module.image(forResource: "grab")!
   public static let `graduationCap`: NSImage = Bundle.module.image(forResource: "graduation-cap")!
   public static let `grape`: NSImage = Bundle.module.image(forResource: "grape")!
   public static let `grid2x2Check`: NSImage = Bundle.module.image(forResource: "grid-2x2-check")!
@@ -756,6 +755,8 @@ extension Lucide {
   public static let `hamburger`: NSImage = Bundle.module.image(forResource: "hamburger")!
   public static let `hammer`: NSImage = Bundle.module.image(forResource: "hammer")!
   public static let `handCoins`: NSImage = Bundle.module.image(forResource: "hand-coins")!
+  public static let `handFist`: NSImage = Bundle.module.image(forResource: "hand-fist")!
+  public static let `handGrab`: NSImage = Bundle.module.image(forResource: "hand-grab")!
   public static let `handHeart`: NSImage = Bundle.module.image(forResource: "hand-heart")!
   public static let `handHelping`: NSImage = Bundle.module.image(forResource: "hand-helping")!
   public static let `handMetal`: NSImage = Bundle.module.image(forResource: "hand-metal")!
