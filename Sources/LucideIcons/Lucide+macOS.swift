@@ -1522,6 +1522,7 @@ extension Lucide {
   public static let `truckElectric`: NSImage = Bundle.module.image(forResource: "truck-electric")!
   public static let `truck`: NSImage = Bundle.module.image(forResource: "truck")!
   public static let `turkishLira`: NSImage = Bundle.module.image(forResource: "turkish-lira")!
+  public static let `turntable`: NSImage = Bundle.module.image(forResource: "turntable")!
   public static let `turtle`: NSImage = Bundle.module.image(forResource: "turtle")!
   public static let `tvMinimalPlay`: NSImage = Bundle.module.image(forResource: "tv-minimal-play")!
   public static let `tvMinimal`: NSImage = Bundle.module.image(forResource: "tv-minimal")!

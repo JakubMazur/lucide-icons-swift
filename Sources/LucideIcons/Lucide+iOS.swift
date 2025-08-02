@@ -1522,6 +1522,7 @@ extension Lucide {
   public static let `truckElectric`: UIImage = UIImage(named: "truck-electric", in: Bundle.module, compatibleWith: nil)!
   public static let `truck`: UIImage = UIImage(named: "truck", in: Bundle.module, compatibleWith: nil)!
   public static let `turkishLira`: UIImage = UIImage(named: "turkish-lira", in: Bundle.module, compatibleWith: nil)!
+  public static let `turntable`: UIImage = UIImage(named: "turntable", in: Bundle.module, compatibleWith: nil)!
   public static let `turtle`: UIImage = UIImage(named: "turtle", in: Bundle.module, compatibleWith: nil)!
   public static let `tvMinimalPlay`: UIImage = UIImage(named: "tv-minimal-play", in: Bundle.module, compatibleWith: nil)!
   public static let `tvMinimal`: UIImage = UIImage(named: "tv-minimal", in: Bundle.module, compatibleWith: nil)!
