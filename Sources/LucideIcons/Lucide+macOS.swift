@@ -384,6 +384,7 @@ extension Lucide {
   public static let `circleSlash2`: NSImage = Bundle.module.image(forResource: "circle-slash-2")!
   public static let `circleSlash`: NSImage = Bundle.module.image(forResource: "circle-slash")!
   public static let `circleSmall`: NSImage = Bundle.module.image(forResource: "circle-small")!
+  public static let `circleStar`: NSImage = Bundle.module.image(forResource: "circle-star")!
   public static let `circleStop`: NSImage = Bundle.module.image(forResource: "circle-stop")!
   public static let `circleUserRound`: NSImage = Bundle.module.image(forResource: "circle-user-round")!
   public static let `circleUser`: NSImage = Bundle.module.image(forResource: "circle-user")!
@@ -1395,6 +1396,7 @@ extension Lucide {
   public static let `squareSplitVertical`: NSImage = Bundle.module.image(forResource: "square-split-vertical")!
   public static let `squareSquare`: NSImage = Bundle.module.image(forResource: "square-square")!
   public static let `squareStack`: NSImage = Bundle.module.image(forResource: "square-stack")!
+  public static let `squareStar`: NSImage = Bundle.module.image(forResource: "square-star")!
   public static let `squareStop`: NSImage = Bundle.module.image(forResource: "square-stop")!
   public static let `squareTerminal`: NSImage = Bundle.module.image(forResource: "square-terminal")!
   public static let `squareUserRound`: NSImage = Bundle.module.image(forResource: "square-user-round")!

@@ -384,6 +384,7 @@ extension Lucide {
   public static let `circleSlash2`: UIImage = UIImage(named: "circle-slash-2", in: Bundle.module, compatibleWith: nil)!
   public static let `circleSlash`: UIImage = UIImage(named: "circle-slash", in: Bundle.module, compatibleWith: nil)!
   public static let `circleSmall`: UIImage = UIImage(named: "circle-small", in: Bundle.module, compatibleWith: nil)!
+  public static let `circleStar`: UIImage = UIImage(named: "circle-star", in: Bundle.module, compatibleWith: nil)!
   public static let `circleStop`: UIImage = UIImage(named: "circle-stop", in: Bundle.module, compatibleWith: nil)!
   public static let `circleUserRound`: UIImage = UIImage(named: "circle-user-round", in: Bundle.module, compatibleWith: nil)!
   public static let `circleUser`: UIImage = UIImage(named: "circle-user", in: Bundle.module, compatibleWith: nil)!
@@ -1395,6 +1396,7 @@ extension Lucide {
   public static let `squareSplitVertical`: UIImage = UIImage(named: "square-split-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `squareSquare`: UIImage = UIImage(named: "square-square", in: Bundle.module, compatibleWith: nil)!
   public static let `squareStack`: UIImage = UIImage(named: "square-stack", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareStar`: UIImage = UIImage(named: "square-star", in: Bundle.module, compatibleWith: nil)!
   public static let `squareStop`: UIImage = UIImage(named: "square-stop", in: Bundle.module, compatibleWith: nil)!
   public static let `squareTerminal`: UIImage = UIImage(named: "square-terminal", in: Bundle.module, compatibleWith: nil)!
   public static let `squareUserRound`: UIImage = UIImage(named: "square-user-round", in: Bundle.module, compatibleWith: nil)!
