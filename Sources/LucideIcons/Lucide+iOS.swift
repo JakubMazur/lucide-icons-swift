@@ -234,6 +234,7 @@ extension Lucide {
   public static let `brainCog`: UIImage = UIImage(named: "brain-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `brain`: UIImage = UIImage(named: "brain", in: Bundle.module, compatibleWith: nil)!
   public static let `brickWallFire`: UIImage = UIImage(named: "brick-wall-fire", in: Bundle.module, compatibleWith: nil)!
+  public static let `brickWallShield`: UIImage = UIImage(named: "brick-wall-shield", in: Bundle.module, compatibleWith: nil)!
   public static let `brickWall`: UIImage = UIImage(named: "brick-wall", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcaseBusiness`: UIImage = UIImage(named: "briefcase-business", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcaseConveyorBelt`: UIImage = UIImage(named: "briefcase-conveyor-belt", in: Bundle.module, compatibleWith: nil)!
@@ -831,6 +832,7 @@ extension Lucide {
   public static let `japaneseYen`: UIImage = UIImage(named: "japanese-yen", in: Bundle.module, compatibleWith: nil)!
   public static let `joystick`: UIImage = UIImage(named: "joystick", in: Bundle.module, compatibleWith: nil)!
   public static let `kanban`: UIImage = UIImage(named: "kanban", in: Bundle.module, compatibleWith: nil)!
+  public static let `kayak`: UIImage = UIImage(named: "kayak", in: Bundle.module, compatibleWith: nil)!
   public static let `keyRound`: UIImage = UIImage(named: "key-round", in: Bundle.module, compatibleWith: nil)!
   public static let `keySquare`: UIImage = UIImage(named: "key-square", in: Bundle.module, compatibleWith: nil)!
   public static let `key`: UIImage = UIImage(named: "key", in: Bundle.module, compatibleWith: nil)!

@@ -234,6 +234,7 @@ extension Lucide {
   public static let `brainCog`: NSImage = Bundle.module.image(forResource: "brain-cog")!
   public static let `brain`: NSImage = Bundle.module.image(forResource: "brain")!
   public static let `brickWallFire`: NSImage = Bundle.module.image(forResource: "brick-wall-fire")!
+  public static let `brickWallShield`: NSImage = Bundle.module.image(forResource: "brick-wall-shield")!
   public static let `brickWall`: NSImage = Bundle.module.image(forResource: "brick-wall")!
   public static let `briefcaseBusiness`: NSImage = Bundle.module.image(forResource: "briefcase-business")!
   public static let `briefcaseConveyorBelt`: NSImage = Bundle.module.image(forResource: "briefcase-conveyor-belt")!
@@ -831,6 +832,7 @@ extension Lucide {
   public static let `japaneseYen`: NSImage = Bundle.module.image(forResource: "japanese-yen")!
   public static let `joystick`: NSImage = Bundle.module.image(forResource: "joystick")!
   public static let `kanban`: NSImage = Bundle.module.image(forResource: "kanban")!
+  public static let `kayak`: NSImage = Bundle.module.image(forResource: "kayak")!
   public static let `keyRound`: NSImage = Bundle.module.image(forResource: "key-round")!
   public static let `keySquare`: NSImage = Bundle.module.image(forResource: "key-square")!
   public static let `key`: NSImage = Bundle.module.image(forResource: "key")!
