@@ -1206,6 +1206,7 @@ extension Lucide {
   public static let `rocket`: NSImage = Bundle.module.image(forResource: "rocket")!
   public static let `rockingChair`: NSImage = Bundle.module.image(forResource: "rocking-chair")!
   public static let `rollerCoaster`: NSImage = Bundle.module.image(forResource: "roller-coaster")!
+  public static let `rose`: NSImage = Bundle.module.image(forResource: "rose")!
   public static let `rotate3d`: NSImage = Bundle.module.image(forResource: "rotate-3d")!
   public static let `rotateCcwKey`: NSImage = Bundle.module.image(forResource: "rotate-ccw-key")!
   public static let `rotateCcwSquare`: NSImage = Bundle.module.image(forResource: "rotate-ccw-square")!

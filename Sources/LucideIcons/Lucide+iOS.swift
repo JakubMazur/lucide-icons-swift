@@ -1206,6 +1206,7 @@ extension Lucide {
   public static let `rocket`: UIImage = UIImage(named: "rocket", in: Bundle.module, compatibleWith: nil)!
   public static let `rockingChair`: UIImage = UIImage(named: "rocking-chair", in: Bundle.module, compatibleWith: nil)!
   public static let `rollerCoaster`: UIImage = UIImage(named: "roller-coaster", in: Bundle.module, compatibleWith: nil)!
+  public static let `rose`: UIImage = UIImage(named: "rose", in: Bundle.module, compatibleWith: nil)!
   public static let `rotate3d`: UIImage = UIImage(named: "rotate-3d", in: Bundle.module, compatibleWith: nil)!
   public static let `rotateCcwKey`: UIImage = UIImage(named: "rotate-ccw-key", in: Bundle.module, compatibleWith: nil)!
   public static let `rotateCcwSquare`: UIImage = UIImage(named: "rotate-ccw-square", in: Bundle.module, compatibleWith: nil)!
