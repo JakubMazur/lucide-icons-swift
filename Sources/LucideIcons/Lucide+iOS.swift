@@ -342,7 +342,7 @@ extension Lucide {
   public static let `chevronsRight`: UIImage = UIImage(named: "chevrons-right", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsUpDown`: UIImage = UIImage(named: "chevrons-up-down", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsUp`: UIImage = UIImage(named: "chevrons-up", in: Bundle.module, compatibleWith: nil)!
-  public static let `chrome`: UIImage = UIImage(named: "chrome", in: Bundle.module, compatibleWith: nil)!
+  public static let `chromium`: UIImage = UIImage(named: "chromium", in: Bundle.module, compatibleWith: nil)!
   public static let `church`: UIImage = UIImage(named: "church", in: Bundle.module, compatibleWith: nil)!
   public static let `cigaretteOff`: UIImage = UIImage(named: "cigarette-off", in: Bundle.module, compatibleWith: nil)!
   public static let `cigarette`: UIImage = UIImage(named: "cigarette", in: Bundle.module, compatibleWith: nil)!
@@ -1076,11 +1076,13 @@ extension Lucide {
   public static let `panelLeftClose`: UIImage = UIImage(named: "panel-left-close", in: Bundle.module, compatibleWith: nil)!
   public static let `panelLeftDashed`: UIImage = UIImage(named: "panel-left-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `panelLeftOpen`: UIImage = UIImage(named: "panel-left-open", in: Bundle.module, compatibleWith: nil)!
+  public static let `panelLeftRightDashed`: UIImage = UIImage(named: "panel-left-right-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `panelLeft`: UIImage = UIImage(named: "panel-left", in: Bundle.module, compatibleWith: nil)!
   public static let `panelRightClose`: UIImage = UIImage(named: "panel-right-close", in: Bundle.module, compatibleWith: nil)!
   public static let `panelRightDashed`: UIImage = UIImage(named: "panel-right-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `panelRightOpen`: UIImage = UIImage(named: "panel-right-open", in: Bundle.module, compatibleWith: nil)!
   public static let `panelRight`: UIImage = UIImage(named: "panel-right", in: Bundle.module, compatibleWith: nil)!
+  public static let `panelTopBottomDashed`: UIImage = UIImage(named: "panel-top-bottom-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `panelTopClose`: UIImage = UIImage(named: "panel-top-close", in: Bundle.module, compatibleWith: nil)!
   public static let `panelTopDashed`: UIImage = UIImage(named: "panel-top-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `panelTopOpen`: UIImage = UIImage(named: "panel-top-open", in: Bundle.module, compatibleWith: nil)!

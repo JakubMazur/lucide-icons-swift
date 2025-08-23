@@ -342,7 +342,7 @@ extension Lucide {
   public static let `chevronsRight`: NSImage = Bundle.module.image(forResource: "chevrons-right")!
   public static let `chevronsUpDown`: NSImage = Bundle.module.image(forResource: "chevrons-up-down")!
   public static let `chevronsUp`: NSImage = Bundle.module.image(forResource: "chevrons-up")!
-  public static let `chrome`: NSImage = Bundle.module.image(forResource: "chrome")!
+  public static let `chromium`: NSImage = Bundle.module.image(forResource: "chromium")!
   public static let `church`: NSImage = Bundle.module.image(forResource: "church")!
   public static let `cigaretteOff`: NSImage = Bundle.module.image(forResource: "cigarette-off")!
   public static let `cigarette`: NSImage = Bundle.module.image(forResource: "cigarette")!
@@ -1076,11 +1076,13 @@ extension Lucide {
   public static let `panelLeftClose`: NSImage = Bundle.module.image(forResource: "panel-left-close")!
   public static let `panelLeftDashed`: NSImage = Bundle.module.image(forResource: "panel-left-dashed")!
   public static let `panelLeftOpen`: NSImage = Bundle.module.image(forResource: "panel-left-open")!
+  public static let `panelLeftRightDashed`: NSImage = Bundle.module.image(forResource: "panel-left-right-dashed")!
   public static let `panelLeft`: NSImage = Bundle.module.image(forResource: "panel-left")!
   public static let `panelRightClose`: NSImage = Bundle.module.image(forResource: "panel-right-close")!
   public static let `panelRightDashed`: NSImage = Bundle.module.image(forResource: "panel-right-dashed")!
   public static let `panelRightOpen`: NSImage = Bundle.module.image(forResource: "panel-right-open")!
   public static let `panelRight`: NSImage = Bundle.module.image(forResource: "panel-right")!
+  public static let `panelTopBottomDashed`: NSImage = Bundle.module.image(forResource: "panel-top-bottom-dashed")!
   public static let `panelTopClose`: NSImage = Bundle.module.image(forResource: "panel-top-close")!
   public static let `panelTopDashed`: NSImage = Bundle.module.image(forResource: "panel-top-dashed")!
   public static let `panelTopOpen`: NSImage = Bundle.module.image(forResource: "panel-top-open")!
