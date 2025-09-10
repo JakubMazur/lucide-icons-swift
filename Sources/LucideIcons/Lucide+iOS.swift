@@ -21,7 +21,6 @@ extension Lucide {
   public static let `album`: UIImage = UIImage(named: "album", in: Bundle.module, compatibleWith: nil)!
   public static let `alignCenterHorizontal`: UIImage = UIImage(named: "align-center-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `alignCenterVertical`: UIImage = UIImage(named: "align-center-vertical", in: Bundle.module, compatibleWith: nil)!
-  public static let `alignCenter`: UIImage = UIImage(named: "align-center", in: Bundle.module, compatibleWith: nil)!
   public static let `alignEndHorizontal`: UIImage = UIImage(named: "align-end-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `alignEndVertical`: UIImage = UIImage(named: "align-end-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `alignHorizontalDistributeCenter`: UIImage = UIImage(named: "align-horizontal-distribute-center", in: Bundle.module, compatibleWith: nil)!
@@ -32,9 +31,6 @@ extension Lucide {
   public static let `alignHorizontalJustifyStart`: UIImage = UIImage(named: "align-horizontal-justify-start", in: Bundle.module, compatibleWith: nil)!
   public static let `alignHorizontalSpaceAround`: UIImage = UIImage(named: "align-horizontal-space-around", in: Bundle.module, compatibleWith: nil)!
   public static let `alignHorizontalSpaceBetween`: UIImage = UIImage(named: "align-horizontal-space-between", in: Bundle.module, compatibleWith: nil)!
-  public static let `alignJustify`: UIImage = UIImage(named: "align-justify", in: Bundle.module, compatibleWith: nil)!
-  public static let `alignLeft`: UIImage = UIImage(named: "align-left", in: Bundle.module, compatibleWith: nil)!
-  public static let `alignRight`: UIImage = UIImage(named: "align-right", in: Bundle.module, compatibleWith: nil)!
   public static let `alignStartHorizontal`: UIImage = UIImage(named: "align-start-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `alignStartVertical`: UIImage = UIImage(named: "align-start-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `alignVerticalDistributeCenter`: UIImage = UIImage(named: "align-vertical-distribute-center", in: Bundle.module, compatibleWith: nil)!
@@ -800,6 +796,7 @@ extension Lucide {
   public static let `hospital`: UIImage = UIImage(named: "hospital", in: Bundle.module, compatibleWith: nil)!
   public static let `hotel`: UIImage = UIImage(named: "hotel", in: Bundle.module, compatibleWith: nil)!
   public static let `hourglass`: UIImage = UIImage(named: "hourglass", in: Bundle.module, compatibleWith: nil)!
+  public static let `houseHeart`: UIImage = UIImage(named: "house-heart", in: Bundle.module, compatibleWith: nil)!
   public static let `housePlug`: UIImage = UIImage(named: "house-plug", in: Bundle.module, compatibleWith: nil)!
   public static let `housePlus`: UIImage = UIImage(named: "house-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `houseWifi`: UIImage = UIImage(named: "house-wifi", in: Bundle.module, compatibleWith: nil)!
@@ -819,8 +816,6 @@ extension Lucide {
   public static let `images`: UIImage = UIImage(named: "images", in: Bundle.module, compatibleWith: nil)!
   public static let `import`: UIImage = UIImage(named: "import", in: Bundle.module, compatibleWith: nil)!
   public static let `inbox`: UIImage = UIImage(named: "inbox", in: Bundle.module, compatibleWith: nil)!
-  public static let `indentDecrease`: UIImage = UIImage(named: "indent-decrease", in: Bundle.module, compatibleWith: nil)!
-  public static let `indentIncrease`: UIImage = UIImage(named: "indent-increase", in: Bundle.module, compatibleWith: nil)!
   public static let `indianRupee`: UIImage = UIImage(named: "indian-rupee", in: Bundle.module, compatibleWith: nil)!
   public static let `infinity`: UIImage = UIImage(named: "infinity", in: Bundle.module, compatibleWith: nil)!
   public static let `info`: UIImage = UIImage(named: "info", in: Bundle.module, compatibleWith: nil)!
@@ -865,7 +860,6 @@ extension Lucide {
   public static let `leaf`: UIImage = UIImage(named: "leaf", in: Bundle.module, compatibleWith: nil)!
   public static let `leafyGreen`: UIImage = UIImage(named: "leafy-green", in: Bundle.module, compatibleWith: nil)!
   public static let `lectern`: UIImage = UIImage(named: "lectern", in: Bundle.module, compatibleWith: nil)!
-  public static let `letterText`: UIImage = UIImage(named: "letter-text", in: Bundle.module, compatibleWith: nil)!
   public static let `libraryBig`: UIImage = UIImage(named: "library-big", in: Bundle.module, compatibleWith: nil)!
   public static let `library`: UIImage = UIImage(named: "library", in: Bundle.module, compatibleWith: nil)!
   public static let `lifeBuoy`: UIImage = UIImage(named: "life-buoy", in: Bundle.module, compatibleWith: nil)!
@@ -880,10 +874,13 @@ extension Lucide {
   public static let `listCheck`: UIImage = UIImage(named: "list-check", in: Bundle.module, compatibleWith: nil)!
   public static let `listChecks`: UIImage = UIImage(named: "list-checks", in: Bundle.module, compatibleWith: nil)!
   public static let `listChevronsDownUp`: UIImage = UIImage(named: "list-chevrons-down-up", in: Bundle.module, compatibleWith: nil)!
+  public static let `listChevronsUpDown`: UIImage = UIImage(named: "list-chevrons-up-down", in: Bundle.module, compatibleWith: nil)!
   public static let `listCollapse`: UIImage = UIImage(named: "list-collapse", in: Bundle.module, compatibleWith: nil)!
   public static let `listEnd`: UIImage = UIImage(named: "list-end", in: Bundle.module, compatibleWith: nil)!
   public static let `listFilterPlus`: UIImage = UIImage(named: "list-filter-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `listFilter`: UIImage = UIImage(named: "list-filter", in: Bundle.module, compatibleWith: nil)!
+  public static let `listIndentDecrease`: UIImage = UIImage(named: "list-indent-decrease", in: Bundle.module, compatibleWith: nil)!
+  public static let `listIndentIncrease`: UIImage = UIImage(named: "list-indent-increase", in: Bundle.module, compatibleWith: nil)!
   public static let `listMinus`: UIImage = UIImage(named: "list-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `listMusic`: UIImage = UIImage(named: "list-music", in: Bundle.module, compatibleWith: nil)!
   public static let `listOrdered`: UIImage = UIImage(named: "list-ordered", in: Bundle.module, compatibleWith: nil)!
@@ -1471,12 +1468,17 @@ extension Lucide {
   public static let `testTubeDiagonal`: UIImage = UIImage(named: "test-tube-diagonal", in: Bundle.module, compatibleWith: nil)!
   public static let `testTube`: UIImage = UIImage(named: "test-tube", in: Bundle.module, compatibleWith: nil)!
   public static let `testTubes`: UIImage = UIImage(named: "test-tubes", in: Bundle.module, compatibleWith: nil)!
+  public static let `textAlignCenter`: UIImage = UIImage(named: "text-align-center", in: Bundle.module, compatibleWith: nil)!
+  public static let `textAlignEnd`: UIImage = UIImage(named: "text-align-end", in: Bundle.module, compatibleWith: nil)!
+  public static let `textAlignJustify`: UIImage = UIImage(named: "text-align-justify", in: Bundle.module, compatibleWith: nil)!
+  public static let `textAlignStart`: UIImage = UIImage(named: "text-align-start", in: Bundle.module, compatibleWith: nil)!
   public static let `textCursorInput`: UIImage = UIImage(named: "text-cursor-input", in: Bundle.module, compatibleWith: nil)!
   public static let `textCursor`: UIImage = UIImage(named: "text-cursor", in: Bundle.module, compatibleWith: nil)!
+  public static let `textInitial`: UIImage = UIImage(named: "text-initial", in: Bundle.module, compatibleWith: nil)!
   public static let `textQuote`: UIImage = UIImage(named: "text-quote", in: Bundle.module, compatibleWith: nil)!
   public static let `textSearch`: UIImage = UIImage(named: "text-search", in: Bundle.module, compatibleWith: nil)!
   public static let `textSelect`: UIImage = UIImage(named: "text-select", in: Bundle.module, compatibleWith: nil)!
-  public static let `text`: UIImage = UIImage(named: "text", in: Bundle.module, compatibleWith: nil)!
+  public static let `textWrap`: UIImage = UIImage(named: "text-wrap", in: Bundle.module, compatibleWith: nil)!
   public static let `theater`: UIImage = UIImage(named: "theater", in: Bundle.module, compatibleWith: nil)!
   public static let `thermometerSnowflake`: UIImage = UIImage(named: "thermometer-snowflake", in: Bundle.module, compatibleWith: nil)!
   public static let `thermometerSun`: UIImage = UIImage(named: "thermometer-sun", in: Bundle.module, compatibleWith: nil)!
@@ -1631,7 +1633,6 @@ extension Lucide {
   public static let `wine`: UIImage = UIImage(named: "wine", in: Bundle.module, compatibleWith: nil)!
   public static let `workflow`: UIImage = UIImage(named: "workflow", in: Bundle.module, compatibleWith: nil)!
   public static let `worm`: UIImage = UIImage(named: "worm", in: Bundle.module, compatibleWith: nil)!
-  public static let `wrapText`: UIImage = UIImage(named: "wrap-text", in: Bundle.module, compatibleWith: nil)!
   public static let `wrench`: UIImage = UIImage(named: "wrench", in: Bundle.module, compatibleWith: nil)!
   public static let `x`: UIImage = UIImage(named: "x", in: Bundle.module, compatibleWith: nil)!
   public static let `youtube`: UIImage = UIImage(named: "youtube", in: Bundle.module, compatibleWith: nil)!

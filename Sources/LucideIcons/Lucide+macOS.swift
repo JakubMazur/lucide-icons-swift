@@ -21,7 +21,6 @@ extension Lucide {
   public static let `album`: NSImage = Bundle.module.image(forResource: "album")!
   public static let `alignCenterHorizontal`: NSImage = Bundle.module.image(forResource: "align-center-horizontal")!
   public static let `alignCenterVertical`: NSImage = Bundle.module.image(forResource: "align-center-vertical")!
-  public static let `alignCenter`: NSImage = Bundle.module.image(forResource: "align-center")!
   public static let `alignEndHorizontal`: NSImage = Bundle.module.image(forResource: "align-end-horizontal")!
   public static let `alignEndVertical`: NSImage = Bundle.module.image(forResource: "align-end-vertical")!
   public static let `alignHorizontalDistributeCenter`: NSImage = Bundle.module.image(forResource: "align-horizontal-distribute-center")!
@@ -32,9 +31,6 @@ extension Lucide {
   public static let `alignHorizontalJustifyStart`: NSImage = Bundle.module.image(forResource: "align-horizontal-justify-start")!
   public static let `alignHorizontalSpaceAround`: NSImage = Bundle.module.image(forResource: "align-horizontal-space-around")!
   public static let `alignHorizontalSpaceBetween`: NSImage = Bundle.module.image(forResource: "align-horizontal-space-between")!
-  public static let `alignJustify`: NSImage = Bundle.module.image(forResource: "align-justify")!
-  public static let `alignLeft`: NSImage = Bundle.module.image(forResource: "align-left")!
-  public static let `alignRight`: NSImage = Bundle.module.image(forResource: "align-right")!
   public static let `alignStartHorizontal`: NSImage = Bundle.module.image(forResource: "align-start-horizontal")!
   public static let `alignStartVertical`: NSImage = Bundle.module.image(forResource: "align-start-vertical")!
   public static let `alignVerticalDistributeCenter`: NSImage = Bundle.module.image(forResource: "align-vertical-distribute-center")!
@@ -800,6 +796,7 @@ extension Lucide {
   public static let `hospital`: NSImage = Bundle.module.image(forResource: "hospital")!
   public static let `hotel`: NSImage = Bundle.module.image(forResource: "hotel")!
   public static let `hourglass`: NSImage = Bundle.module.image(forResource: "hourglass")!
+  public static let `houseHeart`: NSImage = Bundle.module.image(forResource: "house-heart")!
   public static let `housePlug`: NSImage = Bundle.module.image(forResource: "house-plug")!
   public static let `housePlus`: NSImage = Bundle.module.image(forResource: "house-plus")!
   public static let `houseWifi`: NSImage = Bundle.module.image(forResource: "house-wifi")!
@@ -819,8 +816,6 @@ extension Lucide {
   public static let `images`: NSImage = Bundle.module.image(forResource: "images")!
   public static let `import`: NSImage = Bundle.module.image(forResource: "import")!
   public static let `inbox`: NSImage = Bundle.module.image(forResource: "inbox")!
-  public static let `indentDecrease`: NSImage = Bundle.module.image(forResource: "indent-decrease")!
-  public static let `indentIncrease`: NSImage = Bundle.module.image(forResource: "indent-increase")!
   public static let `indianRupee`: NSImage = Bundle.module.image(forResource: "indian-rupee")!
   public static let `infinity`: NSImage = Bundle.module.image(forResource: "infinity")!
   public static let `info`: NSImage = Bundle.module.image(forResource: "info")!
@@ -865,7 +860,6 @@ extension Lucide {
   public static let `leaf`: NSImage = Bundle.module.image(forResource: "leaf")!
   public static let `leafyGreen`: NSImage = Bundle.module.image(forResource: "leafy-green")!
   public static let `lectern`: NSImage = Bundle.module.image(forResource: "lectern")!
-  public static let `letterText`: NSImage = Bundle.module.image(forResource: "letter-text")!
   public static let `libraryBig`: NSImage = Bundle.module.image(forResource: "library-big")!
   public static let `library`: NSImage = Bundle.module.image(forResource: "library")!
   public static let `lifeBuoy`: NSImage = Bundle.module.image(forResource: "life-buoy")!
@@ -880,10 +874,13 @@ extension Lucide {
   public static let `listCheck`: NSImage = Bundle.module.image(forResource: "list-check")!
   public static let `listChecks`: NSImage = Bundle.module.image(forResource: "list-checks")!
   public static let `listChevronsDownUp`: NSImage = Bundle.module.image(forResource: "list-chevrons-down-up")!
+  public static let `listChevronsUpDown`: NSImage = Bundle.module.image(forResource: "list-chevrons-up-down")!
   public static let `listCollapse`: NSImage = Bundle.module.image(forResource: "list-collapse")!
   public static let `listEnd`: NSImage = Bundle.module.image(forResource: "list-end")!
   public static let `listFilterPlus`: NSImage = Bundle.module.image(forResource: "list-filter-plus")!
   public static let `listFilter`: NSImage = Bundle.module.image(forResource: "list-filter")!
+  public static let `listIndentDecrease`: NSImage = Bundle.module.image(forResource: "list-indent-decrease")!
+  public static let `listIndentIncrease`: NSImage = Bundle.module.image(forResource: "list-indent-increase")!
   public static let `listMinus`: NSImage = Bundle.module.image(forResource: "list-minus")!
   public static let `listMusic`: NSImage = Bundle.module.image(forResource: "list-music")!
   public static let `listOrdered`: NSImage = Bundle.module.image(forResource: "list-ordered")!
@@ -1471,12 +1468,17 @@ extension Lucide {
   public static let `testTubeDiagonal`: NSImage = Bundle.module.image(forResource: "test-tube-diagonal")!
   public static let `testTube`: NSImage = Bundle.module.image(forResource: "test-tube")!
   public static let `testTubes`: NSImage = Bundle.module.image(forResource: "test-tubes")!
+  public static let `textAlignCenter`: NSImage = Bundle.module.image(forResource: "text-align-center")!
+  public static let `textAlignEnd`: NSImage = Bundle.module.image(forResource: "text-align-end")!
+  public static let `textAlignJustify`: NSImage = Bundle.module.image(forResource: "text-align-justify")!
+  public static let `textAlignStart`: NSImage = Bundle.module.image(forResource: "text-align-start")!
   public static let `textCursorInput`: NSImage = Bundle.module.image(forResource: "text-cursor-input")!
   public static let `textCursor`: NSImage = Bundle.module.image(forResource: "text-cursor")!
+  public static let `textInitial`: NSImage = Bundle.module.image(forResource: "text-initial")!
   public static let `textQuote`: NSImage = Bundle.module.image(forResource: "text-quote")!
   public static let `textSearch`: NSImage = Bundle.module.image(forResource: "text-search")!
   public static let `textSelect`: NSImage = Bundle.module.image(forResource: "text-select")!
-  public static let `text`: NSImage = Bundle.module.image(forResource: "text")!
+  public static let `textWrap`: NSImage = Bundle.module.image(forResource: "text-wrap")!
   public static let `theater`: NSImage = Bundle.module.image(forResource: "theater")!
   public static let `thermometerSnowflake`: NSImage = Bundle.module.image(forResource: "thermometer-snowflake")!
   public static let `thermometerSun`: NSImage = Bundle.module.image(forResource: "thermometer-sun")!
@@ -1631,7 +1633,6 @@ extension Lucide {
   public static let `wine`: NSImage = Bundle.module.image(forResource: "wine")!
   public static let `workflow`: NSImage = Bundle.module.image(forResource: "workflow")!
   public static let `worm`: NSImage = Bundle.module.image(forResource: "worm")!
-  public static let `wrapText`: NSImage = Bundle.module.image(forResource: "wrap-text")!
   public static let `wrench`: NSImage = Bundle.module.image(forResource: "wrench")!
   public static let `x`: NSImage = Bundle.module.image(forResource: "x")!
   public static let `youtube`: NSImage = Bundle.module.image(forResource: "youtube")!
