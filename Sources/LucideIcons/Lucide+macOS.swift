@@ -559,6 +559,7 @@ extension Lucide {
   public static let `eraser`: NSImage = Bundle.module.image(forResource: "eraser")!
   public static let `ethernetPort`: NSImage = Bundle.module.image(forResource: "ethernet-port")!
   public static let `euro`: NSImage = Bundle.module.image(forResource: "euro")!
+  public static let `evCharger`: NSImage = Bundle.module.image(forResource: "ev-charger")!
   public static let `expand`: NSImage = Bundle.module.image(forResource: "expand")!
   public static let `externalLink`: NSImage = Bundle.module.image(forResource: "external-link")!
   public static let `eyeClosed`: NSImage = Bundle.module.image(forResource: "eye-closed")!

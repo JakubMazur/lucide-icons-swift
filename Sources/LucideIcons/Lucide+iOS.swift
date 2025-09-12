@@ -559,6 +559,7 @@ extension Lucide {
   public static let `eraser`: UIImage = UIImage(named: "eraser", in: Bundle.module, compatibleWith: nil)!
   public static let `ethernetPort`: UIImage = UIImage(named: "ethernet-port", in: Bundle.module, compatibleWith: nil)!
   public static let `euro`: UIImage = UIImage(named: "euro", in: Bundle.module, compatibleWith: nil)!
+  public static let `evCharger`: UIImage = UIImage(named: "ev-charger", in: Bundle.module, compatibleWith: nil)!
   public static let `expand`: UIImage = UIImage(named: "expand", in: Bundle.module, compatibleWith: nil)!
   public static let `externalLink`: UIImage = UIImage(named: "external-link", in: Bundle.module, compatibleWith: nil)!
   public static let `eyeClosed`: UIImage = UIImage(named: "eye-closed", in: Bundle.module, compatibleWith: nil)!
