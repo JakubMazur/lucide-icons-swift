@@ -1003,6 +1003,7 @@ extension Lucide {
   public static let `monitor`: NSImage = Bundle.module.image(forResource: "monitor")!
   public static let `moonStar`: NSImage = Bundle.module.image(forResource: "moon-star")!
   public static let `moon`: NSImage = Bundle.module.image(forResource: "moon")!
+  public static let `motorbike`: NSImage = Bundle.module.image(forResource: "motorbike")!
   public static let `mountainSnow`: NSImage = Bundle.module.image(forResource: "mountain-snow")!
   public static let `mountain`: NSImage = Bundle.module.image(forResource: "mountain")!
   public static let `mouseOff`: NSImage = Bundle.module.image(forResource: "mouse-off")!

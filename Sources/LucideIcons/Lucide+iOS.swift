@@ -1003,6 +1003,7 @@ extension Lucide {
   public static let `monitor`: UIImage = UIImage(named: "monitor", in: Bundle.module, compatibleWith: nil)!
   public static let `moonStar`: UIImage = UIImage(named: "moon-star", in: Bundle.module, compatibleWith: nil)!
   public static let `moon`: UIImage = UIImage(named: "moon", in: Bundle.module, compatibleWith: nil)!
+  public static let `motorbike`: UIImage = UIImage(named: "motorbike", in: Bundle.module, compatibleWith: nil)!
   public static let `mountainSnow`: UIImage = UIImage(named: "mountain-snow", in: Bundle.module, compatibleWith: nil)!
   public static let `mountain`: UIImage = UIImage(named: "mountain", in: Bundle.module, compatibleWith: nil)!
   public static let `mouseOff`: UIImage = UIImage(named: "mouse-off", in: Bundle.module, compatibleWith: nil)!
