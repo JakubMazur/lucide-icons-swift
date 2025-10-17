@@ -989,6 +989,7 @@ extension Lucide {
   public static let `minimize`: UIImage = UIImage(named: "minimize", in: Bundle.module, compatibleWith: nil)!
   public static let `minus`: UIImage = UIImage(named: "minus", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorCheck`: UIImage = UIImage(named: "monitor-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `monitorCloud`: UIImage = UIImage(named: "monitor-cloud", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorCog`: UIImage = UIImage(named: "monitor-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorDot`: UIImage = UIImage(named: "monitor-dot", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorDown`: UIImage = UIImage(named: "monitor-down", in: Bundle.module, compatibleWith: nil)!
