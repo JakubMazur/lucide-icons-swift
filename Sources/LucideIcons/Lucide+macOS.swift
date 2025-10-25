@@ -174,6 +174,7 @@ extension Lucide {
   public static let `binoculars`: NSImage = Bundle.module.image(forResource: "binoculars")!
   public static let `biohazard`: NSImage = Bundle.module.image(forResource: "biohazard")!
   public static let `bird`: NSImage = Bundle.module.image(forResource: "bird")!
+  public static let `birdhouse`: NSImage = Bundle.module.image(forResource: "birdhouse")!
   public static let `bitcoin`: NSImage = Bundle.module.image(forResource: "bitcoin")!
   public static let `blend`: NSImage = Bundle.module.image(forResource: "blend")!
   public static let `blinds`: NSImage = Bundle.module.image(forResource: "blinds")!
@@ -707,6 +708,7 @@ extension Lucide {
   public static let `galleryVerticalEnd`: NSImage = Bundle.module.image(forResource: "gallery-vertical-end")!
   public static let `galleryVertical`: NSImage = Bundle.module.image(forResource: "gallery-vertical")!
   public static let `gamepad2`: NSImage = Bundle.module.image(forResource: "gamepad-2")!
+  public static let `gamepadDirectional`: NSImage = Bundle.module.image(forResource: "gamepad-directional")!
   public static let `gamepad`: NSImage = Bundle.module.image(forResource: "gamepad")!
   public static let `gauge`: NSImage = Bundle.module.image(forResource: "gauge")!
   public static let `gavel`: NSImage = Bundle.module.image(forResource: "gavel")!

@@ -174,6 +174,7 @@ extension Lucide {
   public static let `binoculars`: UIImage = UIImage(named: "binoculars", in: Bundle.module, compatibleWith: nil)!
   public static let `biohazard`: UIImage = UIImage(named: "biohazard", in: Bundle.module, compatibleWith: nil)!
   public static let `bird`: UIImage = UIImage(named: "bird", in: Bundle.module, compatibleWith: nil)!
+  public static let `birdhouse`: UIImage = UIImage(named: "birdhouse", in: Bundle.module, compatibleWith: nil)!
   public static let `bitcoin`: UIImage = UIImage(named: "bitcoin", in: Bundle.module, compatibleWith: nil)!
   public static let `blend`: UIImage = UIImage(named: "blend", in: Bundle.module, compatibleWith: nil)!
   public static let `blinds`: UIImage = UIImage(named: "blinds", in: Bundle.module, compatibleWith: nil)!
@@ -707,6 +708,7 @@ extension Lucide {
   public static let `galleryVerticalEnd`: UIImage = UIImage(named: "gallery-vertical-end", in: Bundle.module, compatibleWith: nil)!
   public static let `galleryVertical`: UIImage = UIImage(named: "gallery-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `gamepad2`: UIImage = UIImage(named: "gamepad-2", in: Bundle.module, compatibleWith: nil)!
+  public static let `gamepadDirectional`: UIImage = UIImage(named: "gamepad-directional", in: Bundle.module, compatibleWith: nil)!
   public static let `gamepad`: UIImage = UIImage(named: "gamepad", in: Bundle.module, compatibleWith: nil)!
   public static let `gauge`: UIImage = UIImage(named: "gauge", in: Bundle.module, compatibleWith: nil)!
   public static let `gavel`: UIImage = UIImage(named: "gavel", in: Bundle.module, compatibleWith: nil)!
