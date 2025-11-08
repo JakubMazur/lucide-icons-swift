@@ -324,6 +324,12 @@ extension Lucide {
   public static let `check`: UIImage = UIImage(named: "check", in: Bundle.module, compatibleWith: nil)!
   public static let `chefHat`: UIImage = UIImage(named: "chef-hat", in: Bundle.module, compatibleWith: nil)!
   public static let `cherry`: UIImage = UIImage(named: "cherry", in: Bundle.module, compatibleWith: nil)!
+  public static let `chessBishop`: UIImage = UIImage(named: "chess-bishop", in: Bundle.module, compatibleWith: nil)!
+  public static let `chessKing`: UIImage = UIImage(named: "chess-king", in: Bundle.module, compatibleWith: nil)!
+  public static let `chessKnight`: UIImage = UIImage(named: "chess-knight", in: Bundle.module, compatibleWith: nil)!
+  public static let `chessPawn`: UIImage = UIImage(named: "chess-pawn", in: Bundle.module, compatibleWith: nil)!
+  public static let `chessQueen`: UIImage = UIImage(named: "chess-queen", in: Bundle.module, compatibleWith: nil)!
+  public static let `chessRook`: UIImage = UIImage(named: "chess-rook", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronDown`: UIImage = UIImage(named: "chevron-down", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronFirst`: UIImage = UIImage(named: "chevron-first", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronLast`: UIImage = UIImage(named: "chevron-last", in: Bundle.module, compatibleWith: nil)!
@@ -1009,6 +1015,7 @@ extension Lucide {
   public static let `mountainSnow`: UIImage = UIImage(named: "mountain-snow", in: Bundle.module, compatibleWith: nil)!
   public static let `mountain`: UIImage = UIImage(named: "mountain", in: Bundle.module, compatibleWith: nil)!
   public static let `mouseOff`: UIImage = UIImage(named: "mouse-off", in: Bundle.module, compatibleWith: nil)!
+  public static let `mousePointer2Off`: UIImage = UIImage(named: "mouse-pointer-2-off", in: Bundle.module, compatibleWith: nil)!
   public static let `mousePointer2`: UIImage = UIImage(named: "mouse-pointer-2", in: Bundle.module, compatibleWith: nil)!
   public static let `mousePointerBan`: UIImage = UIImage(named: "mouse-pointer-ban", in: Bundle.module, compatibleWith: nil)!
   public static let `mousePointerClick`: UIImage = UIImage(named: "mouse-pointer-click", in: Bundle.module, compatibleWith: nil)!

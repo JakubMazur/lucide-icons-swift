@@ -324,6 +324,12 @@ extension Lucide {
   public static let `check`: NSImage = Bundle.module.image(forResource: "check")!
   public static let `chefHat`: NSImage = Bundle.module.image(forResource: "chef-hat")!
   public static let `cherry`: NSImage = Bundle.module.image(forResource: "cherry")!
+  public static let `chessBishop`: NSImage = Bundle.module.image(forResource: "chess-bishop")!
+  public static let `chessKing`: NSImage = Bundle.module.image(forResource: "chess-king")!
+  public static let `chessKnight`: NSImage = Bundle.module.image(forResource: "chess-knight")!
+  public static let `chessPawn`: NSImage = Bundle.module.image(forResource: "chess-pawn")!
+  public static let `chessQueen`: NSImage = Bundle.module.image(forResource: "chess-queen")!
+  public static let `chessRook`: NSImage = Bundle.module.image(forResource: "chess-rook")!
   public static let `chevronDown`: NSImage = Bundle.module.image(forResource: "chevron-down")!
   public static let `chevronFirst`: NSImage = Bundle.module.image(forResource: "chevron-first")!
   public static let `chevronLast`: NSImage = Bundle.module.image(forResource: "chevron-last")!
@@ -1009,6 +1015,7 @@ extension Lucide {
   public static let `mountainSnow`: NSImage = Bundle.module.image(forResource: "mountain-snow")!
   public static let `mountain`: NSImage = Bundle.module.image(forResource: "mountain")!
   public static let `mouseOff`: NSImage = Bundle.module.image(forResource: "mouse-off")!
+  public static let `mousePointer2Off`: NSImage = Bundle.module.image(forResource: "mouse-pointer-2-off")!
   public static let `mousePointer2`: NSImage = Bundle.module.image(forResource: "mouse-pointer-2")!
   public static let `mousePointerBan`: NSImage = Bundle.module.image(forResource: "mouse-pointer-ban")!
   public static let `mousePointerClick`: NSImage = Bundle.module.image(forResource: "mouse-pointer-click")!
