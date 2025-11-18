@@ -274,6 +274,7 @@ extension Lucide {
   public static let `calendarX2`: NSImage = Bundle.module.image(forResource: "calendar-x-2")!
   public static let `calendarX`: NSImage = Bundle.module.image(forResource: "calendar-x")!
   public static let `calendar`: NSImage = Bundle.module.image(forResource: "calendar")!
+  public static let `calendars`: NSImage = Bundle.module.image(forResource: "calendars")!
   public static let `cameraOff`: NSImage = Bundle.module.image(forResource: "camera-off")!
   public static let `camera`: NSImage = Bundle.module.image(forResource: "camera")!
   public static let `candyCane`: NSImage = Bundle.module.image(forResource: "candy-cane")!
@@ -638,7 +639,7 @@ extension Lucide {
   public static let `file`: NSImage = Bundle.module.image(forResource: "file")!
   public static let `files`: NSImage = Bundle.module.image(forResource: "files")!
   public static let `film`: NSImage = Bundle.module.image(forResource: "film")!
-  public static let `fingerprint`: NSImage = Bundle.module.image(forResource: "fingerprint")!
+  public static let `fingerprintPattern`: NSImage = Bundle.module.image(forResource: "fingerprint-pattern")!
   public static let `fireExtinguisher`: NSImage = Bundle.module.image(forResource: "fire-extinguisher")!
   public static let `fishOff`: NSImage = Bundle.module.image(forResource: "fish-off")!
   public static let `fishSymbol`: NSImage = Bundle.module.image(forResource: "fish-symbol")!

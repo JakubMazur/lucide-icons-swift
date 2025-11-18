@@ -274,6 +274,7 @@ extension Lucide {
   public static let `calendarX2`: UIImage = UIImage(named: "calendar-x-2", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarX`: UIImage = UIImage(named: "calendar-x", in: Bundle.module, compatibleWith: nil)!
   public static let `calendar`: UIImage = UIImage(named: "calendar", in: Bundle.module, compatibleWith: nil)!
+  public static let `calendars`: UIImage = UIImage(named: "calendars", in: Bundle.module, compatibleWith: nil)!
   public static let `cameraOff`: UIImage = UIImage(named: "camera-off", in: Bundle.module, compatibleWith: nil)!
   public static let `camera`: UIImage = UIImage(named: "camera", in: Bundle.module, compatibleWith: nil)!
   public static let `candyCane`: UIImage = UIImage(named: "candy-cane", in: Bundle.module, compatibleWith: nil)!
@@ -638,7 +639,7 @@ extension Lucide {
   public static let `file`: UIImage = UIImage(named: "file", in: Bundle.module, compatibleWith: nil)!
   public static let `files`: UIImage = UIImage(named: "files", in: Bundle.module, compatibleWith: nil)!
   public static let `film`: UIImage = UIImage(named: "film", in: Bundle.module, compatibleWith: nil)!
-  public static let `fingerprint`: UIImage = UIImage(named: "fingerprint", in: Bundle.module, compatibleWith: nil)!
+  public static let `fingerprintPattern`: UIImage = UIImage(named: "fingerprint-pattern", in: Bundle.module, compatibleWith: nil)!
   public static let `fireExtinguisher`: UIImage = UIImage(named: "fire-extinguisher", in: Bundle.module, compatibleWith: nil)!
   public static let `fishOff`: UIImage = UIImage(named: "fish-off", in: Bundle.module, compatibleWith: nil)!
   public static let `fishSymbol`: UIImage = UIImage(named: "fish-symbol", in: Bundle.module, compatibleWith: nil)!
