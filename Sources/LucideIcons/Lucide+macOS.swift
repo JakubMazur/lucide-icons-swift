@@ -697,6 +697,7 @@ extension Lucide {
   public static let `folders`: NSImage = Bundle.module.image(forResource: "folders")!
   public static let `footprints`: NSImage = Bundle.module.image(forResource: "footprints")!
   public static let `forklift`: NSImage = Bundle.module.image(forResource: "forklift")!
+  public static let `form`: NSImage = Bundle.module.image(forResource: "form")!
   public static let `forward`: NSImage = Bundle.module.image(forResource: "forward")!
   public static let `frame`: NSImage = Bundle.module.image(forResource: "frame")!
   public static let `framer`: NSImage = Bundle.module.image(forResource: "framer")!
@@ -1622,6 +1623,8 @@ extension Lucide {
   public static let `warehouse`: NSImage = Bundle.module.image(forResource: "warehouse")!
   public static let `washingMachine`: NSImage = Bundle.module.image(forResource: "washing-machine")!
   public static let `watch`: NSImage = Bundle.module.image(forResource: "watch")!
+  public static let `wavesArrowDown`: NSImage = Bundle.module.image(forResource: "waves-arrow-down")!
+  public static let `wavesArrowUp`: NSImage = Bundle.module.image(forResource: "waves-arrow-up")!
   public static let `wavesLadder`: NSImage = Bundle.module.image(forResource: "waves-ladder")!
   public static let `waves`: NSImage = Bundle.module.image(forResource: "waves")!
   public static let `waypoints`: NSImage = Bundle.module.image(forResource: "waypoints")!

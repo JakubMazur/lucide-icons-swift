@@ -697,6 +697,7 @@ extension Lucide {
   public static let `folders`: UIImage = UIImage(named: "folders", in: Bundle.module, compatibleWith: nil)!
   public static let `footprints`: UIImage = UIImage(named: "footprints", in: Bundle.module, compatibleWith: nil)!
   public static let `forklift`: UIImage = UIImage(named: "forklift", in: Bundle.module, compatibleWith: nil)!
+  public static let `form`: UIImage = UIImage(named: "form", in: Bundle.module, compatibleWith: nil)!
   public static let `forward`: UIImage = UIImage(named: "forward", in: Bundle.module, compatibleWith: nil)!
   public static let `frame`: UIImage = UIImage(named: "frame", in: Bundle.module, compatibleWith: nil)!
   public static let `framer`: UIImage = UIImage(named: "framer", in: Bundle.module, compatibleWith: nil)!
@@ -1622,6 +1623,8 @@ extension Lucide {
   public static let `warehouse`: UIImage = UIImage(named: "warehouse", in: Bundle.module, compatibleWith: nil)!
   public static let `washingMachine`: UIImage = UIImage(named: "washing-machine", in: Bundle.module, compatibleWith: nil)!
   public static let `watch`: UIImage = UIImage(named: "watch", in: Bundle.module, compatibleWith: nil)!
+  public static let `wavesArrowDown`: UIImage = UIImage(named: "waves-arrow-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `wavesArrowUp`: UIImage = UIImage(named: "waves-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `wavesLadder`: UIImage = UIImage(named: "waves-ladder", in: Bundle.module, compatibleWith: nil)!
   public static let `waves`: UIImage = UIImage(named: "waves", in: Bundle.module, compatibleWith: nil)!
   public static let `waypoints`: UIImage = UIImage(named: "waypoints", in: Bundle.module, compatibleWith: nil)!
