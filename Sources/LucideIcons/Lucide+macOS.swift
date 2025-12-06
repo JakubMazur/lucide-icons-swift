@@ -205,6 +205,7 @@ extension Lucide {
   public static let `bookOpenText`: NSImage = Bundle.module.image(forResource: "book-open-text")!
   public static let `bookOpen`: NSImage = Bundle.module.image(forResource: "book-open")!
   public static let `bookPlus`: NSImage = Bundle.module.image(forResource: "book-plus")!
+  public static let `bookSearch`: NSImage = Bundle.module.image(forResource: "book-search")!
   public static let `bookText`: NSImage = Bundle.module.image(forResource: "book-text")!
   public static let `bookType`: NSImage = Bundle.module.image(forResource: "book-type")!
   public static let `bookUp2`: NSImage = Bundle.module.image(forResource: "book-up-2")!
@@ -1260,6 +1261,7 @@ extension Lucide {
   public static let `school`: NSImage = Bundle.module.image(forResource: "school")!
   public static let `scissorsLineDashed`: NSImage = Bundle.module.image(forResource: "scissors-line-dashed")!
   public static let `scissors`: NSImage = Bundle.module.image(forResource: "scissors")!
+  public static let `scooter`: NSImage = Bundle.module.image(forResource: "scooter")!
   public static let `screenShareOff`: NSImage = Bundle.module.image(forResource: "screen-share-off")!
   public static let `screenShare`: NSImage = Bundle.module.image(forResource: "screen-share")!
   public static let `scrollText`: NSImage = Bundle.module.image(forResource: "scroll-text")!
@@ -1593,6 +1595,7 @@ extension Lucide {
   public static let `utensilsCrossed`: NSImage = Bundle.module.image(forResource: "utensils-crossed")!
   public static let `utensils`: NSImage = Bundle.module.image(forResource: "utensils")!
   public static let `utilityPole`: NSImage = Bundle.module.image(forResource: "utility-pole")!
+  public static let `van`: NSImage = Bundle.module.image(forResource: "van")!
   public static let `variable`: NSImage = Bundle.module.image(forResource: "variable")!
   public static let `vault`: NSImage = Bundle.module.image(forResource: "vault")!
   public static let `vectorSquare`: NSImage = Bundle.module.image(forResource: "vector-square")!
@@ -1631,6 +1634,7 @@ extension Lucide {
   public static let `webcam`: NSImage = Bundle.module.image(forResource: "webcam")!
   public static let `webhookOff`: NSImage = Bundle.module.image(forResource: "webhook-off")!
   public static let `webhook`: NSImage = Bundle.module.image(forResource: "webhook")!
+  public static let `weightTilde`: NSImage = Bundle.module.image(forResource: "weight-tilde")!
   public static let `weight`: NSImage = Bundle.module.image(forResource: "weight")!
   public static let `wheatOff`: NSImage = Bundle.module.image(forResource: "wheat-off")!
   public static let `wheat`: NSImage = Bundle.module.image(forResource: "wheat")!

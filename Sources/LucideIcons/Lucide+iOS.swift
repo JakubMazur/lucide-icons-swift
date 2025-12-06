@@ -205,6 +205,7 @@ extension Lucide {
   public static let `bookOpenText`: UIImage = UIImage(named: "book-open-text", in: Bundle.module, compatibleWith: nil)!
   public static let `bookOpen`: UIImage = UIImage(named: "book-open", in: Bundle.module, compatibleWith: nil)!
   public static let `bookPlus`: UIImage = UIImage(named: "book-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `bookSearch`: UIImage = UIImage(named: "book-search", in: Bundle.module, compatibleWith: nil)!
   public static let `bookText`: UIImage = UIImage(named: "book-text", in: Bundle.module, compatibleWith: nil)!
   public static let `bookType`: UIImage = UIImage(named: "book-type", in: Bundle.module, compatibleWith: nil)!
   public static let `bookUp2`: UIImage = UIImage(named: "book-up-2", in: Bundle.module, compatibleWith: nil)!
@@ -1260,6 +1261,7 @@ extension Lucide {
   public static let `school`: UIImage = UIImage(named: "school", in: Bundle.module, compatibleWith: nil)!
   public static let `scissorsLineDashed`: UIImage = UIImage(named: "scissors-line-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `scissors`: UIImage = UIImage(named: "scissors", in: Bundle.module, compatibleWith: nil)!
+  public static let `scooter`: UIImage = UIImage(named: "scooter", in: Bundle.module, compatibleWith: nil)!
   public static let `screenShareOff`: UIImage = UIImage(named: "screen-share-off", in: Bundle.module, compatibleWith: nil)!
   public static let `screenShare`: UIImage = UIImage(named: "screen-share", in: Bundle.module, compatibleWith: nil)!
   public static let `scrollText`: UIImage = UIImage(named: "scroll-text", in: Bundle.module, compatibleWith: nil)!
@@ -1593,6 +1595,7 @@ extension Lucide {
   public static let `utensilsCrossed`: UIImage = UIImage(named: "utensils-crossed", in: Bundle.module, compatibleWith: nil)!
   public static let `utensils`: UIImage = UIImage(named: "utensils", in: Bundle.module, compatibleWith: nil)!
   public static let `utilityPole`: UIImage = UIImage(named: "utility-pole", in: Bundle.module, compatibleWith: nil)!
+  public static let `van`: UIImage = UIImage(named: "van", in: Bundle.module, compatibleWith: nil)!
   public static let `variable`: UIImage = UIImage(named: "variable", in: Bundle.module, compatibleWith: nil)!
   public static let `vault`: UIImage = UIImage(named: "vault", in: Bundle.module, compatibleWith: nil)!
   public static let `vectorSquare`: UIImage = UIImage(named: "vector-square", in: Bundle.module, compatibleWith: nil)!
@@ -1631,6 +1634,7 @@ extension Lucide {
   public static let `webcam`: UIImage = UIImage(named: "webcam", in: Bundle.module, compatibleWith: nil)!
   public static let `webhookOff`: UIImage = UIImage(named: "webhook-off", in: Bundle.module, compatibleWith: nil)!
   public static let `webhook`: UIImage = UIImage(named: "webhook", in: Bundle.module, compatibleWith: nil)!
+  public static let `weightTilde`: UIImage = UIImage(named: "weight-tilde", in: Bundle.module, compatibleWith: nil)!
   public static let `weight`: UIImage = UIImage(named: "weight", in: Bundle.module, compatibleWith: nil)!
   public static let `wheatOff`: UIImage = UIImage(named: "wheat-off", in: Bundle.module, compatibleWith: nil)!
   public static let `wheat`: UIImage = UIImage(named: "wheat", in: Bundle.module, compatibleWith: nil)!
