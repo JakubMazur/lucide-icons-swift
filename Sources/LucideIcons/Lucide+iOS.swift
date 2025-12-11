@@ -130,6 +130,7 @@ extension Lucide {
   public static let `badgeX`: UIImage = UIImage(named: "badge-x", in: Bundle.module, compatibleWith: nil)!
   public static let `badge`: UIImage = UIImage(named: "badge", in: Bundle.module, compatibleWith: nil)!
   public static let `baggageClaim`: UIImage = UIImage(named: "baggage-claim", in: Bundle.module, compatibleWith: nil)!
+  public static let `balloon`: UIImage = UIImage(named: "balloon", in: Bundle.module, compatibleWith: nil)!
   public static let `ban`: UIImage = UIImage(named: "ban", in: Bundle.module, compatibleWith: nil)!
   public static let `banana`: UIImage = UIImage(named: "banana", in: Bundle.module, compatibleWith: nil)!
   public static let `bandage`: UIImage = UIImage(named: "bandage", in: Bundle.module, compatibleWith: nil)!
@@ -382,6 +383,7 @@ extension Lucide {
   public static let `circleParking`: UIImage = UIImage(named: "circle-parking", in: Bundle.module, compatibleWith: nil)!
   public static let `circlePause`: UIImage = UIImage(named: "circle-pause", in: Bundle.module, compatibleWith: nil)!
   public static let `circlePercent`: UIImage = UIImage(named: "circle-percent", in: Bundle.module, compatibleWith: nil)!
+  public static let `circlePile`: UIImage = UIImage(named: "circle-pile", in: Bundle.module, compatibleWith: nil)!
   public static let `circlePlay`: UIImage = UIImage(named: "circle-play", in: Bundle.module, compatibleWith: nil)!
   public static let `circlePlus`: UIImage = UIImage(named: "circle-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `circlePoundSterling`: UIImage = UIImage(named: "circle-pound-sterling", in: Bundle.module, compatibleWith: nil)!
@@ -432,6 +434,7 @@ extension Lucide {
   public static let `clock`: UIImage = UIImage(named: "clock", in: Bundle.module, compatibleWith: nil)!
   public static let `closedCaption`: UIImage = UIImage(named: "closed-caption", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudAlert`: UIImage = UIImage(named: "cloud-alert", in: Bundle.module, compatibleWith: nil)!
+  public static let `cloudBackup`: UIImage = UIImage(named: "cloud-backup", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudCheck`: UIImage = UIImage(named: "cloud-check", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudCog`: UIImage = UIImage(named: "cloud-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudDownload`: UIImage = UIImage(named: "cloud-download", in: Bundle.module, compatibleWith: nil)!
@@ -447,6 +450,7 @@ extension Lucide {
   public static let `cloudSnow`: UIImage = UIImage(named: "cloud-snow", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudSunRain`: UIImage = UIImage(named: "cloud-sun-rain", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudSun`: UIImage = UIImage(named: "cloud-sun", in: Bundle.module, compatibleWith: nil)!
+  public static let `cloudSync`: UIImage = UIImage(named: "cloud-sync", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudUpload`: UIImage = UIImage(named: "cloud-upload", in: Bundle.module, compatibleWith: nil)!
   public static let `cloud`: UIImage = UIImage(named: "cloud", in: Bundle.module, compatibleWith: nil)!
   public static let `cloudy`: UIImage = UIImage(named: "cloudy", in: Bundle.module, compatibleWith: nil)!
@@ -645,6 +649,7 @@ extension Lucide {
   public static let `fishOff`: UIImage = UIImage(named: "fish-off", in: Bundle.module, compatibleWith: nil)!
   public static let `fishSymbol`: UIImage = UIImage(named: "fish-symbol", in: Bundle.module, compatibleWith: nil)!
   public static let `fish`: UIImage = UIImage(named: "fish", in: Bundle.module, compatibleWith: nil)!
+  public static let `fishingHook`: UIImage = UIImage(named: "fishing-hook", in: Bundle.module, compatibleWith: nil)!
   public static let `flagOff`: UIImage = UIImage(named: "flag-off", in: Bundle.module, compatibleWith: nil)!
   public static let `flagTriangleLeft`: UIImage = UIImage(named: "flag-triangle-left", in: Bundle.module, compatibleWith: nil)!
   public static let `flagTriangleRight`: UIImage = UIImage(named: "flag-triangle-right", in: Bundle.module, compatibleWith: nil)!
@@ -779,6 +784,7 @@ extension Lucide {
   public static let `hash`: UIImage = UIImage(named: "hash", in: Bundle.module, compatibleWith: nil)!
   public static let `hatGlasses`: UIImage = UIImage(named: "hat-glasses", in: Bundle.module, compatibleWith: nil)!
   public static let `haze`: UIImage = UIImage(named: "haze", in: Bundle.module, compatibleWith: nil)!
+  public static let `hd`: UIImage = UIImage(named: "hd", in: Bundle.module, compatibleWith: nil)!
   public static let `hdmiPort`: UIImage = UIImage(named: "hdmi-port", in: Bundle.module, compatibleWith: nil)!
   public static let `heading1`: UIImage = UIImage(named: "heading-1", in: Bundle.module, compatibleWith: nil)!
   public static let `heading2`: UIImage = UIImage(named: "heading-2", in: Bundle.module, compatibleWith: nil)!
@@ -861,6 +867,7 @@ extension Lucide {
   public static let `lasso`: UIImage = UIImage(named: "lasso", in: Bundle.module, compatibleWith: nil)!
   public static let `laugh`: UIImage = UIImage(named: "laugh", in: Bundle.module, compatibleWith: nil)!
   public static let `layers2`: UIImage = UIImage(named: "layers-2", in: Bundle.module, compatibleWith: nil)!
+  public static let `layersPlus`: UIImage = UIImage(named: "layers-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `layers`: UIImage = UIImage(named: "layers", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutDashboard`: UIImage = UIImage(named: "layout-dashboard", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutGrid`: UIImage = UIImage(named: "layout-grid", in: Bundle.module, compatibleWith: nil)!
@@ -1266,6 +1273,7 @@ extension Lucide {
   public static let `screenShare`: UIImage = UIImage(named: "screen-share", in: Bundle.module, compatibleWith: nil)!
   public static let `scrollText`: UIImage = UIImage(named: "scroll-text", in: Bundle.module, compatibleWith: nil)!
   public static let `scroll`: UIImage = UIImage(named: "scroll", in: Bundle.module, compatibleWith: nil)!
+  public static let `searchAlert`: UIImage = UIImage(named: "search-alert", in: Bundle.module, compatibleWith: nil)!
   public static let `searchCheck`: UIImage = UIImage(named: "search-check", in: Bundle.module, compatibleWith: nil)!
   public static let `searchCode`: UIImage = UIImage(named: "search-code", in: Bundle.module, compatibleWith: nil)!
   public static let `searchSlash`: UIImage = UIImage(named: "search-slash", in: Bundle.module, compatibleWith: nil)!
