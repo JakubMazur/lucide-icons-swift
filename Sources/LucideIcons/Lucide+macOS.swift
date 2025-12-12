@@ -282,6 +282,7 @@ extension Lucide {
   public static let `candyCane`: NSImage = Bundle.module.image(forResource: "candy-cane")!
   public static let `candyOff`: NSImage = Bundle.module.image(forResource: "candy-off")!
   public static let `candy`: NSImage = Bundle.module.image(forResource: "candy")!
+  public static let `cannabisOff`: NSImage = Bundle.module.image(forResource: "cannabis-off")!
   public static let `cannabis`: NSImage = Bundle.module.image(forResource: "cannabis")!
   public static let `captionsOff`: NSImage = Bundle.module.image(forResource: "captions-off")!
   public static let `captions`: NSImage = Bundle.module.image(forResource: "captions")!

@@ -282,6 +282,7 @@ extension Lucide {
   public static let `candyCane`: UIImage = UIImage(named: "candy-cane", in: Bundle.module, compatibleWith: nil)!
   public static let `candyOff`: UIImage = UIImage(named: "candy-off", in: Bundle.module, compatibleWith: nil)!
   public static let `candy`: UIImage = UIImage(named: "candy", in: Bundle.module, compatibleWith: nil)!
+  public static let `cannabisOff`: UIImage = UIImage(named: "cannabis-off", in: Bundle.module, compatibleWith: nil)!
   public static let `cannabis`: UIImage = UIImage(named: "cannabis", in: Bundle.module, compatibleWith: nil)!
   public static let `captionsOff`: UIImage = UIImage(named: "captions-off", in: Bundle.module, compatibleWith: nil)!
   public static let `captions`: UIImage = UIImage(named: "captions", in: Bundle.module, compatibleWith: nil)!
