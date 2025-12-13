@@ -1447,6 +1447,7 @@ extension Lucide {
   public static let `stethoscope`: NSImage = Bundle.module.image(forResource: "stethoscope")!
   public static let `sticker`: NSImage = Bundle.module.image(forResource: "sticker")!
   public static let `stickyNote`: NSImage = Bundle.module.image(forResource: "sticky-note")!
+  public static let `stone`: NSImage = Bundle.module.image(forResource: "stone")!
   public static let `store`: NSImage = Bundle.module.image(forResource: "store")!
   public static let `stretchHorizontal`: NSImage = Bundle.module.image(forResource: "stretch-horizontal")!
   public static let `stretchVertical`: NSImage = Bundle.module.image(forResource: "stretch-vertical")!

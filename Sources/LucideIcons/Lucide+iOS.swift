@@ -1447,6 +1447,7 @@ extension Lucide {
   public static let `stethoscope`: UIImage = UIImage(named: "stethoscope", in: Bundle.module, compatibleWith: nil)!
   public static let `sticker`: UIImage = UIImage(named: "sticker", in: Bundle.module, compatibleWith: nil)!
   public static let `stickyNote`: UIImage = UIImage(named: "sticky-note", in: Bundle.module, compatibleWith: nil)!
+  public static let `stone`: UIImage = UIImage(named: "stone", in: Bundle.module, compatibleWith: nil)!
   public static let `store`: UIImage = UIImage(named: "store", in: Bundle.module, compatibleWith: nil)!
   public static let `stretchHorizontal`: UIImage = UIImage(named: "stretch-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `stretchVertical`: UIImage = UIImage(named: "stretch-vertical", in: Bundle.module, compatibleWith: nil)!
