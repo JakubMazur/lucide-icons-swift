@@ -1527,6 +1527,7 @@ extension Lucide {
   public static let `toggleRight`: UIImage = UIImage(named: "toggle-right", in: Bundle.module, compatibleWith: nil)!
   public static let `toilet`: UIImage = UIImage(named: "toilet", in: Bundle.module, compatibleWith: nil)!
   public static let `toolCase`: UIImage = UIImage(named: "tool-case", in: Bundle.module, compatibleWith: nil)!
+  public static let `toolbox`: UIImage = UIImage(named: "toolbox", in: Bundle.module, compatibleWith: nil)!
   public static let `tornado`: UIImage = UIImage(named: "tornado", in: Bundle.module, compatibleWith: nil)!
   public static let `torus`: UIImage = UIImage(named: "torus", in: Bundle.module, compatibleWith: nil)!
   public static let `touchpadOff`: UIImage = UIImage(named: "touchpad-off", in: Bundle.module, compatibleWith: nil)!

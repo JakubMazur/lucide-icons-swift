@@ -1527,6 +1527,7 @@ extension Lucide {
   public static let `toggleRight`: NSImage = Bundle.module.image(forResource: "toggle-right")!
   public static let `toilet`: NSImage = Bundle.module.image(forResource: "toilet")!
   public static let `toolCase`: NSImage = Bundle.module.image(forResource: "tool-case")!
+  public static let `toolbox`: NSImage = Bundle.module.image(forResource: "toolbox")!
   public static let `tornado`: NSImage = Bundle.module.image(forResource: "tornado")!
   public static let `torus`: NSImage = Bundle.module.image(forResource: "torus")!
   public static let `touchpadOff`: NSImage = Bundle.module.image(forResource: "touchpad-off")!
