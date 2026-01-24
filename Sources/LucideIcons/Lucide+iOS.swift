@@ -749,6 +749,7 @@ extension Lucide {
   public static let `glassWater`: UIImage = UIImage(named: "glass-water", in: Bundle.module, compatibleWith: nil)!
   public static let `glasses`: UIImage = UIImage(named: "glasses", in: Bundle.module, compatibleWith: nil)!
   public static let `globeLock`: UIImage = UIImage(named: "globe-lock", in: Bundle.module, compatibleWith: nil)!
+  public static let `globeX`: UIImage = UIImage(named: "globe-x", in: Bundle.module, compatibleWith: nil)!
   public static let `globe`: UIImage = UIImage(named: "globe", in: Bundle.module, compatibleWith: nil)!
   public static let `goal`: UIImage = UIImage(named: "goal", in: Bundle.module, compatibleWith: nil)!
   public static let `gpu`: UIImage = UIImage(named: "gpu", in: Bundle.module, compatibleWith: nil)!
@@ -1171,6 +1172,7 @@ extension Lucide {
   public static let `power`: UIImage = UIImage(named: "power", in: Bundle.module, compatibleWith: nil)!
   public static let `presentation`: UIImage = UIImage(named: "presentation", in: Bundle.module, compatibleWith: nil)!
   public static let `printerCheck`: UIImage = UIImage(named: "printer-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `printerX`: UIImage = UIImage(named: "printer-x", in: Bundle.module, compatibleWith: nil)!
   public static let `printer`: UIImage = UIImage(named: "printer", in: Bundle.module, compatibleWith: nil)!
   public static let `projector`: UIImage = UIImage(named: "projector", in: Bundle.module, compatibleWith: nil)!
   public static let `proportions`: UIImage = UIImage(named: "proportions", in: Bundle.module, compatibleWith: nil)!

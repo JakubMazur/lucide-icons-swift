@@ -749,6 +749,7 @@ extension Lucide {
   public static let `glassWater`: NSImage = Bundle.module.image(forResource: "glass-water")!
   public static let `glasses`: NSImage = Bundle.module.image(forResource: "glasses")!
   public static let `globeLock`: NSImage = Bundle.module.image(forResource: "globe-lock")!
+  public static let `globeX`: NSImage = Bundle.module.image(forResource: "globe-x")!
   public static let `globe`: NSImage = Bundle.module.image(forResource: "globe")!
   public static let `goal`: NSImage = Bundle.module.image(forResource: "goal")!
   public static let `gpu`: NSImage = Bundle.module.image(forResource: "gpu")!
@@ -1171,6 +1172,7 @@ extension Lucide {
   public static let `power`: NSImage = Bundle.module.image(forResource: "power")!
   public static let `presentation`: NSImage = Bundle.module.image(forResource: "presentation")!
   public static let `printerCheck`: NSImage = Bundle.module.image(forResource: "printer-check")!
+  public static let `printerX`: NSImage = Bundle.module.image(forResource: "printer-x")!
   public static let `printer`: NSImage = Bundle.module.image(forResource: "printer")!
   public static let `projector`: NSImage = Bundle.module.image(forResource: "projector")!
   public static let `proportions`: NSImage = Bundle.module.image(forResource: "proportions")!
