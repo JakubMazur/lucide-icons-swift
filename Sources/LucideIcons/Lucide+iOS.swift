@@ -512,6 +512,7 @@ extension Lucide {
   public static let `cylinder`: UIImage = UIImage(named: "cylinder", in: Bundle.module, compatibleWith: nil)!
   public static let `dam`: UIImage = UIImage(named: "dam", in: Bundle.module, compatibleWith: nil)!
   public static let `databaseBackup`: UIImage = UIImage(named: "database-backup", in: Bundle.module, compatibleWith: nil)!
+  public static let `databaseSearch`: UIImage = UIImage(named: "database-search", in: Bundle.module, compatibleWith: nil)!
   public static let `databaseZap`: UIImage = UIImage(named: "database-zap", in: Bundle.module, compatibleWith: nil)!
   public static let `database`: UIImage = UIImage(named: "database", in: Bundle.module, compatibleWith: nil)!
   public static let `decimalsArrowLeft`: UIImage = UIImage(named: "decimals-arrow-left", in: Bundle.module, compatibleWith: nil)!
@@ -1587,12 +1588,14 @@ extension Lucide {
   public static let `usb`: UIImage = UIImage(named: "usb", in: Bundle.module, compatibleWith: nil)!
   public static let `userCheck`: UIImage = UIImage(named: "user-check", in: Bundle.module, compatibleWith: nil)!
   public static let `userCog`: UIImage = UIImage(named: "user-cog", in: Bundle.module, compatibleWith: nil)!
+  public static let `userKey`: UIImage = UIImage(named: "user-key", in: Bundle.module, compatibleWith: nil)!
   public static let `userLock`: UIImage = UIImage(named: "user-lock", in: Bundle.module, compatibleWith: nil)!
   public static let `userMinus`: UIImage = UIImage(named: "user-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `userPen`: UIImage = UIImage(named: "user-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `userPlus`: UIImage = UIImage(named: "user-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundCheck`: UIImage = UIImage(named: "user-round-check", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundCog`: UIImage = UIImage(named: "user-round-cog", in: Bundle.module, compatibleWith: nil)!
+  public static let `userRoundKey`: UIImage = UIImage(named: "user-round-key", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundMinus`: UIImage = UIImage(named: "user-round-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundPen`: UIImage = UIImage(named: "user-round-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundPlus`: UIImage = UIImage(named: "user-round-plus", in: Bundle.module, compatibleWith: nil)!

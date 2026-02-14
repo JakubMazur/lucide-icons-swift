@@ -512,6 +512,7 @@ extension Lucide {
   public static let `cylinder`: NSImage = Bundle.module.image(forResource: "cylinder")!
   public static let `dam`: NSImage = Bundle.module.image(forResource: "dam")!
   public static let `databaseBackup`: NSImage = Bundle.module.image(forResource: "database-backup")!
+  public static let `databaseSearch`: NSImage = Bundle.module.image(forResource: "database-search")!
   public static let `databaseZap`: NSImage = Bundle.module.image(forResource: "database-zap")!
   public static let `database`: NSImage = Bundle.module.image(forResource: "database")!
   public static let `decimalsArrowLeft`: NSImage = Bundle.module.image(forResource: "decimals-arrow-left")!
@@ -1587,12 +1588,14 @@ extension Lucide {
   public static let `usb`: NSImage = Bundle.module.image(forResource: "usb")!
   public static let `userCheck`: NSImage = Bundle.module.image(forResource: "user-check")!
   public static let `userCog`: NSImage = Bundle.module.image(forResource: "user-cog")!
+  public static let `userKey`: NSImage = Bundle.module.image(forResource: "user-key")!
   public static let `userLock`: NSImage = Bundle.module.image(forResource: "user-lock")!
   public static let `userMinus`: NSImage = Bundle.module.image(forResource: "user-minus")!
   public static let `userPen`: NSImage = Bundle.module.image(forResource: "user-pen")!
   public static let `userPlus`: NSImage = Bundle.module.image(forResource: "user-plus")!
   public static let `userRoundCheck`: NSImage = Bundle.module.image(forResource: "user-round-check")!
   public static let `userRoundCog`: NSImage = Bundle.module.image(forResource: "user-round-cog")!
+  public static let `userRoundKey`: NSImage = Bundle.module.image(forResource: "user-round-key")!
   public static let `userRoundMinus`: NSImage = Bundle.module.image(forResource: "user-round-minus")!
   public static let `userRoundPen`: NSImage = Bundle.module.image(forResource: "user-round-pen")!
   public static let `userRoundPlus`: NSImage = Bundle.module.image(forResource: "user-round-plus")!
