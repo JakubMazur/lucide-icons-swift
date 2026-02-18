@@ -738,6 +738,7 @@ extension Lucide {
   public static let `gitCompare`: NSImage = Bundle.module.image(forResource: "git-compare")!
   public static let `gitFork`: NSImage = Bundle.module.image(forResource: "git-fork")!
   public static let `gitGraph`: NSImage = Bundle.module.image(forResource: "git-graph")!
+  public static let `gitMergeConflict`: NSImage = Bundle.module.image(forResource: "git-merge-conflict")!
   public static let `gitMerge`: NSImage = Bundle.module.image(forResource: "git-merge")!
   public static let `gitPullRequestArrow`: NSImage = Bundle.module.image(forResource: "git-pull-request-arrow")!
   public static let `gitPullRequestClosed`: NSImage = Bundle.module.image(forResource: "git-pull-request-closed")!
@@ -750,6 +751,7 @@ extension Lucide {
   public static let `glassWater`: NSImage = Bundle.module.image(forResource: "glass-water")!
   public static let `glasses`: NSImage = Bundle.module.image(forResource: "glasses")!
   public static let `globeLock`: NSImage = Bundle.module.image(forResource: "globe-lock")!
+  public static let `globeOff`: NSImage = Bundle.module.image(forResource: "globe-off")!
   public static let `globeX`: NSImage = Bundle.module.image(forResource: "globe-x")!
   public static let `globe`: NSImage = Bundle.module.image(forResource: "globe")!
   public static let `goal`: NSImage = Bundle.module.image(forResource: "goal")!
@@ -881,12 +883,15 @@ extension Lucide {
   public static let `leaf`: NSImage = Bundle.module.image(forResource: "leaf")!
   public static let `leafyGreen`: NSImage = Bundle.module.image(forResource: "leafy-green")!
   public static let `lectern`: NSImage = Bundle.module.image(forResource: "lectern")!
+  public static let `lensConcave`: NSImage = Bundle.module.image(forResource: "lens-concave")!
+  public static let `lensConvex`: NSImage = Bundle.module.image(forResource: "lens-convex")!
   public static let `libraryBig`: NSImage = Bundle.module.image(forResource: "library-big")!
   public static let `library`: NSImage = Bundle.module.image(forResource: "library")!
   public static let `lifeBuoy`: NSImage = Bundle.module.image(forResource: "life-buoy")!
   public static let `ligature`: NSImage = Bundle.module.image(forResource: "ligature")!
   public static let `lightbulbOff`: NSImage = Bundle.module.image(forResource: "lightbulb-off")!
   public static let `lightbulb`: NSImage = Bundle.module.image(forResource: "lightbulb")!
+  public static let `lineDotRightHorizontal`: NSImage = Bundle.module.image(forResource: "line-dot-right-horizontal")!
   public static let `lineSquiggle`: NSImage = Bundle.module.image(forResource: "line-squiggle")!
   public static let `link2Off`: NSImage = Bundle.module.image(forResource: "link-2-off")!
   public static let `link2`: NSImage = Bundle.module.image(forResource: "link-2")!
@@ -968,6 +973,7 @@ extension Lucide {
   public static let `memoryStick`: NSImage = Bundle.module.image(forResource: "memory-stick")!
   public static let `menu`: NSImage = Bundle.module.image(forResource: "menu")!
   public static let `merge`: NSImage = Bundle.module.image(forResource: "merge")!
+  public static let `messageCircleCheck`: NSImage = Bundle.module.image(forResource: "message-circle-check")!
   public static let `messageCircleCode`: NSImage = Bundle.module.image(forResource: "message-circle-code")!
   public static let `messageCircleDashed`: NSImage = Bundle.module.image(forResource: "message-circle-dashed")!
   public static let `messageCircleHeart`: NSImage = Bundle.module.image(forResource: "message-circle-heart")!
@@ -1008,6 +1014,8 @@ extension Lucide {
   public static let `minimize2`: NSImage = Bundle.module.image(forResource: "minimize-2")!
   public static let `minimize`: NSImage = Bundle.module.image(forResource: "minimize")!
   public static let `minus`: NSImage = Bundle.module.image(forResource: "minus")!
+  public static let `mirrorRectangular`: NSImage = Bundle.module.image(forResource: "mirror-rectangular")!
+  public static let `mirrorRound`: NSImage = Bundle.module.image(forResource: "mirror-round")!
   public static let `monitorCheck`: NSImage = Bundle.module.image(forResource: "monitor-check")!
   public static let `monitorCloud`: NSImage = Bundle.module.image(forResource: "monitor-cloud")!
   public static let `monitorCog`: NSImage = Bundle.module.image(forResource: "monitor-cog")!
@@ -1027,12 +1035,14 @@ extension Lucide {
   public static let `motorbike`: NSImage = Bundle.module.image(forResource: "motorbike")!
   public static let `mountainSnow`: NSImage = Bundle.module.image(forResource: "mountain-snow")!
   public static let `mountain`: NSImage = Bundle.module.image(forResource: "mountain")!
+  public static let `mouseLeft`: NSImage = Bundle.module.image(forResource: "mouse-left")!
   public static let `mouseOff`: NSImage = Bundle.module.image(forResource: "mouse-off")!
   public static let `mousePointer2Off`: NSImage = Bundle.module.image(forResource: "mouse-pointer-2-off")!
   public static let `mousePointer2`: NSImage = Bundle.module.image(forResource: "mouse-pointer-2")!
   public static let `mousePointerBan`: NSImage = Bundle.module.image(forResource: "mouse-pointer-ban")!
   public static let `mousePointerClick`: NSImage = Bundle.module.image(forResource: "mouse-pointer-click")!
   public static let `mousePointer`: NSImage = Bundle.module.image(forResource: "mouse-pointer")!
+  public static let `mouseRight`: NSImage = Bundle.module.image(forResource: "mouse-right")!
   public static let `mouse`: NSImage = Bundle.module.image(forResource: "mouse")!
   public static let `move3d`: NSImage = Bundle.module.image(forResource: "move-3d")!
   public static let `moveDiagonal2`: NSImage = Bundle.module.image(forResource: "move-diagonal-2")!
@@ -1300,6 +1310,7 @@ extension Lucide {
   public static let `share`: NSImage = Bundle.module.image(forResource: "share")!
   public static let `sheet`: NSImage = Bundle.module.image(forResource: "sheet")!
   public static let `shell`: NSImage = Bundle.module.image(forResource: "shell")!
+  public static let `shelvingUnit`: NSImage = Bundle.module.image(forResource: "shelving-unit")!
   public static let `shieldAlert`: NSImage = Bundle.module.image(forResource: "shield-alert")!
   public static let `shieldBan`: NSImage = Bundle.module.image(forResource: "shield-ban")!
   public static let `shieldCheck`: NSImage = Bundle.module.image(forResource: "shield-check")!
@@ -1535,6 +1546,7 @@ extension Lucide {
   public static let `torus`: NSImage = Bundle.module.image(forResource: "torus")!
   public static let `touchpadOff`: NSImage = Bundle.module.image(forResource: "touchpad-off")!
   public static let `touchpad`: NSImage = Bundle.module.image(forResource: "touchpad")!
+  public static let `towelRack`: NSImage = Bundle.module.image(forResource: "towel-rack")!
   public static let `towerControl`: NSImage = Bundle.module.image(forResource: "tower-control")!
   public static let `toyBrick`: NSImage = Bundle.module.image(forResource: "toy-brick")!
   public static let `tractor`: NSImage = Bundle.module.image(forResource: "tractor")!
@@ -1670,6 +1682,7 @@ extension Lucide {
   public static let `workflow`: NSImage = Bundle.module.image(forResource: "workflow")!
   public static let `worm`: NSImage = Bundle.module.image(forResource: "worm")!
   public static let `wrench`: NSImage = Bundle.module.image(forResource: "wrench")!
+  public static let `xLineTop`: NSImage = Bundle.module.image(forResource: "x-line-top")!
   public static let `x`: NSImage = Bundle.module.image(forResource: "x")!
   public static let `youtube`: NSImage = Bundle.module.image(forResource: "youtube")!
   public static let `zapOff`: NSImage = Bundle.module.image(forResource: "zap-off")!

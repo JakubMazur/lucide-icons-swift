@@ -738,6 +738,7 @@ extension Lucide {
   public static let `gitCompare`: UIImage = UIImage(named: "git-compare", in: Bundle.module, compatibleWith: nil)!
   public static let `gitFork`: UIImage = UIImage(named: "git-fork", in: Bundle.module, compatibleWith: nil)!
   public static let `gitGraph`: UIImage = UIImage(named: "git-graph", in: Bundle.module, compatibleWith: nil)!
+  public static let `gitMergeConflict`: UIImage = UIImage(named: "git-merge-conflict", in: Bundle.module, compatibleWith: nil)!
   public static let `gitMerge`: UIImage = UIImage(named: "git-merge", in: Bundle.module, compatibleWith: nil)!
   public static let `gitPullRequestArrow`: UIImage = UIImage(named: "git-pull-request-arrow", in: Bundle.module, compatibleWith: nil)!
   public static let `gitPullRequestClosed`: UIImage = UIImage(named: "git-pull-request-closed", in: Bundle.module, compatibleWith: nil)!
@@ -750,6 +751,7 @@ extension Lucide {
   public static let `glassWater`: UIImage = UIImage(named: "glass-water", in: Bundle.module, compatibleWith: nil)!
   public static let `glasses`: UIImage = UIImage(named: "glasses", in: Bundle.module, compatibleWith: nil)!
   public static let `globeLock`: UIImage = UIImage(named: "globe-lock", in: Bundle.module, compatibleWith: nil)!
+  public static let `globeOff`: UIImage = UIImage(named: "globe-off", in: Bundle.module, compatibleWith: nil)!
   public static let `globeX`: UIImage = UIImage(named: "globe-x", in: Bundle.module, compatibleWith: nil)!
   public static let `globe`: UIImage = UIImage(named: "globe", in: Bundle.module, compatibleWith: nil)!
   public static let `goal`: UIImage = UIImage(named: "goal", in: Bundle.module, compatibleWith: nil)!
@@ -881,12 +883,15 @@ extension Lucide {
   public static let `leaf`: UIImage = UIImage(named: "leaf", in: Bundle.module, compatibleWith: nil)!
   public static let `leafyGreen`: UIImage = UIImage(named: "leafy-green", in: Bundle.module, compatibleWith: nil)!
   public static let `lectern`: UIImage = UIImage(named: "lectern", in: Bundle.module, compatibleWith: nil)!
+  public static let `lensConcave`: UIImage = UIImage(named: "lens-concave", in: Bundle.module, compatibleWith: nil)!
+  public static let `lensConvex`: UIImage = UIImage(named: "lens-convex", in: Bundle.module, compatibleWith: nil)!
   public static let `libraryBig`: UIImage = UIImage(named: "library-big", in: Bundle.module, compatibleWith: nil)!
   public static let `library`: UIImage = UIImage(named: "library", in: Bundle.module, compatibleWith: nil)!
   public static let `lifeBuoy`: UIImage = UIImage(named: "life-buoy", in: Bundle.module, compatibleWith: nil)!
   public static let `ligature`: UIImage = UIImage(named: "ligature", in: Bundle.module, compatibleWith: nil)!
   public static let `lightbulbOff`: UIImage = UIImage(named: "lightbulb-off", in: Bundle.module, compatibleWith: nil)!
   public static let `lightbulb`: UIImage = UIImage(named: "lightbulb", in: Bundle.module, compatibleWith: nil)!
+  public static let `lineDotRightHorizontal`: UIImage = UIImage(named: "line-dot-right-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `lineSquiggle`: UIImage = UIImage(named: "line-squiggle", in: Bundle.module, compatibleWith: nil)!
   public static let `link2Off`: UIImage = UIImage(named: "link-2-off", in: Bundle.module, compatibleWith: nil)!
   public static let `link2`: UIImage = UIImage(named: "link-2", in: Bundle.module, compatibleWith: nil)!
@@ -968,6 +973,7 @@ extension Lucide {
   public static let `memoryStick`: UIImage = UIImage(named: "memory-stick", in: Bundle.module, compatibleWith: nil)!
   public static let `menu`: UIImage = UIImage(named: "menu", in: Bundle.module, compatibleWith: nil)!
   public static let `merge`: UIImage = UIImage(named: "merge", in: Bundle.module, compatibleWith: nil)!
+  public static let `messageCircleCheck`: UIImage = UIImage(named: "message-circle-check", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleCode`: UIImage = UIImage(named: "message-circle-code", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleDashed`: UIImage = UIImage(named: "message-circle-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleHeart`: UIImage = UIImage(named: "message-circle-heart", in: Bundle.module, compatibleWith: nil)!
@@ -1008,6 +1014,8 @@ extension Lucide {
   public static let `minimize2`: UIImage = UIImage(named: "minimize-2", in: Bundle.module, compatibleWith: nil)!
   public static let `minimize`: UIImage = UIImage(named: "minimize", in: Bundle.module, compatibleWith: nil)!
   public static let `minus`: UIImage = UIImage(named: "minus", in: Bundle.module, compatibleWith: nil)!
+  public static let `mirrorRectangular`: UIImage = UIImage(named: "mirror-rectangular", in: Bundle.module, compatibleWith: nil)!
+  public static let `mirrorRound`: UIImage = UIImage(named: "mirror-round", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorCheck`: UIImage = UIImage(named: "monitor-check", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorCloud`: UIImage = UIImage(named: "monitor-cloud", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorCog`: UIImage = UIImage(named: "monitor-cog", in: Bundle.module, compatibleWith: nil)!
@@ -1027,12 +1035,14 @@ extension Lucide {
   public static let `motorbike`: UIImage = UIImage(named: "motorbike", in: Bundle.module, compatibleWith: nil)!
   public static let `mountainSnow`: UIImage = UIImage(named: "mountain-snow", in: Bundle.module, compatibleWith: nil)!
   public static let `mountain`: UIImage = UIImage(named: "mountain", in: Bundle.module, compatibleWith: nil)!
+  public static let `mouseLeft`: UIImage = UIImage(named: "mouse-left", in: Bundle.module, compatibleWith: nil)!
   public static let `mouseOff`: UIImage = UIImage(named: "mouse-off", in: Bundle.module, compatibleWith: nil)!
   public static let `mousePointer2Off`: UIImage = UIImage(named: "mouse-pointer-2-off", in: Bundle.module, compatibleWith: nil)!
   public static let `mousePointer2`: UIImage = UIImage(named: "mouse-pointer-2", in: Bundle.module, compatibleWith: nil)!
   public static let `mousePointerBan`: UIImage = UIImage(named: "mouse-pointer-ban", in: Bundle.module, compatibleWith: nil)!
   public static let `mousePointerClick`: UIImage = UIImage(named: "mouse-pointer-click", in: Bundle.module, compatibleWith: nil)!
   public static let `mousePointer`: UIImage = UIImage(named: "mouse-pointer", in: Bundle.module, compatibleWith: nil)!
+  public static let `mouseRight`: UIImage = UIImage(named: "mouse-right", in: Bundle.module, compatibleWith: nil)!
   public static let `mouse`: UIImage = UIImage(named: "mouse", in: Bundle.module, compatibleWith: nil)!
   public static let `move3d`: UIImage = UIImage(named: "move-3d", in: Bundle.module, compatibleWith: nil)!
   public static let `moveDiagonal2`: UIImage = UIImage(named: "move-diagonal-2", in: Bundle.module, compatibleWith: nil)!
@@ -1300,6 +1310,7 @@ extension Lucide {
   public static let `share`: UIImage = UIImage(named: "share", in: Bundle.module, compatibleWith: nil)!
   public static let `sheet`: UIImage = UIImage(named: "sheet", in: Bundle.module, compatibleWith: nil)!
   public static let `shell`: UIImage = UIImage(named: "shell", in: Bundle.module, compatibleWith: nil)!
+  public static let `shelvingUnit`: UIImage = UIImage(named: "shelving-unit", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldAlert`: UIImage = UIImage(named: "shield-alert", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldBan`: UIImage = UIImage(named: "shield-ban", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldCheck`: UIImage = UIImage(named: "shield-check", in: Bundle.module, compatibleWith: nil)!
@@ -1535,6 +1546,7 @@ extension Lucide {
   public static let `torus`: UIImage = UIImage(named: "torus", in: Bundle.module, compatibleWith: nil)!
   public static let `touchpadOff`: UIImage = UIImage(named: "touchpad-off", in: Bundle.module, compatibleWith: nil)!
   public static let `touchpad`: UIImage = UIImage(named: "touchpad", in: Bundle.module, compatibleWith: nil)!
+  public static let `towelRack`: UIImage = UIImage(named: "towel-rack", in: Bundle.module, compatibleWith: nil)!
   public static let `towerControl`: UIImage = UIImage(named: "tower-control", in: Bundle.module, compatibleWith: nil)!
   public static let `toyBrick`: UIImage = UIImage(named: "toy-brick", in: Bundle.module, compatibleWith: nil)!
   public static let `tractor`: UIImage = UIImage(named: "tractor", in: Bundle.module, compatibleWith: nil)!
@@ -1670,6 +1682,7 @@ extension Lucide {
   public static let `workflow`: UIImage = UIImage(named: "workflow", in: Bundle.module, compatibleWith: nil)!
   public static let `worm`: UIImage = UIImage(named: "worm", in: Bundle.module, compatibleWith: nil)!
   public static let `wrench`: UIImage = UIImage(named: "wrench", in: Bundle.module, compatibleWith: nil)!
+  public static let `xLineTop`: UIImage = UIImage(named: "x-line-top", in: Bundle.module, compatibleWith: nil)!
   public static let `x`: UIImage = UIImage(named: "x", in: Bundle.module, compatibleWith: nil)!
   public static let `youtube`: UIImage = UIImage(named: "youtube", in: Bundle.module, compatibleWith: nil)!
   public static let `zapOff`: UIImage = UIImage(named: "zap-off", in: Bundle.module, compatibleWith: nil)!
