@@ -664,9 +664,7 @@ extension Lucide {
   public static let `flaskConical`: UIImage = UIImage(named: "flask-conical", in: Bundle.module, compatibleWith: nil)!
   public static let `flaskRound`: UIImage = UIImage(named: "flask-round", in: Bundle.module, compatibleWith: nil)!
   public static let `flipHorizontal2`: UIImage = UIImage(named: "flip-horizontal-2", in: Bundle.module, compatibleWith: nil)!
-  public static let `flipHorizontal`: UIImage = UIImage(named: "flip-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `flipVertical2`: UIImage = UIImage(named: "flip-vertical-2", in: Bundle.module, compatibleWith: nil)!
-  public static let `flipVertical`: UIImage = UIImage(named: "flip-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `flower2`: UIImage = UIImage(named: "flower-2", in: Bundle.module, compatibleWith: nil)!
   public static let `flower`: UIImage = UIImage(named: "flower", in: Bundle.module, compatibleWith: nil)!
   public static let `focus`: UIImage = UIImage(named: "focus", in: Bundle.module, compatibleWith: nil)!
@@ -985,6 +983,7 @@ extension Lucide {
   public static let `messageCircleWarning`: UIImage = UIImage(named: "message-circle-warning", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleX`: UIImage = UIImage(named: "message-circle-x", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircle`: UIImage = UIImage(named: "message-circle", in: Bundle.module, compatibleWith: nil)!
+  public static let `messageSquareCheck`: UIImage = UIImage(named: "message-square-check", in: Bundle.module, compatibleWith: nil)!
   public static let `messageSquareCode`: UIImage = UIImage(named: "message-square-code", in: Bundle.module, compatibleWith: nil)!
   public static let `messageSquareDashed`: UIImage = UIImage(named: "message-square-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `messageSquareDiff`: UIImage = UIImage(named: "message-square-diff", in: Bundle.module, compatibleWith: nil)!
@@ -1002,6 +1001,7 @@ extension Lucide {
   public static let `messageSquareX`: UIImage = UIImage(named: "message-square-x", in: Bundle.module, compatibleWith: nil)!
   public static let `messageSquare`: UIImage = UIImage(named: "message-square", in: Bundle.module, compatibleWith: nil)!
   public static let `messagesSquare`: UIImage = UIImage(named: "messages-square", in: Bundle.module, compatibleWith: nil)!
+  public static let `metronome`: UIImage = UIImage(named: "metronome", in: Bundle.module, compatibleWith: nil)!
   public static let `micOff`: UIImage = UIImage(named: "mic-off", in: Bundle.module, compatibleWith: nil)!
   public static let `micVocal`: UIImage = UIImage(named: "mic-vocal", in: Bundle.module, compatibleWith: nil)!
   public static let `mic`: UIImage = UIImage(named: "mic", in: Bundle.module, compatibleWith: nil)!
@@ -1389,12 +1389,16 @@ extension Lucide {
   public static let `squareArrowOutDownRight`: UIImage = UIImage(named: "square-arrow-out-down-right", in: Bundle.module, compatibleWith: nil)!
   public static let `squareArrowOutUpLeft`: UIImage = UIImage(named: "square-arrow-out-up-left", in: Bundle.module, compatibleWith: nil)!
   public static let `squareArrowOutUpRight`: UIImage = UIImage(named: "square-arrow-out-up-right", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareArrowRightEnter`: UIImage = UIImage(named: "square-arrow-right-enter", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareArrowRightExit`: UIImage = UIImage(named: "square-arrow-right-exit", in: Bundle.module, compatibleWith: nil)!
   public static let `squareArrowRight`: UIImage = UIImage(named: "square-arrow-right", in: Bundle.module, compatibleWith: nil)!
   public static let `squareArrowUpLeft`: UIImage = UIImage(named: "square-arrow-up-left", in: Bundle.module, compatibleWith: nil)!
   public static let `squareArrowUpRight`: UIImage = UIImage(named: "square-arrow-up-right", in: Bundle.module, compatibleWith: nil)!
   public static let `squareArrowUp`: UIImage = UIImage(named: "square-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `squareAsterisk`: UIImage = UIImage(named: "square-asterisk", in: Bundle.module, compatibleWith: nil)!
   public static let `squareBottomDashedScissors`: UIImage = UIImage(named: "square-bottom-dashed-scissors", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareCenterlineDashedHorizontal`: UIImage = UIImage(named: "square-centerline-dashed-horizontal", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareCenterlineDashedVertical`: UIImage = UIImage(named: "square-centerline-dashed-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `squareChartGantt`: UIImage = UIImage(named: "square-chart-gantt", in: Bundle.module, compatibleWith: nil)!
   public static let `squareCheckBig`: UIImage = UIImage(named: "square-check-big", in: Bundle.module, compatibleWith: nil)!
   public static let `squareCheck`: UIImage = UIImage(named: "square-check", in: Bundle.module, compatibleWith: nil)!

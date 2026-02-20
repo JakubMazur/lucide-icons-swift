@@ -664,9 +664,7 @@ extension Lucide {
   public static let `flaskConical`: NSImage = Bundle.module.image(forResource: "flask-conical")!
   public static let `flaskRound`: NSImage = Bundle.module.image(forResource: "flask-round")!
   public static let `flipHorizontal2`: NSImage = Bundle.module.image(forResource: "flip-horizontal-2")!
-  public static let `flipHorizontal`: NSImage = Bundle.module.image(forResource: "flip-horizontal")!
   public static let `flipVertical2`: NSImage = Bundle.module.image(forResource: "flip-vertical-2")!
-  public static let `flipVertical`: NSImage = Bundle.module.image(forResource: "flip-vertical")!
   public static let `flower2`: NSImage = Bundle.module.image(forResource: "flower-2")!
   public static let `flower`: NSImage = Bundle.module.image(forResource: "flower")!
   public static let `focus`: NSImage = Bundle.module.image(forResource: "focus")!
@@ -985,6 +983,7 @@ extension Lucide {
   public static let `messageCircleWarning`: NSImage = Bundle.module.image(forResource: "message-circle-warning")!
   public static let `messageCircleX`: NSImage = Bundle.module.image(forResource: "message-circle-x")!
   public static let `messageCircle`: NSImage = Bundle.module.image(forResource: "message-circle")!
+  public static let `messageSquareCheck`: NSImage = Bundle.module.image(forResource: "message-square-check")!
   public static let `messageSquareCode`: NSImage = Bundle.module.image(forResource: "message-square-code")!
   public static let `messageSquareDashed`: NSImage = Bundle.module.image(forResource: "message-square-dashed")!
   public static let `messageSquareDiff`: NSImage = Bundle.module.image(forResource: "message-square-diff")!
@@ -1002,6 +1001,7 @@ extension Lucide {
   public static let `messageSquareX`: NSImage = Bundle.module.image(forResource: "message-square-x")!
   public static let `messageSquare`: NSImage = Bundle.module.image(forResource: "message-square")!
   public static let `messagesSquare`: NSImage = Bundle.module.image(forResource: "messages-square")!
+  public static let `metronome`: NSImage = Bundle.module.image(forResource: "metronome")!
   public static let `micOff`: NSImage = Bundle.module.image(forResource: "mic-off")!
   public static let `micVocal`: NSImage = Bundle.module.image(forResource: "mic-vocal")!
   public static let `mic`: NSImage = Bundle.module.image(forResource: "mic")!
@@ -1389,12 +1389,16 @@ extension Lucide {
   public static let `squareArrowOutDownRight`: NSImage = Bundle.module.image(forResource: "square-arrow-out-down-right")!
   public static let `squareArrowOutUpLeft`: NSImage = Bundle.module.image(forResource: "square-arrow-out-up-left")!
   public static let `squareArrowOutUpRight`: NSImage = Bundle.module.image(forResource: "square-arrow-out-up-right")!
+  public static let `squareArrowRightEnter`: NSImage = Bundle.module.image(forResource: "square-arrow-right-enter")!
+  public static let `squareArrowRightExit`: NSImage = Bundle.module.image(forResource: "square-arrow-right-exit")!
   public static let `squareArrowRight`: NSImage = Bundle.module.image(forResource: "square-arrow-right")!
   public static let `squareArrowUpLeft`: NSImage = Bundle.module.image(forResource: "square-arrow-up-left")!
   public static let `squareArrowUpRight`: NSImage = Bundle.module.image(forResource: "square-arrow-up-right")!
   public static let `squareArrowUp`: NSImage = Bundle.module.image(forResource: "square-arrow-up")!
   public static let `squareAsterisk`: NSImage = Bundle.module.image(forResource: "square-asterisk")!
   public static let `squareBottomDashedScissors`: NSImage = Bundle.module.image(forResource: "square-bottom-dashed-scissors")!
+  public static let `squareCenterlineDashedHorizontal`: NSImage = Bundle.module.image(forResource: "square-centerline-dashed-horizontal")!
+  public static let `squareCenterlineDashedVertical`: NSImage = Bundle.module.image(forResource: "square-centerline-dashed-vertical")!
   public static let `squareChartGantt`: NSImage = Bundle.module.image(forResource: "square-chart-gantt")!
   public static let `squareCheckBig`: NSImage = Bundle.module.image(forResource: "square-check-big")!
   public static let `squareCheck`: NSImage = Bundle.module.image(forResource: "square-check")!
