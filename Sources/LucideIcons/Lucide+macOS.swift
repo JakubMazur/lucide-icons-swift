@@ -652,6 +652,7 @@ extension Lucide {
   public static let `fishSymbol`: NSImage = Bundle.module.image(forResource: "fish-symbol")!
   public static let `fish`: NSImage = Bundle.module.image(forResource: "fish")!
   public static let `fishingHook`: NSImage = Bundle.module.image(forResource: "fishing-hook")!
+  public static let `fishingRod`: NSImage = Bundle.module.image(forResource: "fishing-rod")!
   public static let `flagOff`: NSImage = Bundle.module.image(forResource: "flag-off")!
   public static let `flagTriangleLeft`: NSImage = Bundle.module.image(forResource: "flag-triangle-left")!
   public static let `flagTriangleRight`: NSImage = Bundle.module.image(forResource: "flag-triangle-right")!
@@ -1691,6 +1692,19 @@ extension Lucide {
   public static let `youtube`: NSImage = Bundle.module.image(forResource: "youtube")!
   public static let `zapOff`: NSImage = Bundle.module.image(forResource: "zap-off")!
   public static let `zap`: NSImage = Bundle.module.image(forResource: "zap")!
+  public static let `zodiacAquarius`: NSImage = Bundle.module.image(forResource: "zodiac-aquarius")!
+  public static let `zodiacAries`: NSImage = Bundle.module.image(forResource: "zodiac-aries")!
+  public static let `zodiacCancer`: NSImage = Bundle.module.image(forResource: "zodiac-cancer")!
+  public static let `zodiacCapricorn`: NSImage = Bundle.module.image(forResource: "zodiac-capricorn")!
+  public static let `zodiacGemini`: NSImage = Bundle.module.image(forResource: "zodiac-gemini")!
+  public static let `zodiacLeo`: NSImage = Bundle.module.image(forResource: "zodiac-leo")!
+  public static let `zodiacLibra`: NSImage = Bundle.module.image(forResource: "zodiac-libra")!
+  public static let `zodiacOphiuchus`: NSImage = Bundle.module.image(forResource: "zodiac-ophiuchus")!
+  public static let `zodiacPisces`: NSImage = Bundle.module.image(forResource: "zodiac-pisces")!
+  public static let `zodiacSagittarius`: NSImage = Bundle.module.image(forResource: "zodiac-sagittarius")!
+  public static let `zodiacScorpio`: NSImage = Bundle.module.image(forResource: "zodiac-scorpio")!
+  public static let `zodiacTaurus`: NSImage = Bundle.module.image(forResource: "zodiac-taurus")!
+  public static let `zodiacVirgo`: NSImage = Bundle.module.image(forResource: "zodiac-virgo")!
   public static let `zoomIn`: NSImage = Bundle.module.image(forResource: "zoom-in")!
   public static let `zoomOut`: NSImage = Bundle.module.image(forResource: "zoom-out")!
 }

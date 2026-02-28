@@ -652,6 +652,7 @@ extension Lucide {
   public static let `fishSymbol`: UIImage = UIImage(named: "fish-symbol", in: Bundle.module, compatibleWith: nil)!
   public static let `fish`: UIImage = UIImage(named: "fish", in: Bundle.module, compatibleWith: nil)!
   public static let `fishingHook`: UIImage = UIImage(named: "fishing-hook", in: Bundle.module, compatibleWith: nil)!
+  public static let `fishingRod`: UIImage = UIImage(named: "fishing-rod", in: Bundle.module, compatibleWith: nil)!
   public static let `flagOff`: UIImage = UIImage(named: "flag-off", in: Bundle.module, compatibleWith: nil)!
   public static let `flagTriangleLeft`: UIImage = UIImage(named: "flag-triangle-left", in: Bundle.module, compatibleWith: nil)!
   public static let `flagTriangleRight`: UIImage = UIImage(named: "flag-triangle-right", in: Bundle.module, compatibleWith: nil)!
@@ -1691,6 +1692,19 @@ extension Lucide {
   public static let `youtube`: UIImage = UIImage(named: "youtube", in: Bundle.module, compatibleWith: nil)!
   public static let `zapOff`: UIImage = UIImage(named: "zap-off", in: Bundle.module, compatibleWith: nil)!
   public static let `zap`: UIImage = UIImage(named: "zap", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacAquarius`: UIImage = UIImage(named: "zodiac-aquarius", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacAries`: UIImage = UIImage(named: "zodiac-aries", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacCancer`: UIImage = UIImage(named: "zodiac-cancer", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacCapricorn`: UIImage = UIImage(named: "zodiac-capricorn", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacGemini`: UIImage = UIImage(named: "zodiac-gemini", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacLeo`: UIImage = UIImage(named: "zodiac-leo", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacLibra`: UIImage = UIImage(named: "zodiac-libra", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacOphiuchus`: UIImage = UIImage(named: "zodiac-ophiuchus", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacPisces`: UIImage = UIImage(named: "zodiac-pisces", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacSagittarius`: UIImage = UIImage(named: "zodiac-sagittarius", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacScorpio`: UIImage = UIImage(named: "zodiac-scorpio", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacTaurus`: UIImage = UIImage(named: "zodiac-taurus", in: Bundle.module, compatibleWith: nil)!
+  public static let `zodiacVirgo`: UIImage = UIImage(named: "zodiac-virgo", in: Bundle.module, compatibleWith: nil)!
   public static let `zoomIn`: UIImage = UIImage(named: "zoom-in", in: Bundle.module, compatibleWith: nil)!
   public static let `zoomOut`: UIImage = UIImage(named: "zoom-out", in: Bundle.module, compatibleWith: nil)!
 }
