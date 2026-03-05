@@ -567,6 +567,7 @@ extension Lucide {
   public static let `eggFried`: NSImage = Bundle.module.image(forResource: "egg-fried")!
   public static let `eggOff`: NSImage = Bundle.module.image(forResource: "egg-off")!
   public static let `egg`: NSImage = Bundle.module.image(forResource: "egg")!
+  public static let `ellipse`: NSImage = Bundle.module.image(forResource: "ellipse")!
   public static let `ellipsisVertical`: NSImage = Bundle.module.image(forResource: "ellipsis-vertical")!
   public static let `ellipsis`: NSImage = Bundle.module.image(forResource: "ellipsis")!
   public static let `equalApproximately`: NSImage = Bundle.module.image(forResource: "equal-approximately")!

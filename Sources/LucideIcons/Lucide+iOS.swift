@@ -567,6 +567,7 @@ extension Lucide {
   public static let `eggFried`: UIImage = UIImage(named: "egg-fried", in: Bundle.module, compatibleWith: nil)!
   public static let `eggOff`: UIImage = UIImage(named: "egg-off", in: Bundle.module, compatibleWith: nil)!
   public static let `egg`: UIImage = UIImage(named: "egg", in: Bundle.module, compatibleWith: nil)!
+  public static let `ellipse`: UIImage = UIImage(named: "ellipse", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsisVertical`: UIImage = UIImage(named: "ellipsis-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsis`: UIImage = UIImage(named: "ellipsis", in: Bundle.module, compatibleWith: nil)!
   public static let `equalApproximately`: UIImage = UIImage(named: "equal-approximately", in: Bundle.module, compatibleWith: nil)!
