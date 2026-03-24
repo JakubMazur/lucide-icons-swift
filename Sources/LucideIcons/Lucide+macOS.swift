@@ -299,6 +299,7 @@ extension Lucide {
   public static let `cast`: NSImage = Bundle.module.image(forResource: "cast")!
   public static let `castle`: NSImage = Bundle.module.image(forResource: "castle")!
   public static let `cat`: NSImage = Bundle.module.image(forResource: "cat")!
+  public static let `cctvOff`: NSImage = Bundle.module.image(forResource: "cctv-off")!
   public static let `cctv`: NSImage = Bundle.module.image(forResource: "cctv")!
   public static let `chartArea`: NSImage = Bundle.module.image(forResource: "chart-area")!
   public static let `chartBarBig`: NSImage = Bundle.module.image(forResource: "chart-bar-big")!
@@ -349,7 +350,6 @@ extension Lucide {
   public static let `chevronsRight`: NSImage = Bundle.module.image(forResource: "chevrons-right")!
   public static let `chevronsUpDown`: NSImage = Bundle.module.image(forResource: "chevrons-up-down")!
   public static let `chevronsUp`: NSImage = Bundle.module.image(forResource: "chevrons-up")!
-  public static let `chromium`: NSImage = Bundle.module.image(forResource: "chromium")!
   public static let `church`: NSImage = Bundle.module.image(forResource: "church")!
   public static let `cigaretteOff`: NSImage = Bundle.module.image(forResource: "cigarette-off")!
   public static let `cigarette`: NSImage = Bundle.module.image(forResource: "cigarette")!
@@ -459,8 +459,6 @@ extension Lucide {
   public static let `club`: NSImage = Bundle.module.image(forResource: "club")!
   public static let `codeXml`: NSImage = Bundle.module.image(forResource: "code-xml")!
   public static let `code`: NSImage = Bundle.module.image(forResource: "code")!
-  public static let `codepen`: NSImage = Bundle.module.image(forResource: "codepen")!
-  public static let `codesandbox`: NSImage = Bundle.module.image(forResource: "codesandbox")!
   public static let `coffee`: NSImage = Bundle.module.image(forResource: "coffee")!
   public static let `cog`: NSImage = Bundle.module.image(forResource: "cog")!
   public static let `coins`: NSImage = Bundle.module.image(forResource: "coins")!
@@ -550,7 +548,6 @@ extension Lucide {
   public static let `download`: NSImage = Bundle.module.image(forResource: "download")!
   public static let `draftingCompass`: NSImage = Bundle.module.image(forResource: "drafting-compass")!
   public static let `drama`: NSImage = Bundle.module.image(forResource: "drama")!
-  public static let `dribbble`: NSImage = Bundle.module.image(forResource: "dribbble")!
   public static let `drill`: NSImage = Bundle.module.image(forResource: "drill")!
   public static let `drone`: NSImage = Bundle.module.image(forResource: "drone")!
   public static let `dropletOff`: NSImage = Bundle.module.image(forResource: "droplet-off")!
@@ -582,14 +579,12 @@ extension Lucide {
   public static let `eyeClosed`: NSImage = Bundle.module.image(forResource: "eye-closed")!
   public static let `eyeOff`: NSImage = Bundle.module.image(forResource: "eye-off")!
   public static let `eye`: NSImage = Bundle.module.image(forResource: "eye")!
-  public static let `facebook`: NSImage = Bundle.module.image(forResource: "facebook")!
   public static let `factory`: NSImage = Bundle.module.image(forResource: "factory")!
   public static let `fan`: NSImage = Bundle.module.image(forResource: "fan")!
   public static let `fastForward`: NSImage = Bundle.module.image(forResource: "fast-forward")!
   public static let `feather`: NSImage = Bundle.module.image(forResource: "feather")!
   public static let `fence`: NSImage = Bundle.module.image(forResource: "fence")!
   public static let `ferrisWheel`: NSImage = Bundle.module.image(forResource: "ferris-wheel")!
-  public static let `figma`: NSImage = Bundle.module.image(forResource: "figma")!
   public static let `fileArchive`: NSImage = Bundle.module.image(forResource: "file-archive")!
   public static let `fileAxis3d`: NSImage = Bundle.module.image(forResource: "file-axis-3d")!
   public static let `fileBadge`: NSImage = Bundle.module.image(forResource: "file-badge")!
@@ -708,7 +703,6 @@ extension Lucide {
   public static let `form`: NSImage = Bundle.module.image(forResource: "form")!
   public static let `forward`: NSImage = Bundle.module.image(forResource: "forward")!
   public static let `frame`: NSImage = Bundle.module.image(forResource: "frame")!
-  public static let `framer`: NSImage = Bundle.module.image(forResource: "framer")!
   public static let `frown`: NSImage = Bundle.module.image(forResource: "frown")!
   public static let `fuel`: NSImage = Bundle.module.image(forResource: "fuel")!
   public static let `fullscreen`: NSImage = Bundle.module.image(forResource: "fullscreen")!
@@ -746,8 +740,6 @@ extension Lucide {
   public static let `gitPullRequestCreate`: NSImage = Bundle.module.image(forResource: "git-pull-request-create")!
   public static let `gitPullRequestDraft`: NSImage = Bundle.module.image(forResource: "git-pull-request-draft")!
   public static let `gitPullRequest`: NSImage = Bundle.module.image(forResource: "git-pull-request")!
-  public static let `github`: NSImage = Bundle.module.image(forResource: "github")!
-  public static let `gitlab`: NSImage = Bundle.module.image(forResource: "gitlab")!
   public static let `glassWater`: NSImage = Bundle.module.image(forResource: "glass-water")!
   public static let `glasses`: NSImage = Bundle.module.image(forResource: "glasses")!
   public static let `globeLock`: NSImage = Bundle.module.image(forResource: "globe-lock")!
@@ -842,7 +834,6 @@ extension Lucide {
   public static let `infinity`: NSImage = Bundle.module.image(forResource: "infinity")!
   public static let `info`: NSImage = Bundle.module.image(forResource: "info")!
   public static let `inspectionPanel`: NSImage = Bundle.module.image(forResource: "inspection-panel")!
-  public static let `instagram`: NSImage = Bundle.module.image(forResource: "instagram")!
   public static let `italic`: NSImage = Bundle.module.image(forResource: "italic")!
   public static let `iterationCcw`: NSImage = Bundle.module.image(forResource: "iteration-ccw")!
   public static let `iterationCw`: NSImage = Bundle.module.image(forResource: "iteration-cw")!
@@ -896,7 +887,6 @@ extension Lucide {
   public static let `link2Off`: NSImage = Bundle.module.image(forResource: "link-2-off")!
   public static let `link2`: NSImage = Bundle.module.image(forResource: "link-2")!
   public static let `link`: NSImage = Bundle.module.image(forResource: "link")!
-  public static let `linkedin`: NSImage = Bundle.module.image(forResource: "linkedin")!
   public static let `listCheck`: NSImage = Bundle.module.image(forResource: "list-check")!
   public static let `listChecks`: NSImage = Bundle.module.image(forResource: "list-checks")!
   public static let `listChevronsDownUp`: NSImage = Bundle.module.image(forResource: "list-chevrons-down-up")!
@@ -1174,7 +1164,6 @@ extension Lucide {
   public static let `plug`: NSImage = Bundle.module.image(forResource: "plug")!
   public static let `plus`: NSImage = Bundle.module.image(forResource: "plus")!
   public static let `pocketKnife`: NSImage = Bundle.module.image(forResource: "pocket-knife")!
-  public static let `pocket`: NSImage = Bundle.module.image(forResource: "pocket")!
   public static let `podcast`: NSImage = Bundle.module.image(forResource: "podcast")!
   public static let `pointerOff`: NSImage = Bundle.module.image(forResource: "pointer-off")!
   public static let `pointer`: NSImage = Bundle.module.image(forResource: "pointer")!
@@ -1201,7 +1190,6 @@ extension Lucide {
   public static let `radioTower`: NSImage = Bundle.module.image(forResource: "radio-tower")!
   public static let `radio`: NSImage = Bundle.module.image(forResource: "radio")!
   public static let `radius`: NSImage = Bundle.module.image(forResource: "radius")!
-  public static let `railSymbol`: NSImage = Bundle.module.image(forResource: "rail-symbol")!
   public static let `rainbow`: NSImage = Bundle.module.image(forResource: "rainbow")!
   public static let `rat`: NSImage = Bundle.module.image(forResource: "rat")!
   public static let `ratio`: NSImage = Bundle.module.image(forResource: "ratio")!
@@ -1351,7 +1339,6 @@ extension Lucide {
   public static let `skipBack`: NSImage = Bundle.module.image(forResource: "skip-back")!
   public static let `skipForward`: NSImage = Bundle.module.image(forResource: "skip-forward")!
   public static let `skull`: NSImage = Bundle.module.image(forResource: "skull")!
-  public static let `slack`: NSImage = Bundle.module.image(forResource: "slack")!
   public static let `slash`: NSImage = Bundle.module.image(forResource: "slash")!
   public static let `slice`: NSImage = Bundle.module.image(forResource: "slice")!
   public static let `slidersHorizontal`: NSImage = Bundle.module.image(forResource: "sliders-horizontal")!
@@ -1568,7 +1555,6 @@ extension Lucide {
   public static let `treePalm`: NSImage = Bundle.module.image(forResource: "tree-palm")!
   public static let `treePine`: NSImage = Bundle.module.image(forResource: "tree-pine")!
   public static let `trees`: NSImage = Bundle.module.image(forResource: "trees")!
-  public static let `trello`: NSImage = Bundle.module.image(forResource: "trello")!
   public static let `trendingDown`: NSImage = Bundle.module.image(forResource: "trending-down")!
   public static let `trendingUpDown`: NSImage = Bundle.module.image(forResource: "trending-up-down")!
   public static let `trendingUp`: NSImage = Bundle.module.image(forResource: "trending-up")!
@@ -1585,8 +1571,6 @@ extension Lucide {
   public static let `tvMinimalPlay`: NSImage = Bundle.module.image(forResource: "tv-minimal-play")!
   public static let `tvMinimal`: NSImage = Bundle.module.image(forResource: "tv-minimal")!
   public static let `tv`: NSImage = Bundle.module.image(forResource: "tv")!
-  public static let `twitch`: NSImage = Bundle.module.image(forResource: "twitch")!
-  public static let `twitter`: NSImage = Bundle.module.image(forResource: "twitter")!
   public static let `typeOutline`: NSImage = Bundle.module.image(forResource: "type-outline")!
   public static let `type`: NSImage = Bundle.module.image(forResource: "type")!
   public static let `umbrellaOff`: NSImage = Bundle.module.image(forResource: "umbrella-off")!
@@ -1690,7 +1674,6 @@ extension Lucide {
   public static let `wrench`: NSImage = Bundle.module.image(forResource: "wrench")!
   public static let `xLineTop`: NSImage = Bundle.module.image(forResource: "x-line-top")!
   public static let `x`: NSImage = Bundle.module.image(forResource: "x")!
-  public static let `youtube`: NSImage = Bundle.module.image(forResource: "youtube")!
   public static let `zapOff`: NSImage = Bundle.module.image(forResource: "zap-off")!
   public static let `zap`: NSImage = Bundle.module.image(forResource: "zap")!
   public static let `zodiacAquarius`: NSImage = Bundle.module.image(forResource: "zodiac-aquarius")!
