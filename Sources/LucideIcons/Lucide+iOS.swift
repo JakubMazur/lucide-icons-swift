@@ -155,6 +155,7 @@ extension Lucide {
   public static let `bedDouble`: UIImage = UIImage(named: "bed-double", in: Bundle.module, compatibleWith: nil)!
   public static let `bedSingle`: UIImage = UIImage(named: "bed-single", in: Bundle.module, compatibleWith: nil)!
   public static let `bed`: UIImage = UIImage(named: "bed", in: Bundle.module, compatibleWith: nil)!
+  public static let `beefOff`: UIImage = UIImage(named: "beef-off", in: Bundle.module, compatibleWith: nil)!
   public static let `beef`: UIImage = UIImage(named: "beef", in: Bundle.module, compatibleWith: nil)!
   public static let `beerOff`: UIImage = UIImage(named: "beer-off", in: Bundle.module, compatibleWith: nil)!
   public static let `beer`: UIImage = UIImage(named: "beer", in: Bundle.module, compatibleWith: nil)!
@@ -884,6 +885,7 @@ extension Lucide {
   public static let `lightbulb`: UIImage = UIImage(named: "lightbulb", in: Bundle.module, compatibleWith: nil)!
   public static let `lineDotRightHorizontal`: UIImage = UIImage(named: "line-dot-right-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `lineSquiggle`: UIImage = UIImage(named: "line-squiggle", in: Bundle.module, compatibleWith: nil)!
+  public static let `lineStyle`: UIImage = UIImage(named: "line-style", in: Bundle.module, compatibleWith: nil)!
   public static let `link2Off`: UIImage = UIImage(named: "link-2-off", in: Bundle.module, compatibleWith: nil)!
   public static let `link2`: UIImage = UIImage(named: "link-2", in: Bundle.module, compatibleWith: nil)!
   public static let `link`: UIImage = UIImage(named: "link", in: Bundle.module, compatibleWith: nil)!
@@ -945,6 +947,7 @@ extension Lucide {
   public static let `mapPinPen`: UIImage = UIImage(named: "map-pin-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPinPlusInside`: UIImage = UIImage(named: "map-pin-plus-inside", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPinPlus`: UIImage = UIImage(named: "map-pin-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `mapPinSearch`: UIImage = UIImage(named: "map-pin-search", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPinXInside`: UIImage = UIImage(named: "map-pin-x-inside", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPinX`: UIImage = UIImage(named: "map-pin-x", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPin`: UIImage = UIImage(named: "map-pin", in: Bundle.module, compatibleWith: nil)!
@@ -1186,6 +1189,7 @@ extension Lucide {
   public static let `radar`: UIImage = UIImage(named: "radar", in: Bundle.module, compatibleWith: nil)!
   public static let `radiation`: UIImage = UIImage(named: "radiation", in: Bundle.module, compatibleWith: nil)!
   public static let `radical`: UIImage = UIImage(named: "radical", in: Bundle.module, compatibleWith: nil)!
+  public static let `radioOff`: UIImage = UIImage(named: "radio-off", in: Bundle.module, compatibleWith: nil)!
   public static let `radioReceiver`: UIImage = UIImage(named: "radio-receiver", in: Bundle.module, compatibleWith: nil)!
   public static let `radioTower`: UIImage = UIImage(named: "radio-tower", in: Bundle.module, compatibleWith: nil)!
   public static let `radio`: UIImage = UIImage(named: "radio", in: Bundle.module, compatibleWith: nil)!
@@ -1228,6 +1232,7 @@ extension Lucide {
   public static let `reply`: UIImage = UIImage(named: "reply", in: Bundle.module, compatibleWith: nil)!
   public static let `rewind`: UIImage = UIImage(named: "rewind", in: Bundle.module, compatibleWith: nil)!
   public static let `ribbon`: UIImage = UIImage(named: "ribbon", in: Bundle.module, compatibleWith: nil)!
+  public static let `road`: UIImage = UIImage(named: "road", in: Bundle.module, compatibleWith: nil)!
   public static let `rocket`: UIImage = UIImage(named: "rocket", in: Bundle.module, compatibleWith: nil)!
   public static let `rockingChair`: UIImage = UIImage(named: "rocking-chair", in: Bundle.module, compatibleWith: nil)!
   public static let `rollerCoaster`: UIImage = UIImage(named: "roller-coaster", in: Bundle.module, compatibleWith: nil)!
@@ -1304,6 +1309,8 @@ extension Lucide {
   public static let `shieldAlert`: UIImage = UIImage(named: "shield-alert", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldBan`: UIImage = UIImage(named: "shield-ban", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldCheck`: UIImage = UIImage(named: "shield-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `shieldCogCorner`: UIImage = UIImage(named: "shield-cog-corner", in: Bundle.module, compatibleWith: nil)!
+  public static let `shieldCog`: UIImage = UIImage(named: "shield-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldEllipsis`: UIImage = UIImage(named: "shield-ellipsis", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldHalf`: UIImage = UIImage(named: "shield-half", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldMinus`: UIImage = UIImage(named: "shield-minus", in: Bundle.module, compatibleWith: nil)!
@@ -1366,6 +1373,7 @@ extension Lucide {
   public static let `spline`: UIImage = UIImage(named: "spline", in: Bundle.module, compatibleWith: nil)!
   public static let `split`: UIImage = UIImage(named: "split", in: Bundle.module, compatibleWith: nil)!
   public static let `spool`: UIImage = UIImage(named: "spool", in: Bundle.module, compatibleWith: nil)!
+  public static let `sportShoe`: UIImage = UIImage(named: "sport-shoe", in: Bundle.module, compatibleWith: nil)!
   public static let `spotlight`: UIImage = UIImage(named: "spotlight", in: Bundle.module, compatibleWith: nil)!
   public static let `sprayCan`: UIImage = UIImage(named: "spray-can", in: Bundle.module, compatibleWith: nil)!
   public static let `sprout`: UIImage = UIImage(named: "sprout", in: Bundle.module, compatibleWith: nil)!

@@ -155,6 +155,7 @@ extension Lucide {
   public static let `bedDouble`: NSImage = Bundle.module.image(forResource: "bed-double")!
   public static let `bedSingle`: NSImage = Bundle.module.image(forResource: "bed-single")!
   public static let `bed`: NSImage = Bundle.module.image(forResource: "bed")!
+  public static let `beefOff`: NSImage = Bundle.module.image(forResource: "beef-off")!
   public static let `beef`: NSImage = Bundle.module.image(forResource: "beef")!
   public static let `beerOff`: NSImage = Bundle.module.image(forResource: "beer-off")!
   public static let `beer`: NSImage = Bundle.module.image(forResource: "beer")!
@@ -884,6 +885,7 @@ extension Lucide {
   public static let `lightbulb`: NSImage = Bundle.module.image(forResource: "lightbulb")!
   public static let `lineDotRightHorizontal`: NSImage = Bundle.module.image(forResource: "line-dot-right-horizontal")!
   public static let `lineSquiggle`: NSImage = Bundle.module.image(forResource: "line-squiggle")!
+  public static let `lineStyle`: NSImage = Bundle.module.image(forResource: "line-style")!
   public static let `link2Off`: NSImage = Bundle.module.image(forResource: "link-2-off")!
   public static let `link2`: NSImage = Bundle.module.image(forResource: "link-2")!
   public static let `link`: NSImage = Bundle.module.image(forResource: "link")!
@@ -945,6 +947,7 @@ extension Lucide {
   public static let `mapPinPen`: NSImage = Bundle.module.image(forResource: "map-pin-pen")!
   public static let `mapPinPlusInside`: NSImage = Bundle.module.image(forResource: "map-pin-plus-inside")!
   public static let `mapPinPlus`: NSImage = Bundle.module.image(forResource: "map-pin-plus")!
+  public static let `mapPinSearch`: NSImage = Bundle.module.image(forResource: "map-pin-search")!
   public static let `mapPinXInside`: NSImage = Bundle.module.image(forResource: "map-pin-x-inside")!
   public static let `mapPinX`: NSImage = Bundle.module.image(forResource: "map-pin-x")!
   public static let `mapPin`: NSImage = Bundle.module.image(forResource: "map-pin")!
@@ -1186,6 +1189,7 @@ extension Lucide {
   public static let `radar`: NSImage = Bundle.module.image(forResource: "radar")!
   public static let `radiation`: NSImage = Bundle.module.image(forResource: "radiation")!
   public static let `radical`: NSImage = Bundle.module.image(forResource: "radical")!
+  public static let `radioOff`: NSImage = Bundle.module.image(forResource: "radio-off")!
   public static let `radioReceiver`: NSImage = Bundle.module.image(forResource: "radio-receiver")!
   public static let `radioTower`: NSImage = Bundle.module.image(forResource: "radio-tower")!
   public static let `radio`: NSImage = Bundle.module.image(forResource: "radio")!
@@ -1228,6 +1232,7 @@ extension Lucide {
   public static let `reply`: NSImage = Bundle.module.image(forResource: "reply")!
   public static let `rewind`: NSImage = Bundle.module.image(forResource: "rewind")!
   public static let `ribbon`: NSImage = Bundle.module.image(forResource: "ribbon")!
+  public static let `road`: NSImage = Bundle.module.image(forResource: "road")!
   public static let `rocket`: NSImage = Bundle.module.image(forResource: "rocket")!
   public static let `rockingChair`: NSImage = Bundle.module.image(forResource: "rocking-chair")!
   public static let `rollerCoaster`: NSImage = Bundle.module.image(forResource: "roller-coaster")!
@@ -1304,6 +1309,8 @@ extension Lucide {
   public static let `shieldAlert`: NSImage = Bundle.module.image(forResource: "shield-alert")!
   public static let `shieldBan`: NSImage = Bundle.module.image(forResource: "shield-ban")!
   public static let `shieldCheck`: NSImage = Bundle.module.image(forResource: "shield-check")!
+  public static let `shieldCogCorner`: NSImage = Bundle.module.image(forResource: "shield-cog-corner")!
+  public static let `shieldCog`: NSImage = Bundle.module.image(forResource: "shield-cog")!
   public static let `shieldEllipsis`: NSImage = Bundle.module.image(forResource: "shield-ellipsis")!
   public static let `shieldHalf`: NSImage = Bundle.module.image(forResource: "shield-half")!
   public static let `shieldMinus`: NSImage = Bundle.module.image(forResource: "shield-minus")!
@@ -1366,6 +1373,7 @@ extension Lucide {
   public static let `spline`: NSImage = Bundle.module.image(forResource: "spline")!
   public static let `split`: NSImage = Bundle.module.image(forResource: "split")!
   public static let `spool`: NSImage = Bundle.module.image(forResource: "spool")!
+  public static let `sportShoe`: NSImage = Bundle.module.image(forResource: "sport-shoe")!
   public static let `spotlight`: NSImage = Bundle.module.image(forResource: "spotlight")!
   public static let `sprayCan`: NSImage = Bundle.module.image(forResource: "spray-can")!
   public static let `sprout`: NSImage = Bundle.module.image(forResource: "sprout")!
