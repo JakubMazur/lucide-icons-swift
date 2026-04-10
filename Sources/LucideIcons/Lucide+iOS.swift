@@ -217,6 +217,7 @@ extension Lucide {
   public static let `book`: UIImage = UIImage(named: "book", in: Bundle.module, compatibleWith: nil)!
   public static let `bookmarkCheck`: UIImage = UIImage(named: "bookmark-check", in: Bundle.module, compatibleWith: nil)!
   public static let `bookmarkMinus`: UIImage = UIImage(named: "bookmark-minus", in: Bundle.module, compatibleWith: nil)!
+  public static let `bookmarkOff`: UIImage = UIImage(named: "bookmark-off", in: Bundle.module, compatibleWith: nil)!
   public static let `bookmarkPlus`: UIImage = UIImage(named: "bookmark-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `bookmarkX`: UIImage = UIImage(named: "bookmark-x", in: Bundle.module, compatibleWith: nil)!
   public static let `bookmark`: UIImage = UIImage(named: "bookmark", in: Bundle.module, compatibleWith: nil)!
@@ -1408,6 +1409,7 @@ extension Lucide {
   public static let `squareDashedBottom`: UIImage = UIImage(named: "square-dashed-bottom", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedKanban`: UIImage = UIImage(named: "square-dashed-kanban", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedMousePointer`: UIImage = UIImage(named: "square-dashed-mouse-pointer", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareDashedText`: UIImage = UIImage(named: "square-dashed-text", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedTopSolid`: UIImage = UIImage(named: "square-dashed-top-solid", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashed`: UIImage = UIImage(named: "square-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDivide`: UIImage = UIImage(named: "square-divide", in: Bundle.module, compatibleWith: nil)!
@@ -1518,7 +1520,6 @@ extension Lucide {
   public static let `textInitial`: UIImage = UIImage(named: "text-initial", in: Bundle.module, compatibleWith: nil)!
   public static let `textQuote`: UIImage = UIImage(named: "text-quote", in: Bundle.module, compatibleWith: nil)!
   public static let `textSearch`: UIImage = UIImage(named: "text-search", in: Bundle.module, compatibleWith: nil)!
-  public static let `textSelect`: UIImage = UIImage(named: "text-select", in: Bundle.module, compatibleWith: nil)!
   public static let `textWrap`: UIImage = UIImage(named: "text-wrap", in: Bundle.module, compatibleWith: nil)!
   public static let `theater`: UIImage = UIImage(named: "theater", in: Bundle.module, compatibleWith: nil)!
   public static let `thermometerSnowflake`: UIImage = UIImage(named: "thermometer-snowflake", in: Bundle.module, compatibleWith: nil)!

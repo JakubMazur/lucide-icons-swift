@@ -217,6 +217,7 @@ extension Lucide {
   public static let `book`: NSImage = Bundle.module.image(forResource: "book")!
   public static let `bookmarkCheck`: NSImage = Bundle.module.image(forResource: "bookmark-check")!
   public static let `bookmarkMinus`: NSImage = Bundle.module.image(forResource: "bookmark-minus")!
+  public static let `bookmarkOff`: NSImage = Bundle.module.image(forResource: "bookmark-off")!
   public static let `bookmarkPlus`: NSImage = Bundle.module.image(forResource: "bookmark-plus")!
   public static let `bookmarkX`: NSImage = Bundle.module.image(forResource: "bookmark-x")!
   public static let `bookmark`: NSImage = Bundle.module.image(forResource: "bookmark")!
@@ -1408,6 +1409,7 @@ extension Lucide {
   public static let `squareDashedBottom`: NSImage = Bundle.module.image(forResource: "square-dashed-bottom")!
   public static let `squareDashedKanban`: NSImage = Bundle.module.image(forResource: "square-dashed-kanban")!
   public static let `squareDashedMousePointer`: NSImage = Bundle.module.image(forResource: "square-dashed-mouse-pointer")!
+  public static let `squareDashedText`: NSImage = Bundle.module.image(forResource: "square-dashed-text")!
   public static let `squareDashedTopSolid`: NSImage = Bundle.module.image(forResource: "square-dashed-top-solid")!
   public static let `squareDashed`: NSImage = Bundle.module.image(forResource: "square-dashed")!
   public static let `squareDivide`: NSImage = Bundle.module.image(forResource: "square-divide")!
@@ -1518,7 +1520,6 @@ extension Lucide {
   public static let `textInitial`: NSImage = Bundle.module.image(forResource: "text-initial")!
   public static let `textQuote`: NSImage = Bundle.module.image(forResource: "text-quote")!
   public static let `textSearch`: NSImage = Bundle.module.image(forResource: "text-search")!
-  public static let `textSelect`: NSImage = Bundle.module.image(forResource: "text-select")!
   public static let `textWrap`: NSImage = Bundle.module.image(forResource: "text-wrap")!
   public static let `theater`: NSImage = Bundle.module.image(forResource: "theater")!
   public static let `thermometerSnowflake`: NSImage = Bundle.module.image(forResource: "thermometer-snowflake")!
