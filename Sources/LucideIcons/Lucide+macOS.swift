@@ -1536,6 +1536,7 @@ extension Lucide {
   public static let `ticket`: NSImage = Bundle.module.image(forResource: "ticket")!
   public static let `ticketsPlane`: NSImage = Bundle.module.image(forResource: "tickets-plane")!
   public static let `tickets`: NSImage = Bundle.module.image(forResource: "tickets")!
+  public static let `timeline`: NSImage = Bundle.module.image(forResource: "timeline")!
   public static let `timerOff`: NSImage = Bundle.module.image(forResource: "timer-off")!
   public static let `timerReset`: NSImage = Bundle.module.image(forResource: "timer-reset")!
   public static let `timer`: NSImage = Bundle.module.image(forResource: "timer")!
