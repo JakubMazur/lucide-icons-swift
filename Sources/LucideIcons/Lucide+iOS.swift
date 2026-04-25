@@ -159,6 +159,7 @@ extension Lucide {
   public static let `beef`: UIImage = UIImage(named: "beef", in: Bundle.module, compatibleWith: nil)!
   public static let `beerOff`: UIImage = UIImage(named: "beer-off", in: Bundle.module, compatibleWith: nil)!
   public static let `beer`: UIImage = UIImage(named: "beer", in: Bundle.module, compatibleWith: nil)!
+  public static let `bellCheck`: UIImage = UIImage(named: "bell-check", in: Bundle.module, compatibleWith: nil)!
   public static let `bellDot`: UIImage = UIImage(named: "bell-dot", in: Bundle.module, compatibleWith: nil)!
   public static let `bellElectric`: UIImage = UIImage(named: "bell-electric", in: Bundle.module, compatibleWith: nil)!
   public static let `bellMinus`: UIImage = UIImage(named: "bell-minus", in: Bundle.module, compatibleWith: nil)!
@@ -801,6 +802,7 @@ extension Lucide {
   public static let `heartOff`: UIImage = UIImage(named: "heart-off", in: Bundle.module, compatibleWith: nil)!
   public static let `heartPlus`: UIImage = UIImage(named: "heart-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `heartPulse`: UIImage = UIImage(named: "heart-pulse", in: Bundle.module, compatibleWith: nil)!
+  public static let `heartX`: UIImage = UIImage(named: "heart-x", in: Bundle.module, compatibleWith: nil)!
   public static let `heart`: UIImage = UIImage(named: "heart", in: Bundle.module, compatibleWith: nil)!
   public static let `heater`: UIImage = UIImage(named: "heater", in: Bundle.module, compatibleWith: nil)!
   public static let `helicopter`: UIImage = UIImage(named: "helicopter", in: Bundle.module, compatibleWith: nil)!
@@ -865,6 +867,7 @@ extension Lucide {
   public static let `lasso`: UIImage = UIImage(named: "lasso", in: Bundle.module, compatibleWith: nil)!
   public static let `laugh`: UIImage = UIImage(named: "laugh", in: Bundle.module, compatibleWith: nil)!
   public static let `layers2`: UIImage = UIImage(named: "layers-2", in: Bundle.module, compatibleWith: nil)!
+  public static let `layersMinus`: UIImage = UIImage(named: "layers-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `layersPlus`: UIImage = UIImage(named: "layers-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `layers`: UIImage = UIImage(named: "layers", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutDashboard`: UIImage = UIImage(named: "layout-dashboard", in: Bundle.module, compatibleWith: nil)!

@@ -159,6 +159,7 @@ extension Lucide {
   public static let `beef`: NSImage = Bundle.module.image(forResource: "beef")!
   public static let `beerOff`: NSImage = Bundle.module.image(forResource: "beer-off")!
   public static let `beer`: NSImage = Bundle.module.image(forResource: "beer")!
+  public static let `bellCheck`: NSImage = Bundle.module.image(forResource: "bell-check")!
   public static let `bellDot`: NSImage = Bundle.module.image(forResource: "bell-dot")!
   public static let `bellElectric`: NSImage = Bundle.module.image(forResource: "bell-electric")!
   public static let `bellMinus`: NSImage = Bundle.module.image(forResource: "bell-minus")!
@@ -801,6 +802,7 @@ extension Lucide {
   public static let `heartOff`: NSImage = Bundle.module.image(forResource: "heart-off")!
   public static let `heartPlus`: NSImage = Bundle.module.image(forResource: "heart-plus")!
   public static let `heartPulse`: NSImage = Bundle.module.image(forResource: "heart-pulse")!
+  public static let `heartX`: NSImage = Bundle.module.image(forResource: "heart-x")!
   public static let `heart`: NSImage = Bundle.module.image(forResource: "heart")!
   public static let `heater`: NSImage = Bundle.module.image(forResource: "heater")!
   public static let `helicopter`: NSImage = Bundle.module.image(forResource: "helicopter")!
@@ -865,6 +867,7 @@ extension Lucide {
   public static let `lasso`: NSImage = Bundle.module.image(forResource: "lasso")!
   public static let `laugh`: NSImage = Bundle.module.image(forResource: "laugh")!
   public static let `layers2`: NSImage = Bundle.module.image(forResource: "layers-2")!
+  public static let `layersMinus`: NSImage = Bundle.module.image(forResource: "layers-minus")!
   public static let `layersPlus`: NSImage = Bundle.module.image(forResource: "layers-plus")!
   public static let `layers`: NSImage = Bundle.module.image(forResource: "layers")!
   public static let `layoutDashboard`: NSImage = Bundle.module.image(forResource: "layout-dashboard")!
