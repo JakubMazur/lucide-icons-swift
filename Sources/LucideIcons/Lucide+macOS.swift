@@ -102,6 +102,7 @@ extension Lucide {
   public static let `arrowUp`: NSImage = Bundle.module.image(forResource: "arrow-up")!
   public static let `arrowsUpFromLine`: NSImage = Bundle.module.image(forResource: "arrows-up-from-line")!
   public static let `asterisk`: NSImage = Bundle.module.image(forResource: "asterisk")!
+  public static let `astroid`: NSImage = Bundle.module.image(forResource: "astroid")!
   public static let `atSign`: NSImage = Bundle.module.image(forResource: "at-sign")!
   public static let `atom`: NSImage = Bundle.module.image(forResource: "atom")!
   public static let `audioLines`: NSImage = Bundle.module.image(forResource: "audio-lines")!
@@ -671,6 +672,7 @@ extension Lucide {
   public static let `foldHorizontal`: NSImage = Bundle.module.image(forResource: "fold-horizontal")!
   public static let `foldVertical`: NSImage = Bundle.module.image(forResource: "fold-vertical")!
   public static let `folderArchive`: NSImage = Bundle.module.image(forResource: "folder-archive")!
+  public static let `folderBookmark`: NSImage = Bundle.module.image(forResource: "folder-bookmark")!
   public static let `folderCheck`: NSImage = Bundle.module.image(forResource: "folder-check")!
   public static let `folderClock`: NSImage = Bundle.module.image(forResource: "folder-clock")!
   public static let `folderClosed`: NSImage = Bundle.module.image(forResource: "folder-closed")!

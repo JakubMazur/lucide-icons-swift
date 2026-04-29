@@ -102,6 +102,7 @@ extension Lucide {
   public static let `arrowUp`: UIImage = UIImage(named: "arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `arrowsUpFromLine`: UIImage = UIImage(named: "arrows-up-from-line", in: Bundle.module, compatibleWith: nil)!
   public static let `asterisk`: UIImage = UIImage(named: "asterisk", in: Bundle.module, compatibleWith: nil)!
+  public static let `astroid`: UIImage = UIImage(named: "astroid", in: Bundle.module, compatibleWith: nil)!
   public static let `atSign`: UIImage = UIImage(named: "at-sign", in: Bundle.module, compatibleWith: nil)!
   public static let `atom`: UIImage = UIImage(named: "atom", in: Bundle.module, compatibleWith: nil)!
   public static let `audioLines`: UIImage = UIImage(named: "audio-lines", in: Bundle.module, compatibleWith: nil)!
@@ -671,6 +672,7 @@ extension Lucide {
   public static let `foldHorizontal`: UIImage = UIImage(named: "fold-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `foldVertical`: UIImage = UIImage(named: "fold-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `folderArchive`: UIImage = UIImage(named: "folder-archive", in: Bundle.module, compatibleWith: nil)!
+  public static let `folderBookmark`: UIImage = UIImage(named: "folder-bookmark", in: Bundle.module, compatibleWith: nil)!
   public static let `folderCheck`: UIImage = UIImage(named: "folder-check", in: Bundle.module, compatibleWith: nil)!
   public static let `folderClock`: UIImage = UIImage(named: "folder-clock", in: Bundle.module, compatibleWith: nil)!
   public static let `folderClosed`: UIImage = UIImage(named: "folder-closed", in: Bundle.module, compatibleWith: nil)!
