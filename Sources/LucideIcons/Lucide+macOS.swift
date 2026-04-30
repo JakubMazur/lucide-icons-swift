@@ -1231,6 +1231,7 @@ extension Lucide {
   public static let `removeFormatting`: NSImage = Bundle.module.image(forResource: "remove-formatting")!
   public static let `repeat1`: NSImage = Bundle.module.image(forResource: "repeat-1")!
   public static let `repeat2`: NSImage = Bundle.module.image(forResource: "repeat-2")!
+  public static let `repeatOff`: NSImage = Bundle.module.image(forResource: "repeat-off")!
   public static let `repeat`: NSImage = Bundle.module.image(forResource: "repeat")!
   public static let `replaceAll`: NSImage = Bundle.module.image(forResource: "replace-all")!
   public static let `replace`: NSImage = Bundle.module.image(forResource: "replace")!
@@ -1661,8 +1662,9 @@ extension Lucide {
   public static let `watch`: NSImage = Bundle.module.image(forResource: "watch")!
   public static let `wavesArrowDown`: NSImage = Bundle.module.image(forResource: "waves-arrow-down")!
   public static let `wavesArrowUp`: NSImage = Bundle.module.image(forResource: "waves-arrow-up")!
+  public static let `wavesHorizontal`: NSImage = Bundle.module.image(forResource: "waves-horizontal")!
   public static let `wavesLadder`: NSImage = Bundle.module.image(forResource: "waves-ladder")!
-  public static let `waves`: NSImage = Bundle.module.image(forResource: "waves")!
+  public static let `wavesVertical`: NSImage = Bundle.module.image(forResource: "waves-vertical")!
   public static let `waypoints`: NSImage = Bundle.module.image(forResource: "waypoints")!
   public static let `webcam`: NSImage = Bundle.module.image(forResource: "webcam")!
   public static let `webhookOff`: NSImage = Bundle.module.image(forResource: "webhook-off")!

@@ -1231,6 +1231,7 @@ extension Lucide {
   public static let `removeFormatting`: UIImage = UIImage(named: "remove-formatting", in: Bundle.module, compatibleWith: nil)!
   public static let `repeat1`: UIImage = UIImage(named: "repeat-1", in: Bundle.module, compatibleWith: nil)!
   public static let `repeat2`: UIImage = UIImage(named: "repeat-2", in: Bundle.module, compatibleWith: nil)!
+  public static let `repeatOff`: UIImage = UIImage(named: "repeat-off", in: Bundle.module, compatibleWith: nil)!
   public static let `repeat`: UIImage = UIImage(named: "repeat", in: Bundle.module, compatibleWith: nil)!
   public static let `replaceAll`: UIImage = UIImage(named: "replace-all", in: Bundle.module, compatibleWith: nil)!
   public static let `replace`: UIImage = UIImage(named: "replace", in: Bundle.module, compatibleWith: nil)!
@@ -1661,8 +1662,9 @@ extension Lucide {
   public static let `watch`: UIImage = UIImage(named: "watch", in: Bundle.module, compatibleWith: nil)!
   public static let `wavesArrowDown`: UIImage = UIImage(named: "waves-arrow-down", in: Bundle.module, compatibleWith: nil)!
   public static let `wavesArrowUp`: UIImage = UIImage(named: "waves-arrow-up", in: Bundle.module, compatibleWith: nil)!
+  public static let `wavesHorizontal`: UIImage = UIImage(named: "waves-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `wavesLadder`: UIImage = UIImage(named: "waves-ladder", in: Bundle.module, compatibleWith: nil)!
-  public static let `waves`: UIImage = UIImage(named: "waves", in: Bundle.module, compatibleWith: nil)!
+  public static let `wavesVertical`: UIImage = UIImage(named: "waves-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `waypoints`: UIImage = UIImage(named: "waypoints", in: Bundle.module, compatibleWith: nil)!
   public static let `webcam`: UIImage = UIImage(named: "webcam", in: Bundle.module, compatibleWith: nil)!
   public static let `webhookOff`: UIImage = UIImage(named: "webhook-off", in: Bundle.module, compatibleWith: nil)!
