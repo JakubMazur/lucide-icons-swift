@@ -181,6 +181,7 @@ extension Lucide {
   public static let `birdhouse`: NSImage = Bundle.module.image(forResource: "birdhouse")!
   public static let `bitcoin`: NSImage = Bundle.module.image(forResource: "bitcoin")!
   public static let `blend`: NSImage = Bundle.module.image(forResource: "blend")!
+  public static let `blender`: NSImage = Bundle.module.image(forResource: "blender")!
   public static let `blinds`: NSImage = Bundle.module.image(forResource: "blinds")!
   public static let `blocks`: NSImage = Bundle.module.image(forResource: "blocks")!
   public static let `bluetoothConnected`: NSImage = Bundle.module.image(forResource: "bluetooth-connected")!
@@ -244,6 +245,7 @@ extension Lucide {
   public static let `briefcaseMedical`: NSImage = Bundle.module.image(forResource: "briefcase-medical")!
   public static let `briefcase`: NSImage = Bundle.module.image(forResource: "briefcase")!
   public static let `bringToFront`: NSImage = Bundle.module.image(forResource: "bring-to-front")!
+  public static let `broccoli`: NSImage = Bundle.module.image(forResource: "broccoli")!
   public static let `brushCleaning`: NSImage = Bundle.module.image(forResource: "brush-cleaning")!
   public static let `brush`: NSImage = Bundle.module.image(forResource: "brush")!
   public static let `bubbles`: NSImage = Bundle.module.image(forResource: "bubbles")!
@@ -1469,7 +1471,13 @@ extension Lucide {
   public static let `stepForward`: NSImage = Bundle.module.image(forResource: "step-forward")!
   public static let `stethoscope`: NSImage = Bundle.module.image(forResource: "stethoscope")!
   public static let `sticker`: NSImage = Bundle.module.image(forResource: "sticker")!
+  public static let `stickyNoteCheck`: NSImage = Bundle.module.image(forResource: "sticky-note-check")!
+  public static let `stickyNoteMinus`: NSImage = Bundle.module.image(forResource: "sticky-note-minus")!
+  public static let `stickyNoteOff`: NSImage = Bundle.module.image(forResource: "sticky-note-off")!
+  public static let `stickyNotePlus`: NSImage = Bundle.module.image(forResource: "sticky-note-plus")!
+  public static let `stickyNoteX`: NSImage = Bundle.module.image(forResource: "sticky-note-x")!
   public static let `stickyNote`: NSImage = Bundle.module.image(forResource: "sticky-note")!
+  public static let `stickyNotes`: NSImage = Bundle.module.image(forResource: "sticky-notes")!
   public static let `stone`: NSImage = Bundle.module.image(forResource: "stone")!
   public static let `store`: NSImage = Bundle.module.image(forResource: "store")!
   public static let `stretchHorizontal`: NSImage = Bundle.module.image(forResource: "stretch-horizontal")!

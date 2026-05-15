@@ -181,6 +181,7 @@ extension Lucide {
   public static let `birdhouse`: UIImage = UIImage(named: "birdhouse", in: Bundle.module, compatibleWith: nil)!
   public static let `bitcoin`: UIImage = UIImage(named: "bitcoin", in: Bundle.module, compatibleWith: nil)!
   public static let `blend`: UIImage = UIImage(named: "blend", in: Bundle.module, compatibleWith: nil)!
+  public static let `blender`: UIImage = UIImage(named: "blender", in: Bundle.module, compatibleWith: nil)!
   public static let `blinds`: UIImage = UIImage(named: "blinds", in: Bundle.module, compatibleWith: nil)!
   public static let `blocks`: UIImage = UIImage(named: "blocks", in: Bundle.module, compatibleWith: nil)!
   public static let `bluetoothConnected`: UIImage = UIImage(named: "bluetooth-connected", in: Bundle.module, compatibleWith: nil)!
@@ -244,6 +245,7 @@ extension Lucide {
   public static let `briefcaseMedical`: UIImage = UIImage(named: "briefcase-medical", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcase`: UIImage = UIImage(named: "briefcase", in: Bundle.module, compatibleWith: nil)!
   public static let `bringToFront`: UIImage = UIImage(named: "bring-to-front", in: Bundle.module, compatibleWith: nil)!
+  public static let `broccoli`: UIImage = UIImage(named: "broccoli", in: Bundle.module, compatibleWith: nil)!
   public static let `brushCleaning`: UIImage = UIImage(named: "brush-cleaning", in: Bundle.module, compatibleWith: nil)!
   public static let `brush`: UIImage = UIImage(named: "brush", in: Bundle.module, compatibleWith: nil)!
   public static let `bubbles`: UIImage = UIImage(named: "bubbles", in: Bundle.module, compatibleWith: nil)!
@@ -1469,7 +1471,13 @@ extension Lucide {
   public static let `stepForward`: UIImage = UIImage(named: "step-forward", in: Bundle.module, compatibleWith: nil)!
   public static let `stethoscope`: UIImage = UIImage(named: "stethoscope", in: Bundle.module, compatibleWith: nil)!
   public static let `sticker`: UIImage = UIImage(named: "sticker", in: Bundle.module, compatibleWith: nil)!
+  public static let `stickyNoteCheck`: UIImage = UIImage(named: "sticky-note-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `stickyNoteMinus`: UIImage = UIImage(named: "sticky-note-minus", in: Bundle.module, compatibleWith: nil)!
+  public static let `stickyNoteOff`: UIImage = UIImage(named: "sticky-note-off", in: Bundle.module, compatibleWith: nil)!
+  public static let `stickyNotePlus`: UIImage = UIImage(named: "sticky-note-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `stickyNoteX`: UIImage = UIImage(named: "sticky-note-x", in: Bundle.module, compatibleWith: nil)!
   public static let `stickyNote`: UIImage = UIImage(named: "sticky-note", in: Bundle.module, compatibleWith: nil)!
+  public static let `stickyNotes`: UIImage = UIImage(named: "sticky-notes", in: Bundle.module, compatibleWith: nil)!
   public static let `stone`: UIImage = UIImage(named: "stone", in: Bundle.module, compatibleWith: nil)!
   public static let `store`: UIImage = UIImage(named: "store", in: Bundle.module, compatibleWith: nil)!
   public static let `stretchHorizontal`: UIImage = UIImage(named: "stretch-horizontal", in: Bundle.module, compatibleWith: nil)!
