@@ -749,6 +749,7 @@ extension Lucide {
   public static let `gitPullRequest`: UIImage = UIImage(named: "git-pull-request", in: Bundle.module, compatibleWith: nil)!
   public static let `glassWater`: UIImage = UIImage(named: "glass-water", in: Bundle.module, compatibleWith: nil)!
   public static let `glasses`: UIImage = UIImage(named: "glasses", in: Bundle.module, compatibleWith: nil)!
+  public static let `globeCheck`: UIImage = UIImage(named: "globe-check", in: Bundle.module, compatibleWith: nil)!
   public static let `globeLock`: UIImage = UIImage(named: "globe-lock", in: Bundle.module, compatibleWith: nil)!
   public static let `globeOff`: UIImage = UIImage(named: "globe-off", in: Bundle.module, compatibleWith: nil)!
   public static let `globeX`: UIImage = UIImage(named: "globe-x", in: Bundle.module, compatibleWith: nil)!
@@ -1126,6 +1127,7 @@ extension Lucide {
   public static let `panelsRightBottom`: UIImage = UIImage(named: "panels-right-bottom", in: Bundle.module, compatibleWith: nil)!
   public static let `panelsTopLeft`: UIImage = UIImage(named: "panels-top-left", in: Bundle.module, compatibleWith: nil)!
   public static let `paperclip`: UIImage = UIImage(named: "paperclip", in: Bundle.module, compatibleWith: nil)!
+  public static let `parasol`: UIImage = UIImage(named: "parasol", in: Bundle.module, compatibleWith: nil)!
   public static let `parentheses`: UIImage = UIImage(named: "parentheses", in: Bundle.module, compatibleWith: nil)!
   public static let `parkingMeter`: UIImage = UIImage(named: "parking-meter", in: Bundle.module, compatibleWith: nil)!
   public static let `partyPopper`: UIImage = UIImage(named: "party-popper", in: Bundle.module, compatibleWith: nil)!

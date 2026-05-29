@@ -749,6 +749,7 @@ extension Lucide {
   public static let `gitPullRequest`: NSImage = Bundle.module.image(forResource: "git-pull-request")!
   public static let `glassWater`: NSImage = Bundle.module.image(forResource: "glass-water")!
   public static let `glasses`: NSImage = Bundle.module.image(forResource: "glasses")!
+  public static let `globeCheck`: NSImage = Bundle.module.image(forResource: "globe-check")!
   public static let `globeLock`: NSImage = Bundle.module.image(forResource: "globe-lock")!
   public static let `globeOff`: NSImage = Bundle.module.image(forResource: "globe-off")!
   public static let `globeX`: NSImage = Bundle.module.image(forResource: "globe-x")!
@@ -1126,6 +1127,7 @@ extension Lucide {
   public static let `panelsRightBottom`: NSImage = Bundle.module.image(forResource: "panels-right-bottom")!
   public static let `panelsTopLeft`: NSImage = Bundle.module.image(forResource: "panels-top-left")!
   public static let `paperclip`: NSImage = Bundle.module.image(forResource: "paperclip")!
+  public static let `parasol`: NSImage = Bundle.module.image(forResource: "parasol")!
   public static let `parentheses`: NSImage = Bundle.module.image(forResource: "parentheses")!
   public static let `parkingMeter`: NSImage = Bundle.module.image(forResource: "parking-meter")!
   public static let `partyPopper`: NSImage = Bundle.module.image(forResource: "party-popper")!
