@@ -1171,6 +1171,7 @@ extension Lucide {
   public static let `planeLanding`: NSImage = Bundle.module.image(forResource: "plane-landing")!
   public static let `planeTakeoff`: NSImage = Bundle.module.image(forResource: "plane-takeoff")!
   public static let `plane`: NSImage = Bundle.module.image(forResource: "plane")!
+  public static let `playOff`: NSImage = Bundle.module.image(forResource: "play-off")!
   public static let `play`: NSImage = Bundle.module.image(forResource: "play")!
   public static let `plug2`: NSImage = Bundle.module.image(forResource: "plug-2")!
   public static let `plugZap`: NSImage = Bundle.module.image(forResource: "plug-zap")!
@@ -1676,6 +1677,7 @@ extension Lucide {
   public static let `wavesLadder`: NSImage = Bundle.module.image(forResource: "waves-ladder")!
   public static let `wavesVertical`: NSImage = Bundle.module.image(forResource: "waves-vertical")!
   public static let `waypoints`: NSImage = Bundle.module.image(forResource: "waypoints")!
+  public static let `webcamOff`: NSImage = Bundle.module.image(forResource: "webcam-off")!
   public static let `webcam`: NSImage = Bundle.module.image(forResource: "webcam")!
   public static let `webhookOff`: NSImage = Bundle.module.image(forResource: "webhook-off")!
   public static let `webhook`: NSImage = Bundle.module.image(forResource: "webhook")!

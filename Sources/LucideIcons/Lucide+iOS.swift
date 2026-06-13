@@ -1171,6 +1171,7 @@ extension Lucide {
   public static let `planeLanding`: UIImage = UIImage(named: "plane-landing", in: Bundle.module, compatibleWith: nil)!
   public static let `planeTakeoff`: UIImage = UIImage(named: "plane-takeoff", in: Bundle.module, compatibleWith: nil)!
   public static let `plane`: UIImage = UIImage(named: "plane", in: Bundle.module, compatibleWith: nil)!
+  public static let `playOff`: UIImage = UIImage(named: "play-off", in: Bundle.module, compatibleWith: nil)!
   public static let `play`: UIImage = UIImage(named: "play", in: Bundle.module, compatibleWith: nil)!
   public static let `plug2`: UIImage = UIImage(named: "plug-2", in: Bundle.module, compatibleWith: nil)!
   public static let `plugZap`: UIImage = UIImage(named: "plug-zap", in: Bundle.module, compatibleWith: nil)!
@@ -1676,6 +1677,7 @@ extension Lucide {
   public static let `wavesLadder`: UIImage = UIImage(named: "waves-ladder", in: Bundle.module, compatibleWith: nil)!
   public static let `wavesVertical`: UIImage = UIImage(named: "waves-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `waypoints`: UIImage = UIImage(named: "waypoints", in: Bundle.module, compatibleWith: nil)!
+  public static let `webcamOff`: UIImage = UIImage(named: "webcam-off", in: Bundle.module, compatibleWith: nil)!
   public static let `webcam`: UIImage = UIImage(named: "webcam", in: Bundle.module, compatibleWith: nil)!
   public static let `webhookOff`: UIImage = UIImage(named: "webhook-off", in: Bundle.module, compatibleWith: nil)!
   public static let `webhook`: UIImage = UIImage(named: "webhook", in: Bundle.module, compatibleWith: nil)!
