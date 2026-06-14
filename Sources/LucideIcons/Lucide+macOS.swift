@@ -10,6 +10,7 @@ extension Lucide {
   public static let `aLargeSmall`: NSImage = Bundle.module.image(forResource: "a-large-small")!
   public static let `accessibility`: NSImage = Bundle.module.image(forResource: "accessibility")!
   public static let `activity`: NSImage = Bundle.module.image(forResource: "activity")!
+  public static let `ad`: NSImage = Bundle.module.image(forResource: "ad")!
   public static let `airVent`: NSImage = Bundle.module.image(forResource: "air-vent")!
   public static let `airplay`: NSImage = Bundle.module.image(forResource: "airplay")!
   public static let `alarmClockCheck`: NSImage = Bundle.module.image(forResource: "alarm-clock-check")!
@@ -583,6 +584,7 @@ extension Lucide {
   public static let `expand`: NSImage = Bundle.module.image(forResource: "expand")!
   public static let `externalLink`: NSImage = Bundle.module.image(forResource: "external-link")!
   public static let `eyeClosed`: NSImage = Bundle.module.image(forResource: "eye-closed")!
+  public static let `eyeDashed`: NSImage = Bundle.module.image(forResource: "eye-dashed")!
   public static let `eyeOff`: NSImage = Bundle.module.image(forResource: "eye-off")!
   public static let `eye`: NSImage = Bundle.module.image(forResource: "eye")!
   public static let `factory`: NSImage = Bundle.module.image(forResource: "factory")!
@@ -913,6 +915,8 @@ extension Lucide {
   public static let `listOrdered`: NSImage = Bundle.module.image(forResource: "list-ordered")!
   public static let `listPlus`: NSImage = Bundle.module.image(forResource: "list-plus")!
   public static let `listRestart`: NSImage = Bundle.module.image(forResource: "list-restart")!
+  public static let `listSortAscending`: NSImage = Bundle.module.image(forResource: "list-sort-ascending")!
+  public static let `listSortDescending`: NSImage = Bundle.module.image(forResource: "list-sort-descending")!
   public static let `listStart`: NSImage = Bundle.module.image(forResource: "list-start")!
   public static let `listTodo`: NSImage = Bundle.module.image(forResource: "list-todo")!
   public static let `listTree`: NSImage = Bundle.module.image(forResource: "list-tree")!
@@ -1179,6 +1183,7 @@ extension Lucide {
   public static let `plus`: NSImage = Bundle.module.image(forResource: "plus")!
   public static let `pocketKnife`: NSImage = Bundle.module.image(forResource: "pocket-knife")!
   public static let `podcast`: NSImage = Bundle.module.image(forResource: "podcast")!
+  public static let `podium`: NSImage = Bundle.module.image(forResource: "podium")!
   public static let `pointerOff`: NSImage = Bundle.module.image(forResource: "pointer-off")!
   public static let `pointer`: NSImage = Bundle.module.image(forResource: "pointer")!
   public static let `popcorn`: NSImage = Bundle.module.image(forResource: "popcorn")!
@@ -1273,6 +1278,8 @@ extension Lucide {
   public static let `saudiRiyal`: NSImage = Bundle.module.image(forResource: "saudi-riyal")!
   public static let `saveAll`: NSImage = Bundle.module.image(forResource: "save-all")!
   public static let `saveOff`: NSImage = Bundle.module.image(forResource: "save-off")!
+  public static let `savePen`: NSImage = Bundle.module.image(forResource: "save-pen")!
+  public static let `savePlus`: NSImage = Bundle.module.image(forResource: "save-plus")!
   public static let `save`: NSImage = Bundle.module.image(forResource: "save")!
   public static let `scale3d`: NSImage = Bundle.module.image(forResource: "scale-3d")!
   public static let `scale`: NSImage = Bundle.module.image(forResource: "scale")!
@@ -1467,8 +1474,12 @@ extension Lucide {
   public static let `squircle`: NSImage = Bundle.module.image(forResource: "squircle")!
   public static let `squirrel`: NSImage = Bundle.module.image(forResource: "squirrel")!
   public static let `stamp`: NSImage = Bundle.module.image(forResource: "stamp")!
+  public static let `starCheck`: NSImage = Bundle.module.image(forResource: "star-check")!
   public static let `starHalf`: NSImage = Bundle.module.image(forResource: "star-half")!
+  public static let `starMinus`: NSImage = Bundle.module.image(forResource: "star-minus")!
   public static let `starOff`: NSImage = Bundle.module.image(forResource: "star-off")!
+  public static let `starPlus`: NSImage = Bundle.module.image(forResource: "star-plus")!
+  public static let `starX`: NSImage = Bundle.module.image(forResource: "star-x")!
   public static let `star`: NSImage = Bundle.module.image(forResource: "star")!
   public static let `stepBack`: NSImage = Bundle.module.image(forResource: "step-back")!
   public static let `stepForward`: NSImage = Bundle.module.image(forResource: "step-forward")!
@@ -1700,6 +1711,7 @@ extension Lucide {
   public static let `wine`: NSImage = Bundle.module.image(forResource: "wine")!
   public static let `workflow`: NSImage = Bundle.module.image(forResource: "workflow")!
   public static let `worm`: NSImage = Bundle.module.image(forResource: "worm")!
+  public static let `wrenchOff`: NSImage = Bundle.module.image(forResource: "wrench-off")!
   public static let `wrench`: NSImage = Bundle.module.image(forResource: "wrench")!
   public static let `xLineTop`: NSImage = Bundle.module.image(forResource: "x-line-top")!
   public static let `x`: NSImage = Bundle.module.image(forResource: "x")!
