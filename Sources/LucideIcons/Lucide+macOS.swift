@@ -138,6 +138,7 @@ extension Lucide {
   public static let `bandage`: NSImage = Bundle.module.image(forResource: "bandage")!
   public static let `banknoteArrowDown`: NSImage = Bundle.module.image(forResource: "banknote-arrow-down")!
   public static let `banknoteArrowUp`: NSImage = Bundle.module.image(forResource: "banknote-arrow-up")!
+  public static let `banknoteCheck`: NSImage = Bundle.module.image(forResource: "banknote-check")!
   public static let `banknoteX`: NSImage = Bundle.module.image(forResource: "banknote-x")!
   public static let `banknote`: NSImage = Bundle.module.image(forResource: "banknote")!
   public static let `barcode`: NSImage = Bundle.module.image(forResource: "barcode")!
@@ -435,6 +436,8 @@ extension Lucide {
   public static let `clock9`: NSImage = Bundle.module.image(forResource: "clock-9")!
   public static let `clockAlert`: NSImage = Bundle.module.image(forResource: "clock-alert")!
   public static let `clockArrowDown`: NSImage = Bundle.module.image(forResource: "clock-arrow-down")!
+  public static let `clockArrowLeft`: NSImage = Bundle.module.image(forResource: "clock-arrow-left")!
+  public static let `clockArrowRight`: NSImage = Bundle.module.image(forResource: "clock-arrow-right")!
   public static let `clockArrowUp`: NSImage = Bundle.module.image(forResource: "clock-arrow-up")!
   public static let `clockCheck`: NSImage = Bundle.module.image(forResource: "clock-check")!
   public static let `clockFading`: NSImage = Bundle.module.image(forResource: "clock-fading")!
@@ -1145,6 +1148,7 @@ extension Lucide {
   public static let `pencilLine`: NSImage = Bundle.module.image(forResource: "pencil-line")!
   public static let `pencilOff`: NSImage = Bundle.module.image(forResource: "pencil-off")!
   public static let `pencilRuler`: NSImage = Bundle.module.image(forResource: "pencil-ruler")!
+  public static let `pencilSparkles`: NSImage = Bundle.module.image(forResource: "pencil-sparkles")!
   public static let `pencil`: NSImage = Bundle.module.image(forResource: "pencil")!
   public static let `pentagon`: NSImage = Bundle.module.image(forResource: "pentagon")!
   public static let `percent`: NSImage = Bundle.module.image(forResource: "percent")!
@@ -1277,6 +1281,7 @@ extension Lucide {
   public static let `satellite`: NSImage = Bundle.module.image(forResource: "satellite")!
   public static let `saudiRiyal`: NSImage = Bundle.module.image(forResource: "saudi-riyal")!
   public static let `saveAll`: NSImage = Bundle.module.image(forResource: "save-all")!
+  public static let `saveCheck`: NSImage = Bundle.module.image(forResource: "save-check")!
   public static let `saveOff`: NSImage = Bundle.module.image(forResource: "save-off")!
   public static let `savePen`: NSImage = Bundle.module.image(forResource: "save-pen")!
   public static let `savePlus`: NSImage = Bundle.module.image(forResource: "save-plus")!
@@ -1498,6 +1503,7 @@ extension Lucide {
   public static let `stretchVertical`: NSImage = Bundle.module.image(forResource: "stretch-vertical")!
   public static let `strikethrough`: NSImage = Bundle.module.image(forResource: "strikethrough")!
   public static let `subscript`: NSImage = Bundle.module.image(forResource: "subscript")!
+  public static let `summary`: NSImage = Bundle.module.image(forResource: "summary")!
   public static let `sunDim`: NSImage = Bundle.module.image(forResource: "sun-dim")!
   public static let `sunMedium`: NSImage = Bundle.module.image(forResource: "sun-medium")!
   public static let `sunMoon`: NSImage = Bundle.module.image(forResource: "sun-moon")!
@@ -1523,6 +1529,8 @@ extension Lucide {
   public static let `tabletSmartphone`: NSImage = Bundle.module.image(forResource: "tablet-smartphone")!
   public static let `tablet`: NSImage = Bundle.module.image(forResource: "tablet")!
   public static let `tablets`: NSImage = Bundle.module.image(forResource: "tablets")!
+  public static let `tagPlus`: NSImage = Bundle.module.image(forResource: "tag-plus")!
+  public static let `tagX`: NSImage = Bundle.module.image(forResource: "tag-x")!
   public static let `tag`: NSImage = Bundle.module.image(forResource: "tag")!
   public static let `tags`: NSImage = Bundle.module.image(forResource: "tags")!
   public static let `tally1`: NSImage = Bundle.module.image(forResource: "tally-1")!
@@ -1633,6 +1641,7 @@ extension Lucide {
   public static let `userMinus`: NSImage = Bundle.module.image(forResource: "user-minus")!
   public static let `userPen`: NSImage = Bundle.module.image(forResource: "user-pen")!
   public static let `userPlus`: NSImage = Bundle.module.image(forResource: "user-plus")!
+  public static let `userRoundArrowLeft`: NSImage = Bundle.module.image(forResource: "user-round-arrow-left")!
   public static let `userRoundCheck`: NSImage = Bundle.module.image(forResource: "user-round-check")!
   public static let `userRoundCog`: NSImage = Bundle.module.image(forResource: "user-round-cog")!
   public static let `userRoundKey`: NSImage = Bundle.module.image(forResource: "user-round-key")!

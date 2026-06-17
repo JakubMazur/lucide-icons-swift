@@ -138,6 +138,7 @@ extension Lucide {
   public static let `bandage`: UIImage = UIImage(named: "bandage", in: Bundle.module, compatibleWith: nil)!
   public static let `banknoteArrowDown`: UIImage = UIImage(named: "banknote-arrow-down", in: Bundle.module, compatibleWith: nil)!
   public static let `banknoteArrowUp`: UIImage = UIImage(named: "banknote-arrow-up", in: Bundle.module, compatibleWith: nil)!
+  public static let `banknoteCheck`: UIImage = UIImage(named: "banknote-check", in: Bundle.module, compatibleWith: nil)!
   public static let `banknoteX`: UIImage = UIImage(named: "banknote-x", in: Bundle.module, compatibleWith: nil)!
   public static let `banknote`: UIImage = UIImage(named: "banknote", in: Bundle.module, compatibleWith: nil)!
   public static let `barcode`: UIImage = UIImage(named: "barcode", in: Bundle.module, compatibleWith: nil)!
@@ -435,6 +436,8 @@ extension Lucide {
   public static let `clock9`: UIImage = UIImage(named: "clock-9", in: Bundle.module, compatibleWith: nil)!
   public static let `clockAlert`: UIImage = UIImage(named: "clock-alert", in: Bundle.module, compatibleWith: nil)!
   public static let `clockArrowDown`: UIImage = UIImage(named: "clock-arrow-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `clockArrowLeft`: UIImage = UIImage(named: "clock-arrow-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `clockArrowRight`: UIImage = UIImage(named: "clock-arrow-right", in: Bundle.module, compatibleWith: nil)!
   public static let `clockArrowUp`: UIImage = UIImage(named: "clock-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `clockCheck`: UIImage = UIImage(named: "clock-check", in: Bundle.module, compatibleWith: nil)!
   public static let `clockFading`: UIImage = UIImage(named: "clock-fading", in: Bundle.module, compatibleWith: nil)!
@@ -1145,6 +1148,7 @@ extension Lucide {
   public static let `pencilLine`: UIImage = UIImage(named: "pencil-line", in: Bundle.module, compatibleWith: nil)!
   public static let `pencilOff`: UIImage = UIImage(named: "pencil-off", in: Bundle.module, compatibleWith: nil)!
   public static let `pencilRuler`: UIImage = UIImage(named: "pencil-ruler", in: Bundle.module, compatibleWith: nil)!
+  public static let `pencilSparkles`: UIImage = UIImage(named: "pencil-sparkles", in: Bundle.module, compatibleWith: nil)!
   public static let `pencil`: UIImage = UIImage(named: "pencil", in: Bundle.module, compatibleWith: nil)!
   public static let `pentagon`: UIImage = UIImage(named: "pentagon", in: Bundle.module, compatibleWith: nil)!
   public static let `percent`: UIImage = UIImage(named: "percent", in: Bundle.module, compatibleWith: nil)!
@@ -1277,6 +1281,7 @@ extension Lucide {
   public static let `satellite`: UIImage = UIImage(named: "satellite", in: Bundle.module, compatibleWith: nil)!
   public static let `saudiRiyal`: UIImage = UIImage(named: "saudi-riyal", in: Bundle.module, compatibleWith: nil)!
   public static let `saveAll`: UIImage = UIImage(named: "save-all", in: Bundle.module, compatibleWith: nil)!
+  public static let `saveCheck`: UIImage = UIImage(named: "save-check", in: Bundle.module, compatibleWith: nil)!
   public static let `saveOff`: UIImage = UIImage(named: "save-off", in: Bundle.module, compatibleWith: nil)!
   public static let `savePen`: UIImage = UIImage(named: "save-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `savePlus`: UIImage = UIImage(named: "save-plus", in: Bundle.module, compatibleWith: nil)!
@@ -1498,6 +1503,7 @@ extension Lucide {
   public static let `stretchVertical`: UIImage = UIImage(named: "stretch-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `strikethrough`: UIImage = UIImage(named: "strikethrough", in: Bundle.module, compatibleWith: nil)!
   public static let `subscript`: UIImage = UIImage(named: "subscript", in: Bundle.module, compatibleWith: nil)!
+  public static let `summary`: UIImage = UIImage(named: "summary", in: Bundle.module, compatibleWith: nil)!
   public static let `sunDim`: UIImage = UIImage(named: "sun-dim", in: Bundle.module, compatibleWith: nil)!
   public static let `sunMedium`: UIImage = UIImage(named: "sun-medium", in: Bundle.module, compatibleWith: nil)!
   public static let `sunMoon`: UIImage = UIImage(named: "sun-moon", in: Bundle.module, compatibleWith: nil)!
@@ -1523,6 +1529,8 @@ extension Lucide {
   public static let `tabletSmartphone`: UIImage = UIImage(named: "tablet-smartphone", in: Bundle.module, compatibleWith: nil)!
   public static let `tablet`: UIImage = UIImage(named: "tablet", in: Bundle.module, compatibleWith: nil)!
   public static let `tablets`: UIImage = UIImage(named: "tablets", in: Bundle.module, compatibleWith: nil)!
+  public static let `tagPlus`: UIImage = UIImage(named: "tag-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `tagX`: UIImage = UIImage(named: "tag-x", in: Bundle.module, compatibleWith: nil)!
   public static let `tag`: UIImage = UIImage(named: "tag", in: Bundle.module, compatibleWith: nil)!
   public static let `tags`: UIImage = UIImage(named: "tags", in: Bundle.module, compatibleWith: nil)!
   public static let `tally1`: UIImage = UIImage(named: "tally-1", in: Bundle.module, compatibleWith: nil)!
@@ -1633,6 +1641,7 @@ extension Lucide {
   public static let `userMinus`: UIImage = UIImage(named: "user-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `userPen`: UIImage = UIImage(named: "user-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `userPlus`: UIImage = UIImage(named: "user-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `userRoundArrowLeft`: UIImage = UIImage(named: "user-round-arrow-left", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundCheck`: UIImage = UIImage(named: "user-round-check", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundCog`: UIImage = UIImage(named: "user-round-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundKey`: UIImage = UIImage(named: "user-round-key", in: Bundle.module, compatibleWith: nil)!
