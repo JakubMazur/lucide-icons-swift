@@ -193,6 +193,7 @@ extension Lucide {
   public static let `bold`: NSImage = Bundle.module.image(forResource: "bold")!
   public static let `bolt`: NSImage = Bundle.module.image(forResource: "bolt")!
   public static let `bomb`: NSImage = Bundle.module.image(forResource: "bomb")!
+  public static let `boneFracture`: NSImage = Bundle.module.image(forResource: "bone-fracture")!
   public static let `bone`: NSImage = Bundle.module.image(forResource: "bone")!
   public static let `bookA`: NSImage = Bundle.module.image(forResource: "book-a")!
   public static let `bookAlert`: NSImage = Bundle.module.image(forResource: "book-alert")!

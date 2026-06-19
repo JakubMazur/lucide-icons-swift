@@ -193,6 +193,7 @@ extension Lucide {
   public static let `bold`: UIImage = UIImage(named: "bold", in: Bundle.module, compatibleWith: nil)!
   public static let `bolt`: UIImage = UIImage(named: "bolt", in: Bundle.module, compatibleWith: nil)!
   public static let `bomb`: UIImage = UIImage(named: "bomb", in: Bundle.module, compatibleWith: nil)!
+  public static let `boneFracture`: UIImage = UIImage(named: "bone-fracture", in: Bundle.module, compatibleWith: nil)!
   public static let `bone`: UIImage = UIImage(named: "bone", in: Bundle.module, compatibleWith: nil)!
   public static let `bookA`: UIImage = UIImage(named: "book-a", in: Bundle.module, compatibleWith: nil)!
   public static let `bookAlert`: UIImage = UIImage(named: "book-alert", in: Bundle.module, compatibleWith: nil)!
