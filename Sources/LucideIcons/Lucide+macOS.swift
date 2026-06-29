@@ -520,8 +520,14 @@ extension Lucide {
   public static let `currency`: NSImage = Bundle.module.image(forResource: "currency")!
   public static let `cylinder`: NSImage = Bundle.module.image(forResource: "cylinder")!
   public static let `dam`: NSImage = Bundle.module.image(forResource: "dam")!
+  public static let `databaseArrowDown`: NSImage = Bundle.module.image(forResource: "database-arrow-down")!
+  public static let `databaseArrowUp`: NSImage = Bundle.module.image(forResource: "database-arrow-up")!
   public static let `databaseBackup`: NSImage = Bundle.module.image(forResource: "database-backup")!
+  public static let `databaseCheck`: NSImage = Bundle.module.image(forResource: "database-check")!
+  public static let `databaseMinus`: NSImage = Bundle.module.image(forResource: "database-minus")!
+  public static let `databasePlus`: NSImage = Bundle.module.image(forResource: "database-plus")!
   public static let `databaseSearch`: NSImage = Bundle.module.image(forResource: "database-search")!
+  public static let `databaseX`: NSImage = Bundle.module.image(forResource: "database-x")!
   public static let `databaseZap`: NSImage = Bundle.module.image(forResource: "database-zap")!
   public static let `database`: NSImage = Bundle.module.image(forResource: "database")!
   public static let `decimalsArrowLeft`: NSImage = Bundle.module.image(forResource: "decimals-arrow-left")!
@@ -1154,6 +1160,7 @@ extension Lucide {
   public static let `pentagon`: NSImage = Bundle.module.image(forResource: "pentagon")!
   public static let `percent`: NSImage = Bundle.module.image(forResource: "percent")!
   public static let `personStanding`: NSImage = Bundle.module.image(forResource: "person-standing")!
+  public static let `phi`: NSImage = Bundle.module.image(forResource: "phi")!
   public static let `philippinePeso`: NSImage = Bundle.module.image(forResource: "philippine-peso")!
   public static let `phoneCall`: NSImage = Bundle.module.image(forResource: "phone-call")!
   public static let `phoneForwarded`: NSImage = Bundle.module.image(forResource: "phone-forwarded")!
