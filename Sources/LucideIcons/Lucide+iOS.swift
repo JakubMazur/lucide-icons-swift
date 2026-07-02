@@ -1140,6 +1140,7 @@ extension Lucide {
   public static let `panelsLeftBottom`: UIImage = UIImage(named: "panels-left-bottom", in: Bundle.module, compatibleWith: nil)!
   public static let `panelsRightBottom`: UIImage = UIImage(named: "panels-right-bottom", in: Bundle.module, compatibleWith: nil)!
   public static let `panelsTopLeft`: UIImage = UIImage(named: "panels-top-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `paperBag`: UIImage = UIImage(named: "paper-bag", in: Bundle.module, compatibleWith: nil)!
   public static let `paperclip`: UIImage = UIImage(named: "paperclip", in: Bundle.module, compatibleWith: nil)!
   public static let `parasol`: UIImage = UIImage(named: "parasol", in: Bundle.module, compatibleWith: nil)!
   public static let `parentheses`: UIImage = UIImage(named: "parentheses", in: Bundle.module, compatibleWith: nil)!

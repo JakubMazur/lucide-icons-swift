@@ -1140,6 +1140,7 @@ extension Lucide {
   public static let `panelsLeftBottom`: NSImage = Bundle.module.image(forResource: "panels-left-bottom")!
   public static let `panelsRightBottom`: NSImage = Bundle.module.image(forResource: "panels-right-bottom")!
   public static let `panelsTopLeft`: NSImage = Bundle.module.image(forResource: "panels-top-left")!
+  public static let `paperBag`: NSImage = Bundle.module.image(forResource: "paper-bag")!
   public static let `paperclip`: NSImage = Bundle.module.image(forResource: "paperclip")!
   public static let `parasol`: NSImage = Bundle.module.image(forResource: "parasol")!
   public static let `parentheses`: NSImage = Bundle.module.image(forResource: "parentheses")!
