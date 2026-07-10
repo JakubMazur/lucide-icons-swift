@@ -384,6 +384,7 @@ extension Lucide {
   public static let `circleDot`: NSImage = Bundle.module.image(forResource: "circle-dot")!
   public static let `circleEllipsis`: NSImage = Bundle.module.image(forResource: "circle-ellipsis")!
   public static let `circleEqual`: NSImage = Bundle.module.image(forResource: "circle-equal")!
+  public static let `circleEuroSign`: NSImage = Bundle.module.image(forResource: "circle-euro-sign")!
   public static let `circleFadingArrowUp`: NSImage = Bundle.module.image(forResource: "circle-fading-arrow-up")!
   public static let `circleFadingPlus`: NSImage = Bundle.module.image(forResource: "circle-fading-plus")!
   public static let `circleGauge`: NSImage = Bundle.module.image(forResource: "circle-gauge")!
@@ -1330,6 +1331,7 @@ extension Lucide {
   public static let `serverCog`: NSImage = Bundle.module.image(forResource: "server-cog")!
   public static let `serverCrash`: NSImage = Bundle.module.image(forResource: "server-crash")!
   public static let `serverOff`: NSImage = Bundle.module.image(forResource: "server-off")!
+  public static let `serverPlus`: NSImage = Bundle.module.image(forResource: "server-plus")!
   public static let `server`: NSImage = Bundle.module.image(forResource: "server")!
   public static let `settings2`: NSImage = Bundle.module.image(forResource: "settings-2")!
   public static let `settings`: NSImage = Bundle.module.image(forResource: "settings")!

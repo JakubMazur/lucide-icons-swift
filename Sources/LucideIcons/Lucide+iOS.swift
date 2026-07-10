@@ -384,6 +384,7 @@ extension Lucide {
   public static let `circleDot`: UIImage = UIImage(named: "circle-dot", in: Bundle.module, compatibleWith: nil)!
   public static let `circleEllipsis`: UIImage = UIImage(named: "circle-ellipsis", in: Bundle.module, compatibleWith: nil)!
   public static let `circleEqual`: UIImage = UIImage(named: "circle-equal", in: Bundle.module, compatibleWith: nil)!
+  public static let `circleEuroSign`: UIImage = UIImage(named: "circle-euro-sign", in: Bundle.module, compatibleWith: nil)!
   public static let `circleFadingArrowUp`: UIImage = UIImage(named: "circle-fading-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `circleFadingPlus`: UIImage = UIImage(named: "circle-fading-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `circleGauge`: UIImage = UIImage(named: "circle-gauge", in: Bundle.module, compatibleWith: nil)!
@@ -1330,6 +1331,7 @@ extension Lucide {
   public static let `serverCog`: UIImage = UIImage(named: "server-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `serverCrash`: UIImage = UIImage(named: "server-crash", in: Bundle.module, compatibleWith: nil)!
   public static let `serverOff`: UIImage = UIImage(named: "server-off", in: Bundle.module, compatibleWith: nil)!
+  public static let `serverPlus`: UIImage = UIImage(named: "server-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `server`: UIImage = UIImage(named: "server", in: Bundle.module, compatibleWith: nil)!
   public static let `settings2`: UIImage = UIImage(named: "settings-2", in: Bundle.module, compatibleWith: nil)!
   public static let `settings`: UIImage = UIImage(named: "settings", in: Bundle.module, compatibleWith: nil)!
