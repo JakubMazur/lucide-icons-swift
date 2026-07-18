@@ -384,7 +384,7 @@ extension Lucide {
   public static let `circleDot`: NSImage = Bundle.module.image(forResource: "circle-dot")!
   public static let `circleEllipsis`: NSImage = Bundle.module.image(forResource: "circle-ellipsis")!
   public static let `circleEqual`: NSImage = Bundle.module.image(forResource: "circle-equal")!
-  public static let `circleEuroSign`: NSImage = Bundle.module.image(forResource: "circle-euro-sign")!
+  public static let `circleEuro`: NSImage = Bundle.module.image(forResource: "circle-euro")!
   public static let `circleFadingArrowUp`: NSImage = Bundle.module.image(forResource: "circle-fading-arrow-up")!
   public static let `circleFadingPlus`: NSImage = Bundle.module.image(forResource: "circle-fading-plus")!
   public static let `circleGauge`: NSImage = Bundle.module.image(forResource: "circle-gauge")!
@@ -1300,6 +1300,7 @@ extension Lucide {
   public static let `scale`: NSImage = Bundle.module.image(forResource: "scale")!
   public static let `scaling`: NSImage = Bundle.module.image(forResource: "scaling")!
   public static let `scanBarcode`: NSImage = Bundle.module.image(forResource: "scan-barcode")!
+  public static let `scanBox`: NSImage = Bundle.module.image(forResource: "scan-box")!
   public static let `scanEye`: NSImage = Bundle.module.image(forResource: "scan-eye")!
   public static let `scanFace`: NSImage = Bundle.module.image(forResource: "scan-face")!
   public static let `scanHeart`: NSImage = Bundle.module.image(forResource: "scan-heart")!

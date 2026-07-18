@@ -384,7 +384,7 @@ extension Lucide {
   public static let `circleDot`: UIImage = UIImage(named: "circle-dot", in: Bundle.module, compatibleWith: nil)!
   public static let `circleEllipsis`: UIImage = UIImage(named: "circle-ellipsis", in: Bundle.module, compatibleWith: nil)!
   public static let `circleEqual`: UIImage = UIImage(named: "circle-equal", in: Bundle.module, compatibleWith: nil)!
-  public static let `circleEuroSign`: UIImage = UIImage(named: "circle-euro-sign", in: Bundle.module, compatibleWith: nil)!
+  public static let `circleEuro`: UIImage = UIImage(named: "circle-euro", in: Bundle.module, compatibleWith: nil)!
   public static let `circleFadingArrowUp`: UIImage = UIImage(named: "circle-fading-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `circleFadingPlus`: UIImage = UIImage(named: "circle-fading-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `circleGauge`: UIImage = UIImage(named: "circle-gauge", in: Bundle.module, compatibleWith: nil)!
@@ -1300,6 +1300,7 @@ extension Lucide {
   public static let `scale`: UIImage = UIImage(named: "scale", in: Bundle.module, compatibleWith: nil)!
   public static let `scaling`: UIImage = UIImage(named: "scaling", in: Bundle.module, compatibleWith: nil)!
   public static let `scanBarcode`: UIImage = UIImage(named: "scan-barcode", in: Bundle.module, compatibleWith: nil)!
+  public static let `scanBox`: UIImage = UIImage(named: "scan-box", in: Bundle.module, compatibleWith: nil)!
   public static let `scanEye`: UIImage = UIImage(named: "scan-eye", in: Bundle.module, compatibleWith: nil)!
   public static let `scanFace`: UIImage = UIImage(named: "scan-face", in: Bundle.module, compatibleWith: nil)!
   public static let `scanHeart`: UIImage = UIImage(named: "scan-heart", in: Bundle.module, compatibleWith: nil)!
