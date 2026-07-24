@@ -1349,6 +1349,7 @@ extension Lucide {
   public static let `shieldCog`: NSImage = Bundle.module.image(forResource: "shield-cog")!
   public static let `shieldEllipsis`: NSImage = Bundle.module.image(forResource: "shield-ellipsis")!
   public static let `shieldHalf`: NSImage = Bundle.module.image(forResource: "shield-half")!
+  public static let `shieldKeyhole`: NSImage = Bundle.module.image(forResource: "shield-keyhole")!
   public static let `shieldMinus`: NSImage = Bundle.module.image(forResource: "shield-minus")!
   public static let `shieldOff`: NSImage = Bundle.module.image(forResource: "shield-off")!
   public static let `shieldPlus`: NSImage = Bundle.module.image(forResource: "shield-plus")!
