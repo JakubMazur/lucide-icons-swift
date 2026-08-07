@@ -883,7 +883,11 @@ extension Lucide {
   public static let `lassoSelect`: NSImage = Bundle.module.image(forResource: "lasso-select")!
   public static let `lasso`: NSImage = Bundle.module.image(forResource: "lasso")!
   public static let `laugh`: NSImage = Bundle.module.image(forResource: "laugh")!
+  public static let `layerArrowDown`: NSImage = Bundle.module.image(forResource: "layer-arrow-down")!
+  public static let `layerArrowUp`: NSImage = Bundle.module.image(forResource: "layer-arrow-up")!
   public static let `layers2`: NSImage = Bundle.module.image(forResource: "layers-2")!
+  public static let `layersArrowDown`: NSImage = Bundle.module.image(forResource: "layers-arrow-down")!
+  public static let `layersArrowUp`: NSImage = Bundle.module.image(forResource: "layers-arrow-up")!
   public static let `layersMinus`: NSImage = Bundle.module.image(forResource: "layers-minus")!
   public static let `layersPlus`: NSImage = Bundle.module.image(forResource: "layers-plus")!
   public static let `layers`: NSImage = Bundle.module.image(forResource: "layers")!

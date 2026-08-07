@@ -883,7 +883,11 @@ extension Lucide {
   public static let `lassoSelect`: UIImage = UIImage(named: "lasso-select", in: Bundle.module, compatibleWith: nil)!
   public static let `lasso`: UIImage = UIImage(named: "lasso", in: Bundle.module, compatibleWith: nil)!
   public static let `laugh`: UIImage = UIImage(named: "laugh", in: Bundle.module, compatibleWith: nil)!
+  public static let `layerArrowDown`: UIImage = UIImage(named: "layer-arrow-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `layerArrowUp`: UIImage = UIImage(named: "layer-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `layers2`: UIImage = UIImage(named: "layers-2", in: Bundle.module, compatibleWith: nil)!
+  public static let `layersArrowDown`: UIImage = UIImage(named: "layers-arrow-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `layersArrowUp`: UIImage = UIImage(named: "layers-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `layersMinus`: UIImage = UIImage(named: "layers-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `layersPlus`: UIImage = UIImage(named: "layers-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `layers`: UIImage = UIImage(named: "layers", in: Bundle.module, compatibleWith: nil)!
