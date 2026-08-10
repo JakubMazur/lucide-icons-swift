@@ -47,6 +47,7 @@ extension Lucide {
   public static let `ampersands`: NSImage = Bundle.module.image(forResource: "ampersands")!
   public static let `amphora`: NSImage = Bundle.module.image(forResource: "amphora")!
   public static let `anchor`: NSImage = Bundle.module.image(forResource: "anchor")!
+  public static let `angle`: NSImage = Bundle.module.image(forResource: "angle")!
   public static let `antenna`: NSImage = Bundle.module.image(forResource: "antenna")!
   public static let `anvil`: NSImage = Bundle.module.image(forResource: "anvil")!
   public static let `aperture`: NSImage = Bundle.module.image(forResource: "aperture")!
@@ -583,6 +584,7 @@ extension Lucide {
   public static let `eggFried`: NSImage = Bundle.module.image(forResource: "egg-fried")!
   public static let `eggOff`: NSImage = Bundle.module.image(forResource: "egg-off")!
   public static let `egg`: NSImage = Bundle.module.image(forResource: "egg")!
+  public static let `eject`: NSImage = Bundle.module.image(forResource: "eject")!
   public static let `ellipse`: NSImage = Bundle.module.image(forResource: "ellipse")!
   public static let `ellipsisVertical`: NSImage = Bundle.module.image(forResource: "ellipsis-vertical")!
   public static let `ellipsis`: NSImage = Bundle.module.image(forResource: "ellipsis")!
@@ -960,6 +962,7 @@ extension Lucide {
   public static let `lollipop`: NSImage = Bundle.module.image(forResource: "lollipop")!
   public static let `luggage`: NSImage = Bundle.module.image(forResource: "luggage")!
   public static let `magnet`: NSImage = Bundle.module.image(forResource: "magnet")!
+  public static let `mailBadge`: NSImage = Bundle.module.image(forResource: "mail-badge")!
   public static let `mailCheck`: NSImage = Bundle.module.image(forResource: "mail-check")!
   public static let `mailMinus`: NSImage = Bundle.module.image(forResource: "mail-minus")!
   public static let `mailOpen`: NSImage = Bundle.module.image(forResource: "mail-open")!

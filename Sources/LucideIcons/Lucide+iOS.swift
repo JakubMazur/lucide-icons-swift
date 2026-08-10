@@ -47,6 +47,7 @@ extension Lucide {
   public static let `ampersands`: UIImage = UIImage(named: "ampersands", in: Bundle.module, compatibleWith: nil)!
   public static let `amphora`: UIImage = UIImage(named: "amphora", in: Bundle.module, compatibleWith: nil)!
   public static let `anchor`: UIImage = UIImage(named: "anchor", in: Bundle.module, compatibleWith: nil)!
+  public static let `angle`: UIImage = UIImage(named: "angle", in: Bundle.module, compatibleWith: nil)!
   public static let `antenna`: UIImage = UIImage(named: "antenna", in: Bundle.module, compatibleWith: nil)!
   public static let `anvil`: UIImage = UIImage(named: "anvil", in: Bundle.module, compatibleWith: nil)!
   public static let `aperture`: UIImage = UIImage(named: "aperture", in: Bundle.module, compatibleWith: nil)!
@@ -583,6 +584,7 @@ extension Lucide {
   public static let `eggFried`: UIImage = UIImage(named: "egg-fried", in: Bundle.module, compatibleWith: nil)!
   public static let `eggOff`: UIImage = UIImage(named: "egg-off", in: Bundle.module, compatibleWith: nil)!
   public static let `egg`: UIImage = UIImage(named: "egg", in: Bundle.module, compatibleWith: nil)!
+  public static let `eject`: UIImage = UIImage(named: "eject", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipse`: UIImage = UIImage(named: "ellipse", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsisVertical`: UIImage = UIImage(named: "ellipsis-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsis`: UIImage = UIImage(named: "ellipsis", in: Bundle.module, compatibleWith: nil)!
@@ -960,6 +962,7 @@ extension Lucide {
   public static let `lollipop`: UIImage = UIImage(named: "lollipop", in: Bundle.module, compatibleWith: nil)!
   public static let `luggage`: UIImage = UIImage(named: "luggage", in: Bundle.module, compatibleWith: nil)!
   public static let `magnet`: UIImage = UIImage(named: "magnet", in: Bundle.module, compatibleWith: nil)!
+  public static let `mailBadge`: UIImage = UIImage(named: "mail-badge", in: Bundle.module, compatibleWith: nil)!
   public static let `mailCheck`: UIImage = UIImage(named: "mail-check", in: Bundle.module, compatibleWith: nil)!
   public static let `mailMinus`: UIImage = UIImage(named: "mail-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `mailOpen`: UIImage = UIImage(named: "mail-open", in: Bundle.module, compatibleWith: nil)!
