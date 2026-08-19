@@ -297,6 +297,7 @@ extension Lucide {
   public static let `cannabis`: NSImage = Bundle.module.image(forResource: "cannabis")!
   public static let `captionsOff`: NSImage = Bundle.module.image(forResource: "captions-off")!
   public static let `captions`: NSImage = Bundle.module.image(forResource: "captions")!
+  public static let `carBattery`: NSImage = Bundle.module.image(forResource: "car-battery")!
   public static let `carFront`: NSImage = Bundle.module.image(forResource: "car-front")!
   public static let `carTaxiFront`: NSImage = Bundle.module.image(forResource: "car-taxi-front")!
   public static let `car`: NSImage = Bundle.module.image(forResource: "car")!
@@ -1497,6 +1498,7 @@ extension Lucide {
   public static let `squareStar`: NSImage = Bundle.module.image(forResource: "square-star")!
   public static let `squareStop`: NSImage = Bundle.module.image(forResource: "square-stop")!
   public static let `squareTerminal`: NSImage = Bundle.module.image(forResource: "square-terminal")!
+  public static let `squareText`: NSImage = Bundle.module.image(forResource: "square-text")!
   public static let `squareUserRound`: NSImage = Bundle.module.image(forResource: "square-user-round")!
   public static let `squareUser`: NSImage = Bundle.module.image(forResource: "square-user")!
   public static let `squareX`: NSImage = Bundle.module.image(forResource: "square-x")!

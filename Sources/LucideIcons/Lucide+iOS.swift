@@ -297,6 +297,7 @@ extension Lucide {
   public static let `cannabis`: UIImage = UIImage(named: "cannabis", in: Bundle.module, compatibleWith: nil)!
   public static let `captionsOff`: UIImage = UIImage(named: "captions-off", in: Bundle.module, compatibleWith: nil)!
   public static let `captions`: UIImage = UIImage(named: "captions", in: Bundle.module, compatibleWith: nil)!
+  public static let `carBattery`: UIImage = UIImage(named: "car-battery", in: Bundle.module, compatibleWith: nil)!
   public static let `carFront`: UIImage = UIImage(named: "car-front", in: Bundle.module, compatibleWith: nil)!
   public static let `carTaxiFront`: UIImage = UIImage(named: "car-taxi-front", in: Bundle.module, compatibleWith: nil)!
   public static let `car`: UIImage = UIImage(named: "car", in: Bundle.module, compatibleWith: nil)!
@@ -1497,6 +1498,7 @@ extension Lucide {
   public static let `squareStar`: UIImage = UIImage(named: "square-star", in: Bundle.module, compatibleWith: nil)!
   public static let `squareStop`: UIImage = UIImage(named: "square-stop", in: Bundle.module, compatibleWith: nil)!
   public static let `squareTerminal`: UIImage = UIImage(named: "square-terminal", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareText`: UIImage = UIImage(named: "square-text", in: Bundle.module, compatibleWith: nil)!
   public static let `squareUserRound`: UIImage = UIImage(named: "square-user-round", in: Bundle.module, compatibleWith: nil)!
   public static let `squareUser`: UIImage = UIImage(named: "square-user", in: Bundle.module, compatibleWith: nil)!
   public static let `squareX`: UIImage = UIImage(named: "square-x", in: Bundle.module, compatibleWith: nil)!
