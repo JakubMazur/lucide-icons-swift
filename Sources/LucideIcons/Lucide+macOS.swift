@@ -105,6 +105,7 @@ extension Lucide {
   public static let `astroid`: NSImage = Bundle.module.image(forResource: "astroid")!
   public static let `atSign`: NSImage = Bundle.module.image(forResource: "at-sign")!
   public static let `atom`: NSImage = Bundle.module.image(forResource: "atom")!
+  public static let `audioLinesOff`: NSImage = Bundle.module.image(forResource: "audio-lines-off")!
   public static let `audioLinesX`: NSImage = Bundle.module.image(forResource: "audio-lines-x")!
   public static let `audioLines`: NSImage = Bundle.module.image(forResource: "audio-lines")!
   public static let `audioWaveform`: NSImage = Bundle.module.image(forResource: "audio-waveform")!
@@ -928,6 +929,7 @@ extension Lucide {
   public static let `listChecks`: NSImage = Bundle.module.image(forResource: "list-checks")!
   public static let `listChevronsDownUp`: NSImage = Bundle.module.image(forResource: "list-chevrons-down-up")!
   public static let `listChevronsUpDown`: NSImage = Bundle.module.image(forResource: "list-chevrons-up-down")!
+  public static let `listClock`: NSImage = Bundle.module.image(forResource: "list-clock")!
   public static let `listCollapse`: NSImage = Bundle.module.image(forResource: "list-collapse")!
   public static let `listEnd`: NSImage = Bundle.module.image(forResource: "list-end")!
   public static let `listFilterPlus`: NSImage = Bundle.module.image(forResource: "list-filter-plus")!
@@ -1042,6 +1044,7 @@ extension Lucide {
   public static let `microchip`: NSImage = Bundle.module.image(forResource: "microchip")!
   public static let `microscope`: NSImage = Bundle.module.image(forResource: "microscope")!
   public static let `microwave`: NSImage = Bundle.module.image(forResource: "microwave")!
+  public static let `midiPort`: NSImage = Bundle.module.image(forResource: "midi-port")!
   public static let `milestone`: NSImage = Bundle.module.image(forResource: "milestone")!
   public static let `milkOff`: NSImage = Bundle.module.image(forResource: "milk-off")!
   public static let `milk`: NSImage = Bundle.module.image(forResource: "milk")!
@@ -1066,6 +1069,8 @@ extension Lucide {
   public static let `monitor`: NSImage = Bundle.module.image(forResource: "monitor")!
   public static let `moonStar`: NSImage = Bundle.module.image(forResource: "moon-star")!
   public static let `moon`: NSImage = Bundle.module.image(forResource: "moon")!
+  public static let `mopSparkles`: NSImage = Bundle.module.image(forResource: "mop-sparkles")!
+  public static let `mop`: NSImage = Bundle.module.image(forResource: "mop")!
   public static let `mosque`: NSImage = Bundle.module.image(forResource: "mosque")!
   public static let `motorbike`: NSImage = Bundle.module.image(forResource: "motorbike")!
   public static let `mountainSnow`: NSImage = Bundle.module.image(forResource: "mountain-snow")!
@@ -1465,6 +1470,7 @@ extension Lucide {
   public static let `squareDashedText`: NSImage = Bundle.module.image(forResource: "square-dashed-text")!
   public static let `squareDashedTopSolid`: NSImage = Bundle.module.image(forResource: "square-dashed-top-solid")!
   public static let `squareDashed`: NSImage = Bundle.module.image(forResource: "square-dashed")!
+  public static let `squareDimensions`: NSImage = Bundle.module.image(forResource: "square-dimensions")!
   public static let `squareDivide`: NSImage = Bundle.module.image(forResource: "square-divide")!
   public static let `squareDot`: NSImage = Bundle.module.image(forResource: "square-dot")!
   public static let `squareEqual`: NSImage = Bundle.module.image(forResource: "square-equal")!
@@ -1665,6 +1671,7 @@ extension Lucide {
   public static let `unlink`: NSImage = Bundle.module.image(forResource: "unlink")!
   public static let `unplug`: NSImage = Bundle.module.image(forResource: "unplug")!
   public static let `upload`: NSImage = Bundle.module.image(forResource: "upload")!
+  public static let `usbCPort`: NSImage = Bundle.module.image(forResource: "usb-c-port")!
   public static let `usb`: NSImage = Bundle.module.image(forResource: "usb")!
   public static let `userCheck`: NSImage = Bundle.module.image(forResource: "user-check")!
   public static let `userCog`: NSImage = Bundle.module.image(forResource: "user-cog")!

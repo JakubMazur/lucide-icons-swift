@@ -105,6 +105,7 @@ extension Lucide {
   public static let `astroid`: UIImage = UIImage(named: "astroid", in: Bundle.module, compatibleWith: nil)!
   public static let `atSign`: UIImage = UIImage(named: "at-sign", in: Bundle.module, compatibleWith: nil)!
   public static let `atom`: UIImage = UIImage(named: "atom", in: Bundle.module, compatibleWith: nil)!
+  public static let `audioLinesOff`: UIImage = UIImage(named: "audio-lines-off", in: Bundle.module, compatibleWith: nil)!
   public static let `audioLinesX`: UIImage = UIImage(named: "audio-lines-x", in: Bundle.module, compatibleWith: nil)!
   public static let `audioLines`: UIImage = UIImage(named: "audio-lines", in: Bundle.module, compatibleWith: nil)!
   public static let `audioWaveform`: UIImage = UIImage(named: "audio-waveform", in: Bundle.module, compatibleWith: nil)!
@@ -928,6 +929,7 @@ extension Lucide {
   public static let `listChecks`: UIImage = UIImage(named: "list-checks", in: Bundle.module, compatibleWith: nil)!
   public static let `listChevronsDownUp`: UIImage = UIImage(named: "list-chevrons-down-up", in: Bundle.module, compatibleWith: nil)!
   public static let `listChevronsUpDown`: UIImage = UIImage(named: "list-chevrons-up-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `listClock`: UIImage = UIImage(named: "list-clock", in: Bundle.module, compatibleWith: nil)!
   public static let `listCollapse`: UIImage = UIImage(named: "list-collapse", in: Bundle.module, compatibleWith: nil)!
   public static let `listEnd`: UIImage = UIImage(named: "list-end", in: Bundle.module, compatibleWith: nil)!
   public static let `listFilterPlus`: UIImage = UIImage(named: "list-filter-plus", in: Bundle.module, compatibleWith: nil)!
@@ -1042,6 +1044,7 @@ extension Lucide {
   public static let `microchip`: UIImage = UIImage(named: "microchip", in: Bundle.module, compatibleWith: nil)!
   public static let `microscope`: UIImage = UIImage(named: "microscope", in: Bundle.module, compatibleWith: nil)!
   public static let `microwave`: UIImage = UIImage(named: "microwave", in: Bundle.module, compatibleWith: nil)!
+  public static let `midiPort`: UIImage = UIImage(named: "midi-port", in: Bundle.module, compatibleWith: nil)!
   public static let `milestone`: UIImage = UIImage(named: "milestone", in: Bundle.module, compatibleWith: nil)!
   public static let `milkOff`: UIImage = UIImage(named: "milk-off", in: Bundle.module, compatibleWith: nil)!
   public static let `milk`: UIImage = UIImage(named: "milk", in: Bundle.module, compatibleWith: nil)!
@@ -1066,6 +1069,8 @@ extension Lucide {
   public static let `monitor`: UIImage = UIImage(named: "monitor", in: Bundle.module, compatibleWith: nil)!
   public static let `moonStar`: UIImage = UIImage(named: "moon-star", in: Bundle.module, compatibleWith: nil)!
   public static let `moon`: UIImage = UIImage(named: "moon", in: Bundle.module, compatibleWith: nil)!
+  public static let `mopSparkles`: UIImage = UIImage(named: "mop-sparkles", in: Bundle.module, compatibleWith: nil)!
+  public static let `mop`: UIImage = UIImage(named: "mop", in: Bundle.module, compatibleWith: nil)!
   public static let `mosque`: UIImage = UIImage(named: "mosque", in: Bundle.module, compatibleWith: nil)!
   public static let `motorbike`: UIImage = UIImage(named: "motorbike", in: Bundle.module, compatibleWith: nil)!
   public static let `mountainSnow`: UIImage = UIImage(named: "mountain-snow", in: Bundle.module, compatibleWith: nil)!
@@ -1465,6 +1470,7 @@ extension Lucide {
   public static let `squareDashedText`: UIImage = UIImage(named: "square-dashed-text", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedTopSolid`: UIImage = UIImage(named: "square-dashed-top-solid", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashed`: UIImage = UIImage(named: "square-dashed", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareDimensions`: UIImage = UIImage(named: "square-dimensions", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDivide`: UIImage = UIImage(named: "square-divide", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDot`: UIImage = UIImage(named: "square-dot", in: Bundle.module, compatibleWith: nil)!
   public static let `squareEqual`: UIImage = UIImage(named: "square-equal", in: Bundle.module, compatibleWith: nil)!
@@ -1665,6 +1671,7 @@ extension Lucide {
   public static let `unlink`: UIImage = UIImage(named: "unlink", in: Bundle.module, compatibleWith: nil)!
   public static let `unplug`: UIImage = UIImage(named: "unplug", in: Bundle.module, compatibleWith: nil)!
   public static let `upload`: UIImage = UIImage(named: "upload", in: Bundle.module, compatibleWith: nil)!
+  public static let `usbCPort`: UIImage = UIImage(named: "usb-c-port", in: Bundle.module, compatibleWith: nil)!
   public static let `usb`: UIImage = UIImage(named: "usb", in: Bundle.module, compatibleWith: nil)!
   public static let `userCheck`: UIImage = UIImage(named: "user-check", in: Bundle.module, compatibleWith: nil)!
   public static let `userCog`: UIImage = UIImage(named: "user-cog", in: Bundle.module, compatibleWith: nil)!
