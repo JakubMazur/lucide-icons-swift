@@ -967,6 +967,7 @@ extension Lucide {
   public static let `magnet`: NSImage = Bundle.module.image(forResource: "magnet")!
   public static let `mailBadge`: NSImage = Bundle.module.image(forResource: "mail-badge")!
   public static let `mailCheck`: NSImage = Bundle.module.image(forResource: "mail-check")!
+  public static let `mailClock`: NSImage = Bundle.module.image(forResource: "mail-clock")!
   public static let `mailMinus`: NSImage = Bundle.module.image(forResource: "mail-minus")!
   public static let `mailOpen`: NSImage = Bundle.module.image(forResource: "mail-open")!
   public static let `mailPlus`: NSImage = Bundle.module.image(forResource: "mail-plus")!

@@ -967,6 +967,7 @@ extension Lucide {
   public static let `magnet`: UIImage = UIImage(named: "magnet", in: Bundle.module, compatibleWith: nil)!
   public static let `mailBadge`: UIImage = UIImage(named: "mail-badge", in: Bundle.module, compatibleWith: nil)!
   public static let `mailCheck`: UIImage = UIImage(named: "mail-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `mailClock`: UIImage = UIImage(named: "mail-clock", in: Bundle.module, compatibleWith: nil)!
   public static let `mailMinus`: UIImage = UIImage(named: "mail-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `mailOpen`: UIImage = UIImage(named: "mail-open", in: Bundle.module, compatibleWith: nil)!
   public static let `mailPlus`: UIImage = UIImage(named: "mail-plus", in: Bundle.module, compatibleWith: nil)!
