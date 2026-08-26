@@ -14,7 +14,7 @@ public extension UIImage {
 }
 #endif
 
-#if canImport(AppKit)
+#if canImport(AppKit) && !targetEnvironment(macCatalyst)
 import AppKit
 public extension NSImage {
 	public static func image(lucideId: String) -> NSImage? {
