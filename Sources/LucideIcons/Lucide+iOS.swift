@@ -740,6 +740,7 @@ extension Lucide {
   public static let `funnelPlus`: UIImage = UIImage(named: "funnel-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `funnelX`: UIImage = UIImage(named: "funnel-x", in: Bundle.module, compatibleWith: nil)!
   public static let `funnel`: UIImage = UIImage(named: "funnel", in: Bundle.module, compatibleWith: nil)!
+  public static let `galaxy`: UIImage = UIImage(named: "galaxy", in: Bundle.module, compatibleWith: nil)!
   public static let `galleryHorizontalEnd`: UIImage = UIImage(named: "gallery-horizontal-end", in: Bundle.module, compatibleWith: nil)!
   public static let `galleryHorizontal`: UIImage = UIImage(named: "gallery-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `galleryThumbnails`: UIImage = UIImage(named: "gallery-thumbnails", in: Bundle.module, compatibleWith: nil)!
@@ -1285,6 +1286,7 @@ extension Lucide {
   public static let `rewind`: UIImage = UIImage(named: "rewind", in: Bundle.module, compatibleWith: nil)!
   public static let `ribbon`: UIImage = UIImage(named: "ribbon", in: Bundle.module, compatibleWith: nil)!
   public static let `road`: UIImage = UIImage(named: "road", in: Bundle.module, compatibleWith: nil)!
+  public static let `robotArm`: UIImage = UIImage(named: "robot-arm", in: Bundle.module, compatibleWith: nil)!
   public static let `rocket`: UIImage = UIImage(named: "rocket", in: Bundle.module, compatibleWith: nil)!
   public static let `rockingChair`: UIImage = UIImage(named: "rocking-chair", in: Bundle.module, compatibleWith: nil)!
   public static let `rollerCoaster`: UIImage = UIImage(named: "roller-coaster", in: Bundle.module, compatibleWith: nil)!
@@ -1382,6 +1384,7 @@ extension Lucide {
   public static let `shieldUser`: UIImage = UIImage(named: "shield-user", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldX`: UIImage = UIImage(named: "shield-x", in: Bundle.module, compatibleWith: nil)!
   public static let `shield`: UIImage = UIImage(named: "shield", in: Bundle.module, compatibleWith: nil)!
+  public static let `shipCargo`: UIImage = UIImage(named: "ship-cargo", in: Bundle.module, compatibleWith: nil)!
   public static let `shipWheel`: UIImage = UIImage(named: "ship-wheel", in: Bundle.module, compatibleWith: nil)!
   public static let `ship`: UIImage = UIImage(named: "ship", in: Bundle.module, compatibleWith: nil)!
   public static let `shirt`: UIImage = UIImage(named: "shirt", in: Bundle.module, compatibleWith: nil)!
@@ -1629,6 +1632,7 @@ extension Lucide {
   public static let `toyBrick`: UIImage = UIImage(named: "toy-brick", in: Bundle.module, compatibleWith: nil)!
   public static let `tractor`: UIImage = UIImage(named: "tractor", in: Bundle.module, compatibleWith: nil)!
   public static let `trafficCone`: UIImage = UIImage(named: "traffic-cone", in: Bundle.module, compatibleWith: nil)!
+  public static let `trailer`: UIImage = UIImage(named: "trailer", in: Bundle.module, compatibleWith: nil)!
   public static let `trainFrontTunnel`: UIImage = UIImage(named: "train-front-tunnel", in: Bundle.module, compatibleWith: nil)!
   public static let `trainFront`: UIImage = UIImage(named: "train-front", in: Bundle.module, compatibleWith: nil)!
   public static let `trainTrack`: UIImage = UIImage(named: "train-track", in: Bundle.module, compatibleWith: nil)!

@@ -740,6 +740,7 @@ extension Lucide {
   public static let `funnelPlus`: NSImage = Bundle.module.image(forResource: "funnel-plus")!
   public static let `funnelX`: NSImage = Bundle.module.image(forResource: "funnel-x")!
   public static let `funnel`: NSImage = Bundle.module.image(forResource: "funnel")!
+  public static let `galaxy`: NSImage = Bundle.module.image(forResource: "galaxy")!
   public static let `galleryHorizontalEnd`: NSImage = Bundle.module.image(forResource: "gallery-horizontal-end")!
   public static let `galleryHorizontal`: NSImage = Bundle.module.image(forResource: "gallery-horizontal")!
   public static let `galleryThumbnails`: NSImage = Bundle.module.image(forResource: "gallery-thumbnails")!
@@ -1285,6 +1286,7 @@ extension Lucide {
   public static let `rewind`: NSImage = Bundle.module.image(forResource: "rewind")!
   public static let `ribbon`: NSImage = Bundle.module.image(forResource: "ribbon")!
   public static let `road`: NSImage = Bundle.module.image(forResource: "road")!
+  public static let `robotArm`: NSImage = Bundle.module.image(forResource: "robot-arm")!
   public static let `rocket`: NSImage = Bundle.module.image(forResource: "rocket")!
   public static let `rockingChair`: NSImage = Bundle.module.image(forResource: "rocking-chair")!
   public static let `rollerCoaster`: NSImage = Bundle.module.image(forResource: "roller-coaster")!
@@ -1382,6 +1384,7 @@ extension Lucide {
   public static let `shieldUser`: NSImage = Bundle.module.image(forResource: "shield-user")!
   public static let `shieldX`: NSImage = Bundle.module.image(forResource: "shield-x")!
   public static let `shield`: NSImage = Bundle.module.image(forResource: "shield")!
+  public static let `shipCargo`: NSImage = Bundle.module.image(forResource: "ship-cargo")!
   public static let `shipWheel`: NSImage = Bundle.module.image(forResource: "ship-wheel")!
   public static let `ship`: NSImage = Bundle.module.image(forResource: "ship")!
   public static let `shirt`: NSImage = Bundle.module.image(forResource: "shirt")!
@@ -1629,6 +1632,7 @@ extension Lucide {
   public static let `toyBrick`: NSImage = Bundle.module.image(forResource: "toy-brick")!
   public static let `tractor`: NSImage = Bundle.module.image(forResource: "tractor")!
   public static let `trafficCone`: NSImage = Bundle.module.image(forResource: "traffic-cone")!
+  public static let `trailer`: NSImage = Bundle.module.image(forResource: "trailer")!
   public static let `trainFrontTunnel`: NSImage = Bundle.module.image(forResource: "train-front-tunnel")!
   public static let `trainFront`: NSImage = Bundle.module.image(forResource: "train-front")!
   public static let `trainTrack`: NSImage = Bundle.module.image(forResource: "train-track")!
