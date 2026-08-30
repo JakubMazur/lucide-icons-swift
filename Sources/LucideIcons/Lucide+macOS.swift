@@ -514,6 +514,10 @@ extension Lucide {
   public static let `cornerUpRight`: NSImage = Bundle.module.image(forResource: "corner-up-right")!
   public static let `cpu`: NSImage = Bundle.module.image(forResource: "cpu")!
   public static let `creativeCommons`: NSImage = Bundle.module.image(forResource: "creative-commons")!
+  public static let `creditCardCheck`: NSImage = Bundle.module.image(forResource: "credit-card-check")!
+  public static let `creditCardMinus`: NSImage = Bundle.module.image(forResource: "credit-card-minus")!
+  public static let `creditCardPlus`: NSImage = Bundle.module.image(forResource: "credit-card-plus")!
+  public static let `creditCardX`: NSImage = Bundle.module.image(forResource: "credit-card-x")!
   public static let `creditCard`: NSImage = Bundle.module.image(forResource: "credit-card")!
   public static let `croissant`: NSImage = Bundle.module.image(forResource: "croissant")!
   public static let `crop`: NSImage = Bundle.module.image(forResource: "crop")!
@@ -1009,6 +1013,7 @@ extension Lucide {
   public static let `merge`: NSImage = Bundle.module.image(forResource: "merge")!
   public static let `messageCircleCheck`: NSImage = Bundle.module.image(forResource: "message-circle-check")!
   public static let `messageCircleCode`: NSImage = Bundle.module.image(forResource: "message-circle-code")!
+  public static let `messageCircleDashedCheck`: NSImage = Bundle.module.image(forResource: "message-circle-dashed-check")!
   public static let `messageCircleDashed`: NSImage = Bundle.module.image(forResource: "message-circle-dashed")!
   public static let `messageCircleHeart`: NSImage = Bundle.module.image(forResource: "message-circle-heart")!
   public static let `messageCircleMore`: NSImage = Bundle.module.image(forResource: "message-circle-more")!
@@ -1214,6 +1219,9 @@ extension Lucide {
   public static let `plane`: NSImage = Bundle.module.image(forResource: "plane")!
   public static let `playOff`: NSImage = Bundle.module.image(forResource: "play-off")!
   public static let `play`: NSImage = Bundle.module.image(forResource: "play")!
+  public static let `playingCard`: NSImage = Bundle.module.image(forResource: "playing-card")!
+  public static let `playingCardsFan`: NSImage = Bundle.module.image(forResource: "playing-cards-fan")!
+  public static let `playingCards`: NSImage = Bundle.module.image(forResource: "playing-cards")!
   public static let `plug2`: NSImage = Bundle.module.image(forResource: "plug-2")!
   public static let `plugZap`: NSImage = Bundle.module.image(forResource: "plug-zap")!
   public static let `plug`: NSImage = Bundle.module.image(forResource: "plug")!
@@ -1287,6 +1295,7 @@ extension Lucide {
   public static let `ribbon`: NSImage = Bundle.module.image(forResource: "ribbon")!
   public static let `road`: NSImage = Bundle.module.image(forResource: "road")!
   public static let `robotArm`: NSImage = Bundle.module.image(forResource: "robot-arm")!
+  public static let `robotVacuum`: NSImage = Bundle.module.image(forResource: "robot-vacuum")!
   public static let `rocket`: NSImage = Bundle.module.image(forResource: "rocket")!
   public static let `rockingChair`: NSImage = Bundle.module.image(forResource: "rocking-chair")!
   public static let `rollerCoaster`: NSImage = Bundle.module.image(forResource: "roller-coaster")!

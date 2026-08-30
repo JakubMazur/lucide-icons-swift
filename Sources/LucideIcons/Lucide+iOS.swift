@@ -514,6 +514,10 @@ extension Lucide {
   public static let `cornerUpRight`: UIImage = UIImage(named: "corner-up-right", in: Bundle.module, compatibleWith: nil)!
   public static let `cpu`: UIImage = UIImage(named: "cpu", in: Bundle.module, compatibleWith: nil)!
   public static let `creativeCommons`: UIImage = UIImage(named: "creative-commons", in: Bundle.module, compatibleWith: nil)!
+  public static let `creditCardCheck`: UIImage = UIImage(named: "credit-card-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `creditCardMinus`: UIImage = UIImage(named: "credit-card-minus", in: Bundle.module, compatibleWith: nil)!
+  public static let `creditCardPlus`: UIImage = UIImage(named: "credit-card-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `creditCardX`: UIImage = UIImage(named: "credit-card-x", in: Bundle.module, compatibleWith: nil)!
   public static let `creditCard`: UIImage = UIImage(named: "credit-card", in: Bundle.module, compatibleWith: nil)!
   public static let `croissant`: UIImage = UIImage(named: "croissant", in: Bundle.module, compatibleWith: nil)!
   public static let `crop`: UIImage = UIImage(named: "crop", in: Bundle.module, compatibleWith: nil)!
@@ -1009,6 +1013,7 @@ extension Lucide {
   public static let `merge`: UIImage = UIImage(named: "merge", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleCheck`: UIImage = UIImage(named: "message-circle-check", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleCode`: UIImage = UIImage(named: "message-circle-code", in: Bundle.module, compatibleWith: nil)!
+  public static let `messageCircleDashedCheck`: UIImage = UIImage(named: "message-circle-dashed-check", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleDashed`: UIImage = UIImage(named: "message-circle-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleHeart`: UIImage = UIImage(named: "message-circle-heart", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleMore`: UIImage = UIImage(named: "message-circle-more", in: Bundle.module, compatibleWith: nil)!
@@ -1214,6 +1219,9 @@ extension Lucide {
   public static let `plane`: UIImage = UIImage(named: "plane", in: Bundle.module, compatibleWith: nil)!
   public static let `playOff`: UIImage = UIImage(named: "play-off", in: Bundle.module, compatibleWith: nil)!
   public static let `play`: UIImage = UIImage(named: "play", in: Bundle.module, compatibleWith: nil)!
+  public static let `playingCard`: UIImage = UIImage(named: "playing-card", in: Bundle.module, compatibleWith: nil)!
+  public static let `playingCardsFan`: UIImage = UIImage(named: "playing-cards-fan", in: Bundle.module, compatibleWith: nil)!
+  public static let `playingCards`: UIImage = UIImage(named: "playing-cards", in: Bundle.module, compatibleWith: nil)!
   public static let `plug2`: UIImage = UIImage(named: "plug-2", in: Bundle.module, compatibleWith: nil)!
   public static let `plugZap`: UIImage = UIImage(named: "plug-zap", in: Bundle.module, compatibleWith: nil)!
   public static let `plug`: UIImage = UIImage(named: "plug", in: Bundle.module, compatibleWith: nil)!
@@ -1287,6 +1295,7 @@ extension Lucide {
   public static let `ribbon`: UIImage = UIImage(named: "ribbon", in: Bundle.module, compatibleWith: nil)!
   public static let `road`: UIImage = UIImage(named: "road", in: Bundle.module, compatibleWith: nil)!
   public static let `robotArm`: UIImage = UIImage(named: "robot-arm", in: Bundle.module, compatibleWith: nil)!
+  public static let `robotVacuum`: UIImage = UIImage(named: "robot-vacuum", in: Bundle.module, compatibleWith: nil)!
   public static let `rocket`: UIImage = UIImage(named: "rocket", in: Bundle.module, compatibleWith: nil)!
   public static let `rockingChair`: UIImage = UIImage(named: "rocking-chair", in: Bundle.module, compatibleWith: nil)!
   public static let `rollerCoaster`: UIImage = UIImage(named: "roller-coaster", in: Bundle.module, compatibleWith: nil)!
