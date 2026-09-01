@@ -1717,6 +1717,7 @@ extension Lucide {
   public static let `van`: NSImage = Bundle.module.image(forResource: "van")!
   public static let `variable`: NSImage = Bundle.module.image(forResource: "variable")!
   public static let `vault`: NSImage = Bundle.module.image(forResource: "vault")!
+  public static let `vectorPolygon`: NSImage = Bundle.module.image(forResource: "vector-polygon")!
   public static let `vectorSquare`: NSImage = Bundle.module.image(forResource: "vector-square")!
   public static let `vegan`: NSImage = Bundle.module.image(forResource: "vegan")!
   public static let `venetianMask`: NSImage = Bundle.module.image(forResource: "venetian-mask")!

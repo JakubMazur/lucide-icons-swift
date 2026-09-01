@@ -1717,6 +1717,7 @@ extension Lucide {
   public static let `van`: UIImage = UIImage(named: "van", in: Bundle.module, compatibleWith: nil)!
   public static let `variable`: UIImage = UIImage(named: "variable", in: Bundle.module, compatibleWith: nil)!
   public static let `vault`: UIImage = UIImage(named: "vault", in: Bundle.module, compatibleWith: nil)!
+  public static let `vectorPolygon`: UIImage = UIImage(named: "vector-polygon", in: Bundle.module, compatibleWith: nil)!
   public static let `vectorSquare`: UIImage = UIImage(named: "vector-square", in: Bundle.module, compatibleWith: nil)!
   public static let `vegan`: UIImage = UIImage(named: "vegan", in: Bundle.module, compatibleWith: nil)!
   public static let `venetianMask`: UIImage = UIImage(named: "venetian-mask", in: Bundle.module, compatibleWith: nil)!
