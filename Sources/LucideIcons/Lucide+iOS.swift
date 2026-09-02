@@ -975,6 +975,7 @@ extension Lucide {
   public static let `mailClock`: UIImage = UIImage(named: "mail-clock", in: Bundle.module, compatibleWith: nil)!
   public static let `mailMinus`: UIImage = UIImage(named: "mail-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `mailOpen`: UIImage = UIImage(named: "mail-open", in: Bundle.module, compatibleWith: nil)!
+  public static let `mailPen`: UIImage = UIImage(named: "mail-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `mailPlus`: UIImage = UIImage(named: "mail-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `mailQuestionMark`: UIImage = UIImage(named: "mail-question-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `mailSearch`: UIImage = UIImage(named: "mail-search", in: Bundle.module, compatibleWith: nil)!
@@ -1760,6 +1761,7 @@ extension Lucide {
   public static let `weight`: UIImage = UIImage(named: "weight", in: Bundle.module, compatibleWith: nil)!
   public static let `wheatOff`: UIImage = UIImage(named: "wheat-off", in: Bundle.module, compatibleWith: nil)!
   public static let `wheat`: UIImage = UIImage(named: "wheat", in: Bundle.module, compatibleWith: nil)!
+  public static let `whistle`: UIImage = UIImage(named: "whistle", in: Bundle.module, compatibleWith: nil)!
   public static let `wholeWord`: UIImage = UIImage(named: "whole-word", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiCog`: UIImage = UIImage(named: "wifi-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiHigh`: UIImage = UIImage(named: "wifi-high", in: Bundle.module, compatibleWith: nil)!

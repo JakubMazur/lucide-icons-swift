@@ -975,6 +975,7 @@ extension Lucide {
   public static let `mailClock`: NSImage = Bundle.module.image(forResource: "mail-clock")!
   public static let `mailMinus`: NSImage = Bundle.module.image(forResource: "mail-minus")!
   public static let `mailOpen`: NSImage = Bundle.module.image(forResource: "mail-open")!
+  public static let `mailPen`: NSImage = Bundle.module.image(forResource: "mail-pen")!
   public static let `mailPlus`: NSImage = Bundle.module.image(forResource: "mail-plus")!
   public static let `mailQuestionMark`: NSImage = Bundle.module.image(forResource: "mail-question-mark")!
   public static let `mailSearch`: NSImage = Bundle.module.image(forResource: "mail-search")!
@@ -1760,6 +1761,7 @@ extension Lucide {
   public static let `weight`: NSImage = Bundle.module.image(forResource: "weight")!
   public static let `wheatOff`: NSImage = Bundle.module.image(forResource: "wheat-off")!
   public static let `wheat`: NSImage = Bundle.module.image(forResource: "wheat")!
+  public static let `whistle`: NSImage = Bundle.module.image(forResource: "whistle")!
   public static let `wholeWord`: NSImage = Bundle.module.image(forResource: "whole-word")!
   public static let `wifiCog`: NSImage = Bundle.module.image(forResource: "wifi-cog")!
   public static let `wifiHigh`: NSImage = Bundle.module.image(forResource: "wifi-high")!
