@@ -244,6 +244,7 @@ extension Lucide {
   public static let `brickWallFire`: UIImage = UIImage(named: "brick-wall-fire", in: Bundle.module, compatibleWith: nil)!
   public static let `brickWallShield`: UIImage = UIImage(named: "brick-wall-shield", in: Bundle.module, compatibleWith: nil)!
   public static let `brickWall`: UIImage = UIImage(named: "brick-wall", in: Bundle.module, compatibleWith: nil)!
+  public static let `bridge`: UIImage = UIImage(named: "bridge", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcaseBusiness`: UIImage = UIImage(named: "briefcase-business", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcaseConveyorBelt`: UIImage = UIImage(named: "briefcase-conveyor-belt", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcaseMedical`: UIImage = UIImage(named: "briefcase-medical", in: Bundle.module, compatibleWith: nil)!
@@ -291,6 +292,7 @@ extension Lucide {
   public static let `calendars`: UIImage = UIImage(named: "calendars", in: Bundle.module, compatibleWith: nil)!
   public static let `cameraOff`: UIImage = UIImage(named: "camera-off", in: Bundle.module, compatibleWith: nil)!
   public static let `camera`: UIImage = UIImage(named: "camera", in: Bundle.module, compatibleWith: nil)!
+  public static let `can`: UIImage = UIImage(named: "can", in: Bundle.module, compatibleWith: nil)!
   public static let `candyCane`: UIImage = UIImage(named: "candy-cane", in: Bundle.module, compatibleWith: nil)!
   public static let `candyOff`: UIImage = UIImage(named: "candy-off", in: Bundle.module, compatibleWith: nil)!
   public static let `candy`: UIImage = UIImage(named: "candy", in: Bundle.module, compatibleWith: nil)!
@@ -924,6 +926,7 @@ extension Lucide {
   public static let `ligature`: UIImage = UIImage(named: "ligature", in: Bundle.module, compatibleWith: nil)!
   public static let `lightbulbOff`: UIImage = UIImage(named: "lightbulb-off", in: Bundle.module, compatibleWith: nil)!
   public static let `lightbulb`: UIImage = UIImage(named: "lightbulb", in: Bundle.module, compatibleWith: nil)!
+  public static let `lighthouse`: UIImage = UIImage(named: "lighthouse", in: Bundle.module, compatibleWith: nil)!
   public static let `lineDotRightHorizontal`: UIImage = UIImage(named: "line-dot-right-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `lineSquiggle`: UIImage = UIImage(named: "line-squiggle", in: Bundle.module, compatibleWith: nil)!
   public static let `lineStyle`: UIImage = UIImage(named: "line-style", in: Bundle.module, compatibleWith: nil)!
@@ -1400,10 +1403,13 @@ extension Lucide {
   public static let `shirt`: UIImage = UIImage(named: "shirt", in: Bundle.module, compatibleWith: nil)!
   public static let `shoppingBag`: UIImage = UIImage(named: "shopping-bag", in: Bundle.module, compatibleWith: nil)!
   public static let `shoppingBasket`: UIImage = UIImage(named: "shopping-basket", in: Bundle.module, compatibleWith: nil)!
+  public static let `shoppingCartMinus`: UIImage = UIImage(named: "shopping-cart-minus", in: Bundle.module, compatibleWith: nil)!
+  public static let `shoppingCartPlus`: UIImage = UIImage(named: "shopping-cart-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `shoppingCart`: UIImage = UIImage(named: "shopping-cart", in: Bundle.module, compatibleWith: nil)!
   public static let `shovel`: UIImage = UIImage(named: "shovel", in: Bundle.module, compatibleWith: nil)!
   public static let `showerHead`: UIImage = UIImage(named: "shower-head", in: Bundle.module, compatibleWith: nil)!
   public static let `shredder`: UIImage = UIImage(named: "shredder", in: Bundle.module, compatibleWith: nil)!
+  public static let `shrimpOff`: UIImage = UIImage(named: "shrimp-off", in: Bundle.module, compatibleWith: nil)!
   public static let `shrimp`: UIImage = UIImage(named: "shrimp", in: Bundle.module, compatibleWith: nil)!
   public static let `shrink`: UIImage = UIImage(named: "shrink", in: Bundle.module, compatibleWith: nil)!
   public static let `shrub`: UIImage = UIImage(named: "shrub", in: Bundle.module, compatibleWith: nil)!

@@ -244,6 +244,7 @@ extension Lucide {
   public static let `brickWallFire`: NSImage = Bundle.module.image(forResource: "brick-wall-fire")!
   public static let `brickWallShield`: NSImage = Bundle.module.image(forResource: "brick-wall-shield")!
   public static let `brickWall`: NSImage = Bundle.module.image(forResource: "brick-wall")!
+  public static let `bridge`: NSImage = Bundle.module.image(forResource: "bridge")!
   public static let `briefcaseBusiness`: NSImage = Bundle.module.image(forResource: "briefcase-business")!
   public static let `briefcaseConveyorBelt`: NSImage = Bundle.module.image(forResource: "briefcase-conveyor-belt")!
   public static let `briefcaseMedical`: NSImage = Bundle.module.image(forResource: "briefcase-medical")!
@@ -291,6 +292,7 @@ extension Lucide {
   public static let `calendars`: NSImage = Bundle.module.image(forResource: "calendars")!
   public static let `cameraOff`: NSImage = Bundle.module.image(forResource: "camera-off")!
   public static let `camera`: NSImage = Bundle.module.image(forResource: "camera")!
+  public static let `can`: NSImage = Bundle.module.image(forResource: "can")!
   public static let `candyCane`: NSImage = Bundle.module.image(forResource: "candy-cane")!
   public static let `candyOff`: NSImage = Bundle.module.image(forResource: "candy-off")!
   public static let `candy`: NSImage = Bundle.module.image(forResource: "candy")!
@@ -924,6 +926,7 @@ extension Lucide {
   public static let `ligature`: NSImage = Bundle.module.image(forResource: "ligature")!
   public static let `lightbulbOff`: NSImage = Bundle.module.image(forResource: "lightbulb-off")!
   public static let `lightbulb`: NSImage = Bundle.module.image(forResource: "lightbulb")!
+  public static let `lighthouse`: NSImage = Bundle.module.image(forResource: "lighthouse")!
   public static let `lineDotRightHorizontal`: NSImage = Bundle.module.image(forResource: "line-dot-right-horizontal")!
   public static let `lineSquiggle`: NSImage = Bundle.module.image(forResource: "line-squiggle")!
   public static let `lineStyle`: NSImage = Bundle.module.image(forResource: "line-style")!
@@ -1400,10 +1403,13 @@ extension Lucide {
   public static let `shirt`: NSImage = Bundle.module.image(forResource: "shirt")!
   public static let `shoppingBag`: NSImage = Bundle.module.image(forResource: "shopping-bag")!
   public static let `shoppingBasket`: NSImage = Bundle.module.image(forResource: "shopping-basket")!
+  public static let `shoppingCartMinus`: NSImage = Bundle.module.image(forResource: "shopping-cart-minus")!
+  public static let `shoppingCartPlus`: NSImage = Bundle.module.image(forResource: "shopping-cart-plus")!
   public static let `shoppingCart`: NSImage = Bundle.module.image(forResource: "shopping-cart")!
   public static let `shovel`: NSImage = Bundle.module.image(forResource: "shovel")!
   public static let `showerHead`: NSImage = Bundle.module.image(forResource: "shower-head")!
   public static let `shredder`: NSImage = Bundle.module.image(forResource: "shredder")!
+  public static let `shrimpOff`: NSImage = Bundle.module.image(forResource: "shrimp-off")!
   public static let `shrimp`: NSImage = Bundle.module.image(forResource: "shrimp")!
   public static let `shrink`: NSImage = Bundle.module.image(forResource: "shrink")!
   public static let `shrub`: NSImage = Bundle.module.image(forResource: "shrub")!
