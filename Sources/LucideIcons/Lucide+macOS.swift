@@ -292,6 +292,7 @@ extension Lucide {
   public static let `calendars`: NSImage = Bundle.module.image(forResource: "calendars")!
   public static let `cameraOff`: NSImage = Bundle.module.image(forResource: "camera-off")!
   public static let `camera`: NSImage = Bundle.module.image(forResource: "camera")!
+  public static let `canSoda`: NSImage = Bundle.module.image(forResource: "can-soda")!
   public static let `can`: NSImage = Bundle.module.image(forResource: "can")!
   public static let `candyCane`: NSImage = Bundle.module.image(forResource: "candy-cane")!
   public static let `candyOff`: NSImage = Bundle.module.image(forResource: "candy-off")!
@@ -519,6 +520,7 @@ extension Lucide {
   public static let `creditCardCheck`: NSImage = Bundle.module.image(forResource: "credit-card-check")!
   public static let `creditCardMinus`: NSImage = Bundle.module.image(forResource: "credit-card-minus")!
   public static let `creditCardPlus`: NSImage = Bundle.module.image(forResource: "credit-card-plus")!
+  public static let `creditCardReader`: NSImage = Bundle.module.image(forResource: "credit-card-reader")!
   public static let `creditCardX`: NSImage = Bundle.module.image(forResource: "credit-card-x")!
   public static let `creditCard`: NSImage = Bundle.module.image(forResource: "credit-card")!
   public static let `croissant`: NSImage = Bundle.module.image(forResource: "croissant")!
@@ -572,6 +574,7 @@ extension Lucide {
   public static let `doorClosedLocked`: NSImage = Bundle.module.image(forResource: "door-closed-locked")!
   public static let `doorClosed`: NSImage = Bundle.module.image(forResource: "door-closed")!
   public static let `doorOpen`: NSImage = Bundle.module.image(forResource: "door-open")!
+  public static let `doorStairwell`: NSImage = Bundle.module.image(forResource: "door-stairwell")!
   public static let `dot`: NSImage = Bundle.module.image(forResource: "dot")!
   public static let `download`: NSImage = Bundle.module.image(forResource: "download")!
   public static let `draftingCompass`: NSImage = Bundle.module.image(forResource: "drafting-compass")!
@@ -596,6 +599,7 @@ extension Lucide {
   public static let `ellipse`: NSImage = Bundle.module.image(forResource: "ellipse")!
   public static let `ellipsisVertical`: NSImage = Bundle.module.image(forResource: "ellipsis-vertical")!
   public static let `ellipsis`: NSImage = Bundle.module.image(forResource: "ellipsis")!
+  public static let `engine`: NSImage = Bundle.module.image(forResource: "engine")!
   public static let `equalApproximately`: NSImage = Bundle.module.image(forResource: "equal-approximately")!
   public static let `equalNot`: NSImage = Bundle.module.image(forResource: "equal-not")!
   public static let `equal`: NSImage = Bundle.module.image(forResource: "equal")!
@@ -759,6 +763,8 @@ extension Lucide {
   public static let `gavel`: NSImage = Bundle.module.image(forResource: "gavel")!
   public static let `gem`: NSImage = Bundle.module.image(forResource: "gem")!
   public static let `georgianLari`: NSImage = Bundle.module.image(forResource: "georgian-lari")!
+  public static let `germOff`: NSImage = Bundle.module.image(forResource: "germ-off")!
+  public static let `germ`: NSImage = Bundle.module.image(forResource: "germ")!
   public static let `ghost`: NSImage = Bundle.module.image(forResource: "ghost")!
   public static let `gift`: NSImage = Bundle.module.image(forResource: "gift")!
   public static let `gitBranchMinus`: NSImage = Bundle.module.image(forResource: "git-branch-minus")!
@@ -1494,6 +1500,7 @@ extension Lucide {
   public static let `squareDivide`: NSImage = Bundle.module.image(forResource: "square-divide")!
   public static let `squareDot`: NSImage = Bundle.module.image(forResource: "square-dot")!
   public static let `squareEqual`: NSImage = Bundle.module.image(forResource: "square-equal")!
+  public static let `squareExclamationPoint`: NSImage = Bundle.module.image(forResource: "square-exclamation-point")!
   public static let `squareFunction`: NSImage = Bundle.module.image(forResource: "square-function")!
   public static let `squareKanban`: NSImage = Bundle.module.image(forResource: "square-kanban")!
   public static let `squareLibrary`: NSImage = Bundle.module.image(forResource: "square-library")!
@@ -1654,7 +1661,6 @@ extension Lucide {
   public static let `trainTrack`: NSImage = Bundle.module.image(forResource: "train-track")!
   public static let `tramFront`: NSImage = Bundle.module.image(forResource: "tram-front")!
   public static let `transgender`: NSImage = Bundle.module.image(forResource: "transgender")!
-  public static let `trash2`: NSImage = Bundle.module.image(forResource: "trash-2")!
   public static let `trash`: NSImage = Bundle.module.image(forResource: "trash")!
   public static let `treeDeciduous`: NSImage = Bundle.module.image(forResource: "tree-deciduous")!
   public static let `treePalm`: NSImage = Bundle.module.image(forResource: "tree-palm")!
@@ -1736,6 +1742,8 @@ extension Lucide {
   public static let `video`: NSImage = Bundle.module.image(forResource: "video")!
   public static let `videotape`: NSImage = Bundle.module.image(forResource: "videotape")!
   public static let `view`: NSImage = Bundle.module.image(forResource: "view")!
+  public static let `virusOff`: NSImage = Bundle.module.image(forResource: "virus-off")!
+  public static let `virus`: NSImage = Bundle.module.image(forResource: "virus")!
   public static let `voicemail`: NSImage = Bundle.module.image(forResource: "voicemail")!
   public static let `volleyball`: NSImage = Bundle.module.image(forResource: "volleyball")!
   public static let `volume1`: NSImage = Bundle.module.image(forResource: "volume-1")!

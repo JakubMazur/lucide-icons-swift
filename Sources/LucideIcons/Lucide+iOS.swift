@@ -292,6 +292,7 @@ extension Lucide {
   public static let `calendars`: UIImage = UIImage(named: "calendars", in: Bundle.module, compatibleWith: nil)!
   public static let `cameraOff`: UIImage = UIImage(named: "camera-off", in: Bundle.module, compatibleWith: nil)!
   public static let `camera`: UIImage = UIImage(named: "camera", in: Bundle.module, compatibleWith: nil)!
+  public static let `canSoda`: UIImage = UIImage(named: "can-soda", in: Bundle.module, compatibleWith: nil)!
   public static let `can`: UIImage = UIImage(named: "can", in: Bundle.module, compatibleWith: nil)!
   public static let `candyCane`: UIImage = UIImage(named: "candy-cane", in: Bundle.module, compatibleWith: nil)!
   public static let `candyOff`: UIImage = UIImage(named: "candy-off", in: Bundle.module, compatibleWith: nil)!
@@ -519,6 +520,7 @@ extension Lucide {
   public static let `creditCardCheck`: UIImage = UIImage(named: "credit-card-check", in: Bundle.module, compatibleWith: nil)!
   public static let `creditCardMinus`: UIImage = UIImage(named: "credit-card-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `creditCardPlus`: UIImage = UIImage(named: "credit-card-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `creditCardReader`: UIImage = UIImage(named: "credit-card-reader", in: Bundle.module, compatibleWith: nil)!
   public static let `creditCardX`: UIImage = UIImage(named: "credit-card-x", in: Bundle.module, compatibleWith: nil)!
   public static let `creditCard`: UIImage = UIImage(named: "credit-card", in: Bundle.module, compatibleWith: nil)!
   public static let `croissant`: UIImage = UIImage(named: "croissant", in: Bundle.module, compatibleWith: nil)!
@@ -572,6 +574,7 @@ extension Lucide {
   public static let `doorClosedLocked`: UIImage = UIImage(named: "door-closed-locked", in: Bundle.module, compatibleWith: nil)!
   public static let `doorClosed`: UIImage = UIImage(named: "door-closed", in: Bundle.module, compatibleWith: nil)!
   public static let `doorOpen`: UIImage = UIImage(named: "door-open", in: Bundle.module, compatibleWith: nil)!
+  public static let `doorStairwell`: UIImage = UIImage(named: "door-stairwell", in: Bundle.module, compatibleWith: nil)!
   public static let `dot`: UIImage = UIImage(named: "dot", in: Bundle.module, compatibleWith: nil)!
   public static let `download`: UIImage = UIImage(named: "download", in: Bundle.module, compatibleWith: nil)!
   public static let `draftingCompass`: UIImage = UIImage(named: "drafting-compass", in: Bundle.module, compatibleWith: nil)!
@@ -596,6 +599,7 @@ extension Lucide {
   public static let `ellipse`: UIImage = UIImage(named: "ellipse", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsisVertical`: UIImage = UIImage(named: "ellipsis-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsis`: UIImage = UIImage(named: "ellipsis", in: Bundle.module, compatibleWith: nil)!
+  public static let `engine`: UIImage = UIImage(named: "engine", in: Bundle.module, compatibleWith: nil)!
   public static let `equalApproximately`: UIImage = UIImage(named: "equal-approximately", in: Bundle.module, compatibleWith: nil)!
   public static let `equalNot`: UIImage = UIImage(named: "equal-not", in: Bundle.module, compatibleWith: nil)!
   public static let `equal`: UIImage = UIImage(named: "equal", in: Bundle.module, compatibleWith: nil)!
@@ -759,6 +763,8 @@ extension Lucide {
   public static let `gavel`: UIImage = UIImage(named: "gavel", in: Bundle.module, compatibleWith: nil)!
   public static let `gem`: UIImage = UIImage(named: "gem", in: Bundle.module, compatibleWith: nil)!
   public static let `georgianLari`: UIImage = UIImage(named: "georgian-lari", in: Bundle.module, compatibleWith: nil)!
+  public static let `germOff`: UIImage = UIImage(named: "germ-off", in: Bundle.module, compatibleWith: nil)!
+  public static let `germ`: UIImage = UIImage(named: "germ", in: Bundle.module, compatibleWith: nil)!
   public static let `ghost`: UIImage = UIImage(named: "ghost", in: Bundle.module, compatibleWith: nil)!
   public static let `gift`: UIImage = UIImage(named: "gift", in: Bundle.module, compatibleWith: nil)!
   public static let `gitBranchMinus`: UIImage = UIImage(named: "git-branch-minus", in: Bundle.module, compatibleWith: nil)!
@@ -1494,6 +1500,7 @@ extension Lucide {
   public static let `squareDivide`: UIImage = UIImage(named: "square-divide", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDot`: UIImage = UIImage(named: "square-dot", in: Bundle.module, compatibleWith: nil)!
   public static let `squareEqual`: UIImage = UIImage(named: "square-equal", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareExclamationPoint`: UIImage = UIImage(named: "square-exclamation-point", in: Bundle.module, compatibleWith: nil)!
   public static let `squareFunction`: UIImage = UIImage(named: "square-function", in: Bundle.module, compatibleWith: nil)!
   public static let `squareKanban`: UIImage = UIImage(named: "square-kanban", in: Bundle.module, compatibleWith: nil)!
   public static let `squareLibrary`: UIImage = UIImage(named: "square-library", in: Bundle.module, compatibleWith: nil)!
@@ -1654,7 +1661,6 @@ extension Lucide {
   public static let `trainTrack`: UIImage = UIImage(named: "train-track", in: Bundle.module, compatibleWith: nil)!
   public static let `tramFront`: UIImage = UIImage(named: "tram-front", in: Bundle.module, compatibleWith: nil)!
   public static let `transgender`: UIImage = UIImage(named: "transgender", in: Bundle.module, compatibleWith: nil)!
-  public static let `trash2`: UIImage = UIImage(named: "trash-2", in: Bundle.module, compatibleWith: nil)!
   public static let `trash`: UIImage = UIImage(named: "trash", in: Bundle.module, compatibleWith: nil)!
   public static let `treeDeciduous`: UIImage = UIImage(named: "tree-deciduous", in: Bundle.module, compatibleWith: nil)!
   public static let `treePalm`: UIImage = UIImage(named: "tree-palm", in: Bundle.module, compatibleWith: nil)!
@@ -1736,6 +1742,8 @@ extension Lucide {
   public static let `video`: UIImage = UIImage(named: "video", in: Bundle.module, compatibleWith: nil)!
   public static let `videotape`: UIImage = UIImage(named: "videotape", in: Bundle.module, compatibleWith: nil)!
   public static let `view`: UIImage = UIImage(named: "view", in: Bundle.module, compatibleWith: nil)!
+  public static let `virusOff`: UIImage = UIImage(named: "virus-off", in: Bundle.module, compatibleWith: nil)!
+  public static let `virus`: UIImage = UIImage(named: "virus", in: Bundle.module, compatibleWith: nil)!
   public static let `voicemail`: UIImage = UIImage(named: "voicemail", in: Bundle.module, compatibleWith: nil)!
   public static let `volleyball`: UIImage = UIImage(named: "volleyball", in: Bundle.module, compatibleWith: nil)!
   public static let `volume1`: UIImage = UIImage(named: "volume-1", in: Bundle.module, compatibleWith: nil)!
