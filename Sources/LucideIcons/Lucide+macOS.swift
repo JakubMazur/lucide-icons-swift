@@ -384,6 +384,7 @@ extension Lucide {
   public static let `circleChevronLeft`: NSImage = Bundle.module.image(forResource: "circle-chevron-left")!
   public static let `circleChevronRight`: NSImage = Bundle.module.image(forResource: "circle-chevron-right")!
   public static let `circleChevronUp`: NSImage = Bundle.module.image(forResource: "circle-chevron-up")!
+  public static let `circleDashedCheck`: NSImage = Bundle.module.image(forResource: "circle-dashed-check")!
   public static let `circleDashed`: NSImage = Bundle.module.image(forResource: "circle-dashed")!
   public static let `circleDivide`: NSImage = Bundle.module.image(forResource: "circle-divide")!
   public static let `circleDollarSign`: NSImage = Bundle.module.image(forResource: "circle-dollar-sign")!
@@ -570,6 +571,7 @@ extension Lucide {
   public static let `dock`: NSImage = Bundle.module.image(forResource: "dock")!
   public static let `dog`: NSImage = Bundle.module.image(forResource: "dog")!
   public static let `dollarSign`: NSImage = Bundle.module.image(forResource: "dollar-sign")!
+  public static let `dome`: NSImage = Bundle.module.image(forResource: "dome")!
   public static let `donut`: NSImage = Bundle.module.image(forResource: "donut")!
   public static let `doorClosedLocked`: NSImage = Bundle.module.image(forResource: "door-closed-locked")!
   public static let `doorClosed`: NSImage = Bundle.module.image(forResource: "door-closed")!
@@ -600,6 +602,7 @@ extension Lucide {
   public static let `ellipsisVertical`: NSImage = Bundle.module.image(forResource: "ellipsis-vertical")!
   public static let `ellipsis`: NSImage = Bundle.module.image(forResource: "ellipsis")!
   public static let `engine`: NSImage = Bundle.module.image(forResource: "engine")!
+  public static let `equalApproximatelyNot`: NSImage = Bundle.module.image(forResource: "equal-approximately-not")!
   public static let `equalApproximately`: NSImage = Bundle.module.image(forResource: "equal-approximately")!
   public static let `equalNot`: NSImage = Bundle.module.image(forResource: "equal-not")!
   public static let `equal`: NSImage = Bundle.module.image(forResource: "equal")!
@@ -759,6 +762,8 @@ extension Lucide {
   public static let `gamepad2`: NSImage = Bundle.module.image(forResource: "gamepad-2")!
   public static let `gamepadDirectional`: NSImage = Bundle.module.image(forResource: "gamepad-directional")!
   public static let `gamepad`: NSImage = Bundle.module.image(forResource: "gamepad")!
+  public static let `gapHorizontal`: NSImage = Bundle.module.image(forResource: "gap-horizontal")!
+  public static let `gapVertical`: NSImage = Bundle.module.image(forResource: "gap-vertical")!
   public static let `gauge`: NSImage = Bundle.module.image(forResource: "gauge")!
   public static let `gavel`: NSImage = Bundle.module.image(forResource: "gavel")!
   public static let `gem`: NSImage = Bundle.module.image(forResource: "gem")!
@@ -1661,6 +1666,7 @@ extension Lucide {
   public static let `trainTrack`: NSImage = Bundle.module.image(forResource: "train-track")!
   public static let `tramFront`: NSImage = Bundle.module.image(forResource: "tram-front")!
   public static let `transgender`: NSImage = Bundle.module.image(forResource: "transgender")!
+  public static let `trashOff`: NSImage = Bundle.module.image(forResource: "trash-off")!
   public static let `trash`: NSImage = Bundle.module.image(forResource: "trash")!
   public static let `treeDeciduous`: NSImage = Bundle.module.image(forResource: "tree-deciduous")!
   public static let `treePalm`: NSImage = Bundle.module.image(forResource: "tree-palm")!
@@ -1702,6 +1708,7 @@ extension Lucide {
   public static let `usb`: NSImage = Bundle.module.image(forResource: "usb")!
   public static let `userCheck`: NSImage = Bundle.module.image(forResource: "user-check")!
   public static let `userCog`: NSImage = Bundle.module.image(forResource: "user-cog")!
+  public static let `userGroup`: NSImage = Bundle.module.image(forResource: "user-group")!
   public static let `userKey`: NSImage = Bundle.module.image(forResource: "user-key")!
   public static let `userLock`: NSImage = Bundle.module.image(forResource: "user-lock")!
   public static let `userMinus`: NSImage = Bundle.module.image(forResource: "user-minus")!
@@ -1710,6 +1717,7 @@ extension Lucide {
   public static let `userRoundArrowLeft`: NSImage = Bundle.module.image(forResource: "user-round-arrow-left")!
   public static let `userRoundCheck`: NSImage = Bundle.module.image(forResource: "user-round-check")!
   public static let `userRoundCog`: NSImage = Bundle.module.image(forResource: "user-round-cog")!
+  public static let `userRoundGroup`: NSImage = Bundle.module.image(forResource: "user-round-group")!
   public static let `userRoundKey`: NSImage = Bundle.module.image(forResource: "user-round-key")!
   public static let `userRoundMinus`: NSImage = Bundle.module.image(forResource: "user-round-minus")!
   public static let `userRoundPen`: NSImage = Bundle.module.image(forResource: "user-round-pen")!
