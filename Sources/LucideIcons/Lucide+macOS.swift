@@ -308,6 +308,8 @@ extension Lucide {
   public static let `caravan`: NSImage = Bundle.module.image(forResource: "caravan")!
   public static let `cardSim`: NSImage = Bundle.module.image(forResource: "card-sim")!
   public static let `carrot`: NSImage = Bundle.module.image(forResource: "carrot")!
+  public static let `cartonOff`: NSImage = Bundle.module.image(forResource: "carton-off")!
+  public static let `carton`: NSImage = Bundle.module.image(forResource: "carton")!
   public static let `caseLower`: NSImage = Bundle.module.image(forResource: "case-lower")!
   public static let `caseSensitive`: NSImage = Bundle.module.image(forResource: "case-sensitive")!
   public static let `caseUpper`: NSImage = Bundle.module.image(forResource: "case-upper")!
@@ -1633,6 +1635,7 @@ extension Lucide {
   public static let `thermometer`: NSImage = Bundle.module.image(forResource: "thermometer")!
   public static let `thumbsDown`: NSImage = Bundle.module.image(forResource: "thumbs-down")!
   public static let `thumbsUp`: NSImage = Bundle.module.image(forResource: "thumbs-up")!
+  public static let `ticTacToe`: NSImage = Bundle.module.image(forResource: "tic-tac-toe")!
   public static let `ticketCheck`: NSImage = Bundle.module.image(forResource: "ticket-check")!
   public static let `ticketMinus`: NSImage = Bundle.module.image(forResource: "ticket-minus")!
   public static let `ticketPercent`: NSImage = Bundle.module.image(forResource: "ticket-percent")!

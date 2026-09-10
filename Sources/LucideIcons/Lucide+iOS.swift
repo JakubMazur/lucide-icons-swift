@@ -308,6 +308,8 @@ extension Lucide {
   public static let `caravan`: UIImage = UIImage(named: "caravan", in: Bundle.module, compatibleWith: nil)!
   public static let `cardSim`: UIImage = UIImage(named: "card-sim", in: Bundle.module, compatibleWith: nil)!
   public static let `carrot`: UIImage = UIImage(named: "carrot", in: Bundle.module, compatibleWith: nil)!
+  public static let `cartonOff`: UIImage = UIImage(named: "carton-off", in: Bundle.module, compatibleWith: nil)!
+  public static let `carton`: UIImage = UIImage(named: "carton", in: Bundle.module, compatibleWith: nil)!
   public static let `caseLower`: UIImage = UIImage(named: "case-lower", in: Bundle.module, compatibleWith: nil)!
   public static let `caseSensitive`: UIImage = UIImage(named: "case-sensitive", in: Bundle.module, compatibleWith: nil)!
   public static let `caseUpper`: UIImage = UIImage(named: "case-upper", in: Bundle.module, compatibleWith: nil)!
@@ -1633,6 +1635,7 @@ extension Lucide {
   public static let `thermometer`: UIImage = UIImage(named: "thermometer", in: Bundle.module, compatibleWith: nil)!
   public static let `thumbsDown`: UIImage = UIImage(named: "thumbs-down", in: Bundle.module, compatibleWith: nil)!
   public static let `thumbsUp`: UIImage = UIImage(named: "thumbs-up", in: Bundle.module, compatibleWith: nil)!
+  public static let `ticTacToe`: UIImage = UIImage(named: "tic-tac-toe", in: Bundle.module, compatibleWith: nil)!
   public static let `ticketCheck`: UIImage = UIImage(named: "ticket-check", in: Bundle.module, compatibleWith: nil)!
   public static let `ticketMinus`: UIImage = UIImage(named: "ticket-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `ticketPercent`: UIImage = UIImage(named: "ticket-percent", in: Bundle.module, compatibleWith: nil)!
