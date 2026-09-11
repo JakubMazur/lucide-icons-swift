@@ -706,8 +706,6 @@ extension Lucide {
   public static let `flaskConicalOff`: UIImage = UIImage(named: "flask-conical-off", in: Bundle.module, compatibleWith: nil)!
   public static let `flaskConical`: UIImage = UIImage(named: "flask-conical", in: Bundle.module, compatibleWith: nil)!
   public static let `flaskRound`: UIImage = UIImage(named: "flask-round", in: Bundle.module, compatibleWith: nil)!
-  public static let `flipHorizontal2`: UIImage = UIImage(named: "flip-horizontal-2", in: Bundle.module, compatibleWith: nil)!
-  public static let `flipVertical2`: UIImage = UIImage(named: "flip-vertical-2", in: Bundle.module, compatibleWith: nil)!
   public static let `flower2`: UIImage = UIImage(named: "flower-2", in: Bundle.module, compatibleWith: nil)!
   public static let `flower`: UIImage = UIImage(named: "flower", in: Bundle.module, compatibleWith: nil)!
   public static let `focus`: UIImage = UIImage(named: "focus", in: Bundle.module, compatibleWith: nil)!
@@ -1654,6 +1652,8 @@ extension Lucide {
   public static let `toilet`: UIImage = UIImage(named: "toilet", in: Bundle.module, compatibleWith: nil)!
   public static let `toolCase`: UIImage = UIImage(named: "tool-case", in: Bundle.module, compatibleWith: nil)!
   public static let `toolbox`: UIImage = UIImage(named: "toolbox", in: Bundle.module, compatibleWith: nil)!
+  public static let `toothbrushSparkles`: UIImage = UIImage(named: "toothbrush-sparkles", in: Bundle.module, compatibleWith: nil)!
+  public static let `toothbrush`: UIImage = UIImage(named: "toothbrush", in: Bundle.module, compatibleWith: nil)!
   public static let `tornado`: UIImage = UIImage(named: "tornado", in: Bundle.module, compatibleWith: nil)!
   public static let `torus`: UIImage = UIImage(named: "torus", in: Bundle.module, compatibleWith: nil)!
   public static let `touchpadOff`: UIImage = UIImage(named: "touchpad-off", in: Bundle.module, compatibleWith: nil)!
@@ -1682,6 +1682,8 @@ extension Lucide {
   public static let `triangleDashed`: UIImage = UIImage(named: "triangle-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `triangleRight`: UIImage = UIImage(named: "triangle-right", in: Bundle.module, compatibleWith: nil)!
   public static let `triangle`: UIImage = UIImage(named: "triangle", in: Bundle.module, compatibleWith: nil)!
+  public static let `trianglesCenterlineDashedHorizontal`: UIImage = UIImage(named: "triangles-centerline-dashed-horizontal", in: Bundle.module, compatibleWith: nil)!
+  public static let `trianglesCenterlineDashedVertical`: UIImage = UIImage(named: "triangles-centerline-dashed-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `trophy`: UIImage = UIImage(named: "trophy", in: Bundle.module, compatibleWith: nil)!
   public static let `truckElectric`: UIImage = UIImage(named: "truck-electric", in: Bundle.module, compatibleWith: nil)!
   public static let `truck`: UIImage = UIImage(named: "truck", in: Bundle.module, compatibleWith: nil)!

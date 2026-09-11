@@ -706,8 +706,6 @@ extension Lucide {
   public static let `flaskConicalOff`: NSImage = Bundle.module.image(forResource: "flask-conical-off")!
   public static let `flaskConical`: NSImage = Bundle.module.image(forResource: "flask-conical")!
   public static let `flaskRound`: NSImage = Bundle.module.image(forResource: "flask-round")!
-  public static let `flipHorizontal2`: NSImage = Bundle.module.image(forResource: "flip-horizontal-2")!
-  public static let `flipVertical2`: NSImage = Bundle.module.image(forResource: "flip-vertical-2")!
   public static let `flower2`: NSImage = Bundle.module.image(forResource: "flower-2")!
   public static let `flower`: NSImage = Bundle.module.image(forResource: "flower")!
   public static let `focus`: NSImage = Bundle.module.image(forResource: "focus")!
@@ -1654,6 +1652,8 @@ extension Lucide {
   public static let `toilet`: NSImage = Bundle.module.image(forResource: "toilet")!
   public static let `toolCase`: NSImage = Bundle.module.image(forResource: "tool-case")!
   public static let `toolbox`: NSImage = Bundle.module.image(forResource: "toolbox")!
+  public static let `toothbrushSparkles`: NSImage = Bundle.module.image(forResource: "toothbrush-sparkles")!
+  public static let `toothbrush`: NSImage = Bundle.module.image(forResource: "toothbrush")!
   public static let `tornado`: NSImage = Bundle.module.image(forResource: "tornado")!
   public static let `torus`: NSImage = Bundle.module.image(forResource: "torus")!
   public static let `touchpadOff`: NSImage = Bundle.module.image(forResource: "touchpad-off")!
@@ -1682,6 +1682,8 @@ extension Lucide {
   public static let `triangleDashed`: NSImage = Bundle.module.image(forResource: "triangle-dashed")!
   public static let `triangleRight`: NSImage = Bundle.module.image(forResource: "triangle-right")!
   public static let `triangle`: NSImage = Bundle.module.image(forResource: "triangle")!
+  public static let `trianglesCenterlineDashedHorizontal`: NSImage = Bundle.module.image(forResource: "triangles-centerline-dashed-horizontal")!
+  public static let `trianglesCenterlineDashedVertical`: NSImage = Bundle.module.image(forResource: "triangles-centerline-dashed-vertical")!
   public static let `trophy`: NSImage = Bundle.module.image(forResource: "trophy")!
   public static let `truckElectric`: NSImage = Bundle.module.image(forResource: "truck-electric")!
   public static let `truck`: NSImage = Bundle.module.image(forResource: "truck")!
