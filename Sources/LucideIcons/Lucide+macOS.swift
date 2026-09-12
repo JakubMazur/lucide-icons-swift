@@ -19,7 +19,6 @@ extension Lucide {
   public static let `alarmClockPlus`: NSImage = Bundle.module.image(forResource: "alarm-clock-plus")!
   public static let `alarmClock`: NSImage = Bundle.module.image(forResource: "alarm-clock")!
   public static let `alarmSmoke`: NSImage = Bundle.module.image(forResource: "alarm-smoke")!
-  public static let `album`: NSImage = Bundle.module.image(forResource: "album")!
   public static let `alignCenterHorizontal`: NSImage = Bundle.module.image(forResource: "align-center-horizontal")!
   public static let `alignCenterVertical`: NSImage = Bundle.module.image(forResource: "align-center-vertical")!
   public static let `alignEndHorizontal`: NSImage = Bundle.module.image(forResource: "align-end-horizontal")!
@@ -199,6 +198,7 @@ extension Lucide {
   public static let `bookA`: NSImage = Bundle.module.image(forResource: "book-a")!
   public static let `bookAlert`: NSImage = Bundle.module.image(forResource: "book-alert")!
   public static let `bookAudio`: NSImage = Bundle.module.image(forResource: "book-audio")!
+  public static let `bookBookmark`: NSImage = Bundle.module.image(forResource: "book-bookmark")!
   public static let `bookCheck`: NSImage = Bundle.module.image(forResource: "book-check")!
   public static let `bookCopy`: NSImage = Bundle.module.image(forResource: "book-copy")!
   public static let `bookDashed`: NSImage = Bundle.module.image(forResource: "book-dashed")!
@@ -208,7 +208,6 @@ extension Lucide {
   public static let `bookImage`: NSImage = Bundle.module.image(forResource: "book-image")!
   public static let `bookKey`: NSImage = Bundle.module.image(forResource: "book-key")!
   public static let `bookLock`: NSImage = Bundle.module.image(forResource: "book-lock")!
-  public static let `bookMarked`: NSImage = Bundle.module.image(forResource: "book-marked")!
   public static let `bookMinus`: NSImage = Bundle.module.image(forResource: "book-minus")!
   public static let `bookOpenCheck`: NSImage = Bundle.module.image(forResource: "book-open-check")!
   public static let `bookOpenText`: NSImage = Bundle.module.image(forResource: "book-open-text")!
@@ -259,7 +258,8 @@ extension Lucide {
   public static let `bugOff`: NSImage = Bundle.module.image(forResource: "bug-off")!
   public static let `bugPlay`: NSImage = Bundle.module.image(forResource: "bug-play")!
   public static let `bug`: NSImage = Bundle.module.image(forResource: "bug")!
-  public static let `building2`: NSImage = Bundle.module.image(forResource: "building-2")!
+  public static let `buildingComplexPlus`: NSImage = Bundle.module.image(forResource: "building-complex-plus")!
+  public static let `buildingComplex`: NSImage = Bundle.module.image(forResource: "building-complex")!
   public static let `building`: NSImage = Bundle.module.image(forResource: "building")!
   public static let `busFront`: NSImage = Bundle.module.image(forResource: "bus-front")!
   public static let `bus`: NSImage = Bundle.module.image(forResource: "bus")!
@@ -273,6 +273,7 @@ extension Lucide {
   public static let `calendarArrowUp`: NSImage = Bundle.module.image(forResource: "calendar-arrow-up")!
   public static let `calendarCheck2`: NSImage = Bundle.module.image(forResource: "calendar-check-2")!
   public static let `calendarCheck`: NSImage = Bundle.module.image(forResource: "calendar-check")!
+  public static let `calendarChevronsRight`: NSImage = Bundle.module.image(forResource: "calendar-chevrons-right")!
   public static let `calendarClock`: NSImage = Bundle.module.image(forResource: "calendar-clock")!
   public static let `calendarCog`: NSImage = Bundle.module.image(forResource: "calendar-cog")!
   public static let `calendarDays`: NSImage = Bundle.module.image(forResource: "calendar-days")!
@@ -792,6 +793,7 @@ extension Lucide {
   public static let `glassWater`: NSImage = Bundle.module.image(forResource: "glass-water")!
   public static let `glasses`: NSImage = Bundle.module.image(forResource: "glasses")!
   public static let `globeCheck`: NSImage = Bundle.module.image(forResource: "globe-check")!
+  public static let `globeCode`: NSImage = Bundle.module.image(forResource: "globe-code")!
   public static let `globeLock`: NSImage = Bundle.module.image(forResource: "globe-lock")!
   public static let `globeOff`: NSImage = Bundle.module.image(forResource: "globe-off")!
   public static let `globeX`: NSImage = Bundle.module.image(forResource: "globe-x")!
@@ -859,12 +861,14 @@ extension Lucide {
   public static let `hop`: NSImage = Bundle.module.image(forResource: "hop")!
   public static let `hospital`: NSImage = Bundle.module.image(forResource: "hospital")!
   public static let `hotel`: NSImage = Bundle.module.image(forResource: "hotel")!
+  public static let `hourglassCog`: NSImage = Bundle.module.image(forResource: "hourglass-cog")!
   public static let `hourglass`: NSImage = Bundle.module.image(forResource: "hourglass")!
   public static let `houseHeart`: NSImage = Bundle.module.image(forResource: "house-heart")!
   public static let `housePlug`: NSImage = Bundle.module.image(forResource: "house-plug")!
   public static let `housePlus`: NSImage = Bundle.module.image(forResource: "house-plus")!
   public static let `houseWifi`: NSImage = Bundle.module.image(forResource: "house-wifi")!
   public static let `house`: NSImage = Bundle.module.image(forResource: "house")!
+  public static let `houses`: NSImage = Bundle.module.image(forResource: "houses")!
   public static let `iceCreamBowl`: NSImage = Bundle.module.image(forResource: "ice-cream-bowl")!
   public static let `iceCreamCone`: NSImage = Bundle.module.image(forResource: "ice-cream-cone")!
   public static let `idCardLanyard`: NSImage = Bundle.module.image(forResource: "id-card-lanyard")!
@@ -887,6 +891,7 @@ extension Lucide {
   public static let `italic`: NSImage = Bundle.module.image(forResource: "italic")!
   public static let `iterationCcw`: NSImage = Bundle.module.image(forResource: "iteration-ccw")!
   public static let `iterationCw`: NSImage = Bundle.module.image(forResource: "iteration-cw")!
+  public static let `ivBag`: NSImage = Bundle.module.image(forResource: "iv-bag")!
   public static let `japaneseYen`: NSImage = Bundle.module.image(forResource: "japanese-yen")!
   public static let `joystick`: NSImage = Bundle.module.image(forResource: "joystick")!
   public static let `kanban`: NSImage = Bundle.module.image(forResource: "kanban")!
@@ -919,6 +924,8 @@ extension Lucide {
   public static let `layersMinus`: NSImage = Bundle.module.image(forResource: "layers-minus")!
   public static let `layersPlus`: NSImage = Bundle.module.image(forResource: "layers-plus")!
   public static let `layers`: NSImage = Bundle.module.image(forResource: "layers")!
+  public static let `layoutArrowDown`: NSImage = Bundle.module.image(forResource: "layout-arrow-down")!
+  public static let `layoutArrowRight`: NSImage = Bundle.module.image(forResource: "layout-arrow-right")!
   public static let `layoutDashboard`: NSImage = Bundle.module.image(forResource: "layout-dashboard")!
   public static let `layoutFreeform`: NSImage = Bundle.module.image(forResource: "layout-freeform")!
   public static let `layoutGrid`: NSImage = Bundle.module.image(forResource: "layout-grid")!
@@ -1056,6 +1063,7 @@ extension Lucide {
   public static let `messageSquareWarning`: NSImage = Bundle.module.image(forResource: "message-square-warning")!
   public static let `messageSquareX`: NSImage = Bundle.module.image(forResource: "message-square-x")!
   public static let `messageSquare`: NSImage = Bundle.module.image(forResource: "message-square")!
+  public static let `messagesCircle`: NSImage = Bundle.module.image(forResource: "messages-circle")!
   public static let `messagesSquare`: NSImage = Bundle.module.image(forResource: "messages-square")!
   public static let `metronome`: NSImage = Bundle.module.image(forResource: "metronome")!
   public static let `micAudioLines`: NSImage = Bundle.module.image(forResource: "mic-audio-lines")!
@@ -1106,6 +1114,8 @@ extension Lucide {
   public static let `mousePointer`: NSImage = Bundle.module.image(forResource: "mouse-pointer")!
   public static let `mouseRight`: NSImage = Bundle.module.image(forResource: "mouse-right")!
   public static let `mouse`: NSImage = Bundle.module.image(forResource: "mouse")!
+  public static let `mouthOff`: NSImage = Bundle.module.image(forResource: "mouth-off")!
+  public static let `mouth`: NSImage = Bundle.module.image(forResource: "mouth")!
   public static let `move3d`: NSImage = Bundle.module.image(forResource: "move-3d")!
   public static let `moveDiagonal2`: NSImage = Bundle.module.image(forResource: "move-diagonal-2")!
   public static let `moveDiagonal`: NSImage = Bundle.module.image(forResource: "move-diagonal")!
@@ -1132,6 +1142,7 @@ extension Lucide {
   public static let `newspaper`: NSImage = Bundle.module.image(forResource: "newspaper")!
   public static let `nfc`: NSImage = Bundle.module.image(forResource: "nfc")!
   public static let `nonBinary`: NSImage = Bundle.module.image(forResource: "non-binary")!
+  public static let `notebookDot`: NSImage = Bundle.module.image(forResource: "notebook-dot")!
   public static let `notebookPen`: NSImage = Bundle.module.image(forResource: "notebook-pen")!
   public static let `notebookTabs`: NSImage = Bundle.module.image(forResource: "notebook-tabs")!
   public static let `notebookText`: NSImage = Bundle.module.image(forResource: "notebook-text")!
@@ -1188,6 +1199,7 @@ extension Lucide {
   public static let `paperclip`: NSImage = Bundle.module.image(forResource: "paperclip")!
   public static let `parasol`: NSImage = Bundle.module.image(forResource: "parasol")!
   public static let `parentheses`: NSImage = Bundle.module.image(forResource: "parentheses")!
+  public static let `park`: NSImage = Bundle.module.image(forResource: "park")!
   public static let `parkingMeter`: NSImage = Bundle.module.image(forResource: "parking-meter")!
   public static let `partyPopper`: NSImage = Bundle.module.image(forResource: "party-popper")!
   public static let `pause`: NSImage = Bundle.module.image(forResource: "pause")!
@@ -1232,6 +1244,7 @@ extension Lucide {
   public static let `planeLanding`: NSImage = Bundle.module.image(forResource: "plane-landing")!
   public static let `planeTakeoff`: NSImage = Bundle.module.image(forResource: "plane-takeoff")!
   public static let `plane`: NSImage = Bundle.module.image(forResource: "plane")!
+  public static let `plantPot`: NSImage = Bundle.module.image(forResource: "plant-pot")!
   public static let `playOff`: NSImage = Bundle.module.image(forResource: "play-off")!
   public static let `play`: NSImage = Bundle.module.image(forResource: "play")!
   public static let `playingCard`: NSImage = Bundle.module.image(forResource: "playing-card")!
@@ -1483,6 +1496,7 @@ extension Lucide {
   public static let `squareArrowUpRight`: NSImage = Bundle.module.image(forResource: "square-arrow-up-right")!
   public static let `squareArrowUp`: NSImage = Bundle.module.image(forResource: "square-arrow-up")!
   public static let `squareAsterisk`: NSImage = Bundle.module.image(forResource: "square-asterisk")!
+  public static let `squareBookmark`: NSImage = Bundle.module.image(forResource: "square-bookmark")!
   public static let `squareBottomDashedScissors`: NSImage = Bundle.module.image(forResource: "square-bottom-dashed-scissors")!
   public static let `squareCenterlineDashedHorizontal`: NSImage = Bundle.module.image(forResource: "square-centerline-dashed-horizontal")!
   public static let `squareCenterlineDashedVertical`: NSImage = Bundle.module.image(forResource: "square-centerline-dashed-vertical")!
