@@ -423,6 +423,9 @@ extension Lucide {
   public static let `circuitBoard`: UIImage = UIImage(named: "circuit-board", in: Bundle.module, compatibleWith: nil)!
   public static let `citrus`: UIImage = UIImage(named: "citrus", in: Bundle.module, compatibleWith: nil)!
   public static let `clapperboard`: UIImage = UIImage(named: "clapperboard", in: Bundle.module, compatibleWith: nil)!
+  public static let `clefAlto`: UIImage = UIImage(named: "clef-alto", in: Bundle.module, compatibleWith: nil)!
+  public static let `clefBass`: UIImage = UIImage(named: "clef-bass", in: Bundle.module, compatibleWith: nil)!
+  public static let `clefTreble`: UIImage = UIImage(named: "clef-treble", in: Bundle.module, compatibleWith: nil)!
   public static let `clipboardCheck`: UIImage = UIImage(named: "clipboard-check", in: Bundle.module, compatibleWith: nil)!
   public static let `clipboardClock`: UIImage = UIImage(named: "clipboard-clock", in: Bundle.module, compatibleWith: nil)!
   public static let `clipboardCopy`: UIImage = UIImage(named: "clipboard-copy", in: Bundle.module, compatibleWith: nil)!
@@ -1090,6 +1093,7 @@ extension Lucide {
   public static let `monitorDown`: UIImage = UIImage(named: "monitor-down", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorOff`: UIImage = UIImage(named: "monitor-off", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorPause`: UIImage = UIImage(named: "monitor-pause", in: Bundle.module, compatibleWith: nil)!
+  public static let `monitorPc`: UIImage = UIImage(named: "monitor-pc", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorPlay`: UIImage = UIImage(named: "monitor-play", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorSmartphone`: UIImage = UIImage(named: "monitor-smartphone", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorSpeaker`: UIImage = UIImage(named: "monitor-speaker", in: Bundle.module, compatibleWith: nil)!

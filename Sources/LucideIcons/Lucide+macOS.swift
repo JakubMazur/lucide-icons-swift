@@ -423,6 +423,9 @@ extension Lucide {
   public static let `circuitBoard`: NSImage = Bundle.module.image(forResource: "circuit-board")!
   public static let `citrus`: NSImage = Bundle.module.image(forResource: "citrus")!
   public static let `clapperboard`: NSImage = Bundle.module.image(forResource: "clapperboard")!
+  public static let `clefAlto`: NSImage = Bundle.module.image(forResource: "clef-alto")!
+  public static let `clefBass`: NSImage = Bundle.module.image(forResource: "clef-bass")!
+  public static let `clefTreble`: NSImage = Bundle.module.image(forResource: "clef-treble")!
   public static let `clipboardCheck`: NSImage = Bundle.module.image(forResource: "clipboard-check")!
   public static let `clipboardClock`: NSImage = Bundle.module.image(forResource: "clipboard-clock")!
   public static let `clipboardCopy`: NSImage = Bundle.module.image(forResource: "clipboard-copy")!
@@ -1090,6 +1093,7 @@ extension Lucide {
   public static let `monitorDown`: NSImage = Bundle.module.image(forResource: "monitor-down")!
   public static let `monitorOff`: NSImage = Bundle.module.image(forResource: "monitor-off")!
   public static let `monitorPause`: NSImage = Bundle.module.image(forResource: "monitor-pause")!
+  public static let `monitorPc`: NSImage = Bundle.module.image(forResource: "monitor-pc")!
   public static let `monitorPlay`: NSImage = Bundle.module.image(forResource: "monitor-play")!
   public static let `monitorSmartphone`: NSImage = Bundle.module.image(forResource: "monitor-smartphone")!
   public static let `monitorSpeaker`: NSImage = Bundle.module.image(forResource: "monitor-speaker")!
