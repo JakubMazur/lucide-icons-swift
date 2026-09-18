@@ -537,6 +537,7 @@ extension Lucide {
   public static let `crown`: NSImage = Bundle.module.image(forResource: "crown")!
   public static let `cuboid`: NSImage = Bundle.module.image(forResource: "cuboid")!
   public static let `cupSoda`: NSImage = Bundle.module.image(forResource: "cup-soda")!
+  public static let `cupcake`: NSImage = Bundle.module.image(forResource: "cupcake")!
   public static let `currency`: NSImage = Bundle.module.image(forResource: "currency")!
   public static let `cylinder`: NSImage = Bundle.module.image(forResource: "cylinder")!
   public static let `dam`: NSImage = Bundle.module.image(forResource: "dam")!
@@ -580,6 +581,7 @@ extension Lucide {
   public static let `dome`: NSImage = Bundle.module.image(forResource: "dome")!
   public static let `donut`: NSImage = Bundle.module.image(forResource: "donut")!
   public static let `doorClosedLocked`: NSImage = Bundle.module.image(forResource: "door-closed-locked")!
+  public static let `doorClosedPackage`: NSImage = Bundle.module.image(forResource: "door-closed-package")!
   public static let `doorClosed`: NSImage = Bundle.module.image(forResource: "door-closed")!
   public static let `doorOpen`: NSImage = Bundle.module.image(forResource: "door-open")!
   public static let `doorStairwell`: NSImage = Bundle.module.image(forResource: "door-stairwell")!
@@ -632,6 +634,7 @@ extension Lucide {
   public static let `factory`: NSImage = Bundle.module.image(forResource: "factory")!
   public static let `fan`: NSImage = Bundle.module.image(forResource: "fan")!
   public static let `fastForward`: NSImage = Bundle.module.image(forResource: "fast-forward")!
+  public static let `faucet`: NSImage = Bundle.module.image(forResource: "faucet")!
   public static let `feather`: NSImage = Bundle.module.image(forResource: "feather")!
   public static let `fence`: NSImage = Bundle.module.image(forResource: "fence")!
   public static let `ferrisWheel`: NSImage = Bundle.module.image(forResource: "ferris-wheel")!
@@ -905,6 +908,7 @@ extension Lucide {
   public static let `keyboardMusic`: NSImage = Bundle.module.image(forResource: "keyboard-music")!
   public static let `keyboardOff`: NSImage = Bundle.module.image(forResource: "keyboard-off")!
   public static let `keyboard`: NSImage = Bundle.module.image(forResource: "keyboard")!
+  public static let `lambda`: NSImage = Bundle.module.image(forResource: "lambda")!
   public static let `lampCeiling`: NSImage = Bundle.module.image(forResource: "lamp-ceiling")!
   public static let `lampDesk`: NSImage = Bundle.module.image(forResource: "lamp-desk")!
   public static let `lampFloor`: NSImage = Bundle.module.image(forResource: "lamp-floor")!
@@ -1142,6 +1146,7 @@ extension Lucide {
   public static let `navigation2`: NSImage = Bundle.module.image(forResource: "navigation-2")!
   public static let `navigationOff`: NSImage = Bundle.module.image(forResource: "navigation-off")!
   public static let `navigation`: NSImage = Bundle.module.image(forResource: "navigation")!
+  public static let `nepaliRupee`: NSImage = Bundle.module.image(forResource: "nepali-rupee")!
   public static let `network`: NSImage = Bundle.module.image(forResource: "network")!
   public static let `newspaper`: NSImage = Bundle.module.image(forResource: "newspaper")!
   public static let `nfc`: NSImage = Bundle.module.image(forResource: "nfc")!
@@ -1337,6 +1342,7 @@ extension Lucide {
   public static let `rotateCcwKey`: NSImage = Bundle.module.image(forResource: "rotate-ccw-key")!
   public static let `rotateCcwSquare`: NSImage = Bundle.module.image(forResource: "rotate-ccw-square")!
   public static let `rotateCcw`: NSImage = Bundle.module.image(forResource: "rotate-ccw")!
+  public static let `rotateCwClock`: NSImage = Bundle.module.image(forResource: "rotate-cw-clock")!
   public static let `rotateCwFadingClock`: NSImage = Bundle.module.image(forResource: "rotate-cw-fading-clock")!
   public static let `rotateCwSquare`: NSImage = Bundle.module.image(forResource: "rotate-cw-square")!
   public static let `rotateCw`: NSImage = Bundle.module.image(forResource: "rotate-cw")!
@@ -1516,8 +1522,11 @@ extension Lucide {
   public static let `squareDashedBottom`: NSImage = Bundle.module.image(forResource: "square-dashed-bottom")!
   public static let `squareDashedKanban`: NSImage = Bundle.module.image(forResource: "square-dashed-kanban")!
   public static let `squareDashedMousePointer`: NSImage = Bundle.module.image(forResource: "square-dashed-mouse-pointer")!
+  public static let `squareDashedPlus`: NSImage = Bundle.module.image(forResource: "square-dashed-plus")!
   public static let `squareDashedText`: NSImage = Bundle.module.image(forResource: "square-dashed-text")!
   public static let `squareDashedTopSolid`: NSImage = Bundle.module.image(forResource: "square-dashed-top-solid")!
+  public static let `squareDashedXCorner`: NSImage = Bundle.module.image(forResource: "square-dashed-x-corner")!
+  public static let `squareDashedX`: NSImage = Bundle.module.image(forResource: "square-dashed-x")!
   public static let `squareDashed`: NSImage = Bundle.module.image(forResource: "square-dashed")!
   public static let `squareDimensions`: NSImage = Bundle.module.image(forResource: "square-dimensions")!
   public static let `squareDivide`: NSImage = Bundle.module.image(forResource: "square-divide")!
@@ -1705,6 +1714,7 @@ extension Lucide {
   public static let `trophy`: NSImage = Bundle.module.image(forResource: "trophy")!
   public static let `truckElectric`: NSImage = Bundle.module.image(forResource: "truck-electric")!
   public static let `truck`: NSImage = Bundle.module.image(forResource: "truck")!
+  public static let `tubeLotion`: NSImage = Bundle.module.image(forResource: "tube-lotion")!
   public static let `turkishLira`: NSImage = Bundle.module.image(forResource: "turkish-lira")!
   public static let `turntable`: NSImage = Bundle.module.image(forResource: "turntable")!
   public static let `turtle`: NSImage = Bundle.module.image(forResource: "turtle")!

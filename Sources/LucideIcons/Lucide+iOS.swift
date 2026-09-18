@@ -537,6 +537,7 @@ extension Lucide {
   public static let `crown`: UIImage = UIImage(named: "crown", in: Bundle.module, compatibleWith: nil)!
   public static let `cuboid`: UIImage = UIImage(named: "cuboid", in: Bundle.module, compatibleWith: nil)!
   public static let `cupSoda`: UIImage = UIImage(named: "cup-soda", in: Bundle.module, compatibleWith: nil)!
+  public static let `cupcake`: UIImage = UIImage(named: "cupcake", in: Bundle.module, compatibleWith: nil)!
   public static let `currency`: UIImage = UIImage(named: "currency", in: Bundle.module, compatibleWith: nil)!
   public static let `cylinder`: UIImage = UIImage(named: "cylinder", in: Bundle.module, compatibleWith: nil)!
   public static let `dam`: UIImage = UIImage(named: "dam", in: Bundle.module, compatibleWith: nil)!
@@ -580,6 +581,7 @@ extension Lucide {
   public static let `dome`: UIImage = UIImage(named: "dome", in: Bundle.module, compatibleWith: nil)!
   public static let `donut`: UIImage = UIImage(named: "donut", in: Bundle.module, compatibleWith: nil)!
   public static let `doorClosedLocked`: UIImage = UIImage(named: "door-closed-locked", in: Bundle.module, compatibleWith: nil)!
+  public static let `doorClosedPackage`: UIImage = UIImage(named: "door-closed-package", in: Bundle.module, compatibleWith: nil)!
   public static let `doorClosed`: UIImage = UIImage(named: "door-closed", in: Bundle.module, compatibleWith: nil)!
   public static let `doorOpen`: UIImage = UIImage(named: "door-open", in: Bundle.module, compatibleWith: nil)!
   public static let `doorStairwell`: UIImage = UIImage(named: "door-stairwell", in: Bundle.module, compatibleWith: nil)!
@@ -632,6 +634,7 @@ extension Lucide {
   public static let `factory`: UIImage = UIImage(named: "factory", in: Bundle.module, compatibleWith: nil)!
   public static let `fan`: UIImage = UIImage(named: "fan", in: Bundle.module, compatibleWith: nil)!
   public static let `fastForward`: UIImage = UIImage(named: "fast-forward", in: Bundle.module, compatibleWith: nil)!
+  public static let `faucet`: UIImage = UIImage(named: "faucet", in: Bundle.module, compatibleWith: nil)!
   public static let `feather`: UIImage = UIImage(named: "feather", in: Bundle.module, compatibleWith: nil)!
   public static let `fence`: UIImage = UIImage(named: "fence", in: Bundle.module, compatibleWith: nil)!
   public static let `ferrisWheel`: UIImage = UIImage(named: "ferris-wheel", in: Bundle.module, compatibleWith: nil)!
@@ -905,6 +908,7 @@ extension Lucide {
   public static let `keyboardMusic`: UIImage = UIImage(named: "keyboard-music", in: Bundle.module, compatibleWith: nil)!
   public static let `keyboardOff`: UIImage = UIImage(named: "keyboard-off", in: Bundle.module, compatibleWith: nil)!
   public static let `keyboard`: UIImage = UIImage(named: "keyboard", in: Bundle.module, compatibleWith: nil)!
+  public static let `lambda`: UIImage = UIImage(named: "lambda", in: Bundle.module, compatibleWith: nil)!
   public static let `lampCeiling`: UIImage = UIImage(named: "lamp-ceiling", in: Bundle.module, compatibleWith: nil)!
   public static let `lampDesk`: UIImage = UIImage(named: "lamp-desk", in: Bundle.module, compatibleWith: nil)!
   public static let `lampFloor`: UIImage = UIImage(named: "lamp-floor", in: Bundle.module, compatibleWith: nil)!
@@ -1142,6 +1146,7 @@ extension Lucide {
   public static let `navigation2`: UIImage = UIImage(named: "navigation-2", in: Bundle.module, compatibleWith: nil)!
   public static let `navigationOff`: UIImage = UIImage(named: "navigation-off", in: Bundle.module, compatibleWith: nil)!
   public static let `navigation`: UIImage = UIImage(named: "navigation", in: Bundle.module, compatibleWith: nil)!
+  public static let `nepaliRupee`: UIImage = UIImage(named: "nepali-rupee", in: Bundle.module, compatibleWith: nil)!
   public static let `network`: UIImage = UIImage(named: "network", in: Bundle.module, compatibleWith: nil)!
   public static let `newspaper`: UIImage = UIImage(named: "newspaper", in: Bundle.module, compatibleWith: nil)!
   public static let `nfc`: UIImage = UIImage(named: "nfc", in: Bundle.module, compatibleWith: nil)!
@@ -1337,6 +1342,7 @@ extension Lucide {
   public static let `rotateCcwKey`: UIImage = UIImage(named: "rotate-ccw-key", in: Bundle.module, compatibleWith: nil)!
   public static let `rotateCcwSquare`: UIImage = UIImage(named: "rotate-ccw-square", in: Bundle.module, compatibleWith: nil)!
   public static let `rotateCcw`: UIImage = UIImage(named: "rotate-ccw", in: Bundle.module, compatibleWith: nil)!
+  public static let `rotateCwClock`: UIImage = UIImage(named: "rotate-cw-clock", in: Bundle.module, compatibleWith: nil)!
   public static let `rotateCwFadingClock`: UIImage = UIImage(named: "rotate-cw-fading-clock", in: Bundle.module, compatibleWith: nil)!
   public static let `rotateCwSquare`: UIImage = UIImage(named: "rotate-cw-square", in: Bundle.module, compatibleWith: nil)!
   public static let `rotateCw`: UIImage = UIImage(named: "rotate-cw", in: Bundle.module, compatibleWith: nil)!
@@ -1516,8 +1522,11 @@ extension Lucide {
   public static let `squareDashedBottom`: UIImage = UIImage(named: "square-dashed-bottom", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedKanban`: UIImage = UIImage(named: "square-dashed-kanban", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedMousePointer`: UIImage = UIImage(named: "square-dashed-mouse-pointer", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareDashedPlus`: UIImage = UIImage(named: "square-dashed-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedText`: UIImage = UIImage(named: "square-dashed-text", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedTopSolid`: UIImage = UIImage(named: "square-dashed-top-solid", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareDashedXCorner`: UIImage = UIImage(named: "square-dashed-x-corner", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareDashedX`: UIImage = UIImage(named: "square-dashed-x", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashed`: UIImage = UIImage(named: "square-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDimensions`: UIImage = UIImage(named: "square-dimensions", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDivide`: UIImage = UIImage(named: "square-divide", in: Bundle.module, compatibleWith: nil)!
@@ -1705,6 +1714,7 @@ extension Lucide {
   public static let `trophy`: UIImage = UIImage(named: "trophy", in: Bundle.module, compatibleWith: nil)!
   public static let `truckElectric`: UIImage = UIImage(named: "truck-electric", in: Bundle.module, compatibleWith: nil)!
   public static let `truck`: UIImage = UIImage(named: "truck", in: Bundle.module, compatibleWith: nil)!
+  public static let `tubeLotion`: UIImage = UIImage(named: "tube-lotion", in: Bundle.module, compatibleWith: nil)!
   public static let `turkishLira`: UIImage = UIImage(named: "turkish-lira", in: Bundle.module, compatibleWith: nil)!
   public static let `turntable`: UIImage = UIImage(named: "turntable", in: Bundle.module, compatibleWith: nil)!
   public static let `turtle`: UIImage = UIImage(named: "turtle", in: Bundle.module, compatibleWith: nil)!
