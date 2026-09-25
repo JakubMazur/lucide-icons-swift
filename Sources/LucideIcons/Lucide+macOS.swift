@@ -247,6 +247,7 @@ extension Lucide {
   public static let `briefcaseBusiness`: NSImage = Bundle.module.image(forResource: "briefcase-business")!
   public static let `briefcaseConveyorBelt`: NSImage = Bundle.module.image(forResource: "briefcase-conveyor-belt")!
   public static let `briefcaseMedical`: NSImage = Bundle.module.image(forResource: "briefcase-medical")!
+  public static let `briefcasePlus`: NSImage = Bundle.module.image(forResource: "briefcase-plus")!
   public static let `briefcase`: NSImage = Bundle.module.image(forResource: "briefcase")!
   public static let `bringToFront`: NSImage = Bundle.module.image(forResource: "bring-to-front")!
   public static let `broccoli`: NSImage = Bundle.module.image(forResource: "broccoli")!
@@ -869,6 +870,7 @@ extension Lucide {
   public static let `hotel`: NSImage = Bundle.module.image(forResource: "hotel")!
   public static let `hourglassCog`: NSImage = Bundle.module.image(forResource: "hourglass-cog")!
   public static let `hourglass`: NSImage = Bundle.module.image(forResource: "hourglass")!
+  public static let `houseCog`: NSImage = Bundle.module.image(forResource: "house-cog")!
   public static let `houseHeart`: NSImage = Bundle.module.image(forResource: "house-heart")!
   public static let `housePlug`: NSImage = Bundle.module.image(forResource: "house-plug")!
   public static let `housePlus`: NSImage = Bundle.module.image(forResource: "house-plus")!
@@ -952,7 +954,10 @@ extension Lucide {
   public static let `lightbulbOff`: NSImage = Bundle.module.image(forResource: "lightbulb-off")!
   public static let `lightbulb`: NSImage = Bundle.module.image(forResource: "lightbulb")!
   public static let `lighthouse`: NSImage = Bundle.module.image(forResource: "lighthouse")!
+  public static let `lineDotBottomVertical`: NSImage = Bundle.module.image(forResource: "line-dot-bottom-vertical")!
+  public static let `lineDotLeftHorizontal`: NSImage = Bundle.module.image(forResource: "line-dot-left-horizontal")!
   public static let `lineDotRightHorizontal`: NSImage = Bundle.module.image(forResource: "line-dot-right-horizontal")!
+  public static let `lineDotTopVertical`: NSImage = Bundle.module.image(forResource: "line-dot-top-vertical")!
   public static let `lineSquiggle`: NSImage = Bundle.module.image(forResource: "line-squiggle")!
   public static let `lineStyle`: NSImage = Bundle.module.image(forResource: "line-style")!
   public static let `link2Off`: NSImage = Bundle.module.image(forResource: "link-2-off")!
@@ -1556,6 +1561,7 @@ extension Lucide {
   public static let `squareScissors`: NSImage = Bundle.module.image(forResource: "square-scissors")!
   public static let `squareSigma`: NSImage = Bundle.module.image(forResource: "square-sigma")!
   public static let `squareSlash`: NSImage = Bundle.module.image(forResource: "square-slash")!
+  public static let `squareSparkles`: NSImage = Bundle.module.image(forResource: "square-sparkles")!
   public static let `squareSplitHorizontal`: NSImage = Bundle.module.image(forResource: "square-split-horizontal")!
   public static let `squareSplitVertical`: NSImage = Bundle.module.image(forResource: "square-split-vertical")!
   public static let `squareSquare`: NSImage = Bundle.module.image(forResource: "square-square")!

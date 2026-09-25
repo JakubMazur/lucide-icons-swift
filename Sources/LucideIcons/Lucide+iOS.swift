@@ -247,6 +247,7 @@ extension Lucide {
   public static let `briefcaseBusiness`: UIImage = UIImage(named: "briefcase-business", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcaseConveyorBelt`: UIImage = UIImage(named: "briefcase-conveyor-belt", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcaseMedical`: UIImage = UIImage(named: "briefcase-medical", in: Bundle.module, compatibleWith: nil)!
+  public static let `briefcasePlus`: UIImage = UIImage(named: "briefcase-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `briefcase`: UIImage = UIImage(named: "briefcase", in: Bundle.module, compatibleWith: nil)!
   public static let `bringToFront`: UIImage = UIImage(named: "bring-to-front", in: Bundle.module, compatibleWith: nil)!
   public static let `broccoli`: UIImage = UIImage(named: "broccoli", in: Bundle.module, compatibleWith: nil)!
@@ -869,6 +870,7 @@ extension Lucide {
   public static let `hotel`: UIImage = UIImage(named: "hotel", in: Bundle.module, compatibleWith: nil)!
   public static let `hourglassCog`: UIImage = UIImage(named: "hourglass-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `hourglass`: UIImage = UIImage(named: "hourglass", in: Bundle.module, compatibleWith: nil)!
+  public static let `houseCog`: UIImage = UIImage(named: "house-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `houseHeart`: UIImage = UIImage(named: "house-heart", in: Bundle.module, compatibleWith: nil)!
   public static let `housePlug`: UIImage = UIImage(named: "house-plug", in: Bundle.module, compatibleWith: nil)!
   public static let `housePlus`: UIImage = UIImage(named: "house-plus", in: Bundle.module, compatibleWith: nil)!
@@ -952,7 +954,10 @@ extension Lucide {
   public static let `lightbulbOff`: UIImage = UIImage(named: "lightbulb-off", in: Bundle.module, compatibleWith: nil)!
   public static let `lightbulb`: UIImage = UIImage(named: "lightbulb", in: Bundle.module, compatibleWith: nil)!
   public static let `lighthouse`: UIImage = UIImage(named: "lighthouse", in: Bundle.module, compatibleWith: nil)!
+  public static let `lineDotBottomVertical`: UIImage = UIImage(named: "line-dot-bottom-vertical", in: Bundle.module, compatibleWith: nil)!
+  public static let `lineDotLeftHorizontal`: UIImage = UIImage(named: "line-dot-left-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `lineDotRightHorizontal`: UIImage = UIImage(named: "line-dot-right-horizontal", in: Bundle.module, compatibleWith: nil)!
+  public static let `lineDotTopVertical`: UIImage = UIImage(named: "line-dot-top-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `lineSquiggle`: UIImage = UIImage(named: "line-squiggle", in: Bundle.module, compatibleWith: nil)!
   public static let `lineStyle`: UIImage = UIImage(named: "line-style", in: Bundle.module, compatibleWith: nil)!
   public static let `link2Off`: UIImage = UIImage(named: "link-2-off", in: Bundle.module, compatibleWith: nil)!
@@ -1556,6 +1561,7 @@ extension Lucide {
   public static let `squareScissors`: UIImage = UIImage(named: "square-scissors", in: Bundle.module, compatibleWith: nil)!
   public static let `squareSigma`: UIImage = UIImage(named: "square-sigma", in: Bundle.module, compatibleWith: nil)!
   public static let `squareSlash`: UIImage = UIImage(named: "square-slash", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareSparkles`: UIImage = UIImage(named: "square-sparkles", in: Bundle.module, compatibleWith: nil)!
   public static let `squareSplitHorizontal`: UIImage = UIImage(named: "square-split-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `squareSplitVertical`: UIImage = UIImage(named: "square-split-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `squareSquare`: UIImage = UIImage(named: "square-square", in: Bundle.module, compatibleWith: nil)!
