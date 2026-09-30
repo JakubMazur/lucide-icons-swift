@@ -136,6 +136,7 @@ extension Lucide {
   public static let `ban`: NSImage = Bundle.module.image(forResource: "ban")!
   public static let `banana`: NSImage = Bundle.module.image(forResource: "banana")!
   public static let `bandage`: NSImage = Bundle.module.image(forResource: "bandage")!
+  public static let `bangladeshiTaka`: NSImage = Bundle.module.image(forResource: "bangladeshi-taka")!
   public static let `banknoteArrowDown`: NSImage = Bundle.module.image(forResource: "banknote-arrow-down")!
   public static let `banknoteArrowUp`: NSImage = Bundle.module.image(forResource: "banknote-arrow-up")!
   public static let `banknoteCheck`: NSImage = Bundle.module.image(forResource: "banknote-check")!
@@ -947,6 +948,7 @@ extension Lucide {
   public static let `lectern`: NSImage = Bundle.module.image(forResource: "lectern")!
   public static let `lensConcave`: NSImage = Bundle.module.image(forResource: "lens-concave")!
   public static let `lensConvex`: NSImage = Bundle.module.image(forResource: "lens-convex")!
+  public static let `letters`: NSImage = Bundle.module.image(forResource: "letters")!
   public static let `libraryBig`: NSImage = Bundle.module.image(forResource: "library-big")!
   public static let `library`: NSImage = Bundle.module.image(forResource: "library")!
   public static let `lifeBuoy`: NSImage = Bundle.module.image(forResource: "life-buoy")!
@@ -1278,6 +1280,7 @@ extension Lucide {
   public static let `powerOff`: NSImage = Bundle.module.image(forResource: "power-off")!
   public static let `power`: NSImage = Bundle.module.image(forResource: "power")!
   public static let `presentation`: NSImage = Bundle.module.image(forResource: "presentation")!
+  public static let `printer3d`: NSImage = Bundle.module.image(forResource: "printer-3d")!
   public static let `printerCheck`: NSImage = Bundle.module.image(forResource: "printer-check")!
   public static let `printerX`: NSImage = Bundle.module.image(forResource: "printer-x")!
   public static let `printer`: NSImage = Bundle.module.image(forResource: "printer")!

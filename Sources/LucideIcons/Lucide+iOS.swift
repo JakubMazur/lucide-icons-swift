@@ -136,6 +136,7 @@ extension Lucide {
   public static let `ban`: UIImage = UIImage(named: "ban", in: Bundle.module, compatibleWith: nil)!
   public static let `banana`: UIImage = UIImage(named: "banana", in: Bundle.module, compatibleWith: nil)!
   public static let `bandage`: UIImage = UIImage(named: "bandage", in: Bundle.module, compatibleWith: nil)!
+  public static let `bangladeshiTaka`: UIImage = UIImage(named: "bangladeshi-taka", in: Bundle.module, compatibleWith: nil)!
   public static let `banknoteArrowDown`: UIImage = UIImage(named: "banknote-arrow-down", in: Bundle.module, compatibleWith: nil)!
   public static let `banknoteArrowUp`: UIImage = UIImage(named: "banknote-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `banknoteCheck`: UIImage = UIImage(named: "banknote-check", in: Bundle.module, compatibleWith: nil)!
@@ -947,6 +948,7 @@ extension Lucide {
   public static let `lectern`: UIImage = UIImage(named: "lectern", in: Bundle.module, compatibleWith: nil)!
   public static let `lensConcave`: UIImage = UIImage(named: "lens-concave", in: Bundle.module, compatibleWith: nil)!
   public static let `lensConvex`: UIImage = UIImage(named: "lens-convex", in: Bundle.module, compatibleWith: nil)!
+  public static let `letters`: UIImage = UIImage(named: "letters", in: Bundle.module, compatibleWith: nil)!
   public static let `libraryBig`: UIImage = UIImage(named: "library-big", in: Bundle.module, compatibleWith: nil)!
   public static let `library`: UIImage = UIImage(named: "library", in: Bundle.module, compatibleWith: nil)!
   public static let `lifeBuoy`: UIImage = UIImage(named: "life-buoy", in: Bundle.module, compatibleWith: nil)!
@@ -1278,6 +1280,7 @@ extension Lucide {
   public static let `powerOff`: UIImage = UIImage(named: "power-off", in: Bundle.module, compatibleWith: nil)!
   public static let `power`: UIImage = UIImage(named: "power", in: Bundle.module, compatibleWith: nil)!
   public static let `presentation`: UIImage = UIImage(named: "presentation", in: Bundle.module, compatibleWith: nil)!
+  public static let `printer3d`: UIImage = UIImage(named: "printer-3d", in: Bundle.module, compatibleWith: nil)!
   public static let `printerCheck`: UIImage = UIImage(named: "printer-check", in: Bundle.module, compatibleWith: nil)!
   public static let `printerX`: UIImage = UIImage(named: "printer-x", in: Bundle.module, compatibleWith: nil)!
   public static let `printer`: UIImage = UIImage(named: "printer", in: Bundle.module, compatibleWith: nil)!
