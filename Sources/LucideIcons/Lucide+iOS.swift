@@ -938,6 +938,7 @@ extension Lucide {
   public static let `layoutArrowRight`: UIImage = UIImage(named: "layout-arrow-right", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutDashboard`: UIImage = UIImage(named: "layout-dashboard", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutFreeform`: UIImage = UIImage(named: "layout-freeform", in: Bundle.module, compatibleWith: nil)!
+  public static let `layoutGridCircles`: UIImage = UIImage(named: "layout-grid-circles", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutGrid`: UIImage = UIImage(named: "layout-grid", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutList`: UIImage = UIImage(named: "layout-list", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutPanelLeft`: UIImage = UIImage(named: "layout-panel-left", in: Bundle.module, compatibleWith: nil)!

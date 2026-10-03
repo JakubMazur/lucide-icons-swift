@@ -938,6 +938,7 @@ extension Lucide {
   public static let `layoutArrowRight`: NSImage = Bundle.module.image(forResource: "layout-arrow-right")!
   public static let `layoutDashboard`: NSImage = Bundle.module.image(forResource: "layout-dashboard")!
   public static let `layoutFreeform`: NSImage = Bundle.module.image(forResource: "layout-freeform")!
+  public static let `layoutGridCircles`: NSImage = Bundle.module.image(forResource: "layout-grid-circles")!
   public static let `layoutGrid`: NSImage = Bundle.module.image(forResource: "layout-grid")!
   public static let `layoutList`: NSImage = Bundle.module.image(forResource: "layout-list")!
   public static let `layoutPanelLeft`: NSImage = Bundle.module.image(forResource: "layout-panel-left")!
