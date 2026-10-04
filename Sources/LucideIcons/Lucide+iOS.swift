@@ -57,6 +57,7 @@ extension Lucide {
   public static let `archiveX`: UIImage = UIImage(named: "archive-x", in: Bundle.module, compatibleWith: nil)!
   public static let `archive`: UIImage = UIImage(named: "archive", in: Bundle.module, compatibleWith: nil)!
   public static let `armchair`: UIImage = UIImage(named: "armchair", in: Bundle.module, compatibleWith: nil)!
+  public static let `armenianDram`: UIImage = UIImage(named: "armenian-dram", in: Bundle.module, compatibleWith: nil)!
   public static let `arrowBigDownDash`: UIImage = UIImage(named: "arrow-big-down-dash", in: Bundle.module, compatibleWith: nil)!
   public static let `arrowBigDown`: UIImage = UIImage(named: "arrow-big-down", in: Bundle.module, compatibleWith: nil)!
   public static let `arrowBigLeftDash`: UIImage = UIImage(named: "arrow-big-left-dash", in: Bundle.module, compatibleWith: nil)!
@@ -582,6 +583,7 @@ extension Lucide {
   public static let `dollarSign`: UIImage = UIImage(named: "dollar-sign", in: Bundle.module, compatibleWith: nil)!
   public static let `dome`: UIImage = UIImage(named: "dome", in: Bundle.module, compatibleWith: nil)!
   public static let `donut`: UIImage = UIImage(named: "donut", in: Bundle.module, compatibleWith: nil)!
+  public static let `doorClosedCog`: UIImage = UIImage(named: "door-closed-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `doorClosedLocked`: UIImage = UIImage(named: "door-closed-locked", in: Bundle.module, compatibleWith: nil)!
   public static let `doorClosedPackage`: UIImage = UIImage(named: "door-closed-package", in: Bundle.module, compatibleWith: nil)!
   public static let `doorClosed`: UIImage = UIImage(named: "door-closed", in: Bundle.module, compatibleWith: nil)!
@@ -905,6 +907,7 @@ extension Lucide {
   public static let `joystick`: UIImage = UIImage(named: "joystick", in: Bundle.module, compatibleWith: nil)!
   public static let `kanban`: UIImage = UIImage(named: "kanban", in: Bundle.module, compatibleWith: nil)!
   public static let `kayak`: UIImage = UIImage(named: "kayak", in: Bundle.module, compatibleWith: nil)!
+  public static let `kazakhTenge`: UIImage = UIImage(named: "kazakh-tenge", in: Bundle.module, compatibleWith: nil)!
   public static let `keyRound`: UIImage = UIImage(named: "key-round", in: Bundle.module, compatibleWith: nil)!
   public static let `keySquare`: UIImage = UIImage(named: "key-square", in: Bundle.module, compatibleWith: nil)!
   public static let `key`: UIImage = UIImage(named: "key", in: Bundle.module, compatibleWith: nil)!
@@ -1362,6 +1365,7 @@ extension Lucide {
   public static let `rows3`: UIImage = UIImage(named: "rows-3", in: Bundle.module, compatibleWith: nil)!
   public static let `rows4`: UIImage = UIImage(named: "rows-4", in: Bundle.module, compatibleWith: nil)!
   public static let `rss`: UIImage = UIImage(named: "rss", in: Bundle.module, compatibleWith: nil)!
+  public static let `rugbyBall`: UIImage = UIImage(named: "rugby-ball", in: Bundle.module, compatibleWith: nil)!
   public static let `rulerDimensionLine`: UIImage = UIImage(named: "ruler-dimension-line", in: Bundle.module, compatibleWith: nil)!
   public static let `ruler`: UIImage = UIImage(named: "ruler", in: Bundle.module, compatibleWith: nil)!
   public static let `russianRuble`: UIImage = UIImage(named: "russian-ruble", in: Bundle.module, compatibleWith: nil)!
@@ -1656,6 +1660,9 @@ extension Lucide {
   public static let `testTubes`: UIImage = UIImage(named: "test-tubes", in: Bundle.module, compatibleWith: nil)!
   public static let `textAlignCenter`: UIImage = UIImage(named: "text-align-center", in: Bundle.module, compatibleWith: nil)!
   public static let `textAlignEnd`: UIImage = UIImage(named: "text-align-end", in: Bundle.module, compatibleWith: nil)!
+  public static let `textAlignJustifyCenter`: UIImage = UIImage(named: "text-align-justify-center", in: Bundle.module, compatibleWith: nil)!
+  public static let `textAlignJustifyEnd`: UIImage = UIImage(named: "text-align-justify-end", in: Bundle.module, compatibleWith: nil)!
+  public static let `textAlignJustifyStart`: UIImage = UIImage(named: "text-align-justify-start", in: Bundle.module, compatibleWith: nil)!
   public static let `textAlignJustify`: UIImage = UIImage(named: "text-align-justify", in: Bundle.module, compatibleWith: nil)!
   public static let `textAlignStart`: UIImage = UIImage(named: "text-align-start", in: Bundle.module, compatibleWith: nil)!
   public static let `textCursorInput`: UIImage = UIImage(named: "text-cursor-input", in: Bundle.module, compatibleWith: nil)!
@@ -1837,6 +1844,7 @@ extension Lucide {
   public static let `wifiZero`: UIImage = UIImage(named: "wifi-zero", in: Bundle.module, compatibleWith: nil)!
   public static let `wifi`: UIImage = UIImage(named: "wifi", in: Bundle.module, compatibleWith: nil)!
   public static let `windArrowDown`: UIImage = UIImage(named: "wind-arrow-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `windArrowUp`: UIImage = UIImage(named: "wind-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `wind`: UIImage = UIImage(named: "wind", in: Bundle.module, compatibleWith: nil)!
   public static let `wineOff`: UIImage = UIImage(named: "wine-off", in: Bundle.module, compatibleWith: nil)!
   public static let `wine`: UIImage = UIImage(named: "wine", in: Bundle.module, compatibleWith: nil)!

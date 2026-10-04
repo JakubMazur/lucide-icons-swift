@@ -57,6 +57,7 @@ extension Lucide {
   public static let `archiveX`: NSImage = Bundle.module.image(forResource: "archive-x")!
   public static let `archive`: NSImage = Bundle.module.image(forResource: "archive")!
   public static let `armchair`: NSImage = Bundle.module.image(forResource: "armchair")!
+  public static let `armenianDram`: NSImage = Bundle.module.image(forResource: "armenian-dram")!
   public static let `arrowBigDownDash`: NSImage = Bundle.module.image(forResource: "arrow-big-down-dash")!
   public static let `arrowBigDown`: NSImage = Bundle.module.image(forResource: "arrow-big-down")!
   public static let `arrowBigLeftDash`: NSImage = Bundle.module.image(forResource: "arrow-big-left-dash")!
@@ -582,6 +583,7 @@ extension Lucide {
   public static let `dollarSign`: NSImage = Bundle.module.image(forResource: "dollar-sign")!
   public static let `dome`: NSImage = Bundle.module.image(forResource: "dome")!
   public static let `donut`: NSImage = Bundle.module.image(forResource: "donut")!
+  public static let `doorClosedCog`: NSImage = Bundle.module.image(forResource: "door-closed-cog")!
   public static let `doorClosedLocked`: NSImage = Bundle.module.image(forResource: "door-closed-locked")!
   public static let `doorClosedPackage`: NSImage = Bundle.module.image(forResource: "door-closed-package")!
   public static let `doorClosed`: NSImage = Bundle.module.image(forResource: "door-closed")!
@@ -905,6 +907,7 @@ extension Lucide {
   public static let `joystick`: NSImage = Bundle.module.image(forResource: "joystick")!
   public static let `kanban`: NSImage = Bundle.module.image(forResource: "kanban")!
   public static let `kayak`: NSImage = Bundle.module.image(forResource: "kayak")!
+  public static let `kazakhTenge`: NSImage = Bundle.module.image(forResource: "kazakh-tenge")!
   public static let `keyRound`: NSImage = Bundle.module.image(forResource: "key-round")!
   public static let `keySquare`: NSImage = Bundle.module.image(forResource: "key-square")!
   public static let `key`: NSImage = Bundle.module.image(forResource: "key")!
@@ -1362,6 +1365,7 @@ extension Lucide {
   public static let `rows3`: NSImage = Bundle.module.image(forResource: "rows-3")!
   public static let `rows4`: NSImage = Bundle.module.image(forResource: "rows-4")!
   public static let `rss`: NSImage = Bundle.module.image(forResource: "rss")!
+  public static let `rugbyBall`: NSImage = Bundle.module.image(forResource: "rugby-ball")!
   public static let `rulerDimensionLine`: NSImage = Bundle.module.image(forResource: "ruler-dimension-line")!
   public static let `ruler`: NSImage = Bundle.module.image(forResource: "ruler")!
   public static let `russianRuble`: NSImage = Bundle.module.image(forResource: "russian-ruble")!
@@ -1656,6 +1660,9 @@ extension Lucide {
   public static let `testTubes`: NSImage = Bundle.module.image(forResource: "test-tubes")!
   public static let `textAlignCenter`: NSImage = Bundle.module.image(forResource: "text-align-center")!
   public static let `textAlignEnd`: NSImage = Bundle.module.image(forResource: "text-align-end")!
+  public static let `textAlignJustifyCenter`: NSImage = Bundle.module.image(forResource: "text-align-justify-center")!
+  public static let `textAlignJustifyEnd`: NSImage = Bundle.module.image(forResource: "text-align-justify-end")!
+  public static let `textAlignJustifyStart`: NSImage = Bundle.module.image(forResource: "text-align-justify-start")!
   public static let `textAlignJustify`: NSImage = Bundle.module.image(forResource: "text-align-justify")!
   public static let `textAlignStart`: NSImage = Bundle.module.image(forResource: "text-align-start")!
   public static let `textCursorInput`: NSImage = Bundle.module.image(forResource: "text-cursor-input")!
@@ -1837,6 +1844,7 @@ extension Lucide {
   public static let `wifiZero`: NSImage = Bundle.module.image(forResource: "wifi-zero")!
   public static let `wifi`: NSImage = Bundle.module.image(forResource: "wifi")!
   public static let `windArrowDown`: NSImage = Bundle.module.image(forResource: "wind-arrow-down")!
+  public static let `windArrowUp`: NSImage = Bundle.module.image(forResource: "wind-arrow-up")!
   public static let `wind`: NSImage = Bundle.module.image(forResource: "wind")!
   public static let `wineOff`: NSImage = Bundle.module.image(forResource: "wine-off")!
   public static let `wine`: NSImage = Bundle.module.image(forResource: "wine")!
