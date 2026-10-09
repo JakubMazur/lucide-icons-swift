@@ -821,6 +821,7 @@ extension Lucide {
   public static let `gripHorizontal`: NSImage = Bundle.module.image(forResource: "grip-horizontal")!
   public static let `gripVertical`: NSImage = Bundle.module.image(forResource: "grip-vertical")!
   public static let `grip`: NSImage = Bundle.module.image(forResource: "grip")!
+  public static let `groceries`: NSImage = Bundle.module.image(forResource: "groceries")!
   public static let `group`: NSImage = Bundle.module.image(forResource: "group")!
   public static let `guitar`: NSImage = Bundle.module.image(forResource: "guitar")!
   public static let `ham`: NSImage = Bundle.module.image(forResource: "ham")!
@@ -867,6 +868,7 @@ extension Lucide {
   public static let `helicopter`: NSImage = Bundle.module.image(forResource: "helicopter")!
   public static let `hexagon`: NSImage = Bundle.module.image(forResource: "hexagon")!
   public static let `highlighter`: NSImage = Bundle.module.image(forResource: "highlighter")!
+  public static let `hikingStick`: NSImage = Bundle.module.image(forResource: "hiking-stick")!
   public static let `hopOff`: NSImage = Bundle.module.image(forResource: "hop-off")!
   public static let `hop`: NSImage = Bundle.module.image(forResource: "hop")!
   public static let `hospital`: NSImage = Bundle.module.image(forResource: "hospital")!
@@ -1399,6 +1401,7 @@ extension Lucide {
   public static let `scissorsLineDashed`: NSImage = Bundle.module.image(forResource: "scissors-line-dashed")!
   public static let `scissors`: NSImage = Bundle.module.image(forResource: "scissors")!
   public static let `scooter`: NSImage = Bundle.module.image(forResource: "scooter")!
+  public static let `scratchBlocks`: NSImage = Bundle.module.image(forResource: "scratch-blocks")!
   public static let `screenShareOff`: NSImage = Bundle.module.image(forResource: "screen-share-off")!
   public static let `screenShare`: NSImage = Bundle.module.image(forResource: "screen-share")!
   public static let `scrollText`: NSImage = Bundle.module.image(forResource: "scroll-text")!

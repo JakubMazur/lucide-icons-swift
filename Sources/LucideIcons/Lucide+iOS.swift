@@ -821,6 +821,7 @@ extension Lucide {
   public static let `gripHorizontal`: UIImage = UIImage(named: "grip-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `gripVertical`: UIImage = UIImage(named: "grip-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `grip`: UIImage = UIImage(named: "grip", in: Bundle.module, compatibleWith: nil)!
+  public static let `groceries`: UIImage = UIImage(named: "groceries", in: Bundle.module, compatibleWith: nil)!
   public static let `group`: UIImage = UIImage(named: "group", in: Bundle.module, compatibleWith: nil)!
   public static let `guitar`: UIImage = UIImage(named: "guitar", in: Bundle.module, compatibleWith: nil)!
   public static let `ham`: UIImage = UIImage(named: "ham", in: Bundle.module, compatibleWith: nil)!
@@ -867,6 +868,7 @@ extension Lucide {
   public static let `helicopter`: UIImage = UIImage(named: "helicopter", in: Bundle.module, compatibleWith: nil)!
   public static let `hexagon`: UIImage = UIImage(named: "hexagon", in: Bundle.module, compatibleWith: nil)!
   public static let `highlighter`: UIImage = UIImage(named: "highlighter", in: Bundle.module, compatibleWith: nil)!
+  public static let `hikingStick`: UIImage = UIImage(named: "hiking-stick", in: Bundle.module, compatibleWith: nil)!
   public static let `hopOff`: UIImage = UIImage(named: "hop-off", in: Bundle.module, compatibleWith: nil)!
   public static let `hop`: UIImage = UIImage(named: "hop", in: Bundle.module, compatibleWith: nil)!
   public static let `hospital`: UIImage = UIImage(named: "hospital", in: Bundle.module, compatibleWith: nil)!
@@ -1399,6 +1401,7 @@ extension Lucide {
   public static let `scissorsLineDashed`: UIImage = UIImage(named: "scissors-line-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `scissors`: UIImage = UIImage(named: "scissors", in: Bundle.module, compatibleWith: nil)!
   public static let `scooter`: UIImage = UIImage(named: "scooter", in: Bundle.module, compatibleWith: nil)!
+  public static let `scratchBlocks`: UIImage = UIImage(named: "scratch-blocks", in: Bundle.module, compatibleWith: nil)!
   public static let `screenShareOff`: UIImage = UIImage(named: "screen-share-off", in: Bundle.module, compatibleWith: nil)!
   public static let `screenShare`: UIImage = UIImage(named: "screen-share", in: Bundle.module, compatibleWith: nil)!
   public static let `scrollText`: UIImage = UIImage(named: "scroll-text", in: Bundle.module, compatibleWith: nil)!
