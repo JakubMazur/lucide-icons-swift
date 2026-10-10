@@ -954,6 +954,7 @@ extension Lucide {
   public static let `lectern`: UIImage = UIImage(named: "lectern", in: Bundle.module, compatibleWith: nil)!
   public static let `lensConcave`: UIImage = UIImage(named: "lens-concave", in: Bundle.module, compatibleWith: nil)!
   public static let `lensConvex`: UIImage = UIImage(named: "lens-convex", in: Bundle.module, compatibleWith: nil)!
+  public static let `lens`: UIImage = UIImage(named: "lens", in: Bundle.module, compatibleWith: nil)!
   public static let `letters`: UIImage = UIImage(named: "letters", in: Bundle.module, compatibleWith: nil)!
   public static let `libraryBig`: UIImage = UIImage(named: "library-big", in: Bundle.module, compatibleWith: nil)!
   public static let `library`: UIImage = UIImage(named: "library", in: Bundle.module, compatibleWith: nil)!

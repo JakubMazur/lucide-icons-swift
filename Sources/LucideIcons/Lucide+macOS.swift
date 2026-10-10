@@ -954,6 +954,7 @@ extension Lucide {
   public static let `lectern`: NSImage = Bundle.module.image(forResource: "lectern")!
   public static let `lensConcave`: NSImage = Bundle.module.image(forResource: "lens-concave")!
   public static let `lensConvex`: NSImage = Bundle.module.image(forResource: "lens-convex")!
+  public static let `lens`: NSImage = Bundle.module.image(forResource: "lens")!
   public static let `letters`: NSImage = Bundle.module.image(forResource: "letters")!
   public static let `libraryBig`: NSImage = Bundle.module.image(forResource: "library-big")!
   public static let `library`: NSImage = Bundle.module.image(forResource: "library")!
