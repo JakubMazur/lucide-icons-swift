@@ -836,6 +836,7 @@ extension Lucide {
   public static let `handPlatter`: NSImage = Bundle.module.image(forResource: "hand-platter")!
   public static let `hand`: NSImage = Bundle.module.image(forResource: "hand")!
   public static let `handbag`: NSImage = Bundle.module.image(forResource: "handbag")!
+  public static let `handleBottomRight`: NSImage = Bundle.module.image(forResource: "handle-bottom-right")!
   public static let `handshake`: NSImage = Bundle.module.image(forResource: "handshake")!
   public static let `hardDriveDownload`: NSImage = Bundle.module.image(forResource: "hard-drive-download")!
   public static let `hardDriveUpload`: NSImage = Bundle.module.image(forResource: "hard-drive-upload")!
@@ -1015,6 +1016,7 @@ extension Lucide {
   public static let `mailBadge`: NSImage = Bundle.module.image(forResource: "mail-badge")!
   public static let `mailCheck`: NSImage = Bundle.module.image(forResource: "mail-check")!
   public static let `mailClock`: NSImage = Bundle.module.image(forResource: "mail-clock")!
+  public static let `mailDot`: NSImage = Bundle.module.image(forResource: "mail-dot")!
   public static let `mailMinus`: NSImage = Bundle.module.image(forResource: "mail-minus")!
   public static let `mailOpen`: NSImage = Bundle.module.image(forResource: "mail-open")!
   public static let `mailPen`: NSImage = Bundle.module.image(forResource: "mail-pen")!
@@ -1245,6 +1247,7 @@ extension Lucide {
   public static let `phoneCall`: NSImage = Bundle.module.image(forResource: "phone-call")!
   public static let `phoneForwarded`: NSImage = Bundle.module.image(forResource: "phone-forwarded")!
   public static let `phoneIncoming`: NSImage = Bundle.module.image(forResource: "phone-incoming")!
+  public static let `phoneLog`: NSImage = Bundle.module.image(forResource: "phone-log")!
   public static let `phoneMissed`: NSImage = Bundle.module.image(forResource: "phone-missed")!
   public static let `phoneOff`: NSImage = Bundle.module.image(forResource: "phone-off")!
   public static let `phoneOutgoing`: NSImage = Bundle.module.image(forResource: "phone-outgoing")!
@@ -1405,6 +1408,7 @@ extension Lucide {
   public static let `scratchBlocks`: NSImage = Bundle.module.image(forResource: "scratch-blocks")!
   public static let `screenShareOff`: NSImage = Bundle.module.image(forResource: "screen-share-off")!
   public static let `screenShare`: NSImage = Bundle.module.image(forResource: "screen-share")!
+  public static let `screw`: NSImage = Bundle.module.image(forResource: "screw")!
   public static let `scrollText`: NSImage = Bundle.module.image(forResource: "scroll-text")!
   public static let `scroll`: NSImage = Bundle.module.image(forResource: "scroll")!
   public static let `searchAlert`: NSImage = Bundle.module.image(forResource: "search-alert")!
@@ -1439,6 +1443,7 @@ extension Lucide {
   public static let `shieldCog`: NSImage = Bundle.module.image(forResource: "shield-cog")!
   public static let `shieldEllipsis`: NSImage = Bundle.module.image(forResource: "shield-ellipsis")!
   public static let `shieldHalf`: NSImage = Bundle.module.image(forResource: "shield-half")!
+  public static let `shieldHouse`: NSImage = Bundle.module.image(forResource: "shield-house")!
   public static let `shieldKeyhole`: NSImage = Bundle.module.image(forResource: "shield-keyhole")!
   public static let `shieldLock`: NSImage = Bundle.module.image(forResource: "shield-lock")!
   public static let `shieldMinus`: NSImage = Bundle.module.image(forResource: "shield-minus")!
@@ -1777,6 +1782,7 @@ extension Lucide {
   public static let `userRoundPen`: NSImage = Bundle.module.image(forResource: "user-round-pen")!
   public static let `userRoundPlus`: NSImage = Bundle.module.image(forResource: "user-round-plus")!
   public static let `userRoundSearch`: NSImage = Bundle.module.image(forResource: "user-round-search")!
+  public static let `userRoundStar`: NSImage = Bundle.module.image(forResource: "user-round-star")!
   public static let `userRoundX`: NSImage = Bundle.module.image(forResource: "user-round-x")!
   public static let `userRound`: NSImage = Bundle.module.image(forResource: "user-round")!
   public static let `userSearch`: NSImage = Bundle.module.image(forResource: "user-search")!
@@ -1841,6 +1847,7 @@ extension Lucide {
   public static let `wholeWord`: NSImage = Bundle.module.image(forResource: "whole-word")!
   public static let `wifiCog`: NSImage = Bundle.module.image(forResource: "wifi-cog")!
   public static let `wifiHigh`: NSImage = Bundle.module.image(forResource: "wifi-high")!
+  public static let `wifiLock`: NSImage = Bundle.module.image(forResource: "wifi-lock")!
   public static let `wifiLow`: NSImage = Bundle.module.image(forResource: "wifi-low")!
   public static let `wifiOff`: NSImage = Bundle.module.image(forResource: "wifi-off")!
   public static let `wifiPen`: NSImage = Bundle.module.image(forResource: "wifi-pen")!

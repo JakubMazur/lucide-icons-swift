@@ -836,6 +836,7 @@ extension Lucide {
   public static let `handPlatter`: UIImage = UIImage(named: "hand-platter", in: Bundle.module, compatibleWith: nil)!
   public static let `hand`: UIImage = UIImage(named: "hand", in: Bundle.module, compatibleWith: nil)!
   public static let `handbag`: UIImage = UIImage(named: "handbag", in: Bundle.module, compatibleWith: nil)!
+  public static let `handleBottomRight`: UIImage = UIImage(named: "handle-bottom-right", in: Bundle.module, compatibleWith: nil)!
   public static let `handshake`: UIImage = UIImage(named: "handshake", in: Bundle.module, compatibleWith: nil)!
   public static let `hardDriveDownload`: UIImage = UIImage(named: "hard-drive-download", in: Bundle.module, compatibleWith: nil)!
   public static let `hardDriveUpload`: UIImage = UIImage(named: "hard-drive-upload", in: Bundle.module, compatibleWith: nil)!
@@ -1015,6 +1016,7 @@ extension Lucide {
   public static let `mailBadge`: UIImage = UIImage(named: "mail-badge", in: Bundle.module, compatibleWith: nil)!
   public static let `mailCheck`: UIImage = UIImage(named: "mail-check", in: Bundle.module, compatibleWith: nil)!
   public static let `mailClock`: UIImage = UIImage(named: "mail-clock", in: Bundle.module, compatibleWith: nil)!
+  public static let `mailDot`: UIImage = UIImage(named: "mail-dot", in: Bundle.module, compatibleWith: nil)!
   public static let `mailMinus`: UIImage = UIImage(named: "mail-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `mailOpen`: UIImage = UIImage(named: "mail-open", in: Bundle.module, compatibleWith: nil)!
   public static let `mailPen`: UIImage = UIImage(named: "mail-pen", in: Bundle.module, compatibleWith: nil)!
@@ -1245,6 +1247,7 @@ extension Lucide {
   public static let `phoneCall`: UIImage = UIImage(named: "phone-call", in: Bundle.module, compatibleWith: nil)!
   public static let `phoneForwarded`: UIImage = UIImage(named: "phone-forwarded", in: Bundle.module, compatibleWith: nil)!
   public static let `phoneIncoming`: UIImage = UIImage(named: "phone-incoming", in: Bundle.module, compatibleWith: nil)!
+  public static let `phoneLog`: UIImage = UIImage(named: "phone-log", in: Bundle.module, compatibleWith: nil)!
   public static let `phoneMissed`: UIImage = UIImage(named: "phone-missed", in: Bundle.module, compatibleWith: nil)!
   public static let `phoneOff`: UIImage = UIImage(named: "phone-off", in: Bundle.module, compatibleWith: nil)!
   public static let `phoneOutgoing`: UIImage = UIImage(named: "phone-outgoing", in: Bundle.module, compatibleWith: nil)!
@@ -1405,6 +1408,7 @@ extension Lucide {
   public static let `scratchBlocks`: UIImage = UIImage(named: "scratch-blocks", in: Bundle.module, compatibleWith: nil)!
   public static let `screenShareOff`: UIImage = UIImage(named: "screen-share-off", in: Bundle.module, compatibleWith: nil)!
   public static let `screenShare`: UIImage = UIImage(named: "screen-share", in: Bundle.module, compatibleWith: nil)!
+  public static let `screw`: UIImage = UIImage(named: "screw", in: Bundle.module, compatibleWith: nil)!
   public static let `scrollText`: UIImage = UIImage(named: "scroll-text", in: Bundle.module, compatibleWith: nil)!
   public static let `scroll`: UIImage = UIImage(named: "scroll", in: Bundle.module, compatibleWith: nil)!
   public static let `searchAlert`: UIImage = UIImage(named: "search-alert", in: Bundle.module, compatibleWith: nil)!
@@ -1439,6 +1443,7 @@ extension Lucide {
   public static let `shieldCog`: UIImage = UIImage(named: "shield-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldEllipsis`: UIImage = UIImage(named: "shield-ellipsis", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldHalf`: UIImage = UIImage(named: "shield-half", in: Bundle.module, compatibleWith: nil)!
+  public static let `shieldHouse`: UIImage = UIImage(named: "shield-house", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldKeyhole`: UIImage = UIImage(named: "shield-keyhole", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldLock`: UIImage = UIImage(named: "shield-lock", in: Bundle.module, compatibleWith: nil)!
   public static let `shieldMinus`: UIImage = UIImage(named: "shield-minus", in: Bundle.module, compatibleWith: nil)!
@@ -1777,6 +1782,7 @@ extension Lucide {
   public static let `userRoundPen`: UIImage = UIImage(named: "user-round-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundPlus`: UIImage = UIImage(named: "user-round-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundSearch`: UIImage = UIImage(named: "user-round-search", in: Bundle.module, compatibleWith: nil)!
+  public static let `userRoundStar`: UIImage = UIImage(named: "user-round-star", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundX`: UIImage = UIImage(named: "user-round-x", in: Bundle.module, compatibleWith: nil)!
   public static let `userRound`: UIImage = UIImage(named: "user-round", in: Bundle.module, compatibleWith: nil)!
   public static let `userSearch`: UIImage = UIImage(named: "user-search", in: Bundle.module, compatibleWith: nil)!
@@ -1841,6 +1847,7 @@ extension Lucide {
   public static let `wholeWord`: UIImage = UIImage(named: "whole-word", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiCog`: UIImage = UIImage(named: "wifi-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiHigh`: UIImage = UIImage(named: "wifi-high", in: Bundle.module, compatibleWith: nil)!
+  public static let `wifiLock`: UIImage = UIImage(named: "wifi-lock", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiLow`: UIImage = UIImage(named: "wifi-low", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiOff`: UIImage = UIImage(named: "wifi-off", in: Bundle.module, compatibleWith: nil)!
   public static let `wifiPen`: UIImage = UIImage(named: "wifi-pen", in: Bundle.module, compatibleWith: nil)!
