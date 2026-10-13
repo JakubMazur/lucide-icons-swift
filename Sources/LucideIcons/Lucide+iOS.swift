@@ -1066,6 +1066,7 @@ extension Lucide {
   public static let `messageCirclePlus`: UIImage = UIImage(named: "message-circle-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleQuestionMark`: UIImage = UIImage(named: "message-circle-question-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleReply`: UIImage = UIImage(named: "message-circle-reply", in: Bundle.module, compatibleWith: nil)!
+  public static let `messageCircleText`: UIImage = UIImage(named: "message-circle-text", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleWarning`: UIImage = UIImage(named: "message-circle-warning", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircleX`: UIImage = UIImage(named: "message-circle-x", in: Bundle.module, compatibleWith: nil)!
   public static let `messageCircle`: UIImage = UIImage(named: "message-circle", in: Bundle.module, compatibleWith: nil)!
@@ -1425,6 +1426,7 @@ extension Lucide {
   public static let `separatorVertical`: UIImage = UIImage(named: "separator-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `serverCog`: UIImage = UIImage(named: "server-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `serverCrash`: UIImage = UIImage(named: "server-crash", in: Bundle.module, compatibleWith: nil)!
+  public static let `serverNas`: UIImage = UIImage(named: "server-nas", in: Bundle.module, compatibleWith: nil)!
   public static let `serverOff`: UIImage = UIImage(named: "server-off", in: Bundle.module, compatibleWith: nil)!
   public static let `serverPlus`: UIImage = UIImage(named: "server-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `server`: UIImage = UIImage(named: "server", in: Bundle.module, compatibleWith: nil)!

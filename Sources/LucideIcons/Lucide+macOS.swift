@@ -1066,6 +1066,7 @@ extension Lucide {
   public static let `messageCirclePlus`: NSImage = Bundle.module.image(forResource: "message-circle-plus")!
   public static let `messageCircleQuestionMark`: NSImage = Bundle.module.image(forResource: "message-circle-question-mark")!
   public static let `messageCircleReply`: NSImage = Bundle.module.image(forResource: "message-circle-reply")!
+  public static let `messageCircleText`: NSImage = Bundle.module.image(forResource: "message-circle-text")!
   public static let `messageCircleWarning`: NSImage = Bundle.module.image(forResource: "message-circle-warning")!
   public static let `messageCircleX`: NSImage = Bundle.module.image(forResource: "message-circle-x")!
   public static let `messageCircle`: NSImage = Bundle.module.image(forResource: "message-circle")!
@@ -1425,6 +1426,7 @@ extension Lucide {
   public static let `separatorVertical`: NSImage = Bundle.module.image(forResource: "separator-vertical")!
   public static let `serverCog`: NSImage = Bundle.module.image(forResource: "server-cog")!
   public static let `serverCrash`: NSImage = Bundle.module.image(forResource: "server-crash")!
+  public static let `serverNas`: NSImage = Bundle.module.image(forResource: "server-nas")!
   public static let `serverOff`: NSImage = Bundle.module.image(forResource: "server-off")!
   public static let `serverPlus`: NSImage = Bundle.module.image(forResource: "server-plus")!
   public static let `server`: NSImage = Bundle.module.image(forResource: "server")!
