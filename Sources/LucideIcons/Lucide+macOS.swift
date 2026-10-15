@@ -164,6 +164,7 @@ extension Lucide {
   public static let `beef`: NSImage = Bundle.module.image(forResource: "beef")!
   public static let `beerOff`: NSImage = Bundle.module.image(forResource: "beer-off")!
   public static let `beer`: NSImage = Bundle.module.image(forResource: "beer")!
+  public static let `belarusianRuble`: NSImage = Bundle.module.image(forResource: "belarusian-ruble")!
   public static let `bellCheck`: NSImage = Bundle.module.image(forResource: "bell-check")!
   public static let `bellDot`: NSImage = Bundle.module.image(forResource: "bell-dot")!
   public static let `bellElectric`: NSImage = Bundle.module.image(forResource: "bell-electric")!
@@ -276,6 +277,7 @@ extension Lucide {
   public static let `calendarArrowUp`: NSImage = Bundle.module.image(forResource: "calendar-arrow-up")!
   public static let `calendarCheck2`: NSImage = Bundle.module.image(forResource: "calendar-check-2")!
   public static let `calendarCheck`: NSImage = Bundle.module.image(forResource: "calendar-check")!
+  public static let `calendarChevronsLeft`: NSImage = Bundle.module.image(forResource: "calendar-chevrons-left")!
   public static let `calendarChevronsRight`: NSImage = Bundle.module.image(forResource: "calendar-chevrons-right")!
   public static let `calendarClock`: NSImage = Bundle.module.image(forResource: "calendar-clock")!
   public static let `calendarCog`: NSImage = Bundle.module.image(forResource: "calendar-cog")!
@@ -400,6 +402,7 @@ extension Lucide {
   public static let `circleEqual`: NSImage = Bundle.module.image(forResource: "circle-equal")!
   public static let `circleEuro`: NSImage = Bundle.module.image(forResource: "circle-euro")!
   public static let `circleFadingArrowUp`: NSImage = Bundle.module.image(forResource: "circle-fading-arrow-up")!
+  public static let `circleFadingPlay`: NSImage = Bundle.module.image(forResource: "circle-fading-play")!
   public static let `circleFadingPlus`: NSImage = Bundle.module.image(forResource: "circle-fading-plus")!
   public static let `circleGauge`: NSImage = Bundle.module.image(forResource: "circle-gauge")!
   public static let `circleMinus`: NSImage = Bundle.module.image(forResource: "circle-minus")!
@@ -525,6 +528,7 @@ extension Lucide {
   public static let `cornerRightUp`: NSImage = Bundle.module.image(forResource: "corner-right-up")!
   public static let `cornerUpLeft`: NSImage = Bundle.module.image(forResource: "corner-up-left")!
   public static let `cornerUpRight`: NSImage = Bundle.module.image(forResource: "corner-up-right")!
+  public static let `cpuAi`: NSImage = Bundle.module.image(forResource: "cpu-ai")!
   public static let `cpu`: NSImage = Bundle.module.image(forResource: "cpu")!
   public static let `creativeCommons`: NSImage = Bundle.module.image(forResource: "creative-commons")!
   public static let `creditCardCheck`: NSImage = Bundle.module.image(forResource: "credit-card-check")!
@@ -751,6 +755,8 @@ extension Lucide {
   public static let `folderSync`: NSImage = Bundle.module.image(forResource: "folder-sync")!
   public static let `folderTree`: NSImage = Bundle.module.image(forResource: "folder-tree")!
   public static let `folderUp`: NSImage = Bundle.module.image(forResource: "folder-up")!
+  public static let `folderUser`: NSImage = Bundle.module.image(forResource: "folder-user")!
+  public static let `folderUsers`: NSImage = Bundle.module.image(forResource: "folder-users")!
   public static let `folderX`: NSImage = Bundle.module.image(forResource: "folder-x")!
   public static let `folder`: NSImage = Bundle.module.image(forResource: "folder")!
   public static let `folders`: NSImage = Bundle.module.image(forResource: "folders")!
@@ -812,6 +818,7 @@ extension Lucide {
   public static let `gpu`: NSImage = Bundle.module.image(forResource: "gpu")!
   public static let `graduationCap`: NSImage = Bundle.module.image(forResource: "graduation-cap")!
   public static let `grape`: NSImage = Bundle.module.image(forResource: "grape")!
+  public static let `graphStar`: NSImage = Bundle.module.image(forResource: "graph-star")!
   public static let `grid2x2Check`: NSImage = Bundle.module.image(forResource: "grid-2x2-check")!
   public static let `grid2x2Plus`: NSImage = Bundle.module.image(forResource: "grid-2x2-plus")!
   public static let `grid2x2X`: NSImage = Bundle.module.image(forResource: "grid-2x2-x")!
@@ -823,6 +830,7 @@ extension Lucide {
   public static let `grip`: NSImage = Bundle.module.image(forResource: "grip")!
   public static let `groceries`: NSImage = Bundle.module.image(forResource: "groceries")!
   public static let `group`: NSImage = Bundle.module.image(forResource: "group")!
+  public static let `guitarElectric`: NSImage = Bundle.module.image(forResource: "guitar-electric")!
   public static let `guitar`: NSImage = Bundle.module.image(forResource: "guitar")!
   public static let `ham`: NSImage = Bundle.module.image(forResource: "ham")!
   public static let `hamburger`: NSImage = Bundle.module.image(forResource: "hamburger")!
@@ -1242,6 +1250,7 @@ extension Lucide {
   public static let `pencil`: NSImage = Bundle.module.image(forResource: "pencil")!
   public static let `pentagon`: NSImage = Bundle.module.image(forResource: "pentagon")!
   public static let `percent`: NSImage = Bundle.module.image(forResource: "percent")!
+  public static let `perfumeBottle`: NSImage = Bundle.module.image(forResource: "perfume-bottle")!
   public static let `personStanding`: NSImage = Bundle.module.image(forResource: "person-standing")!
   public static let `phi`: NSImage = Bundle.module.image(forResource: "phi")!
   public static let `philippinePeso`: NSImage = Bundle.module.image(forResource: "philippine-peso")!
@@ -1792,6 +1801,8 @@ extension Lucide {
   public static let `userStar`: NSImage = Bundle.module.image(forResource: "user-star")!
   public static let `userX`: NSImage = Bundle.module.image(forResource: "user-x")!
   public static let `user`: NSImage = Bundle.module.image(forResource: "user")!
+  public static let `usersCollaboration`: NSImage = Bundle.module.image(forResource: "users-collaboration")!
+  public static let `usersRoundCollaboration`: NSImage = Bundle.module.image(forResource: "users-round-collaboration")!
   public static let `usersRound`: NSImage = Bundle.module.image(forResource: "users-round")!
   public static let `users`: NSImage = Bundle.module.image(forResource: "users")!
   public static let `utensilsCrossed`: NSImage = Bundle.module.image(forResource: "utensils-crossed")!
