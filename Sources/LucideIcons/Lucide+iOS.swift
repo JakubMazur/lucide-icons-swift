@@ -325,6 +325,7 @@ extension Lucide {
   public static let `cat`: UIImage = UIImage(named: "cat", in: Bundle.module, compatibleWith: nil)!
   public static let `cctvOff`: UIImage = UIImage(named: "cctv-off", in: Bundle.module, compatibleWith: nil)!
   public static let `cctv`: UIImage = UIImage(named: "cctv", in: Bundle.module, compatibleWith: nil)!
+  public static let `certificate`: UIImage = UIImage(named: "certificate", in: Bundle.module, compatibleWith: nil)!
   public static let `chartArea`: UIImage = UIImage(named: "chart-area", in: Bundle.module, compatibleWith: nil)!
   public static let `chartBarBig`: UIImage = UIImage(named: "chart-bar-big", in: Bundle.module, compatibleWith: nil)!
   public static let `chartBarDecreasing`: UIImage = UIImage(named: "chart-bar-decreasing", in: Bundle.module, compatibleWith: nil)!
@@ -613,6 +614,8 @@ extension Lucide {
   public static let `eggFried`: UIImage = UIImage(named: "egg-fried", in: Bundle.module, compatibleWith: nil)!
   public static let `eggOff`: UIImage = UIImage(named: "egg-off", in: Bundle.module, compatibleWith: nil)!
   public static let `egg`: UIImage = UIImage(named: "egg", in: Bundle.module, compatibleWith: nil)!
+  public static let `eighthNote`: UIImage = UIImage(named: "eighth-note", in: Bundle.module, compatibleWith: nil)!
+  public static let `eighthNotes`: UIImage = UIImage(named: "eighth-notes", in: Bundle.module, compatibleWith: nil)!
   public static let `eject`: UIImage = UIImage(named: "eject", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipse`: UIImage = UIImage(named: "ellipse", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsisVertical`: UIImage = UIImage(named: "ellipsis-vertical", in: Bundle.module, compatibleWith: nil)!
@@ -832,6 +835,7 @@ extension Lucide {
   public static let `group`: UIImage = UIImage(named: "group", in: Bundle.module, compatibleWith: nil)!
   public static let `guitarElectric`: UIImage = UIImage(named: "guitar-electric", in: Bundle.module, compatibleWith: nil)!
   public static let `guitar`: UIImage = UIImage(named: "guitar", in: Bundle.module, compatibleWith: nil)!
+  public static let `halfNote`: UIImage = UIImage(named: "half-note", in: Bundle.module, compatibleWith: nil)!
   public static let `ham`: UIImage = UIImage(named: "ham", in: Bundle.module, compatibleWith: nil)!
   public static let `hamburger`: UIImage = UIImage(named: "hamburger", in: Bundle.module, compatibleWith: nil)!
   public static let `hammer`: UIImage = UIImage(named: "hammer", in: Bundle.module, compatibleWith: nil)!
@@ -1163,10 +1167,6 @@ extension Lucide {
   public static let `moveUp`: UIImage = UIImage(named: "move-up", in: Bundle.module, compatibleWith: nil)!
   public static let `moveVertical`: UIImage = UIImage(named: "move-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `move`: UIImage = UIImage(named: "move", in: Bundle.module, compatibleWith: nil)!
-  public static let `music2`: UIImage = UIImage(named: "music-2", in: Bundle.module, compatibleWith: nil)!
-  public static let `music3`: UIImage = UIImage(named: "music-3", in: Bundle.module, compatibleWith: nil)!
-  public static let `music4`: UIImage = UIImage(named: "music-4", in: Bundle.module, compatibleWith: nil)!
-  public static let `music`: UIImage = UIImage(named: "music", in: Bundle.module, compatibleWith: nil)!
   public static let `navigation2Off`: UIImage = UIImage(named: "navigation-2-off", in: Bundle.module, compatibleWith: nil)!
   public static let `navigation2`: UIImage = UIImage(named: "navigation-2", in: Bundle.module, compatibleWith: nil)!
   public static let `navigationOff`: UIImage = UIImage(named: "navigation-off", in: Bundle.module, compatibleWith: nil)!
@@ -1491,6 +1491,7 @@ extension Lucide {
   public static let `signpostBig`: UIImage = UIImage(named: "signpost-big", in: Bundle.module, compatibleWith: nil)!
   public static let `signpost`: UIImage = UIImage(named: "signpost", in: Bundle.module, compatibleWith: nil)!
   public static let `siren`: UIImage = UIImage(named: "siren", in: Bundle.module, compatibleWith: nil)!
+  public static let `sixteenthNotes`: UIImage = UIImage(named: "sixteenth-notes", in: Bundle.module, compatibleWith: nil)!
   public static let `skipBack`: UIImage = UIImage(named: "skip-back", in: Bundle.module, compatibleWith: nil)!
   public static let `skipForward`: UIImage = UIImage(named: "skip-forward", in: Bundle.module, compatibleWith: nil)!
   public static let `skull`: UIImage = UIImage(named: "skull", in: Bundle.module, compatibleWith: nil)!

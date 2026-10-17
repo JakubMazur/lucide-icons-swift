@@ -325,6 +325,7 @@ extension Lucide {
   public static let `cat`: NSImage = Bundle.module.image(forResource: "cat")!
   public static let `cctvOff`: NSImage = Bundle.module.image(forResource: "cctv-off")!
   public static let `cctv`: NSImage = Bundle.module.image(forResource: "cctv")!
+  public static let `certificate`: NSImage = Bundle.module.image(forResource: "certificate")!
   public static let `chartArea`: NSImage = Bundle.module.image(forResource: "chart-area")!
   public static let `chartBarBig`: NSImage = Bundle.module.image(forResource: "chart-bar-big")!
   public static let `chartBarDecreasing`: NSImage = Bundle.module.image(forResource: "chart-bar-decreasing")!
@@ -613,6 +614,8 @@ extension Lucide {
   public static let `eggFried`: NSImage = Bundle.module.image(forResource: "egg-fried")!
   public static let `eggOff`: NSImage = Bundle.module.image(forResource: "egg-off")!
   public static let `egg`: NSImage = Bundle.module.image(forResource: "egg")!
+  public static let `eighthNote`: NSImage = Bundle.module.image(forResource: "eighth-note")!
+  public static let `eighthNotes`: NSImage = Bundle.module.image(forResource: "eighth-notes")!
   public static let `eject`: NSImage = Bundle.module.image(forResource: "eject")!
   public static let `ellipse`: NSImage = Bundle.module.image(forResource: "ellipse")!
   public static let `ellipsisVertical`: NSImage = Bundle.module.image(forResource: "ellipsis-vertical")!
@@ -832,6 +835,7 @@ extension Lucide {
   public static let `group`: NSImage = Bundle.module.image(forResource: "group")!
   public static let `guitarElectric`: NSImage = Bundle.module.image(forResource: "guitar-electric")!
   public static let `guitar`: NSImage = Bundle.module.image(forResource: "guitar")!
+  public static let `halfNote`: NSImage = Bundle.module.image(forResource: "half-note")!
   public static let `ham`: NSImage = Bundle.module.image(forResource: "ham")!
   public static let `hamburger`: NSImage = Bundle.module.image(forResource: "hamburger")!
   public static let `hammer`: NSImage = Bundle.module.image(forResource: "hammer")!
@@ -1163,10 +1167,6 @@ extension Lucide {
   public static let `moveUp`: NSImage = Bundle.module.image(forResource: "move-up")!
   public static let `moveVertical`: NSImage = Bundle.module.image(forResource: "move-vertical")!
   public static let `move`: NSImage = Bundle.module.image(forResource: "move")!
-  public static let `music2`: NSImage = Bundle.module.image(forResource: "music-2")!
-  public static let `music3`: NSImage = Bundle.module.image(forResource: "music-3")!
-  public static let `music4`: NSImage = Bundle.module.image(forResource: "music-4")!
-  public static let `music`: NSImage = Bundle.module.image(forResource: "music")!
   public static let `navigation2Off`: NSImage = Bundle.module.image(forResource: "navigation-2-off")!
   public static let `navigation2`: NSImage = Bundle.module.image(forResource: "navigation-2")!
   public static let `navigationOff`: NSImage = Bundle.module.image(forResource: "navigation-off")!
@@ -1491,6 +1491,7 @@ extension Lucide {
   public static let `signpostBig`: NSImage = Bundle.module.image(forResource: "signpost-big")!
   public static let `signpost`: NSImage = Bundle.module.image(forResource: "signpost")!
   public static let `siren`: NSImage = Bundle.module.image(forResource: "siren")!
+  public static let `sixteenthNotes`: NSImage = Bundle.module.image(forResource: "sixteenth-notes")!
   public static let `skipBack`: NSImage = Bundle.module.image(forResource: "skip-back")!
   public static let `skipForward`: NSImage = Bundle.module.image(forResource: "skip-forward")!
   public static let `skull`: NSImage = Bundle.module.image(forResource: "skull")!
