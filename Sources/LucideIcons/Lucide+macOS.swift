@@ -109,11 +109,13 @@ extension Lucide {
   public static let `audioLinesX`: NSImage = Bundle.module.image(forResource: "audio-lines-x")!
   public static let `audioLines`: NSImage = Bundle.module.image(forResource: "audio-lines")!
   public static let `audioWaveform`: NSImage = Bundle.module.image(forResource: "audio-waveform")!
+  public static let `avocado`: NSImage = Bundle.module.image(forResource: "avocado")!
   public static let `award`: NSImage = Bundle.module.image(forResource: "award")!
   public static let `axe`: NSImage = Bundle.module.image(forResource: "axe")!
   public static let `axis3d`: NSImage = Bundle.module.image(forResource: "axis-3d")!
   public static let `baby`: NSImage = Bundle.module.image(forResource: "baby")!
   public static let `backpack`: NSImage = Bundle.module.image(forResource: "backpack")!
+  public static let `bacon`: NSImage = Bundle.module.image(forResource: "bacon")!
   public static let `badgeAlert`: NSImage = Bundle.module.image(forResource: "badge-alert")!
   public static let `badgeCent`: NSImage = Bundle.module.image(forResource: "badge-cent")!
   public static let `badgeCheck`: NSImage = Bundle.module.image(forResource: "badge-check")!
@@ -242,6 +244,7 @@ extension Lucide {
   public static let `brackets`: NSImage = Bundle.module.image(forResource: "brackets")!
   public static let `brainCircuit`: NSImage = Bundle.module.image(forResource: "brain-circuit")!
   public static let `brainCog`: NSImage = Bundle.module.image(forResource: "brain-cog")!
+  public static let `brainOff`: NSImage = Bundle.module.image(forResource: "brain-off")!
   public static let `brain`: NSImage = Bundle.module.image(forResource: "brain")!
   public static let `brickWallFire`: NSImage = Bundle.module.image(forResource: "brick-wall-fire")!
   public static let `brickWallShield`: NSImage = Bundle.module.image(forResource: "brick-wall-shield")!
@@ -821,6 +824,7 @@ extension Lucide {
   public static let `gpu`: NSImage = Bundle.module.image(forResource: "gpu")!
   public static let `graduationCap`: NSImage = Bundle.module.image(forResource: "graduation-cap")!
   public static let `grape`: NSImage = Bundle.module.image(forResource: "grape")!
+  public static let `graphHub`: NSImage = Bundle.module.image(forResource: "graph-hub")!
   public static let `graphStar`: NSImage = Bundle.module.image(forResource: "graph-star")!
   public static let `grid2x2Check`: NSImage = Bundle.module.image(forResource: "grid-2x2-check")!
   public static let `grid2x2Plus`: NSImage = Bundle.module.image(forResource: "grid-2x2-plus")!
@@ -968,6 +972,7 @@ extension Lucide {
   public static let `lensConcave`: NSImage = Bundle.module.image(forResource: "lens-concave")!
   public static let `lensConvex`: NSImage = Bundle.module.image(forResource: "lens-convex")!
   public static let `lens`: NSImage = Bundle.module.image(forResource: "lens")!
+  public static let `letterSpacing`: NSImage = Bundle.module.image(forResource: "letter-spacing")!
   public static let `letters`: NSImage = Bundle.module.image(forResource: "letters")!
   public static let `libraryBig`: NSImage = Bundle.module.image(forResource: "library-big")!
   public static let `library`: NSImage = Bundle.module.image(forResource: "library")!
@@ -980,6 +985,7 @@ extension Lucide {
   public static let `lineDotLeftHorizontal`: NSImage = Bundle.module.image(forResource: "line-dot-left-horizontal")!
   public static let `lineDotRightHorizontal`: NSImage = Bundle.module.image(forResource: "line-dot-right-horizontal")!
   public static let `lineDotTopVertical`: NSImage = Bundle.module.image(forResource: "line-dot-top-vertical")!
+  public static let `lineHeight`: NSImage = Bundle.module.image(forResource: "line-height")!
   public static let `lineSquiggle`: NSImage = Bundle.module.image(forResource: "line-squiggle")!
   public static let `lineStyle`: NSImage = Bundle.module.image(forResource: "line-style")!
   public static let `link2Off`: NSImage = Bundle.module.image(forResource: "link-2-off")!
@@ -1501,6 +1507,7 @@ extension Lucide {
   public static let `slidersVertical`: NSImage = Bundle.module.image(forResource: "sliders-vertical")!
   public static let `smartphoneCharging`: NSImage = Bundle.module.image(forResource: "smartphone-charging")!
   public static let `smartphoneNfc`: NSImage = Bundle.module.image(forResource: "smartphone-nfc")!
+  public static let `smartphoneUserRound`: NSImage = Bundle.module.image(forResource: "smartphone-user-round")!
   public static let `smartphone`: NSImage = Bundle.module.image(forResource: "smartphone")!
   public static let `snail`: NSImage = Bundle.module.image(forResource: "snail")!
   public static let `snowflake`: NSImage = Bundle.module.image(forResource: "snowflake")!
@@ -1715,6 +1722,7 @@ extension Lucide {
   public static let `toggleLeft`: NSImage = Bundle.module.image(forResource: "toggle-left")!
   public static let `toggleRight`: NSImage = Bundle.module.image(forResource: "toggle-right")!
   public static let `toilet`: NSImage = Bundle.module.image(forResource: "toilet")!
+  public static let `tombstone`: NSImage = Bundle.module.image(forResource: "tombstone")!
   public static let `toolCase`: NSImage = Bundle.module.image(forResource: "tool-case")!
   public static let `toolbox`: NSImage = Bundle.module.image(forResource: "toolbox")!
   public static let `toothbrushSparkles`: NSImage = Bundle.module.image(forResource: "toothbrush-sparkles")!
