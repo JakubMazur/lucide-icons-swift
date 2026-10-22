@@ -396,6 +396,10 @@ extension Lucide {
   public static let `circleChevronLeft`: UIImage = UIImage(named: "circle-chevron-left", in: Bundle.module, compatibleWith: nil)!
   public static let `circleChevronRight`: UIImage = UIImage(named: "circle-chevron-right", in: Bundle.module, compatibleWith: nil)!
   public static let `circleChevronUp`: UIImage = UIImage(named: "circle-chevron-up", in: Bundle.module, compatibleWith: nil)!
+  public static let `circleChevronsDown`: UIImage = UIImage(named: "circle-chevrons-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `circleChevronsLeft`: UIImage = UIImage(named: "circle-chevrons-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `circleChevronsRight`: UIImage = UIImage(named: "circle-chevrons-right", in: Bundle.module, compatibleWith: nil)!
+  public static let `circleChevronsUp`: UIImage = UIImage(named: "circle-chevrons-up", in: Bundle.module, compatibleWith: nil)!
   public static let `circleDashedCheck`: UIImage = UIImage(named: "circle-dashed-check", in: Bundle.module, compatibleWith: nil)!
   public static let `circleDashed`: UIImage = UIImage(named: "circle-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `circleDivide`: UIImage = UIImage(named: "circle-divide", in: Bundle.module, compatibleWith: nil)!

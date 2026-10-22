@@ -396,6 +396,10 @@ extension Lucide {
   public static let `circleChevronLeft`: NSImage = Bundle.module.image(forResource: "circle-chevron-left")!
   public static let `circleChevronRight`: NSImage = Bundle.module.image(forResource: "circle-chevron-right")!
   public static let `circleChevronUp`: NSImage = Bundle.module.image(forResource: "circle-chevron-up")!
+  public static let `circleChevronsDown`: NSImage = Bundle.module.image(forResource: "circle-chevrons-down")!
+  public static let `circleChevronsLeft`: NSImage = Bundle.module.image(forResource: "circle-chevrons-left")!
+  public static let `circleChevronsRight`: NSImage = Bundle.module.image(forResource: "circle-chevrons-right")!
+  public static let `circleChevronsUp`: NSImage = Bundle.module.image(forResource: "circle-chevrons-up")!
   public static let `circleDashedCheck`: NSImage = Bundle.module.image(forResource: "circle-dashed-check")!
   public static let `circleDashed`: NSImage = Bundle.module.image(forResource: "circle-dashed")!
   public static let `circleDivide`: NSImage = Bundle.module.image(forResource: "circle-divide")!
