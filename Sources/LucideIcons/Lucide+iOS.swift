@@ -113,6 +113,7 @@ extension Lucide {
   public static let `award`: UIImage = UIImage(named: "award", in: Bundle.module, compatibleWith: nil)!
   public static let `axe`: UIImage = UIImage(named: "axe", in: Bundle.module, compatibleWith: nil)!
   public static let `axis3d`: UIImage = UIImage(named: "axis-3d", in: Bundle.module, compatibleWith: nil)!
+  public static let `azerbaijaniManat`: UIImage = UIImage(named: "azerbaijani-manat", in: Bundle.module, compatibleWith: nil)!
   public static let `baby`: UIImage = UIImage(named: "baby", in: Bundle.module, compatibleWith: nil)!
   public static let `backpack`: UIImage = UIImage(named: "backpack", in: Bundle.module, compatibleWith: nil)!
   public static let `bacon`: UIImage = UIImage(named: "bacon", in: Bundle.module, compatibleWith: nil)!
@@ -135,6 +136,7 @@ extension Lucide {
   public static let `badgeX`: UIImage = UIImage(named: "badge-x", in: Bundle.module, compatibleWith: nil)!
   public static let `badge`: UIImage = UIImage(named: "badge", in: Bundle.module, compatibleWith: nil)!
   public static let `baggageClaim`: UIImage = UIImage(named: "baggage-claim", in: Bundle.module, compatibleWith: nil)!
+  public static let `ballWave`: UIImage = UIImage(named: "ball-wave", in: Bundle.module, compatibleWith: nil)!
   public static let `balloon`: UIImage = UIImage(named: "balloon", in: Bundle.module, compatibleWith: nil)!
   public static let `ban`: UIImage = UIImage(named: "ban", in: Bundle.module, compatibleWith: nil)!
   public static let `banana`: UIImage = UIImage(named: "banana", in: Bundle.module, compatibleWith: nil)!
@@ -627,6 +629,7 @@ extension Lucide {
   public static let `ellipse`: UIImage = UIImage(named: "ellipse", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsisVertical`: UIImage = UIImage(named: "ellipsis-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsis`: UIImage = UIImage(named: "ellipsis", in: Bundle.module, compatibleWith: nil)!
+  public static let `emiratiDirham`: UIImage = UIImage(named: "emirati-dirham", in: Bundle.module, compatibleWith: nil)!
   public static let `engine`: UIImage = UIImage(named: "engine", in: Bundle.module, compatibleWith: nil)!
   public static let `equalApproximatelyNot`: UIImage = UIImage(named: "equal-approximately-not", in: Bundle.module, compatibleWith: nil)!
   public static let `equalApproximately`: UIImage = UIImage(named: "equal-approximately", in: Bundle.module, compatibleWith: nil)!
@@ -890,9 +893,11 @@ extension Lucide {
   public static let `hexagon`: UIImage = UIImage(named: "hexagon", in: Bundle.module, compatibleWith: nil)!
   public static let `highlighter`: UIImage = UIImage(named: "highlighter", in: Bundle.module, compatibleWith: nil)!
   public static let `hikingStick`: UIImage = UIImage(named: "hiking-stick", in: Bundle.module, compatibleWith: nil)!
+  public static let `hockeyStick`: UIImage = UIImage(named: "hockey-stick", in: Bundle.module, compatibleWith: nil)!
   public static let `hopOff`: UIImage = UIImage(named: "hop-off", in: Bundle.module, compatibleWith: nil)!
   public static let `hop`: UIImage = UIImage(named: "hop", in: Bundle.module, compatibleWith: nil)!
   public static let `hospital`: UIImage = UIImage(named: "hospital", in: Bundle.module, compatibleWith: nil)!
+  public static let `hotAirBalloon`: UIImage = UIImage(named: "hot-air-balloon", in: Bundle.module, compatibleWith: nil)!
   public static let `hotel`: UIImage = UIImage(named: "hotel", in: Bundle.module, compatibleWith: nil)!
   public static let `hourglassCog`: UIImage = UIImage(named: "hourglass-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `hourglass`: UIImage = UIImage(named: "hourglass", in: Bundle.module, compatibleWith: nil)!

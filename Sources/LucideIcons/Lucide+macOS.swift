@@ -113,6 +113,7 @@ extension Lucide {
   public static let `award`: NSImage = Bundle.module.image(forResource: "award")!
   public static let `axe`: NSImage = Bundle.module.image(forResource: "axe")!
   public static let `axis3d`: NSImage = Bundle.module.image(forResource: "axis-3d")!
+  public static let `azerbaijaniManat`: NSImage = Bundle.module.image(forResource: "azerbaijani-manat")!
   public static let `baby`: NSImage = Bundle.module.image(forResource: "baby")!
   public static let `backpack`: NSImage = Bundle.module.image(forResource: "backpack")!
   public static let `bacon`: NSImage = Bundle.module.image(forResource: "bacon")!
@@ -135,6 +136,7 @@ extension Lucide {
   public static let `badgeX`: NSImage = Bundle.module.image(forResource: "badge-x")!
   public static let `badge`: NSImage = Bundle.module.image(forResource: "badge")!
   public static let `baggageClaim`: NSImage = Bundle.module.image(forResource: "baggage-claim")!
+  public static let `ballWave`: NSImage = Bundle.module.image(forResource: "ball-wave")!
   public static let `balloon`: NSImage = Bundle.module.image(forResource: "balloon")!
   public static let `ban`: NSImage = Bundle.module.image(forResource: "ban")!
   public static let `banana`: NSImage = Bundle.module.image(forResource: "banana")!
@@ -627,6 +629,7 @@ extension Lucide {
   public static let `ellipse`: NSImage = Bundle.module.image(forResource: "ellipse")!
   public static let `ellipsisVertical`: NSImage = Bundle.module.image(forResource: "ellipsis-vertical")!
   public static let `ellipsis`: NSImage = Bundle.module.image(forResource: "ellipsis")!
+  public static let `emiratiDirham`: NSImage = Bundle.module.image(forResource: "emirati-dirham")!
   public static let `engine`: NSImage = Bundle.module.image(forResource: "engine")!
   public static let `equalApproximatelyNot`: NSImage = Bundle.module.image(forResource: "equal-approximately-not")!
   public static let `equalApproximately`: NSImage = Bundle.module.image(forResource: "equal-approximately")!
@@ -890,9 +893,11 @@ extension Lucide {
   public static let `hexagon`: NSImage = Bundle.module.image(forResource: "hexagon")!
   public static let `highlighter`: NSImage = Bundle.module.image(forResource: "highlighter")!
   public static let `hikingStick`: NSImage = Bundle.module.image(forResource: "hiking-stick")!
+  public static let `hockeyStick`: NSImage = Bundle.module.image(forResource: "hockey-stick")!
   public static let `hopOff`: NSImage = Bundle.module.image(forResource: "hop-off")!
   public static let `hop`: NSImage = Bundle.module.image(forResource: "hop")!
   public static let `hospital`: NSImage = Bundle.module.image(forResource: "hospital")!
+  public static let `hotAirBalloon`: NSImage = Bundle.module.image(forResource: "hot-air-balloon")!
   public static let `hotel`: NSImage = Bundle.module.image(forResource: "hotel")!
   public static let `hourglassCog`: NSImage = Bundle.module.image(forResource: "hourglass-cog")!
   public static let `hourglass`: NSImage = Bundle.module.image(forResource: "hourglass")!
