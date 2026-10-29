@@ -53,7 +53,8 @@ extension Lucide {
   public static let `appWindowMac`: NSImage = Bundle.module.image(forResource: "app-window-mac")!
   public static let `appWindow`: NSImage = Bundle.module.image(forResource: "app-window")!
   public static let `apple`: NSImage = Bundle.module.image(forResource: "apple")!
-  public static let `archiveRestore`: NSImage = Bundle.module.image(forResource: "archive-restore")!
+  public static let `archiveArrowDown`: NSImage = Bundle.module.image(forResource: "archive-arrow-down")!
+  public static let `archiveArrowUp`: NSImage = Bundle.module.image(forResource: "archive-arrow-up")!
   public static let `archiveX`: NSImage = Bundle.module.image(forResource: "archive-x")!
   public static let `archive`: NSImage = Bundle.module.image(forResource: "archive")!
   public static let `armchair`: NSImage = Bundle.module.image(forResource: "armchair")!
@@ -241,6 +242,7 @@ extension Lucide {
   public static let `bottleWine`: NSImage = Bundle.module.image(forResource: "bottle-wine")!
   public static let `bowArrow`: NSImage = Bundle.module.image(forResource: "bow-arrow")!
   public static let `box`: NSImage = Bundle.module.image(forResource: "box")!
+  public static let `boxesLinked`: NSImage = Bundle.module.image(forResource: "boxes-linked")!
   public static let `boxes`: NSImage = Bundle.module.image(forResource: "boxes")!
   public static let `braces`: NSImage = Bundle.module.image(forResource: "braces")!
   public static let `brackets`: NSImage = Bundle.module.image(forResource: "brackets")!
@@ -279,6 +281,8 @@ extension Lucide {
   public static let `calculator`: NSImage = Bundle.module.image(forResource: "calculator")!
   public static let `calendar1`: NSImage = Bundle.module.image(forResource: "calendar-1")!
   public static let `calendarArrowDown`: NSImage = Bundle.module.image(forResource: "calendar-arrow-down")!
+  public static let `calendarArrowLeft`: NSImage = Bundle.module.image(forResource: "calendar-arrow-left")!
+  public static let `calendarArrowRight`: NSImage = Bundle.module.image(forResource: "calendar-arrow-right")!
   public static let `calendarArrowUp`: NSImage = Bundle.module.image(forResource: "calendar-arrow-up")!
   public static let `calendarCheck2`: NSImage = Bundle.module.image(forResource: "calendar-check-2")!
   public static let `calendarCheck`: NSImage = Bundle.module.image(forResource: "calendar-check")!
@@ -352,6 +356,8 @@ extension Lucide {
   public static let `chartNoAxesCombined`: NSImage = Bundle.module.image(forResource: "chart-no-axes-combined")!
   public static let `chartNoAxesGantt`: NSImage = Bundle.module.image(forResource: "chart-no-axes-gantt")!
   public static let `chartPie`: NSImage = Bundle.module.image(forResource: "chart-pie")!
+  public static let `chartQuadrant`: NSImage = Bundle.module.image(forResource: "chart-quadrant")!
+  public static let `chartRadar`: NSImage = Bundle.module.image(forResource: "chart-radar")!
   public static let `chartScatter`: NSImage = Bundle.module.image(forResource: "chart-scatter")!
   public static let `chartSpline`: NSImage = Bundle.module.image(forResource: "chart-spline")!
   public static let `checkCheck`: NSImage = Bundle.module.image(forResource: "check-check")!
@@ -562,6 +568,7 @@ extension Lucide {
   public static let `databaseArrowUp`: NSImage = Bundle.module.image(forResource: "database-arrow-up")!
   public static let `databaseBackup`: NSImage = Bundle.module.image(forResource: "database-backup")!
   public static let `databaseCheck`: NSImage = Bundle.module.image(forResource: "database-check")!
+  public static let `databaseCog`: NSImage = Bundle.module.image(forResource: "database-cog")!
   public static let `databaseMinus`: NSImage = Bundle.module.image(forResource: "database-minus")!
   public static let `databasePlus`: NSImage = Bundle.module.image(forResource: "database-plus")!
   public static let `databaseSearch`: NSImage = Bundle.module.image(forResource: "database-search")!
@@ -617,6 +624,8 @@ extension Lucide {
   public static let `dumbbell`: NSImage = Bundle.module.image(forResource: "dumbbell")!
   public static let `earOff`: NSImage = Bundle.module.image(forResource: "ear-off")!
   public static let `ear`: NSImage = Bundle.module.image(forResource: "ear")!
+  public static let `earbudsOff`: NSImage = Bundle.module.image(forResource: "earbuds-off")!
+  public static let `earbuds`: NSImage = Bundle.module.image(forResource: "earbuds")!
   public static let `earthLock`: NSImage = Bundle.module.image(forResource: "earth-lock")!
   public static let `earth`: NSImage = Bundle.module.image(forResource: "earth")!
   public static let `eclipse`: NSImage = Bundle.module.image(forResource: "eclipse")!
@@ -955,6 +964,7 @@ extension Lucide {
   public static let `laptopMinimalCheck`: NSImage = Bundle.module.image(forResource: "laptop-minimal-check")!
   public static let `laptopMinimal`: NSImage = Bundle.module.image(forResource: "laptop-minimal")!
   public static let `laptop`: NSImage = Bundle.module.image(forResource: "laptop")!
+  public static let `laser`: NSImage = Bundle.module.image(forResource: "laser")!
   public static let `lassoSelect`: NSImage = Bundle.module.image(forResource: "lasso-select")!
   public static let `lasso`: NSImage = Bundle.module.image(forResource: "lasso")!
   public static let `layerArrowDown`: NSImage = Bundle.module.image(forResource: "layer-arrow-down")!
@@ -1505,6 +1515,7 @@ extension Lucide {
   public static let `signature`: NSImage = Bundle.module.image(forResource: "signature")!
   public static let `signpostBig`: NSImage = Bundle.module.image(forResource: "signpost-big")!
   public static let `signpost`: NSImage = Bundle.module.image(forResource: "signpost")!
+  public static let `sirenOff`: NSImage = Bundle.module.image(forResource: "siren-off")!
   public static let `siren`: NSImage = Bundle.module.image(forResource: "siren")!
   public static let `sixteenthNotes`: NSImage = Bundle.module.image(forResource: "sixteenth-notes")!
   public static let `skipBack`: NSImage = Bundle.module.image(forResource: "skip-back")!
@@ -1567,6 +1578,10 @@ extension Lucide {
   public static let `squareChevronLeft`: NSImage = Bundle.module.image(forResource: "square-chevron-left")!
   public static let `squareChevronRight`: NSImage = Bundle.module.image(forResource: "square-chevron-right")!
   public static let `squareChevronUp`: NSImage = Bundle.module.image(forResource: "square-chevron-up")!
+  public static let `squareChevronsDown`: NSImage = Bundle.module.image(forResource: "square-chevrons-down")!
+  public static let `squareChevronsLeft`: NSImage = Bundle.module.image(forResource: "square-chevrons-left")!
+  public static let `squareChevronsRight`: NSImage = Bundle.module.image(forResource: "square-chevrons-right")!
+  public static let `squareChevronsUp`: NSImage = Bundle.module.image(forResource: "square-chevrons-up")!
   public static let `squareCode`: NSImage = Bundle.module.image(forResource: "square-code")!
   public static let `squareDashedBottomCode`: NSImage = Bundle.module.image(forResource: "square-dashed-bottom-code")!
   public static let `squareDashedBottom`: NSImage = Bundle.module.image(forResource: "square-dashed-bottom")!
@@ -1811,6 +1826,7 @@ extension Lucide {
   public static let `userRoundPen`: NSImage = Bundle.module.image(forResource: "user-round-pen")!
   public static let `userRoundPlus`: NSImage = Bundle.module.image(forResource: "user-round-plus")!
   public static let `userRoundSearch`: NSImage = Bundle.module.image(forResource: "user-round-search")!
+  public static let `userRoundShield`: NSImage = Bundle.module.image(forResource: "user-round-shield")!
   public static let `userRoundStar`: NSImage = Bundle.module.image(forResource: "user-round-star")!
   public static let `userRoundX`: NSImage = Bundle.module.image(forResource: "user-round-x")!
   public static let `userRound`: NSImage = Bundle.module.image(forResource: "user-round")!

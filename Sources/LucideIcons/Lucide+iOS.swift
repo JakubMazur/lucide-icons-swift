@@ -53,7 +53,8 @@ extension Lucide {
   public static let `appWindowMac`: UIImage = UIImage(named: "app-window-mac", in: Bundle.module, compatibleWith: nil)!
   public static let `appWindow`: UIImage = UIImage(named: "app-window", in: Bundle.module, compatibleWith: nil)!
   public static let `apple`: UIImage = UIImage(named: "apple", in: Bundle.module, compatibleWith: nil)!
-  public static let `archiveRestore`: UIImage = UIImage(named: "archive-restore", in: Bundle.module, compatibleWith: nil)!
+  public static let `archiveArrowDown`: UIImage = UIImage(named: "archive-arrow-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `archiveArrowUp`: UIImage = UIImage(named: "archive-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `archiveX`: UIImage = UIImage(named: "archive-x", in: Bundle.module, compatibleWith: nil)!
   public static let `archive`: UIImage = UIImage(named: "archive", in: Bundle.module, compatibleWith: nil)!
   public static let `armchair`: UIImage = UIImage(named: "armchair", in: Bundle.module, compatibleWith: nil)!
@@ -241,6 +242,7 @@ extension Lucide {
   public static let `bottleWine`: UIImage = UIImage(named: "bottle-wine", in: Bundle.module, compatibleWith: nil)!
   public static let `bowArrow`: UIImage = UIImage(named: "bow-arrow", in: Bundle.module, compatibleWith: nil)!
   public static let `box`: UIImage = UIImage(named: "box", in: Bundle.module, compatibleWith: nil)!
+  public static let `boxesLinked`: UIImage = UIImage(named: "boxes-linked", in: Bundle.module, compatibleWith: nil)!
   public static let `boxes`: UIImage = UIImage(named: "boxes", in: Bundle.module, compatibleWith: nil)!
   public static let `braces`: UIImage = UIImage(named: "braces", in: Bundle.module, compatibleWith: nil)!
   public static let `brackets`: UIImage = UIImage(named: "brackets", in: Bundle.module, compatibleWith: nil)!
@@ -279,6 +281,8 @@ extension Lucide {
   public static let `calculator`: UIImage = UIImage(named: "calculator", in: Bundle.module, compatibleWith: nil)!
   public static let `calendar1`: UIImage = UIImage(named: "calendar-1", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarArrowDown`: UIImage = UIImage(named: "calendar-arrow-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `calendarArrowLeft`: UIImage = UIImage(named: "calendar-arrow-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `calendarArrowRight`: UIImage = UIImage(named: "calendar-arrow-right", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarArrowUp`: UIImage = UIImage(named: "calendar-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarCheck2`: UIImage = UIImage(named: "calendar-check-2", in: Bundle.module, compatibleWith: nil)!
   public static let `calendarCheck`: UIImage = UIImage(named: "calendar-check", in: Bundle.module, compatibleWith: nil)!
@@ -352,6 +356,8 @@ extension Lucide {
   public static let `chartNoAxesCombined`: UIImage = UIImage(named: "chart-no-axes-combined", in: Bundle.module, compatibleWith: nil)!
   public static let `chartNoAxesGantt`: UIImage = UIImage(named: "chart-no-axes-gantt", in: Bundle.module, compatibleWith: nil)!
   public static let `chartPie`: UIImage = UIImage(named: "chart-pie", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartQuadrant`: UIImage = UIImage(named: "chart-quadrant", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartRadar`: UIImage = UIImage(named: "chart-radar", in: Bundle.module, compatibleWith: nil)!
   public static let `chartScatter`: UIImage = UIImage(named: "chart-scatter", in: Bundle.module, compatibleWith: nil)!
   public static let `chartSpline`: UIImage = UIImage(named: "chart-spline", in: Bundle.module, compatibleWith: nil)!
   public static let `checkCheck`: UIImage = UIImage(named: "check-check", in: Bundle.module, compatibleWith: nil)!
@@ -562,6 +568,7 @@ extension Lucide {
   public static let `databaseArrowUp`: UIImage = UIImage(named: "database-arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `databaseBackup`: UIImage = UIImage(named: "database-backup", in: Bundle.module, compatibleWith: nil)!
   public static let `databaseCheck`: UIImage = UIImage(named: "database-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `databaseCog`: UIImage = UIImage(named: "database-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `databaseMinus`: UIImage = UIImage(named: "database-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `databasePlus`: UIImage = UIImage(named: "database-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `databaseSearch`: UIImage = UIImage(named: "database-search", in: Bundle.module, compatibleWith: nil)!
@@ -617,6 +624,8 @@ extension Lucide {
   public static let `dumbbell`: UIImage = UIImage(named: "dumbbell", in: Bundle.module, compatibleWith: nil)!
   public static let `earOff`: UIImage = UIImage(named: "ear-off", in: Bundle.module, compatibleWith: nil)!
   public static let `ear`: UIImage = UIImage(named: "ear", in: Bundle.module, compatibleWith: nil)!
+  public static let `earbudsOff`: UIImage = UIImage(named: "earbuds-off", in: Bundle.module, compatibleWith: nil)!
+  public static let `earbuds`: UIImage = UIImage(named: "earbuds", in: Bundle.module, compatibleWith: nil)!
   public static let `earthLock`: UIImage = UIImage(named: "earth-lock", in: Bundle.module, compatibleWith: nil)!
   public static let `earth`: UIImage = UIImage(named: "earth", in: Bundle.module, compatibleWith: nil)!
   public static let `eclipse`: UIImage = UIImage(named: "eclipse", in: Bundle.module, compatibleWith: nil)!
@@ -955,6 +964,7 @@ extension Lucide {
   public static let `laptopMinimalCheck`: UIImage = UIImage(named: "laptop-minimal-check", in: Bundle.module, compatibleWith: nil)!
   public static let `laptopMinimal`: UIImage = UIImage(named: "laptop-minimal", in: Bundle.module, compatibleWith: nil)!
   public static let `laptop`: UIImage = UIImage(named: "laptop", in: Bundle.module, compatibleWith: nil)!
+  public static let `laser`: UIImage = UIImage(named: "laser", in: Bundle.module, compatibleWith: nil)!
   public static let `lassoSelect`: UIImage = UIImage(named: "lasso-select", in: Bundle.module, compatibleWith: nil)!
   public static let `lasso`: UIImage = UIImage(named: "lasso", in: Bundle.module, compatibleWith: nil)!
   public static let `layerArrowDown`: UIImage = UIImage(named: "layer-arrow-down", in: Bundle.module, compatibleWith: nil)!
@@ -1505,6 +1515,7 @@ extension Lucide {
   public static let `signature`: UIImage = UIImage(named: "signature", in: Bundle.module, compatibleWith: nil)!
   public static let `signpostBig`: UIImage = UIImage(named: "signpost-big", in: Bundle.module, compatibleWith: nil)!
   public static let `signpost`: UIImage = UIImage(named: "signpost", in: Bundle.module, compatibleWith: nil)!
+  public static let `sirenOff`: UIImage = UIImage(named: "siren-off", in: Bundle.module, compatibleWith: nil)!
   public static let `siren`: UIImage = UIImage(named: "siren", in: Bundle.module, compatibleWith: nil)!
   public static let `sixteenthNotes`: UIImage = UIImage(named: "sixteenth-notes", in: Bundle.module, compatibleWith: nil)!
   public static let `skipBack`: UIImage = UIImage(named: "skip-back", in: Bundle.module, compatibleWith: nil)!
@@ -1567,6 +1578,10 @@ extension Lucide {
   public static let `squareChevronLeft`: UIImage = UIImage(named: "square-chevron-left", in: Bundle.module, compatibleWith: nil)!
   public static let `squareChevronRight`: UIImage = UIImage(named: "square-chevron-right", in: Bundle.module, compatibleWith: nil)!
   public static let `squareChevronUp`: UIImage = UIImage(named: "square-chevron-up", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareChevronsDown`: UIImage = UIImage(named: "square-chevrons-down", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareChevronsLeft`: UIImage = UIImage(named: "square-chevrons-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareChevronsRight`: UIImage = UIImage(named: "square-chevrons-right", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareChevronsUp`: UIImage = UIImage(named: "square-chevrons-up", in: Bundle.module, compatibleWith: nil)!
   public static let `squareCode`: UIImage = UIImage(named: "square-code", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedBottomCode`: UIImage = UIImage(named: "square-dashed-bottom-code", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedBottom`: UIImage = UIImage(named: "square-dashed-bottom", in: Bundle.module, compatibleWith: nil)!
@@ -1811,6 +1826,7 @@ extension Lucide {
   public static let `userRoundPen`: UIImage = UIImage(named: "user-round-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundPlus`: UIImage = UIImage(named: "user-round-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundSearch`: UIImage = UIImage(named: "user-round-search", in: Bundle.module, compatibleWith: nil)!
+  public static let `userRoundShield`: UIImage = UIImage(named: "user-round-shield", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundStar`: UIImage = UIImage(named: "user-round-star", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundX`: UIImage = UIImage(named: "user-round-x", in: Bundle.module, compatibleWith: nil)!
   public static let `userRound`: UIImage = UIImage(named: "user-round", in: Bundle.module, compatibleWith: nil)!
