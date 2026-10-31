@@ -559,7 +559,6 @@ extension Lucide {
   public static let `copyX`: NSImage = Bundle.module.image(forResource: "copy-x")!
   public static let `copy`: NSImage = Bundle.module.image(forResource: "copy")!
   public static let `copyleft`: NSImage = Bundle.module.image(forResource: "copyleft")!
-  public static let `copyright`: NSImage = Bundle.module.image(forResource: "copyright")!
   public static let `cornerDownLeft`: NSImage = Bundle.module.image(forResource: "corner-down-left")!
   public static let `cornerDownRight`: NSImage = Bundle.module.image(forResource: "corner-down-right")!
   public static let `cornerLeftDown`: NSImage = Bundle.module.image(forResource: "corner-left-down")!

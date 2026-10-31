@@ -559,7 +559,6 @@ extension Lucide {
   public static let `copyX`: UIImage = UIImage(named: "copy-x", in: Bundle.module, compatibleWith: nil)!
   public static let `copy`: UIImage = UIImage(named: "copy", in: Bundle.module, compatibleWith: nil)!
   public static let `copyleft`: UIImage = UIImage(named: "copyleft", in: Bundle.module, compatibleWith: nil)!
-  public static let `copyright`: UIImage = UIImage(named: "copyright", in: Bundle.module, compatibleWith: nil)!
   public static let `cornerDownLeft`: UIImage = UIImage(named: "corner-down-left", in: Bundle.module, compatibleWith: nil)!
   public static let `cornerDownRight`: UIImage = UIImage(named: "corner-down-right", in: Bundle.module, compatibleWith: nil)!
   public static let `cornerLeftDown`: UIImage = UIImage(named: "corner-left-down", in: Bundle.module, compatibleWith: nil)!
