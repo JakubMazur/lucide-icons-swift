@@ -340,6 +340,7 @@ extension Lucide {
   public static let `chartBarIncreasing`: UIImage = UIImage(named: "chart-bar-increasing", in: Bundle.module, compatibleWith: nil)!
   public static let `chartBarStacked`: UIImage = UIImage(named: "chart-bar-stacked", in: Bundle.module, compatibleWith: nil)!
   public static let `chartBar`: UIImage = UIImage(named: "chart-bar", in: Bundle.module, compatibleWith: nil)!
+  public static let `chartBellCurve`: UIImage = UIImage(named: "chart-bell-curve", in: Bundle.module, compatibleWith: nil)!
   public static let `chartCandlestick`: UIImage = UIImage(named: "chart-candlestick", in: Bundle.module, compatibleWith: nil)!
   public static let `chartColumnBig`: UIImage = UIImage(named: "chart-column-big", in: Bundle.module, compatibleWith: nil)!
   public static let `chartColumnDecreasing`: UIImage = UIImage(named: "chart-column-decreasing", in: Bundle.module, compatibleWith: nil)!
@@ -707,6 +708,7 @@ extension Lucide {
   public static let `fileCodeCorner`: UIImage = UIImage(named: "file-code-corner", in: Bundle.module, compatibleWith: nil)!
   public static let `fileCode`: UIImage = UIImage(named: "file-code", in: Bundle.module, compatibleWith: nil)!
   public static let `fileCog`: UIImage = UIImage(named: "file-cog", in: Bundle.module, compatibleWith: nil)!
+  public static let `fileDatabase`: UIImage = UIImage(named: "file-database", in: Bundle.module, compatibleWith: nil)!
   public static let `fileDiff`: UIImage = UIImage(named: "file-diff", in: Bundle.module, compatibleWith: nil)!
   public static let `fileDigit`: UIImage = UIImage(named: "file-digit", in: Bundle.module, compatibleWith: nil)!
   public static let `fileDown`: UIImage = UIImage(named: "file-down", in: Bundle.module, compatibleWith: nil)!
@@ -1130,6 +1132,13 @@ extension Lucide {
   public static let `mapPinned`: UIImage = UIImage(named: "map-pinned", in: Bundle.module, compatibleWith: nil)!
   public static let `mapPlus`: UIImage = UIImage(named: "map-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `map`: UIImage = UIImage(named: "map", in: Bundle.module, compatibleWith: nil)!
+  public static let `marginBottom`: UIImage = UIImage(named: "margin-bottom", in: Bundle.module, compatibleWith: nil)!
+  public static let `marginHorizontal`: UIImage = UIImage(named: "margin-horizontal", in: Bundle.module, compatibleWith: nil)!
+  public static let `marginLeft`: UIImage = UIImage(named: "margin-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `marginRight`: UIImage = UIImage(named: "margin-right", in: Bundle.module, compatibleWith: nil)!
+  public static let `marginTop`: UIImage = UIImage(named: "margin-top", in: Bundle.module, compatibleWith: nil)!
+  public static let `marginVertical`: UIImage = UIImage(named: "margin-vertical", in: Bundle.module, compatibleWith: nil)!
+  public static let `margin`: UIImage = UIImage(named: "margin", in: Bundle.module, compatibleWith: nil)!
   public static let `marsStroke`: UIImage = UIImage(named: "mars-stroke", in: Bundle.module, compatibleWith: nil)!
   public static let `mars`: UIImage = UIImage(named: "mars", in: Bundle.module, compatibleWith: nil)!
   public static let `martini`: UIImage = UIImage(named: "martini", in: Bundle.module, compatibleWith: nil)!
@@ -1192,6 +1201,7 @@ extension Lucide {
   public static let `minus`: UIImage = UIImage(named: "minus", in: Bundle.module, compatibleWith: nil)!
   public static let `mirrorRectangular`: UIImage = UIImage(named: "mirror-rectangular", in: Bundle.module, compatibleWith: nil)!
   public static let `mirrorRound`: UIImage = UIImage(named: "mirror-round", in: Bundle.module, compatibleWith: nil)!
+  public static let `monitorActivity`: UIImage = UIImage(named: "monitor-activity", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorCheck`: UIImage = UIImage(named: "monitor-check", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorCloud`: UIImage = UIImage(named: "monitor-cloud", in: Bundle.module, compatibleWith: nil)!
   public static let `monitorCog`: UIImage = UIImage(named: "monitor-cog", in: Bundle.module, compatibleWith: nil)!
@@ -1682,6 +1692,13 @@ extension Lucide {
   public static let `squareMinus`: UIImage = UIImage(named: "square-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `squareMousePointer`: UIImage = UIImage(named: "square-mouse-pointer", in: Bundle.module, compatibleWith: nil)!
   public static let `squareOff`: UIImage = UIImage(named: "square-off", in: Bundle.module, compatibleWith: nil)!
+  public static let `squarePaddingBottom`: UIImage = UIImage(named: "square-padding-bottom", in: Bundle.module, compatibleWith: nil)!
+  public static let `squarePaddingHorizontal`: UIImage = UIImage(named: "square-padding-horizontal", in: Bundle.module, compatibleWith: nil)!
+  public static let `squarePaddingLeft`: UIImage = UIImage(named: "square-padding-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `squarePaddingRight`: UIImage = UIImage(named: "square-padding-right", in: Bundle.module, compatibleWith: nil)!
+  public static let `squarePaddingTop`: UIImage = UIImage(named: "square-padding-top", in: Bundle.module, compatibleWith: nil)!
+  public static let `squarePaddingVertical`: UIImage = UIImage(named: "square-padding-vertical", in: Bundle.module, compatibleWith: nil)!
+  public static let `squarePadding`: UIImage = UIImage(named: "square-padding", in: Bundle.module, compatibleWith: nil)!
   public static let `squarePause`: UIImage = UIImage(named: "square-pause", in: Bundle.module, compatibleWith: nil)!
   public static let `squarePen`: UIImage = UIImage(named: "square-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `squarePercent`: UIImage = UIImage(named: "square-percent", in: Bundle.module, compatibleWith: nil)!

@@ -340,6 +340,7 @@ extension Lucide {
   public static let `chartBarIncreasing`: NSImage = Bundle.module.image(forResource: "chart-bar-increasing")!
   public static let `chartBarStacked`: NSImage = Bundle.module.image(forResource: "chart-bar-stacked")!
   public static let `chartBar`: NSImage = Bundle.module.image(forResource: "chart-bar")!
+  public static let `chartBellCurve`: NSImage = Bundle.module.image(forResource: "chart-bell-curve")!
   public static let `chartCandlestick`: NSImage = Bundle.module.image(forResource: "chart-candlestick")!
   public static let `chartColumnBig`: NSImage = Bundle.module.image(forResource: "chart-column-big")!
   public static let `chartColumnDecreasing`: NSImage = Bundle.module.image(forResource: "chart-column-decreasing")!
@@ -707,6 +708,7 @@ extension Lucide {
   public static let `fileCodeCorner`: NSImage = Bundle.module.image(forResource: "file-code-corner")!
   public static let `fileCode`: NSImage = Bundle.module.image(forResource: "file-code")!
   public static let `fileCog`: NSImage = Bundle.module.image(forResource: "file-cog")!
+  public static let `fileDatabase`: NSImage = Bundle.module.image(forResource: "file-database")!
   public static let `fileDiff`: NSImage = Bundle.module.image(forResource: "file-diff")!
   public static let `fileDigit`: NSImage = Bundle.module.image(forResource: "file-digit")!
   public static let `fileDown`: NSImage = Bundle.module.image(forResource: "file-down")!
@@ -1130,6 +1132,13 @@ extension Lucide {
   public static let `mapPinned`: NSImage = Bundle.module.image(forResource: "map-pinned")!
   public static let `mapPlus`: NSImage = Bundle.module.image(forResource: "map-plus")!
   public static let `map`: NSImage = Bundle.module.image(forResource: "map")!
+  public static let `marginBottom`: NSImage = Bundle.module.image(forResource: "margin-bottom")!
+  public static let `marginHorizontal`: NSImage = Bundle.module.image(forResource: "margin-horizontal")!
+  public static let `marginLeft`: NSImage = Bundle.module.image(forResource: "margin-left")!
+  public static let `marginRight`: NSImage = Bundle.module.image(forResource: "margin-right")!
+  public static let `marginTop`: NSImage = Bundle.module.image(forResource: "margin-top")!
+  public static let `marginVertical`: NSImage = Bundle.module.image(forResource: "margin-vertical")!
+  public static let `margin`: NSImage = Bundle.module.image(forResource: "margin")!
   public static let `marsStroke`: NSImage = Bundle.module.image(forResource: "mars-stroke")!
   public static let `mars`: NSImage = Bundle.module.image(forResource: "mars")!
   public static let `martini`: NSImage = Bundle.module.image(forResource: "martini")!
@@ -1192,6 +1201,7 @@ extension Lucide {
   public static let `minus`: NSImage = Bundle.module.image(forResource: "minus")!
   public static let `mirrorRectangular`: NSImage = Bundle.module.image(forResource: "mirror-rectangular")!
   public static let `mirrorRound`: NSImage = Bundle.module.image(forResource: "mirror-round")!
+  public static let `monitorActivity`: NSImage = Bundle.module.image(forResource: "monitor-activity")!
   public static let `monitorCheck`: NSImage = Bundle.module.image(forResource: "monitor-check")!
   public static let `monitorCloud`: NSImage = Bundle.module.image(forResource: "monitor-cloud")!
   public static let `monitorCog`: NSImage = Bundle.module.image(forResource: "monitor-cog")!
@@ -1682,6 +1692,13 @@ extension Lucide {
   public static let `squareMinus`: NSImage = Bundle.module.image(forResource: "square-minus")!
   public static let `squareMousePointer`: NSImage = Bundle.module.image(forResource: "square-mouse-pointer")!
   public static let `squareOff`: NSImage = Bundle.module.image(forResource: "square-off")!
+  public static let `squarePaddingBottom`: NSImage = Bundle.module.image(forResource: "square-padding-bottom")!
+  public static let `squarePaddingHorizontal`: NSImage = Bundle.module.image(forResource: "square-padding-horizontal")!
+  public static let `squarePaddingLeft`: NSImage = Bundle.module.image(forResource: "square-padding-left")!
+  public static let `squarePaddingRight`: NSImage = Bundle.module.image(forResource: "square-padding-right")!
+  public static let `squarePaddingTop`: NSImage = Bundle.module.image(forResource: "square-padding-top")!
+  public static let `squarePaddingVertical`: NSImage = Bundle.module.image(forResource: "square-padding-vertical")!
+  public static let `squarePadding`: NSImage = Bundle.module.image(forResource: "square-padding")!
   public static let `squarePause`: NSImage = Bundle.module.image(forResource: "square-pause")!
   public static let `squarePen`: NSImage = Bundle.module.image(forResource: "square-pen")!
   public static let `squarePercent`: NSImage = Bundle.module.image(forResource: "square-percent")!
