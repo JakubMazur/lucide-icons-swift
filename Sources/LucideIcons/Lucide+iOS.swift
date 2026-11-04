@@ -603,6 +603,8 @@ extension Lucide {
   public static let `decimalsArrowRight`: UIImage = UIImage(named: "decimals-arrow-right", in: Bundle.module, compatibleWith: nil)!
   public static let `delete`: UIImage = UIImage(named: "delete", in: Bundle.module, compatibleWith: nil)!
   public static let `dessert`: UIImage = UIImage(named: "dessert", in: Bundle.module, compatibleWith: nil)!
+  public static let `diagramFlowHorizontal`: UIImage = UIImage(named: "diagram-flow-horizontal", in: Bundle.module, compatibleWith: nil)!
+  public static let `diagramFlowVertical`: UIImage = UIImage(named: "diagram-flow-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `diameter`: UIImage = UIImage(named: "diameter", in: Bundle.module, compatibleWith: nil)!
   public static let `diamondMinus`: UIImage = UIImage(named: "diamond-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `diamondPercent`: UIImage = UIImage(named: "diamond-percent", in: Bundle.module, compatibleWith: nil)!
@@ -855,10 +857,12 @@ extension Lucide {
   public static let `gitPullRequest`: UIImage = UIImage(named: "git-pull-request", in: Bundle.module, compatibleWith: nil)!
   public static let `glassWater`: UIImage = UIImage(named: "glass-water", in: Bundle.module, compatibleWith: nil)!
   public static let `glasses`: UIImage = UIImage(named: "glasses", in: Bundle.module, compatibleWith: nil)!
+  public static let `globeBan`: UIImage = UIImage(named: "globe-ban", in: Bundle.module, compatibleWith: nil)!
   public static let `globeCheck`: UIImage = UIImage(named: "globe-check", in: Bundle.module, compatibleWith: nil)!
   public static let `globeCode`: UIImage = UIImage(named: "globe-code", in: Bundle.module, compatibleWith: nil)!
   public static let `globeLock`: UIImage = UIImage(named: "globe-lock", in: Bundle.module, compatibleWith: nil)!
   public static let `globeOff`: UIImage = UIImage(named: "globe-off", in: Bundle.module, compatibleWith: nil)!
+  public static let `globePlus`: UIImage = UIImage(named: "globe-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `globeX`: UIImage = UIImage(named: "globe-x", in: Bundle.module, compatibleWith: nil)!
   public static let `globe`: UIImage = UIImage(named: "globe", in: Bundle.module, compatibleWith: nil)!
   public static let `goal`: UIImage = UIImage(named: "goal", in: Bundle.module, compatibleWith: nil)!

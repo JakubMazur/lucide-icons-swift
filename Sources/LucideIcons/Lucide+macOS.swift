@@ -603,6 +603,8 @@ extension Lucide {
   public static let `decimalsArrowRight`: NSImage = Bundle.module.image(forResource: "decimals-arrow-right")!
   public static let `delete`: NSImage = Bundle.module.image(forResource: "delete")!
   public static let `dessert`: NSImage = Bundle.module.image(forResource: "dessert")!
+  public static let `diagramFlowHorizontal`: NSImage = Bundle.module.image(forResource: "diagram-flow-horizontal")!
+  public static let `diagramFlowVertical`: NSImage = Bundle.module.image(forResource: "diagram-flow-vertical")!
   public static let `diameter`: NSImage = Bundle.module.image(forResource: "diameter")!
   public static let `diamondMinus`: NSImage = Bundle.module.image(forResource: "diamond-minus")!
   public static let `diamondPercent`: NSImage = Bundle.module.image(forResource: "diamond-percent")!
@@ -855,10 +857,12 @@ extension Lucide {
   public static let `gitPullRequest`: NSImage = Bundle.module.image(forResource: "git-pull-request")!
   public static let `glassWater`: NSImage = Bundle.module.image(forResource: "glass-water")!
   public static let `glasses`: NSImage = Bundle.module.image(forResource: "glasses")!
+  public static let `globeBan`: NSImage = Bundle.module.image(forResource: "globe-ban")!
   public static let `globeCheck`: NSImage = Bundle.module.image(forResource: "globe-check")!
   public static let `globeCode`: NSImage = Bundle.module.image(forResource: "globe-code")!
   public static let `globeLock`: NSImage = Bundle.module.image(forResource: "globe-lock")!
   public static let `globeOff`: NSImage = Bundle.module.image(forResource: "globe-off")!
+  public static let `globePlus`: NSImage = Bundle.module.image(forResource: "globe-plus")!
   public static let `globeX`: NSImage = Bundle.module.image(forResource: "globe-x")!
   public static let `globe`: NSImage = Bundle.module.image(forResource: "globe")!
   public static let `goal`: NSImage = Bundle.module.image(forResource: "goal")!
