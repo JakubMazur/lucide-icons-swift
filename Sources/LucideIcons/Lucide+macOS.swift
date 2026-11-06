@@ -418,6 +418,7 @@ extension Lucide {
   public static let `circleEuro`: NSImage = Bundle.module.image(forResource: "circle-euro")!
   public static let `circleExclamationPoint`: NSImage = Bundle.module.image(forResource: "circle-exclamation-point")!
   public static let `circleFadingArrowUp`: NSImage = Bundle.module.image(forResource: "circle-fading-arrow-up")!
+  public static let `circleFadingCheck`: NSImage = Bundle.module.image(forResource: "circle-fading-check")!
   public static let `circleFadingPlay`: NSImage = Bundle.module.image(forResource: "circle-fading-play")!
   public static let `circleFadingPlus`: NSImage = Bundle.module.image(forResource: "circle-fading-plus")!
   public static let `circleGauge`: NSImage = Bundle.module.image(forResource: "circle-gauge")!
@@ -1280,6 +1281,7 @@ extension Lucide {
   public static let `octagonX`: NSImage = Bundle.module.image(forResource: "octagon-x")!
   public static let `octagon`: NSImage = Bundle.module.image(forResource: "octagon")!
   public static let `omega`: NSImage = Bundle.module.image(forResource: "omega")!
+  public static let `opacity`: NSImage = Bundle.module.image(forResource: "opacity")!
   public static let `option`: NSImage = Bundle.module.image(forResource: "option")!
   public static let `orbit`: NSImage = Bundle.module.image(forResource: "orbit")!
   public static let `origami`: NSImage = Bundle.module.image(forResource: "origami")!
@@ -1287,7 +1289,9 @@ extension Lucide {
   public static let `packageCheck`: NSImage = Bundle.module.image(forResource: "package-check")!
   public static let `packageMinus`: NSImage = Bundle.module.image(forResource: "package-minus")!
   public static let `packageOpen`: NSImage = Bundle.module.image(forResource: "package-open")!
+  public static let `packagePen`: NSImage = Bundle.module.image(forResource: "package-pen")!
   public static let `packagePlus`: NSImage = Bundle.module.image(forResource: "package-plus")!
+  public static let `packageQuestionMark`: NSImage = Bundle.module.image(forResource: "package-question-mark")!
   public static let `packageSearch`: NSImage = Bundle.module.image(forResource: "package-search")!
   public static let `packageX`: NSImage = Bundle.module.image(forResource: "package-x")!
   public static let `package`: NSImage = Bundle.module.image(forResource: "package")!

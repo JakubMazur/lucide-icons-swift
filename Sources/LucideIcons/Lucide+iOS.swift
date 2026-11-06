@@ -418,6 +418,7 @@ extension Lucide {
   public static let `circleEuro`: UIImage = UIImage(named: "circle-euro", in: Bundle.module, compatibleWith: nil)!
   public static let `circleExclamationPoint`: UIImage = UIImage(named: "circle-exclamation-point", in: Bundle.module, compatibleWith: nil)!
   public static let `circleFadingArrowUp`: UIImage = UIImage(named: "circle-fading-arrow-up", in: Bundle.module, compatibleWith: nil)!
+  public static let `circleFadingCheck`: UIImage = UIImage(named: "circle-fading-check", in: Bundle.module, compatibleWith: nil)!
   public static let `circleFadingPlay`: UIImage = UIImage(named: "circle-fading-play", in: Bundle.module, compatibleWith: nil)!
   public static let `circleFadingPlus`: UIImage = UIImage(named: "circle-fading-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `circleGauge`: UIImage = UIImage(named: "circle-gauge", in: Bundle.module, compatibleWith: nil)!
@@ -1280,6 +1281,7 @@ extension Lucide {
   public static let `octagonX`: UIImage = UIImage(named: "octagon-x", in: Bundle.module, compatibleWith: nil)!
   public static let `octagon`: UIImage = UIImage(named: "octagon", in: Bundle.module, compatibleWith: nil)!
   public static let `omega`: UIImage = UIImage(named: "omega", in: Bundle.module, compatibleWith: nil)!
+  public static let `opacity`: UIImage = UIImage(named: "opacity", in: Bundle.module, compatibleWith: nil)!
   public static let `option`: UIImage = UIImage(named: "option", in: Bundle.module, compatibleWith: nil)!
   public static let `orbit`: UIImage = UIImage(named: "orbit", in: Bundle.module, compatibleWith: nil)!
   public static let `origami`: UIImage = UIImage(named: "origami", in: Bundle.module, compatibleWith: nil)!
@@ -1287,7 +1289,9 @@ extension Lucide {
   public static let `packageCheck`: UIImage = UIImage(named: "package-check", in: Bundle.module, compatibleWith: nil)!
   public static let `packageMinus`: UIImage = UIImage(named: "package-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `packageOpen`: UIImage = UIImage(named: "package-open", in: Bundle.module, compatibleWith: nil)!
+  public static let `packagePen`: UIImage = UIImage(named: "package-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `packagePlus`: UIImage = UIImage(named: "package-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `packageQuestionMark`: UIImage = UIImage(named: "package-question-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `packageSearch`: UIImage = UIImage(named: "package-search", in: Bundle.module, compatibleWith: nil)!
   public static let `packageX`: UIImage = UIImage(named: "package-x", in: Bundle.module, compatibleWith: nil)!
   public static let `package`: UIImage = UIImage(named: "package", in: Bundle.module, compatibleWith: nil)!
