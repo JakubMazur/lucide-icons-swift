@@ -877,6 +877,7 @@ extension Lucide {
   public static let `grid2x2X`: UIImage = UIImage(named: "grid-2x2-x", in: Bundle.module, compatibleWith: nil)!
   public static let `grid2x2`: UIImage = UIImage(named: "grid-2x2", in: Bundle.module, compatibleWith: nil)!
   public static let `grid3x2`: UIImage = UIImage(named: "grid-3x2", in: Bundle.module, compatibleWith: nil)!
+  public static let `grid3x3Off`: UIImage = UIImage(named: "grid-3x3-off", in: Bundle.module, compatibleWith: nil)!
   public static let `grid3x3`: UIImage = UIImage(named: "grid-3x3", in: Bundle.module, compatibleWith: nil)!
   public static let `gripHorizontal`: UIImage = UIImage(named: "grip-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `gripVertical`: UIImage = UIImage(named: "grip-vertical", in: Bundle.module, compatibleWith: nil)!
@@ -1227,6 +1228,7 @@ extension Lucide {
   public static let `moon`: UIImage = UIImage(named: "moon", in: Bundle.module, compatibleWith: nil)!
   public static let `mopSparkles`: UIImage = UIImage(named: "mop-sparkles", in: Bundle.module, compatibleWith: nil)!
   public static let `mop`: UIImage = UIImage(named: "mop", in: Bundle.module, compatibleWith: nil)!
+  public static let `moped`: UIImage = UIImage(named: "moped", in: Bundle.module, compatibleWith: nil)!
   public static let `mosque`: UIImage = UIImage(named: "mosque", in: Bundle.module, compatibleWith: nil)!
   public static let `motorbike`: UIImage = UIImage(named: "motorbike", in: Bundle.module, compatibleWith: nil)!
   public static let `mountainSnow`: UIImage = UIImage(named: "mountain-snow", in: Bundle.module, compatibleWith: nil)!
@@ -1656,6 +1658,7 @@ extension Lucide {
   public static let `squareDashedKanban`: UIImage = UIImage(named: "square-dashed-kanban", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedMousePointer`: UIImage = UIImage(named: "square-dashed-mouse-pointer", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedPlus`: UIImage = UIImage(named: "square-dashed-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareDashedSearch`: UIImage = UIImage(named: "square-dashed-search", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedText`: UIImage = UIImage(named: "square-dashed-text", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedTopSolid`: UIImage = UIImage(named: "square-dashed-top-solid", in: Bundle.module, compatibleWith: nil)!
   public static let `squareDashedXCorner`: UIImage = UIImage(named: "square-dashed-x-corner", in: Bundle.module, compatibleWith: nil)!
@@ -1911,6 +1914,7 @@ extension Lucide {
   public static let `usb`: UIImage = UIImage(named: "usb", in: Bundle.module, compatibleWith: nil)!
   public static let `userCheck`: UIImage = UIImage(named: "user-check", in: Bundle.module, compatibleWith: nil)!
   public static let `userCog`: UIImage = UIImage(named: "user-cog", in: Bundle.module, compatibleWith: nil)!
+  public static let `userExclamationPoint`: UIImage = UIImage(named: "user-exclamation-point", in: Bundle.module, compatibleWith: nil)!
   public static let `userGroup`: UIImage = UIImage(named: "user-group", in: Bundle.module, compatibleWith: nil)!
   public static let `userKey`: UIImage = UIImage(named: "user-key", in: Bundle.module, compatibleWith: nil)!
   public static let `userLock`: UIImage = UIImage(named: "user-lock", in: Bundle.module, compatibleWith: nil)!
@@ -1920,6 +1924,7 @@ extension Lucide {
   public static let `userRoundArrowLeft`: UIImage = UIImage(named: "user-round-arrow-left", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundCheck`: UIImage = UIImage(named: "user-round-check", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundCog`: UIImage = UIImage(named: "user-round-cog", in: Bundle.module, compatibleWith: nil)!
+  public static let `userRoundExclamationPoint`: UIImage = UIImage(named: "user-round-exclamation-point", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundGroup`: UIImage = UIImage(named: "user-round-group", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundKey`: UIImage = UIImage(named: "user-round-key", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundMinus`: UIImage = UIImage(named: "user-round-minus", in: Bundle.module, compatibleWith: nil)!

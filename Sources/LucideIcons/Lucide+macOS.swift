@@ -877,6 +877,7 @@ extension Lucide {
   public static let `grid2x2X`: NSImage = Bundle.module.image(forResource: "grid-2x2-x")!
   public static let `grid2x2`: NSImage = Bundle.module.image(forResource: "grid-2x2")!
   public static let `grid3x2`: NSImage = Bundle.module.image(forResource: "grid-3x2")!
+  public static let `grid3x3Off`: NSImage = Bundle.module.image(forResource: "grid-3x3-off")!
   public static let `grid3x3`: NSImage = Bundle.module.image(forResource: "grid-3x3")!
   public static let `gripHorizontal`: NSImage = Bundle.module.image(forResource: "grip-horizontal")!
   public static let `gripVertical`: NSImage = Bundle.module.image(forResource: "grip-vertical")!
@@ -1227,6 +1228,7 @@ extension Lucide {
   public static let `moon`: NSImage = Bundle.module.image(forResource: "moon")!
   public static let `mopSparkles`: NSImage = Bundle.module.image(forResource: "mop-sparkles")!
   public static let `mop`: NSImage = Bundle.module.image(forResource: "mop")!
+  public static let `moped`: NSImage = Bundle.module.image(forResource: "moped")!
   public static let `mosque`: NSImage = Bundle.module.image(forResource: "mosque")!
   public static let `motorbike`: NSImage = Bundle.module.image(forResource: "motorbike")!
   public static let `mountainSnow`: NSImage = Bundle.module.image(forResource: "mountain-snow")!
@@ -1656,6 +1658,7 @@ extension Lucide {
   public static let `squareDashedKanban`: NSImage = Bundle.module.image(forResource: "square-dashed-kanban")!
   public static let `squareDashedMousePointer`: NSImage = Bundle.module.image(forResource: "square-dashed-mouse-pointer")!
   public static let `squareDashedPlus`: NSImage = Bundle.module.image(forResource: "square-dashed-plus")!
+  public static let `squareDashedSearch`: NSImage = Bundle.module.image(forResource: "square-dashed-search")!
   public static let `squareDashedText`: NSImage = Bundle.module.image(forResource: "square-dashed-text")!
   public static let `squareDashedTopSolid`: NSImage = Bundle.module.image(forResource: "square-dashed-top-solid")!
   public static let `squareDashedXCorner`: NSImage = Bundle.module.image(forResource: "square-dashed-x-corner")!
@@ -1911,6 +1914,7 @@ extension Lucide {
   public static let `usb`: NSImage = Bundle.module.image(forResource: "usb")!
   public static let `userCheck`: NSImage = Bundle.module.image(forResource: "user-check")!
   public static let `userCog`: NSImage = Bundle.module.image(forResource: "user-cog")!
+  public static let `userExclamationPoint`: NSImage = Bundle.module.image(forResource: "user-exclamation-point")!
   public static let `userGroup`: NSImage = Bundle.module.image(forResource: "user-group")!
   public static let `userKey`: NSImage = Bundle.module.image(forResource: "user-key")!
   public static let `userLock`: NSImage = Bundle.module.image(forResource: "user-lock")!
@@ -1920,6 +1924,7 @@ extension Lucide {
   public static let `userRoundArrowLeft`: NSImage = Bundle.module.image(forResource: "user-round-arrow-left")!
   public static let `userRoundCheck`: NSImage = Bundle.module.image(forResource: "user-round-check")!
   public static let `userRoundCog`: NSImage = Bundle.module.image(forResource: "user-round-cog")!
+  public static let `userRoundExclamationPoint`: NSImage = Bundle.module.image(forResource: "user-round-exclamation-point")!
   public static let `userRoundGroup`: NSImage = Bundle.module.image(forResource: "user-round-group")!
   public static let `userRoundKey`: NSImage = Bundle.module.image(forResource: "user-round-key")!
   public static let `userRoundMinus`: NSImage = Bundle.module.image(forResource: "user-round-minus")!
