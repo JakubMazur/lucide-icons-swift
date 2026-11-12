@@ -103,6 +103,7 @@ extension Lucide {
   public static let `arrowUp`: NSImage = Bundle.module.image(forResource: "arrow-up")!
   public static let `arrowsUpFromLine`: NSImage = Bundle.module.image(forResource: "arrows-up-from-line")!
   public static let `asterisk`: NSImage = Bundle.module.image(forResource: "asterisk")!
+  public static let `asterism`: NSImage = Bundle.module.image(forResource: "asterism")!
   public static let `astroid`: NSImage = Bundle.module.image(forResource: "astroid")!
   public static let `atSign`: NSImage = Bundle.module.image(forResource: "at-sign")!
   public static let `atom`: NSImage = Bundle.module.image(forResource: "atom")!
@@ -676,6 +677,7 @@ extension Lucide {
   public static let `ethernetPort`: NSImage = Bundle.module.image(forResource: "ethernet-port")!
   public static let `euro`: NSImage = Bundle.module.image(forResource: "euro")!
   public static let `evCharger`: NSImage = Bundle.module.image(forResource: "ev-charger")!
+  public static let `exclamationMark`: NSImage = Bundle.module.image(forResource: "exclamation-mark")!
   public static let `expand`: NSImage = Bundle.module.image(forResource: "expand")!
   public static let `externalLink`: NSImage = Bundle.module.image(forResource: "external-link")!
   public static let `eyeClosed`: NSImage = Bundle.module.image(forResource: "eye-closed")!
@@ -1232,6 +1234,7 @@ extension Lucide {
   public static let `moped`: NSImage = Bundle.module.image(forResource: "moped")!
   public static let `mosque`: NSImage = Bundle.module.image(forResource: "mosque")!
   public static let `motorbike`: NSImage = Bundle.module.image(forResource: "motorbike")!
+  public static let `moundShovel`: NSImage = Bundle.module.image(forResource: "mound-shovel")!
   public static let `mountainSnow`: NSImage = Bundle.module.image(forResource: "mountain-snow")!
   public static let `mountain`: NSImage = Bundle.module.image(forResource: "mountain")!
   public static let `mouseLeft`: NSImage = Bundle.module.image(forResource: "mouse-left")!
@@ -1405,6 +1408,7 @@ extension Lucide {
   public static let `puzzle`: NSImage = Bundle.module.image(forResource: "puzzle")!
   public static let `pyramid`: NSImage = Bundle.module.image(forResource: "pyramid")!
   public static let `qrCode`: NSImage = Bundle.module.image(forResource: "qr-code")!
+  public static let `questionMark`: NSImage = Bundle.module.image(forResource: "question-mark")!
   public static let `quote`: NSImage = Bundle.module.image(forResource: "quote")!
   public static let `rabbit`: NSImage = Bundle.module.image(forResource: "rabbit")!
   public static let `radar`: NSImage = Bundle.module.image(forResource: "radar")!
@@ -1470,6 +1474,7 @@ extension Lucide {
   public static let `rotateCwFadingClock`: NSImage = Bundle.module.image(forResource: "rotate-cw-fading-clock")!
   public static let `rotateCwSquare`: NSImage = Bundle.module.image(forResource: "rotate-cw-square")!
   public static let `rotateCw`: NSImage = Bundle.module.image(forResource: "rotate-cw")!
+  public static let `routeArrowRight`: NSImage = Bundle.module.image(forResource: "route-arrow-right")!
   public static let `routeOff`: NSImage = Bundle.module.image(forResource: "route-off")!
   public static let `route`: NSImage = Bundle.module.image(forResource: "route")!
   public static let `router`: NSImage = Bundle.module.image(forResource: "router")!
@@ -1840,6 +1845,7 @@ extension Lucide {
   public static let `textCursorInput`: NSImage = Bundle.module.image(forResource: "text-cursor-input")!
   public static let `textCursor`: NSImage = Bundle.module.image(forResource: "text-cursor")!
   public static let `textInitial`: NSImage = Bundle.module.image(forResource: "text-initial")!
+  public static let `textPen`: NSImage = Bundle.module.image(forResource: "text-pen")!
   public static let `textQuote`: NSImage = Bundle.module.image(forResource: "text-quote")!
   public static let `textSearch`: NSImage = Bundle.module.image(forResource: "text-search")!
   public static let `textWrap`: NSImage = Bundle.module.image(forResource: "text-wrap")!

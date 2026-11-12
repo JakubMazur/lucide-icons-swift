@@ -103,6 +103,7 @@ extension Lucide {
   public static let `arrowUp`: UIImage = UIImage(named: "arrow-up", in: Bundle.module, compatibleWith: nil)!
   public static let `arrowsUpFromLine`: UIImage = UIImage(named: "arrows-up-from-line", in: Bundle.module, compatibleWith: nil)!
   public static let `asterisk`: UIImage = UIImage(named: "asterisk", in: Bundle.module, compatibleWith: nil)!
+  public static let `asterism`: UIImage = UIImage(named: "asterism", in: Bundle.module, compatibleWith: nil)!
   public static let `astroid`: UIImage = UIImage(named: "astroid", in: Bundle.module, compatibleWith: nil)!
   public static let `atSign`: UIImage = UIImage(named: "at-sign", in: Bundle.module, compatibleWith: nil)!
   public static let `atom`: UIImage = UIImage(named: "atom", in: Bundle.module, compatibleWith: nil)!
@@ -676,6 +677,7 @@ extension Lucide {
   public static let `ethernetPort`: UIImage = UIImage(named: "ethernet-port", in: Bundle.module, compatibleWith: nil)!
   public static let `euro`: UIImage = UIImage(named: "euro", in: Bundle.module, compatibleWith: nil)!
   public static let `evCharger`: UIImage = UIImage(named: "ev-charger", in: Bundle.module, compatibleWith: nil)!
+  public static let `exclamationMark`: UIImage = UIImage(named: "exclamation-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `expand`: UIImage = UIImage(named: "expand", in: Bundle.module, compatibleWith: nil)!
   public static let `externalLink`: UIImage = UIImage(named: "external-link", in: Bundle.module, compatibleWith: nil)!
   public static let `eyeClosed`: UIImage = UIImage(named: "eye-closed", in: Bundle.module, compatibleWith: nil)!
@@ -1232,6 +1234,7 @@ extension Lucide {
   public static let `moped`: UIImage = UIImage(named: "moped", in: Bundle.module, compatibleWith: nil)!
   public static let `mosque`: UIImage = UIImage(named: "mosque", in: Bundle.module, compatibleWith: nil)!
   public static let `motorbike`: UIImage = UIImage(named: "motorbike", in: Bundle.module, compatibleWith: nil)!
+  public static let `moundShovel`: UIImage = UIImage(named: "mound-shovel", in: Bundle.module, compatibleWith: nil)!
   public static let `mountainSnow`: UIImage = UIImage(named: "mountain-snow", in: Bundle.module, compatibleWith: nil)!
   public static let `mountain`: UIImage = UIImage(named: "mountain", in: Bundle.module, compatibleWith: nil)!
   public static let `mouseLeft`: UIImage = UIImage(named: "mouse-left", in: Bundle.module, compatibleWith: nil)!
@@ -1405,6 +1408,7 @@ extension Lucide {
   public static let `puzzle`: UIImage = UIImage(named: "puzzle", in: Bundle.module, compatibleWith: nil)!
   public static let `pyramid`: UIImage = UIImage(named: "pyramid", in: Bundle.module, compatibleWith: nil)!
   public static let `qrCode`: UIImage = UIImage(named: "qr-code", in: Bundle.module, compatibleWith: nil)!
+  public static let `questionMark`: UIImage = UIImage(named: "question-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `quote`: UIImage = UIImage(named: "quote", in: Bundle.module, compatibleWith: nil)!
   public static let `rabbit`: UIImage = UIImage(named: "rabbit", in: Bundle.module, compatibleWith: nil)!
   public static let `radar`: UIImage = UIImage(named: "radar", in: Bundle.module, compatibleWith: nil)!
@@ -1470,6 +1474,7 @@ extension Lucide {
   public static let `rotateCwFadingClock`: UIImage = UIImage(named: "rotate-cw-fading-clock", in: Bundle.module, compatibleWith: nil)!
   public static let `rotateCwSquare`: UIImage = UIImage(named: "rotate-cw-square", in: Bundle.module, compatibleWith: nil)!
   public static let `rotateCw`: UIImage = UIImage(named: "rotate-cw", in: Bundle.module, compatibleWith: nil)!
+  public static let `routeArrowRight`: UIImage = UIImage(named: "route-arrow-right", in: Bundle.module, compatibleWith: nil)!
   public static let `routeOff`: UIImage = UIImage(named: "route-off", in: Bundle.module, compatibleWith: nil)!
   public static let `route`: UIImage = UIImage(named: "route", in: Bundle.module, compatibleWith: nil)!
   public static let `router`: UIImage = UIImage(named: "router", in: Bundle.module, compatibleWith: nil)!
@@ -1840,6 +1845,7 @@ extension Lucide {
   public static let `textCursorInput`: UIImage = UIImage(named: "text-cursor-input", in: Bundle.module, compatibleWith: nil)!
   public static let `textCursor`: UIImage = UIImage(named: "text-cursor", in: Bundle.module, compatibleWith: nil)!
   public static let `textInitial`: UIImage = UIImage(named: "text-initial", in: Bundle.module, compatibleWith: nil)!
+  public static let `textPen`: UIImage = UIImage(named: "text-pen", in: Bundle.module, compatibleWith: nil)!
   public static let `textQuote`: UIImage = UIImage(named: "text-quote", in: Bundle.module, compatibleWith: nil)!
   public static let `textSearch`: UIImage = UIImage(named: "text-search", in: Bundle.module, compatibleWith: nil)!
   public static let `textWrap`: UIImage = UIImage(named: "text-wrap", in: Bundle.module, compatibleWith: nil)!
