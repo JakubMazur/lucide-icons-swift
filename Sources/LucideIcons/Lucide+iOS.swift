@@ -314,6 +314,7 @@ extension Lucide {
   public static let `candy`: UIImage = UIImage(named: "candy", in: Bundle.module, compatibleWith: nil)!
   public static let `cannabisOff`: UIImage = UIImage(named: "cannabis-off", in: Bundle.module, compatibleWith: nil)!
   public static let `cannabis`: UIImage = UIImage(named: "cannabis", in: Bundle.module, compatibleWith: nil)!
+  public static let `cap`: UIImage = UIImage(named: "cap", in: Bundle.module, compatibleWith: nil)!
   public static let `captionsOff`: UIImage = UIImage(named: "captions-off", in: Bundle.module, compatibleWith: nil)!
   public static let `captions`: UIImage = UIImage(named: "captions", in: Bundle.module, compatibleWith: nil)!
   public static let `carBattery`: UIImage = UIImage(named: "car-battery", in: Bundle.module, compatibleWith: nil)!
@@ -874,6 +875,7 @@ extension Lucide {
   public static let `graduationCap`: UIImage = UIImage(named: "graduation-cap", in: Bundle.module, compatibleWith: nil)!
   public static let `grape`: UIImage = UIImage(named: "grape", in: Bundle.module, compatibleWith: nil)!
   public static let `graphHub`: UIImage = UIImage(named: "graph-hub", in: Bundle.module, compatibleWith: nil)!
+  public static let `graphRing`: UIImage = UIImage(named: "graph-ring", in: Bundle.module, compatibleWith: nil)!
   public static let `graphStar`: UIImage = UIImage(named: "graph-star", in: Bundle.module, compatibleWith: nil)!
   public static let `grid2x2Check`: UIImage = UIImage(named: "grid-2x2-check", in: Bundle.module, compatibleWith: nil)!
   public static let `grid2x2Plus`: UIImage = UIImage(named: "grid-2x2-plus", in: Bundle.module, compatibleWith: nil)!
@@ -1013,6 +1015,7 @@ extension Lucide {
   public static let `layoutDashboard`: UIImage = UIImage(named: "layout-dashboard", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutFreeform`: UIImage = UIImage(named: "layout-freeform", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutGridCircles`: UIImage = UIImage(named: "layout-grid-circles", in: Bundle.module, compatibleWith: nil)!
+  public static let `layoutGridPlus`: UIImage = UIImage(named: "layout-grid-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutGrid`: UIImage = UIImage(named: "layout-grid", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutList`: UIImage = UIImage(named: "layout-list", in: Bundle.module, compatibleWith: nil)!
   public static let `layoutPanelLeft`: UIImage = UIImage(named: "layout-panel-left", in: Bundle.module, compatibleWith: nil)!

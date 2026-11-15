@@ -314,6 +314,7 @@ extension Lucide {
   public static let `candy`: NSImage = Bundle.module.image(forResource: "candy")!
   public static let `cannabisOff`: NSImage = Bundle.module.image(forResource: "cannabis-off")!
   public static let `cannabis`: NSImage = Bundle.module.image(forResource: "cannabis")!
+  public static let `cap`: NSImage = Bundle.module.image(forResource: "cap")!
   public static let `captionsOff`: NSImage = Bundle.module.image(forResource: "captions-off")!
   public static let `captions`: NSImage = Bundle.module.image(forResource: "captions")!
   public static let `carBattery`: NSImage = Bundle.module.image(forResource: "car-battery")!
@@ -874,6 +875,7 @@ extension Lucide {
   public static let `graduationCap`: NSImage = Bundle.module.image(forResource: "graduation-cap")!
   public static let `grape`: NSImage = Bundle.module.image(forResource: "grape")!
   public static let `graphHub`: NSImage = Bundle.module.image(forResource: "graph-hub")!
+  public static let `graphRing`: NSImage = Bundle.module.image(forResource: "graph-ring")!
   public static let `graphStar`: NSImage = Bundle.module.image(forResource: "graph-star")!
   public static let `grid2x2Check`: NSImage = Bundle.module.image(forResource: "grid-2x2-check")!
   public static let `grid2x2Plus`: NSImage = Bundle.module.image(forResource: "grid-2x2-plus")!
@@ -1013,6 +1015,7 @@ extension Lucide {
   public static let `layoutDashboard`: NSImage = Bundle.module.image(forResource: "layout-dashboard")!
   public static let `layoutFreeform`: NSImage = Bundle.module.image(forResource: "layout-freeform")!
   public static let `layoutGridCircles`: NSImage = Bundle.module.image(forResource: "layout-grid-circles")!
+  public static let `layoutGridPlus`: NSImage = Bundle.module.image(forResource: "layout-grid-plus")!
   public static let `layoutGrid`: NSImage = Bundle.module.image(forResource: "layout-grid")!
   public static let `layoutList`: NSImage = Bundle.module.image(forResource: "layout-list")!
   public static let `layoutPanelLeft`: NSImage = Bundle.module.image(forResource: "layout-panel-left")!
