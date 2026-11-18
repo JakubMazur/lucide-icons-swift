@@ -1008,6 +1008,7 @@ extension Lucide {
   public static let `iterationCcw`: UIImage = UIImage(named: "iteration-ccw", in: Bundle.module, compatibleWith: nil)!
   public static let `iterationCw`: UIImage = UIImage(named: "iteration-cw", in: Bundle.module, compatibleWith: nil)!
   public static let `ivBag`: UIImage = UIImage(named: "iv-bag", in: Bundle.module, compatibleWith: nil)!
+  public static let `jacket`: UIImage = UIImage(named: "jacket", in: Bundle.module, compatibleWith: nil)!
   public static let `japaneseYen`: UIImage = UIImage(named: "japanese-yen", in: Bundle.module, compatibleWith: nil)!
   public static let `joystick`: UIImage = UIImage(named: "joystick", in: Bundle.module, compatibleWith: nil)!
   public static let `kanban`: UIImage = UIImage(named: "kanban", in: Bundle.module, compatibleWith: nil)!
@@ -1339,6 +1340,7 @@ extension Lucide {
   public static let `packageX`: UIImage = UIImage(named: "package-x", in: Bundle.module, compatibleWith: nil)!
   public static let `package`: UIImage = UIImage(named: "package", in: Bundle.module, compatibleWith: nil)!
   public static let `paintBucket`: UIImage = UIImage(named: "paint-bucket", in: Bundle.module, compatibleWith: nil)!
+  public static let `paintGun`: UIImage = UIImage(named: "paint-gun", in: Bundle.module, compatibleWith: nil)!
   public static let `paintRoller`: UIImage = UIImage(named: "paint-roller", in: Bundle.module, compatibleWith: nil)!
   public static let `paintbrushVertical`: UIImage = UIImage(named: "paintbrush-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `paintbrush`: UIImage = UIImage(named: "paintbrush", in: Bundle.module, compatibleWith: nil)!

@@ -1008,6 +1008,7 @@ extension Lucide {
   public static let `iterationCcw`: NSImage = Bundle.module.image(forResource: "iteration-ccw")!
   public static let `iterationCw`: NSImage = Bundle.module.image(forResource: "iteration-cw")!
   public static let `ivBag`: NSImage = Bundle.module.image(forResource: "iv-bag")!
+  public static let `jacket`: NSImage = Bundle.module.image(forResource: "jacket")!
   public static let `japaneseYen`: NSImage = Bundle.module.image(forResource: "japanese-yen")!
   public static let `joystick`: NSImage = Bundle.module.image(forResource: "joystick")!
   public static let `kanban`: NSImage = Bundle.module.image(forResource: "kanban")!
@@ -1339,6 +1340,7 @@ extension Lucide {
   public static let `packageX`: NSImage = Bundle.module.image(forResource: "package-x")!
   public static let `package`: NSImage = Bundle.module.image(forResource: "package")!
   public static let `paintBucket`: NSImage = Bundle.module.image(forResource: "paint-bucket")!
+  public static let `paintGun`: NSImage = Bundle.module.image(forResource: "paint-gun")!
   public static let `paintRoller`: NSImage = Bundle.module.image(forResource: "paint-roller")!
   public static let `paintbrushVertical`: NSImage = Bundle.module.image(forResource: "paintbrush-vertical")!
   public static let `paintbrush`: NSImage = Bundle.module.image(forResource: "paintbrush")!
