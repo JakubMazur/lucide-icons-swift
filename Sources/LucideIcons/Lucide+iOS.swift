@@ -640,6 +640,7 @@ extension Lucide {
   public static let `dessert`: UIImage = UIImage(named: "dessert", in: Bundle.module, compatibleWith: nil)!
   public static let `diagramFlowHorizontal`: UIImage = UIImage(named: "diagram-flow-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `diagramFlowVertical`: UIImage = UIImage(named: "diagram-flow-vertical", in: Bundle.module, compatibleWith: nil)!
+  public static let `diagramSankey`: UIImage = UIImage(named: "diagram-sankey", in: Bundle.module, compatibleWith: nil)!
   public static let `diameter`: UIImage = UIImage(named: "diameter", in: Bundle.module, compatibleWith: nil)!
   public static let `diamondMinus`: UIImage = UIImage(named: "diamond-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `diamondPercent`: UIImage = UIImage(named: "diamond-percent", in: Bundle.module, compatibleWith: nil)!
