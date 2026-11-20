@@ -253,6 +253,7 @@ extension Lucide {
   public static let `bot`: UIImage = UIImage(named: "bot", in: Bundle.module, compatibleWith: nil)!
   public static let `bottleWine`: UIImage = UIImage(named: "bottle-wine", in: Bundle.module, compatibleWith: nil)!
   public static let `bowArrow`: UIImage = UIImage(named: "bow-arrow", in: Bundle.module, compatibleWith: nil)!
+  public static let `boxDashed`: UIImage = UIImage(named: "box-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `box`: UIImage = UIImage(named: "box", in: Bundle.module, compatibleWith: nil)!
   public static let `boxesLinked`: UIImage = UIImage(named: "boxes-linked", in: Bundle.module, compatibleWith: nil)!
   public static let `boxes`: UIImage = UIImage(named: "boxes", in: Bundle.module, compatibleWith: nil)!
@@ -417,6 +418,7 @@ extension Lucide {
   public static let `chevronsToAxisVertical`: UIImage = UIImage(named: "chevrons-to-axis-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsUpDown`: UIImage = UIImage(named: "chevrons-up-down", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsUp`: UIImage = UIImage(named: "chevrons-up", in: Bundle.module, compatibleWith: nil)!
+  public static let `chocolateBar`: UIImage = UIImage(named: "chocolate-bar", in: Bundle.module, compatibleWith: nil)!
   public static let `church`: UIImage = UIImage(named: "church", in: Bundle.module, compatibleWith: nil)!
   public static let `cigaretteOff`: UIImage = UIImage(named: "cigarette-off", in: Bundle.module, compatibleWith: nil)!
   public static let `cigarette`: UIImage = UIImage(named: "cigarette", in: Bundle.module, compatibleWith: nil)!
@@ -828,10 +830,12 @@ extension Lucide {
   public static let `folderKey`: UIImage = UIImage(named: "folder-key", in: Bundle.module, compatibleWith: nil)!
   public static let `folderLock`: UIImage = UIImage(named: "folder-lock", in: Bundle.module, compatibleWith: nil)!
   public static let `folderMinus`: UIImage = UIImage(named: "folder-minus", in: Bundle.module, compatibleWith: nil)!
+  public static let `folderNetwork`: UIImage = UIImage(named: "folder-network", in: Bundle.module, compatibleWith: nil)!
   public static let `folderOpenDot`: UIImage = UIImage(named: "folder-open-dot", in: Bundle.module, compatibleWith: nil)!
   public static let `folderOpen`: UIImage = UIImage(named: "folder-open", in: Bundle.module, compatibleWith: nil)!
   public static let `folderOutput`: UIImage = UIImage(named: "folder-output", in: Bundle.module, compatibleWith: nil)!
   public static let `folderPen`: UIImage = UIImage(named: "folder-pen", in: Bundle.module, compatibleWith: nil)!
+  public static let `folderPlusCorner`: UIImage = UIImage(named: "folder-plus-corner", in: Bundle.module, compatibleWith: nil)!
   public static let `folderPlus`: UIImage = UIImage(named: "folder-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `folderRoot`: UIImage = UIImage(named: "folder-root", in: Bundle.module, compatibleWith: nil)!
   public static let `folderSearch2`: UIImage = UIImage(named: "folder-search-2", in: Bundle.module, compatibleWith: nil)!
@@ -1476,6 +1480,7 @@ extension Lucide {
   public static let `rectangleEllipsis`: UIImage = UIImage(named: "rectangle-ellipsis", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleGoggles`: UIImage = UIImage(named: "rectangle-goggles", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleHorizontal`: UIImage = UIImage(named: "rectangle-horizontal", in: Bundle.module, compatibleWith: nil)!
+  public static let `rectangleLandscapePlay`: UIImage = UIImage(named: "rectangle-landscape-play", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleVertical`: UIImage = UIImage(named: "rectangle-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `recycle`: UIImage = UIImage(named: "recycle", in: Bundle.module, compatibleWith: nil)!
   public static let `redo2`: UIImage = UIImage(named: "redo-2", in: Bundle.module, compatibleWith: nil)!
@@ -1985,6 +1990,7 @@ extension Lucide {
   public static let `userPlus`: UIImage = UIImage(named: "user-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundArrowLeft`: UIImage = UIImage(named: "user-round-arrow-left", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundCheck`: UIImage = UIImage(named: "user-round-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `userRoundClock`: UIImage = UIImage(named: "user-round-clock", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundCog`: UIImage = UIImage(named: "user-round-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundExclamationPoint`: UIImage = UIImage(named: "user-round-exclamation-point", in: Bundle.module, compatibleWith: nil)!
   public static let `userRoundGroup`: UIImage = UIImage(named: "user-round-group", in: Bundle.module, compatibleWith: nil)!

@@ -253,6 +253,7 @@ extension Lucide {
   public static let `bot`: NSImage = Bundle.module.image(forResource: "bot")!
   public static let `bottleWine`: NSImage = Bundle.module.image(forResource: "bottle-wine")!
   public static let `bowArrow`: NSImage = Bundle.module.image(forResource: "bow-arrow")!
+  public static let `boxDashed`: NSImage = Bundle.module.image(forResource: "box-dashed")!
   public static let `box`: NSImage = Bundle.module.image(forResource: "box")!
   public static let `boxesLinked`: NSImage = Bundle.module.image(forResource: "boxes-linked")!
   public static let `boxes`: NSImage = Bundle.module.image(forResource: "boxes")!
@@ -417,6 +418,7 @@ extension Lucide {
   public static let `chevronsToAxisVertical`: NSImage = Bundle.module.image(forResource: "chevrons-to-axis-vertical")!
   public static let `chevronsUpDown`: NSImage = Bundle.module.image(forResource: "chevrons-up-down")!
   public static let `chevronsUp`: NSImage = Bundle.module.image(forResource: "chevrons-up")!
+  public static let `chocolateBar`: NSImage = Bundle.module.image(forResource: "chocolate-bar")!
   public static let `church`: NSImage = Bundle.module.image(forResource: "church")!
   public static let `cigaretteOff`: NSImage = Bundle.module.image(forResource: "cigarette-off")!
   public static let `cigarette`: NSImage = Bundle.module.image(forResource: "cigarette")!
@@ -828,10 +830,12 @@ extension Lucide {
   public static let `folderKey`: NSImage = Bundle.module.image(forResource: "folder-key")!
   public static let `folderLock`: NSImage = Bundle.module.image(forResource: "folder-lock")!
   public static let `folderMinus`: NSImage = Bundle.module.image(forResource: "folder-minus")!
+  public static let `folderNetwork`: NSImage = Bundle.module.image(forResource: "folder-network")!
   public static let `folderOpenDot`: NSImage = Bundle.module.image(forResource: "folder-open-dot")!
   public static let `folderOpen`: NSImage = Bundle.module.image(forResource: "folder-open")!
   public static let `folderOutput`: NSImage = Bundle.module.image(forResource: "folder-output")!
   public static let `folderPen`: NSImage = Bundle.module.image(forResource: "folder-pen")!
+  public static let `folderPlusCorner`: NSImage = Bundle.module.image(forResource: "folder-plus-corner")!
   public static let `folderPlus`: NSImage = Bundle.module.image(forResource: "folder-plus")!
   public static let `folderRoot`: NSImage = Bundle.module.image(forResource: "folder-root")!
   public static let `folderSearch2`: NSImage = Bundle.module.image(forResource: "folder-search-2")!
@@ -1476,6 +1480,7 @@ extension Lucide {
   public static let `rectangleEllipsis`: NSImage = Bundle.module.image(forResource: "rectangle-ellipsis")!
   public static let `rectangleGoggles`: NSImage = Bundle.module.image(forResource: "rectangle-goggles")!
   public static let `rectangleHorizontal`: NSImage = Bundle.module.image(forResource: "rectangle-horizontal")!
+  public static let `rectangleLandscapePlay`: NSImage = Bundle.module.image(forResource: "rectangle-landscape-play")!
   public static let `rectangleVertical`: NSImage = Bundle.module.image(forResource: "rectangle-vertical")!
   public static let `recycle`: NSImage = Bundle.module.image(forResource: "recycle")!
   public static let `redo2`: NSImage = Bundle.module.image(forResource: "redo-2")!
@@ -1985,6 +1990,7 @@ extension Lucide {
   public static let `userPlus`: NSImage = Bundle.module.image(forResource: "user-plus")!
   public static let `userRoundArrowLeft`: NSImage = Bundle.module.image(forResource: "user-round-arrow-left")!
   public static let `userRoundCheck`: NSImage = Bundle.module.image(forResource: "user-round-check")!
+  public static let `userRoundClock`: NSImage = Bundle.module.image(forResource: "user-round-clock")!
   public static let `userRoundCog`: NSImage = Bundle.module.image(forResource: "user-round-cog")!
   public static let `userRoundExclamationPoint`: NSImage = Bundle.module.image(forResource: "user-round-exclamation-point")!
   public static let `userRoundGroup`: NSImage = Bundle.module.image(forResource: "user-round-group")!
