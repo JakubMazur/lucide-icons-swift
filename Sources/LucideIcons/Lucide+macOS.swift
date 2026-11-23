@@ -498,6 +498,7 @@ extension Lucide {
   public static let `circleSlash2`: NSImage = Bundle.module.image(forResource: "circle-slash-2")!
   public static let `circleSlash`: NSImage = Bundle.module.image(forResource: "circle-slash")!
   public static let `circleSmall`: NSImage = Bundle.module.image(forResource: "circle-small")!
+  public static let `circleSpeedLines`: NSImage = Bundle.module.image(forResource: "circle-speed-lines")!
   public static let `circleStar`: NSImage = Bundle.module.image(forResource: "circle-star")!
   public static let `circleStop`: NSImage = Bundle.module.image(forResource: "circle-stop")!
   public static let `circleUserRound`: NSImage = Bundle.module.image(forResource: "circle-user-round")!
@@ -910,6 +911,7 @@ extension Lucide {
   public static let `graduationCap`: NSImage = Bundle.module.image(forResource: "graduation-cap")!
   public static let `grape`: NSImage = Bundle.module.image(forResource: "grape")!
   public static let `graphHub`: NSImage = Bundle.module.image(forResource: "graph-hub")!
+  public static let `graphPath`: NSImage = Bundle.module.image(forResource: "graph-path")!
   public static let `graphRing`: NSImage = Bundle.module.image(forResource: "graph-ring")!
   public static let `graphStar`: NSImage = Bundle.module.image(forResource: "graph-star")!
   public static let `grid2x2Check`: NSImage = Bundle.module.image(forResource: "grid-2x2-check")!
@@ -974,6 +976,7 @@ extension Lucide {
   public static let `highlighter`: NSImage = Bundle.module.image(forResource: "highlighter")!
   public static let `hikingStick`: NSImage = Bundle.module.image(forResource: "hiking-stick")!
   public static let `hockeyStick`: NSImage = Bundle.module.image(forResource: "hockey-stick")!
+  public static let `hole`: NSImage = Bundle.module.image(forResource: "hole")!
   public static let `hopOff`: NSImage = Bundle.module.image(forResource: "hop-off")!
   public static let `hop`: NSImage = Bundle.module.image(forResource: "hop")!
   public static let `hospital`: NSImage = Bundle.module.image(forResource: "hospital")!
@@ -1335,6 +1338,7 @@ extension Lucide {
   public static let `orbit`: NSImage = Bundle.module.image(forResource: "orbit")!
   public static let `origami`: NSImage = Bundle.module.image(forResource: "origami")!
   public static let `package2`: NSImage = Bundle.module.image(forResource: "package-2")!
+  public static let `packageArrowBendUpLeft`: NSImage = Bundle.module.image(forResource: "package-arrow-bend-up-left")!
   public static let `packageCheck`: NSImage = Bundle.module.image(forResource: "package-check")!
   public static let `packageMinus`: NSImage = Bundle.module.image(forResource: "package-minus")!
   public static let `packageOpen`: NSImage = Bundle.module.image(forResource: "package-open")!

@@ -498,6 +498,7 @@ extension Lucide {
   public static let `circleSlash2`: UIImage = UIImage(named: "circle-slash-2", in: Bundle.module, compatibleWith: nil)!
   public static let `circleSlash`: UIImage = UIImage(named: "circle-slash", in: Bundle.module, compatibleWith: nil)!
   public static let `circleSmall`: UIImage = UIImage(named: "circle-small", in: Bundle.module, compatibleWith: nil)!
+  public static let `circleSpeedLines`: UIImage = UIImage(named: "circle-speed-lines", in: Bundle.module, compatibleWith: nil)!
   public static let `circleStar`: UIImage = UIImage(named: "circle-star", in: Bundle.module, compatibleWith: nil)!
   public static let `circleStop`: UIImage = UIImage(named: "circle-stop", in: Bundle.module, compatibleWith: nil)!
   public static let `circleUserRound`: UIImage = UIImage(named: "circle-user-round", in: Bundle.module, compatibleWith: nil)!
@@ -910,6 +911,7 @@ extension Lucide {
   public static let `graduationCap`: UIImage = UIImage(named: "graduation-cap", in: Bundle.module, compatibleWith: nil)!
   public static let `grape`: UIImage = UIImage(named: "grape", in: Bundle.module, compatibleWith: nil)!
   public static let `graphHub`: UIImage = UIImage(named: "graph-hub", in: Bundle.module, compatibleWith: nil)!
+  public static let `graphPath`: UIImage = UIImage(named: "graph-path", in: Bundle.module, compatibleWith: nil)!
   public static let `graphRing`: UIImage = UIImage(named: "graph-ring", in: Bundle.module, compatibleWith: nil)!
   public static let `graphStar`: UIImage = UIImage(named: "graph-star", in: Bundle.module, compatibleWith: nil)!
   public static let `grid2x2Check`: UIImage = UIImage(named: "grid-2x2-check", in: Bundle.module, compatibleWith: nil)!
@@ -974,6 +976,7 @@ extension Lucide {
   public static let `highlighter`: UIImage = UIImage(named: "highlighter", in: Bundle.module, compatibleWith: nil)!
   public static let `hikingStick`: UIImage = UIImage(named: "hiking-stick", in: Bundle.module, compatibleWith: nil)!
   public static let `hockeyStick`: UIImage = UIImage(named: "hockey-stick", in: Bundle.module, compatibleWith: nil)!
+  public static let `hole`: UIImage = UIImage(named: "hole", in: Bundle.module, compatibleWith: nil)!
   public static let `hopOff`: UIImage = UIImage(named: "hop-off", in: Bundle.module, compatibleWith: nil)!
   public static let `hop`: UIImage = UIImage(named: "hop", in: Bundle.module, compatibleWith: nil)!
   public static let `hospital`: UIImage = UIImage(named: "hospital", in: Bundle.module, compatibleWith: nil)!
@@ -1335,6 +1338,7 @@ extension Lucide {
   public static let `orbit`: UIImage = UIImage(named: "orbit", in: Bundle.module, compatibleWith: nil)!
   public static let `origami`: UIImage = UIImage(named: "origami", in: Bundle.module, compatibleWith: nil)!
   public static let `package2`: UIImage = UIImage(named: "package-2", in: Bundle.module, compatibleWith: nil)!
+  public static let `packageArrowBendUpLeft`: UIImage = UIImage(named: "package-arrow-bend-up-left", in: Bundle.module, compatibleWith: nil)!
   public static let `packageCheck`: UIImage = UIImage(named: "package-check", in: Bundle.module, compatibleWith: nil)!
   public static let `packageMinus`: UIImage = UIImage(named: "package-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `packageOpen`: UIImage = UIImage(named: "package-open", in: Bundle.module, compatibleWith: nil)!
