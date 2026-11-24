@@ -51,6 +51,7 @@ extension Lucide {
   public static let `anvil`: NSImage = Bundle.module.image(forResource: "anvil")!
   public static let `aperture`: NSImage = Bundle.module.image(forResource: "aperture")!
   public static let `appWindowMac`: NSImage = Bundle.module.image(forResource: "app-window-mac")!
+  public static let `appWindowPlus`: NSImage = Bundle.module.image(forResource: "app-window-plus")!
   public static let `appWindow`: NSImage = Bundle.module.image(forResource: "app-window")!
   public static let `apple`: NSImage = Bundle.module.image(forResource: "apple")!
   public static let `archiveArrowDown`: NSImage = Bundle.module.image(forResource: "archive-arrow-down")!
@@ -1784,6 +1785,7 @@ extension Lucide {
   public static let `squarePi`: NSImage = Bundle.module.image(forResource: "square-pi")!
   public static let `squarePilcrow`: NSImage = Bundle.module.image(forResource: "square-pilcrow")!
   public static let `squarePlay`: NSImage = Bundle.module.image(forResource: "square-play")!
+  public static let `squarePlusCorner`: NSImage = Bundle.module.image(forResource: "square-plus-corner")!
   public static let `squarePlus`: NSImage = Bundle.module.image(forResource: "square-plus")!
   public static let `squarePower`: NSImage = Bundle.module.image(forResource: "square-power")!
   public static let `squareRadical`: NSImage = Bundle.module.image(forResource: "square-radical")!

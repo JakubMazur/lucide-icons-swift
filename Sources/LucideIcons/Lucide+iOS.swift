@@ -51,6 +51,7 @@ extension Lucide {
   public static let `anvil`: UIImage = UIImage(named: "anvil", in: Bundle.module, compatibleWith: nil)!
   public static let `aperture`: UIImage = UIImage(named: "aperture", in: Bundle.module, compatibleWith: nil)!
   public static let `appWindowMac`: UIImage = UIImage(named: "app-window-mac", in: Bundle.module, compatibleWith: nil)!
+  public static let `appWindowPlus`: UIImage = UIImage(named: "app-window-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `appWindow`: UIImage = UIImage(named: "app-window", in: Bundle.module, compatibleWith: nil)!
   public static let `apple`: UIImage = UIImage(named: "apple", in: Bundle.module, compatibleWith: nil)!
   public static let `archiveArrowDown`: UIImage = UIImage(named: "archive-arrow-down", in: Bundle.module, compatibleWith: nil)!
@@ -1784,6 +1785,7 @@ extension Lucide {
   public static let `squarePi`: UIImage = UIImage(named: "square-pi", in: Bundle.module, compatibleWith: nil)!
   public static let `squarePilcrow`: UIImage = UIImage(named: "square-pilcrow", in: Bundle.module, compatibleWith: nil)!
   public static let `squarePlay`: UIImage = UIImage(named: "square-play", in: Bundle.module, compatibleWith: nil)!
+  public static let `squarePlusCorner`: UIImage = UIImage(named: "square-plus-corner", in: Bundle.module, compatibleWith: nil)!
   public static let `squarePlus`: UIImage = UIImage(named: "square-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `squarePower`: UIImage = UIImage(named: "square-power", in: Bundle.module, compatibleWith: nil)!
   public static let `squareRadical`: UIImage = UIImage(named: "square-radical", in: Bundle.module, compatibleWith: nil)!
