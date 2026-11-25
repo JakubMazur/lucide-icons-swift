@@ -50,7 +50,10 @@ extension Lucide {
   public static let `antenna`: UIImage = UIImage(named: "antenna", in: Bundle.module, compatibleWith: nil)!
   public static let `anvil`: UIImage = UIImage(named: "anvil", in: Bundle.module, compatibleWith: nil)!
   public static let `aperture`: UIImage = UIImage(named: "aperture", in: Bundle.module, compatibleWith: nil)!
+  public static let `appWindowMacMinus`: UIImage = UIImage(named: "app-window-mac-minus", in: Bundle.module, compatibleWith: nil)!
+  public static let `appWindowMacPlus`: UIImage = UIImage(named: "app-window-mac-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `appWindowMac`: UIImage = UIImage(named: "app-window-mac", in: Bundle.module, compatibleWith: nil)!
+  public static let `appWindowMinus`: UIImage = UIImage(named: "app-window-minus", in: Bundle.module, compatibleWith: nil)!
   public static let `appWindowPlus`: UIImage = UIImage(named: "app-window-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `appWindow`: UIImage = UIImage(named: "app-window", in: Bundle.module, compatibleWith: nil)!
   public static let `apple`: UIImage = UIImage(named: "apple", in: Bundle.module, compatibleWith: nil)!
@@ -574,6 +577,8 @@ extension Lucide {
   public static let `coffee`: UIImage = UIImage(named: "coffee", in: Bundle.module, compatibleWith: nil)!
   public static let `cog`: UIImage = UIImage(named: "cog", in: Bundle.module, compatibleWith: nil)!
   public static let `coins`: UIImage = UIImage(named: "coins", in: Bundle.module, compatibleWith: nil)!
+  public static let `columns2PlusLeft`: UIImage = UIImage(named: "columns-2-plus-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `columns2PlusRight`: UIImage = UIImage(named: "columns-2-plus-right", in: Bundle.module, compatibleWith: nil)!
   public static let `columns2`: UIImage = UIImage(named: "columns-2", in: Bundle.module, compatibleWith: nil)!
   public static let `columns3Cog`: UIImage = UIImage(named: "columns-3-cog", in: Bundle.module, compatibleWith: nil)!
   public static let `columns3`: UIImage = UIImage(named: "columns-3", in: Bundle.module, compatibleWith: nil)!
@@ -782,6 +787,7 @@ extension Lucide {
   public static let `fileStack`: UIImage = UIImage(named: "file-stack", in: Bundle.module, compatibleWith: nil)!
   public static let `fileSymlink`: UIImage = UIImage(named: "file-symlink", in: Bundle.module, compatibleWith: nil)!
   public static let `fileTerminal`: UIImage = UIImage(named: "file-terminal", in: Bundle.module, compatibleWith: nil)!
+  public static let `fileTextSparkles`: UIImage = UIImage(named: "file-text-sparkles", in: Bundle.module, compatibleWith: nil)!
   public static let `fileText`: UIImage = UIImage(named: "file-text", in: Bundle.module, compatibleWith: nil)!
   public static let `fileTypeCorner`: UIImage = UIImage(named: "file-type-corner", in: Bundle.module, compatibleWith: nil)!
   public static let `fileType`: UIImage = UIImage(named: "file-type", in: Bundle.module, compatibleWith: nil)!
@@ -1003,6 +1009,7 @@ extension Lucide {
   public static let `imageOff`: UIImage = UIImage(named: "image-off", in: Bundle.module, compatibleWith: nil)!
   public static let `imagePlay`: UIImage = UIImage(named: "image-play", in: Bundle.module, compatibleWith: nil)!
   public static let `imagePlus`: UIImage = UIImage(named: "image-plus", in: Bundle.module, compatibleWith: nil)!
+  public static let `imageSparkles`: UIImage = UIImage(named: "image-sparkles", in: Bundle.module, compatibleWith: nil)!
   public static let `imageUp`: UIImage = UIImage(named: "image-up", in: Bundle.module, compatibleWith: nil)!
   public static let `imageUpscale`: UIImage = UIImage(named: "image-upscale", in: Bundle.module, compatibleWith: nil)!
   public static let `image`: UIImage = UIImage(named: "image", in: Bundle.module, compatibleWith: nil)!
@@ -1137,6 +1144,7 @@ extension Lucide {
   public static let `listTodo`: UIImage = UIImage(named: "list-todo", in: Bundle.module, compatibleWith: nil)!
   public static let `listTree`: UIImage = UIImage(named: "list-tree", in: Bundle.module, compatibleWith: nil)!
   public static let `listVideo`: UIImage = UIImage(named: "list-video", in: Bundle.module, compatibleWith: nil)!
+  public static let `listXCorner`: UIImage = UIImage(named: "list-x-corner", in: Bundle.module, compatibleWith: nil)!
   public static let `listX`: UIImage = UIImage(named: "list-x", in: Bundle.module, compatibleWith: nil)!
   public static let `list`: UIImage = UIImage(named: "list", in: Bundle.module, compatibleWith: nil)!
   public static let `loaderCircle`: UIImage = UIImage(named: "loader-circle", in: Bundle.module, compatibleWith: nil)!
@@ -1426,6 +1434,7 @@ extension Lucide {
   public static let `pipette`: UIImage = UIImage(named: "pipette", in: Bundle.module, compatibleWith: nil)!
   public static let `pizza`: UIImage = UIImage(named: "pizza", in: Bundle.module, compatibleWith: nil)!
   public static let `planeLanding`: UIImage = UIImage(named: "plane-landing", in: Bundle.module, compatibleWith: nil)!
+  public static let `planeOff`: UIImage = UIImage(named: "plane-off", in: Bundle.module, compatibleWith: nil)!
   public static let `planeTakeoff`: UIImage = UIImage(named: "plane-takeoff", in: Bundle.module, compatibleWith: nil)!
   public static let `plane`: UIImage = UIImage(named: "plane", in: Bundle.module, compatibleWith: nil)!
   public static let `plantPot`: UIImage = UIImage(named: "plant-pot", in: Bundle.module, compatibleWith: nil)!
@@ -1484,6 +1493,7 @@ extension Lucide {
   public static let `rectangleCircle`: UIImage = UIImage(named: "rectangle-circle", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleEllipsis`: UIImage = UIImage(named: "rectangle-ellipsis", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleGoggles`: UIImage = UIImage(named: "rectangle-goggles", in: Bundle.module, compatibleWith: nil)!
+  public static let `rectangleHorizontalPlus`: UIImage = UIImage(named: "rectangle-horizontal-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleHorizontal`: UIImage = UIImage(named: "rectangle-horizontal", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleLandscapePlay`: UIImage = UIImage(named: "rectangle-landscape-play", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleVertical`: UIImage = UIImage(named: "rectangle-vertical", in: Bundle.module, compatibleWith: nil)!
@@ -1528,6 +1538,8 @@ extension Lucide {
   public static let `routeOff`: UIImage = UIImage(named: "route-off", in: Bundle.module, compatibleWith: nil)!
   public static let `route`: UIImage = UIImage(named: "route", in: Bundle.module, compatibleWith: nil)!
   public static let `router`: UIImage = UIImage(named: "router", in: Bundle.module, compatibleWith: nil)!
+  public static let `rows2PlusBottom`: UIImage = UIImage(named: "rows-2-plus-bottom", in: Bundle.module, compatibleWith: nil)!
+  public static let `rows2PlusTop`: UIImage = UIImage(named: "rows-2-plus-top", in: Bundle.module, compatibleWith: nil)!
   public static let `rows2`: UIImage = UIImage(named: "rows-2", in: Bundle.module, compatibleWith: nil)!
   public static let `rows3`: UIImage = UIImage(named: "rows-3", in: Bundle.module, compatibleWith: nil)!
   public static let `rows4`: UIImage = UIImage(named: "rows-4", in: Bundle.module, compatibleWith: nil)!
@@ -1570,6 +1582,7 @@ extension Lucide {
   public static let `screenShareOff`: UIImage = UIImage(named: "screen-share-off", in: Bundle.module, compatibleWith: nil)!
   public static let `screenShare`: UIImage = UIImage(named: "screen-share", in: Bundle.module, compatibleWith: nil)!
   public static let `screw`: UIImage = UIImage(named: "screw", in: Bundle.module, compatibleWith: nil)!
+  public static let `screwdriver`: UIImage = UIImage(named: "screwdriver", in: Bundle.module, compatibleWith: nil)!
   public static let `scrollText`: UIImage = UIImage(named: "scroll-text", in: Bundle.module, compatibleWith: nil)!
   public static let `scroll`: UIImage = UIImage(named: "scroll", in: Bundle.module, compatibleWith: nil)!
   public static let `searchCheck`: UIImage = UIImage(named: "search-check", in: Bundle.module, compatibleWith: nil)!
@@ -1943,9 +1956,11 @@ extension Lucide {
   public static let `trailer`: UIImage = UIImage(named: "trailer", in: Bundle.module, compatibleWith: nil)!
   public static let `trainFrontTunnel`: UIImage = UIImage(named: "train-front-tunnel", in: Bundle.module, compatibleWith: nil)!
   public static let `trainFront`: UIImage = UIImage(named: "train-front", in: Bundle.module, compatibleWith: nil)!
+  public static let `trainHighSpeed`: UIImage = UIImage(named: "train-high-speed", in: Bundle.module, compatibleWith: nil)!
   public static let `trainTrack`: UIImage = UIImage(named: "train-track", in: Bundle.module, compatibleWith: nil)!
   public static let `tramFront`: UIImage = UIImage(named: "tram-front", in: Bundle.module, compatibleWith: nil)!
   public static let `transgender`: UIImage = UIImage(named: "transgender", in: Bundle.module, compatibleWith: nil)!
+  public static let `trashLeaf`: UIImage = UIImage(named: "trash-leaf", in: Bundle.module, compatibleWith: nil)!
   public static let `trashOff`: UIImage = UIImage(named: "trash-off", in: Bundle.module, compatibleWith: nil)!
   public static let `trash`: UIImage = UIImage(named: "trash", in: Bundle.module, compatibleWith: nil)!
   public static let `treeDeciduous`: UIImage = UIImage(named: "tree-deciduous", in: Bundle.module, compatibleWith: nil)!

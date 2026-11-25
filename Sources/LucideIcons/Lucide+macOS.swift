@@ -50,7 +50,10 @@ extension Lucide {
   public static let `antenna`: NSImage = Bundle.module.image(forResource: "antenna")!
   public static let `anvil`: NSImage = Bundle.module.image(forResource: "anvil")!
   public static let `aperture`: NSImage = Bundle.module.image(forResource: "aperture")!
+  public static let `appWindowMacMinus`: NSImage = Bundle.module.image(forResource: "app-window-mac-minus")!
+  public static let `appWindowMacPlus`: NSImage = Bundle.module.image(forResource: "app-window-mac-plus")!
   public static let `appWindowMac`: NSImage = Bundle.module.image(forResource: "app-window-mac")!
+  public static let `appWindowMinus`: NSImage = Bundle.module.image(forResource: "app-window-minus")!
   public static let `appWindowPlus`: NSImage = Bundle.module.image(forResource: "app-window-plus")!
   public static let `appWindow`: NSImage = Bundle.module.image(forResource: "app-window")!
   public static let `apple`: NSImage = Bundle.module.image(forResource: "apple")!
@@ -574,6 +577,8 @@ extension Lucide {
   public static let `coffee`: NSImage = Bundle.module.image(forResource: "coffee")!
   public static let `cog`: NSImage = Bundle.module.image(forResource: "cog")!
   public static let `coins`: NSImage = Bundle.module.image(forResource: "coins")!
+  public static let `columns2PlusLeft`: NSImage = Bundle.module.image(forResource: "columns-2-plus-left")!
+  public static let `columns2PlusRight`: NSImage = Bundle.module.image(forResource: "columns-2-plus-right")!
   public static let `columns2`: NSImage = Bundle.module.image(forResource: "columns-2")!
   public static let `columns3Cog`: NSImage = Bundle.module.image(forResource: "columns-3-cog")!
   public static let `columns3`: NSImage = Bundle.module.image(forResource: "columns-3")!
@@ -782,6 +787,7 @@ extension Lucide {
   public static let `fileStack`: NSImage = Bundle.module.image(forResource: "file-stack")!
   public static let `fileSymlink`: NSImage = Bundle.module.image(forResource: "file-symlink")!
   public static let `fileTerminal`: NSImage = Bundle.module.image(forResource: "file-terminal")!
+  public static let `fileTextSparkles`: NSImage = Bundle.module.image(forResource: "file-text-sparkles")!
   public static let `fileText`: NSImage = Bundle.module.image(forResource: "file-text")!
   public static let `fileTypeCorner`: NSImage = Bundle.module.image(forResource: "file-type-corner")!
   public static let `fileType`: NSImage = Bundle.module.image(forResource: "file-type")!
@@ -1003,6 +1009,7 @@ extension Lucide {
   public static let `imageOff`: NSImage = Bundle.module.image(forResource: "image-off")!
   public static let `imagePlay`: NSImage = Bundle.module.image(forResource: "image-play")!
   public static let `imagePlus`: NSImage = Bundle.module.image(forResource: "image-plus")!
+  public static let `imageSparkles`: NSImage = Bundle.module.image(forResource: "image-sparkles")!
   public static let `imageUp`: NSImage = Bundle.module.image(forResource: "image-up")!
   public static let `imageUpscale`: NSImage = Bundle.module.image(forResource: "image-upscale")!
   public static let `image`: NSImage = Bundle.module.image(forResource: "image")!
@@ -1137,6 +1144,7 @@ extension Lucide {
   public static let `listTodo`: NSImage = Bundle.module.image(forResource: "list-todo")!
   public static let `listTree`: NSImage = Bundle.module.image(forResource: "list-tree")!
   public static let `listVideo`: NSImage = Bundle.module.image(forResource: "list-video")!
+  public static let `listXCorner`: NSImage = Bundle.module.image(forResource: "list-x-corner")!
   public static let `listX`: NSImage = Bundle.module.image(forResource: "list-x")!
   public static let `list`: NSImage = Bundle.module.image(forResource: "list")!
   public static let `loaderCircle`: NSImage = Bundle.module.image(forResource: "loader-circle")!
@@ -1426,6 +1434,7 @@ extension Lucide {
   public static let `pipette`: NSImage = Bundle.module.image(forResource: "pipette")!
   public static let `pizza`: NSImage = Bundle.module.image(forResource: "pizza")!
   public static let `planeLanding`: NSImage = Bundle.module.image(forResource: "plane-landing")!
+  public static let `planeOff`: NSImage = Bundle.module.image(forResource: "plane-off")!
   public static let `planeTakeoff`: NSImage = Bundle.module.image(forResource: "plane-takeoff")!
   public static let `plane`: NSImage = Bundle.module.image(forResource: "plane")!
   public static let `plantPot`: NSImage = Bundle.module.image(forResource: "plant-pot")!
@@ -1484,6 +1493,7 @@ extension Lucide {
   public static let `rectangleCircle`: NSImage = Bundle.module.image(forResource: "rectangle-circle")!
   public static let `rectangleEllipsis`: NSImage = Bundle.module.image(forResource: "rectangle-ellipsis")!
   public static let `rectangleGoggles`: NSImage = Bundle.module.image(forResource: "rectangle-goggles")!
+  public static let `rectangleHorizontalPlus`: NSImage = Bundle.module.image(forResource: "rectangle-horizontal-plus")!
   public static let `rectangleHorizontal`: NSImage = Bundle.module.image(forResource: "rectangle-horizontal")!
   public static let `rectangleLandscapePlay`: NSImage = Bundle.module.image(forResource: "rectangle-landscape-play")!
   public static let `rectangleVertical`: NSImage = Bundle.module.image(forResource: "rectangle-vertical")!
@@ -1528,6 +1538,8 @@ extension Lucide {
   public static let `routeOff`: NSImage = Bundle.module.image(forResource: "route-off")!
   public static let `route`: NSImage = Bundle.module.image(forResource: "route")!
   public static let `router`: NSImage = Bundle.module.image(forResource: "router")!
+  public static let `rows2PlusBottom`: NSImage = Bundle.module.image(forResource: "rows-2-plus-bottom")!
+  public static let `rows2PlusTop`: NSImage = Bundle.module.image(forResource: "rows-2-plus-top")!
   public static let `rows2`: NSImage = Bundle.module.image(forResource: "rows-2")!
   public static let `rows3`: NSImage = Bundle.module.image(forResource: "rows-3")!
   public static let `rows4`: NSImage = Bundle.module.image(forResource: "rows-4")!
@@ -1570,6 +1582,7 @@ extension Lucide {
   public static let `screenShareOff`: NSImage = Bundle.module.image(forResource: "screen-share-off")!
   public static let `screenShare`: NSImage = Bundle.module.image(forResource: "screen-share")!
   public static let `screw`: NSImage = Bundle.module.image(forResource: "screw")!
+  public static let `screwdriver`: NSImage = Bundle.module.image(forResource: "screwdriver")!
   public static let `scrollText`: NSImage = Bundle.module.image(forResource: "scroll-text")!
   public static let `scroll`: NSImage = Bundle.module.image(forResource: "scroll")!
   public static let `searchCheck`: NSImage = Bundle.module.image(forResource: "search-check")!
@@ -1943,9 +1956,11 @@ extension Lucide {
   public static let `trailer`: NSImage = Bundle.module.image(forResource: "trailer")!
   public static let `trainFrontTunnel`: NSImage = Bundle.module.image(forResource: "train-front-tunnel")!
   public static let `trainFront`: NSImage = Bundle.module.image(forResource: "train-front")!
+  public static let `trainHighSpeed`: NSImage = Bundle.module.image(forResource: "train-high-speed")!
   public static let `trainTrack`: NSImage = Bundle.module.image(forResource: "train-track")!
   public static let `tramFront`: NSImage = Bundle.module.image(forResource: "tram-front")!
   public static let `transgender`: NSImage = Bundle.module.image(forResource: "transgender")!
+  public static let `trashLeaf`: NSImage = Bundle.module.image(forResource: "trash-leaf")!
   public static let `trashOff`: NSImage = Bundle.module.image(forResource: "trash-off")!
   public static let `trash`: NSImage = Bundle.module.image(forResource: "trash")!
   public static let `treeDeciduous`: NSImage = Bundle.module.image(forResource: "tree-deciduous")!
