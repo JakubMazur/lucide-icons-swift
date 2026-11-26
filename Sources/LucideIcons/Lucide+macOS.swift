@@ -257,6 +257,7 @@ extension Lucide {
   public static let `bot`: NSImage = Bundle.module.image(forResource: "bot")!
   public static let `bottleWine`: NSImage = Bundle.module.image(forResource: "bottle-wine")!
   public static let `bowArrow`: NSImage = Bundle.module.image(forResource: "bow-arrow")!
+  public static let `bowlChopsticks`: NSImage = Bundle.module.image(forResource: "bowl-chopsticks")!
   public static let `boxDashed`: NSImage = Bundle.module.image(forResource: "box-dashed")!
   public static let `box`: NSImage = Bundle.module.image(forResource: "box")!
   public static let `boxesLinked`: NSImage = Bundle.module.image(forResource: "boxes-linked")!
@@ -707,6 +708,7 @@ extension Lucide {
   public static let `eighthNote`: NSImage = Bundle.module.image(forResource: "eighth-note")!
   public static let `eighthNotes`: NSImage = Bundle.module.image(forResource: "eighth-notes")!
   public static let `eject`: NSImage = Bundle.module.image(forResource: "eject")!
+  public static let `elevator`: NSImage = Bundle.module.image(forResource: "elevator")!
   public static let `ellipse`: NSImage = Bundle.module.image(forResource: "ellipse")!
   public static let `ellipsisVertical`: NSImage = Bundle.module.image(forResource: "ellipsis-vertical")!
   public static let `ellipsis`: NSImage = Bundle.module.image(forResource: "ellipsis")!
@@ -907,6 +909,7 @@ extension Lucide {
   public static let `glasses`: NSImage = Bundle.module.image(forResource: "glasses")!
   public static let `globeBan`: NSImage = Bundle.module.image(forResource: "globe-ban")!
   public static let `globeCheck`: NSImage = Bundle.module.image(forResource: "globe-check")!
+  public static let `globeClock`: NSImage = Bundle.module.image(forResource: "globe-clock")!
   public static let `globeCode`: NSImage = Bundle.module.image(forResource: "globe-code")!
   public static let `globeLock`: NSImage = Bundle.module.image(forResource: "globe-lock")!
   public static let `globeOff`: NSImage = Bundle.module.image(forResource: "globe-off")!
@@ -1493,9 +1496,9 @@ extension Lucide {
   public static let `rectangleCircle`: NSImage = Bundle.module.image(forResource: "rectangle-circle")!
   public static let `rectangleEllipsis`: NSImage = Bundle.module.image(forResource: "rectangle-ellipsis")!
   public static let `rectangleGoggles`: NSImage = Bundle.module.image(forResource: "rectangle-goggles")!
+  public static let `rectangleHorizontalPlay`: NSImage = Bundle.module.image(forResource: "rectangle-horizontal-play")!
   public static let `rectangleHorizontalPlus`: NSImage = Bundle.module.image(forResource: "rectangle-horizontal-plus")!
   public static let `rectangleHorizontal`: NSImage = Bundle.module.image(forResource: "rectangle-horizontal")!
-  public static let `rectangleLandscapePlay`: NSImage = Bundle.module.image(forResource: "rectangle-landscape-play")!
   public static let `rectangleVertical`: NSImage = Bundle.module.image(forResource: "rectangle-vertical")!
   public static let `recycle`: NSImage = Bundle.module.image(forResource: "recycle")!
   public static let `redo2`: NSImage = Bundle.module.image(forResource: "redo-2")!
@@ -1834,6 +1837,7 @@ extension Lucide {
   public static let `starPlus`: NSImage = Bundle.module.image(forResource: "star-plus")!
   public static let `starX`: NSImage = Bundle.module.image(forResource: "star-x")!
   public static let `star`: NSImage = Bundle.module.image(forResource: "star")!
+  public static let `steeringWheel`: NSImage = Bundle.module.image(forResource: "steering-wheel")!
   public static let `stepBack`: NSImage = Bundle.module.image(forResource: "step-back")!
   public static let `stepForward`: NSImage = Bundle.module.image(forResource: "step-forward")!
   public static let `stethoscope`: NSImage = Bundle.module.image(forResource: "stethoscope")!

@@ -257,6 +257,7 @@ extension Lucide {
   public static let `bot`: UIImage = UIImage(named: "bot", in: Bundle.module, compatibleWith: nil)!
   public static let `bottleWine`: UIImage = UIImage(named: "bottle-wine", in: Bundle.module, compatibleWith: nil)!
   public static let `bowArrow`: UIImage = UIImage(named: "bow-arrow", in: Bundle.module, compatibleWith: nil)!
+  public static let `bowlChopsticks`: UIImage = UIImage(named: "bowl-chopsticks", in: Bundle.module, compatibleWith: nil)!
   public static let `boxDashed`: UIImage = UIImage(named: "box-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `box`: UIImage = UIImage(named: "box", in: Bundle.module, compatibleWith: nil)!
   public static let `boxesLinked`: UIImage = UIImage(named: "boxes-linked", in: Bundle.module, compatibleWith: nil)!
@@ -707,6 +708,7 @@ extension Lucide {
   public static let `eighthNote`: UIImage = UIImage(named: "eighth-note", in: Bundle.module, compatibleWith: nil)!
   public static let `eighthNotes`: UIImage = UIImage(named: "eighth-notes", in: Bundle.module, compatibleWith: nil)!
   public static let `eject`: UIImage = UIImage(named: "eject", in: Bundle.module, compatibleWith: nil)!
+  public static let `elevator`: UIImage = UIImage(named: "elevator", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipse`: UIImage = UIImage(named: "ellipse", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsisVertical`: UIImage = UIImage(named: "ellipsis-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `ellipsis`: UIImage = UIImage(named: "ellipsis", in: Bundle.module, compatibleWith: nil)!
@@ -907,6 +909,7 @@ extension Lucide {
   public static let `glasses`: UIImage = UIImage(named: "glasses", in: Bundle.module, compatibleWith: nil)!
   public static let `globeBan`: UIImage = UIImage(named: "globe-ban", in: Bundle.module, compatibleWith: nil)!
   public static let `globeCheck`: UIImage = UIImage(named: "globe-check", in: Bundle.module, compatibleWith: nil)!
+  public static let `globeClock`: UIImage = UIImage(named: "globe-clock", in: Bundle.module, compatibleWith: nil)!
   public static let `globeCode`: UIImage = UIImage(named: "globe-code", in: Bundle.module, compatibleWith: nil)!
   public static let `globeLock`: UIImage = UIImage(named: "globe-lock", in: Bundle.module, compatibleWith: nil)!
   public static let `globeOff`: UIImage = UIImage(named: "globe-off", in: Bundle.module, compatibleWith: nil)!
@@ -1493,9 +1496,9 @@ extension Lucide {
   public static let `rectangleCircle`: UIImage = UIImage(named: "rectangle-circle", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleEllipsis`: UIImage = UIImage(named: "rectangle-ellipsis", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleGoggles`: UIImage = UIImage(named: "rectangle-goggles", in: Bundle.module, compatibleWith: nil)!
+  public static let `rectangleHorizontalPlay`: UIImage = UIImage(named: "rectangle-horizontal-play", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleHorizontalPlus`: UIImage = UIImage(named: "rectangle-horizontal-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleHorizontal`: UIImage = UIImage(named: "rectangle-horizontal", in: Bundle.module, compatibleWith: nil)!
-  public static let `rectangleLandscapePlay`: UIImage = UIImage(named: "rectangle-landscape-play", in: Bundle.module, compatibleWith: nil)!
   public static let `rectangleVertical`: UIImage = UIImage(named: "rectangle-vertical", in: Bundle.module, compatibleWith: nil)!
   public static let `recycle`: UIImage = UIImage(named: "recycle", in: Bundle.module, compatibleWith: nil)!
   public static let `redo2`: UIImage = UIImage(named: "redo-2", in: Bundle.module, compatibleWith: nil)!
@@ -1834,6 +1837,7 @@ extension Lucide {
   public static let `starPlus`: UIImage = UIImage(named: "star-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `starX`: UIImage = UIImage(named: "star-x", in: Bundle.module, compatibleWith: nil)!
   public static let `star`: UIImage = UIImage(named: "star", in: Bundle.module, compatibleWith: nil)!
+  public static let `steeringWheel`: UIImage = UIImage(named: "steering-wheel", in: Bundle.module, compatibleWith: nil)!
   public static let `stepBack`: UIImage = UIImage(named: "step-back", in: Bundle.module, compatibleWith: nil)!
   public static let `stepForward`: UIImage = UIImage(named: "step-forward", in: Bundle.module, compatibleWith: nil)!
   public static let `stethoscope`: UIImage = UIImage(named: "stethoscope", in: Bundle.module, compatibleWith: nil)!
