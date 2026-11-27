@@ -262,6 +262,7 @@ extension Lucide {
   public static let `box`: NSImage = Bundle.module.image(forResource: "box")!
   public static let `boxesLinked`: NSImage = Bundle.module.image(forResource: "boxes-linked")!
   public static let `boxes`: NSImage = Bundle.module.image(forResource: "boxes")!
+  public static let `bracesSigma`: NSImage = Bundle.module.image(forResource: "braces-sigma")!
   public static let `braces`: NSImage = Bundle.module.image(forResource: "braces")!
   public static let `brackets`: NSImage = Bundle.module.image(forResource: "brackets")!
   public static let `brainCircuit`: NSImage = Bundle.module.image(forResource: "brain-circuit")!

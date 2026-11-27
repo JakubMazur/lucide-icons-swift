@@ -262,6 +262,7 @@ extension Lucide {
   public static let `box`: UIImage = UIImage(named: "box", in: Bundle.module, compatibleWith: nil)!
   public static let `boxesLinked`: UIImage = UIImage(named: "boxes-linked", in: Bundle.module, compatibleWith: nil)!
   public static let `boxes`: UIImage = UIImage(named: "boxes", in: Bundle.module, compatibleWith: nil)!
+  public static let `bracesSigma`: UIImage = UIImage(named: "braces-sigma", in: Bundle.module, compatibleWith: nil)!
   public static let `braces`: UIImage = UIImage(named: "braces", in: Bundle.module, compatibleWith: nil)!
   public static let `brackets`: UIImage = UIImage(named: "brackets", in: Bundle.module, compatibleWith: nil)!
   public static let `brainCircuit`: UIImage = UIImage(named: "brain-circuit", in: Bundle.module, compatibleWith: nil)!
