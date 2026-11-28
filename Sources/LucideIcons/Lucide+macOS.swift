@@ -150,6 +150,7 @@ extension Lucide {
   public static let `badgeX`: NSImage = Bundle.module.image(forResource: "badge-x")!
   public static let `badge`: NSImage = Bundle.module.image(forResource: "badge")!
   public static let `baggageClaim`: NSImage = Bundle.module.image(forResource: "baggage-claim")!
+  public static let `balcony`: NSImage = Bundle.module.image(forResource: "balcony")!
   public static let `ballWave`: NSImage = Bundle.module.image(forResource: "ball-wave")!
   public static let `balloon`: NSImage = Bundle.module.image(forResource: "balloon")!
   public static let `ban`: NSImage = Bundle.module.image(forResource: "ban")!
@@ -262,6 +263,7 @@ extension Lucide {
   public static let `box`: NSImage = Bundle.module.image(forResource: "box")!
   public static let `boxesLinked`: NSImage = Bundle.module.image(forResource: "boxes-linked")!
   public static let `boxes`: NSImage = Bundle.module.image(forResource: "boxes")!
+  public static let `boxingGlove`: NSImage = Bundle.module.image(forResource: "boxing-glove")!
   public static let `bracesSigma`: NSImage = Bundle.module.image(forResource: "braces-sigma")!
   public static let `braces`: NSImage = Bundle.module.image(forResource: "braces")!
   public static let `brackets`: NSImage = Bundle.module.image(forResource: "brackets")!
@@ -407,6 +409,7 @@ extension Lucide {
   public static let `chevronLeft`: NSImage = Bundle.module.image(forResource: "chevron-left")!
   public static let `chevronRight`: NSImage = Bundle.module.image(forResource: "chevron-right")!
   public static let `chevronUp`: NSImage = Bundle.module.image(forResource: "chevron-up")!
+  public static let `chevronsDownUpOffset`: NSImage = Bundle.module.image(forResource: "chevrons-down-up-offset")!
   public static let `chevronsDownUp`: NSImage = Bundle.module.image(forResource: "chevrons-down-up")!
   public static let `chevronsDown`: NSImage = Bundle.module.image(forResource: "chevrons-down")!
   public static let `chevronsFromAxisDashedHorizontal`: NSImage = Bundle.module.image(forResource: "chevrons-from-axis-dashed-horizontal")!
@@ -416,6 +419,7 @@ extension Lucide {
   public static let `chevronsLeftRightEllipsis`: NSImage = Bundle.module.image(forResource: "chevrons-left-right-ellipsis")!
   public static let `chevronsLeftRight`: NSImage = Bundle.module.image(forResource: "chevrons-left-right")!
   public static let `chevronsLeft`: NSImage = Bundle.module.image(forResource: "chevrons-left")!
+  public static let `chevronsRightLeftOffset`: NSImage = Bundle.module.image(forResource: "chevrons-right-left-offset")!
   public static let `chevronsRightLeft`: NSImage = Bundle.module.image(forResource: "chevrons-right-left")!
   public static let `chevronsRight`: NSImage = Bundle.module.image(forResource: "chevrons-right")!
   public static let `chevronsToAxisDashedHorizontal`: NSImage = Bundle.module.image(forResource: "chevrons-to-axis-dashed-horizontal")!
@@ -1178,6 +1182,7 @@ extension Lucide {
   public static let `mailPlus`: NSImage = Bundle.module.image(forResource: "mail-plus")!
   public static let `mailQuestionMark`: NSImage = Bundle.module.image(forResource: "mail-question-mark")!
   public static let `mailSearch`: NSImage = Bundle.module.image(forResource: "mail-search")!
+  public static let `mailSend`: NSImage = Bundle.module.image(forResource: "mail-send")!
   public static let `mailX`: NSImage = Bundle.module.image(forResource: "mail-x")!
   public static let `mail`: NSImage = Bundle.module.image(forResource: "mail")!
   public static let `mailbox`: NSImage = Bundle.module.image(forResource: "mailbox")!
@@ -1818,6 +1823,15 @@ extension Lucide {
   public static let `squareStar`: NSImage = Bundle.module.image(forResource: "square-star")!
   public static let `squareStop`: NSImage = Bundle.module.image(forResource: "square-stop")!
   public static let `squareTerminal`: NSImage = Bundle.module.image(forResource: "square-terminal")!
+  public static let `squareTextAlignBottomCenter`: NSImage = Bundle.module.image(forResource: "square-text-align-bottom-center")!
+  public static let `squareTextAlignBottomLeft`: NSImage = Bundle.module.image(forResource: "square-text-align-bottom-left")!
+  public static let `squareTextAlignBottomRight`: NSImage = Bundle.module.image(forResource: "square-text-align-bottom-right")!
+  public static let `squareTextAlignMiddleCenter`: NSImage = Bundle.module.image(forResource: "square-text-align-middle-center")!
+  public static let `squareTextAlignMiddleLeft`: NSImage = Bundle.module.image(forResource: "square-text-align-middle-left")!
+  public static let `squareTextAlignMiddleRight`: NSImage = Bundle.module.image(forResource: "square-text-align-middle-right")!
+  public static let `squareTextAlignTopCenter`: NSImage = Bundle.module.image(forResource: "square-text-align-top-center")!
+  public static let `squareTextAlignTopLeft`: NSImage = Bundle.module.image(forResource: "square-text-align-top-left")!
+  public static let `squareTextAlignTopRight`: NSImage = Bundle.module.image(forResource: "square-text-align-top-right")!
   public static let `squareText`: NSImage = Bundle.module.image(forResource: "square-text")!
   public static let `squareUserRound`: NSImage = Bundle.module.image(forResource: "square-user-round")!
   public static let `squareUser`: NSImage = Bundle.module.image(forResource: "square-user")!
@@ -1830,6 +1844,8 @@ extension Lucide {
   public static let `squircleDashed`: NSImage = Bundle.module.image(forResource: "squircle-dashed")!
   public static let `squircle`: NSImage = Bundle.module.image(forResource: "squircle")!
   public static let `squirrel`: NSImage = Bundle.module.image(forResource: "squirrel")!
+  public static let `stairsArrowDownLeft`: NSImage = Bundle.module.image(forResource: "stairs-arrow-down-left")!
+  public static let `stairsArrowUpRight`: NSImage = Bundle.module.image(forResource: "stairs-arrow-up-right")!
   public static let `stamp`: NSImage = Bundle.module.image(forResource: "stamp")!
   public static let `starCheck`: NSImage = Bundle.module.image(forResource: "star-check")!
   public static let `starHalf`: NSImage = Bundle.module.image(forResource: "star-half")!

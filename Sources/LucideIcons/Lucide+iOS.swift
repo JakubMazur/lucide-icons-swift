@@ -150,6 +150,7 @@ extension Lucide {
   public static let `badgeX`: UIImage = UIImage(named: "badge-x", in: Bundle.module, compatibleWith: nil)!
   public static let `badge`: UIImage = UIImage(named: "badge", in: Bundle.module, compatibleWith: nil)!
   public static let `baggageClaim`: UIImage = UIImage(named: "baggage-claim", in: Bundle.module, compatibleWith: nil)!
+  public static let `balcony`: UIImage = UIImage(named: "balcony", in: Bundle.module, compatibleWith: nil)!
   public static let `ballWave`: UIImage = UIImage(named: "ball-wave", in: Bundle.module, compatibleWith: nil)!
   public static let `balloon`: UIImage = UIImage(named: "balloon", in: Bundle.module, compatibleWith: nil)!
   public static let `ban`: UIImage = UIImage(named: "ban", in: Bundle.module, compatibleWith: nil)!
@@ -262,6 +263,7 @@ extension Lucide {
   public static let `box`: UIImage = UIImage(named: "box", in: Bundle.module, compatibleWith: nil)!
   public static let `boxesLinked`: UIImage = UIImage(named: "boxes-linked", in: Bundle.module, compatibleWith: nil)!
   public static let `boxes`: UIImage = UIImage(named: "boxes", in: Bundle.module, compatibleWith: nil)!
+  public static let `boxingGlove`: UIImage = UIImage(named: "boxing-glove", in: Bundle.module, compatibleWith: nil)!
   public static let `bracesSigma`: UIImage = UIImage(named: "braces-sigma", in: Bundle.module, compatibleWith: nil)!
   public static let `braces`: UIImage = UIImage(named: "braces", in: Bundle.module, compatibleWith: nil)!
   public static let `brackets`: UIImage = UIImage(named: "brackets", in: Bundle.module, compatibleWith: nil)!
@@ -407,6 +409,7 @@ extension Lucide {
   public static let `chevronLeft`: UIImage = UIImage(named: "chevron-left", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronRight`: UIImage = UIImage(named: "chevron-right", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronUp`: UIImage = UIImage(named: "chevron-up", in: Bundle.module, compatibleWith: nil)!
+  public static let `chevronsDownUpOffset`: UIImage = UIImage(named: "chevrons-down-up-offset", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsDownUp`: UIImage = UIImage(named: "chevrons-down-up", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsDown`: UIImage = UIImage(named: "chevrons-down", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsFromAxisDashedHorizontal`: UIImage = UIImage(named: "chevrons-from-axis-dashed-horizontal", in: Bundle.module, compatibleWith: nil)!
@@ -416,6 +419,7 @@ extension Lucide {
   public static let `chevronsLeftRightEllipsis`: UIImage = UIImage(named: "chevrons-left-right-ellipsis", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsLeftRight`: UIImage = UIImage(named: "chevrons-left-right", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsLeft`: UIImage = UIImage(named: "chevrons-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `chevronsRightLeftOffset`: UIImage = UIImage(named: "chevrons-right-left-offset", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsRightLeft`: UIImage = UIImage(named: "chevrons-right-left", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsRight`: UIImage = UIImage(named: "chevrons-right", in: Bundle.module, compatibleWith: nil)!
   public static let `chevronsToAxisDashedHorizontal`: UIImage = UIImage(named: "chevrons-to-axis-dashed-horizontal", in: Bundle.module, compatibleWith: nil)!
@@ -1178,6 +1182,7 @@ extension Lucide {
   public static let `mailPlus`: UIImage = UIImage(named: "mail-plus", in: Bundle.module, compatibleWith: nil)!
   public static let `mailQuestionMark`: UIImage = UIImage(named: "mail-question-mark", in: Bundle.module, compatibleWith: nil)!
   public static let `mailSearch`: UIImage = UIImage(named: "mail-search", in: Bundle.module, compatibleWith: nil)!
+  public static let `mailSend`: UIImage = UIImage(named: "mail-send", in: Bundle.module, compatibleWith: nil)!
   public static let `mailX`: UIImage = UIImage(named: "mail-x", in: Bundle.module, compatibleWith: nil)!
   public static let `mail`: UIImage = UIImage(named: "mail", in: Bundle.module, compatibleWith: nil)!
   public static let `mailbox`: UIImage = UIImage(named: "mailbox", in: Bundle.module, compatibleWith: nil)!
@@ -1818,6 +1823,15 @@ extension Lucide {
   public static let `squareStar`: UIImage = UIImage(named: "square-star", in: Bundle.module, compatibleWith: nil)!
   public static let `squareStop`: UIImage = UIImage(named: "square-stop", in: Bundle.module, compatibleWith: nil)!
   public static let `squareTerminal`: UIImage = UIImage(named: "square-terminal", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareTextAlignBottomCenter`: UIImage = UIImage(named: "square-text-align-bottom-center", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareTextAlignBottomLeft`: UIImage = UIImage(named: "square-text-align-bottom-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareTextAlignBottomRight`: UIImage = UIImage(named: "square-text-align-bottom-right", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareTextAlignMiddleCenter`: UIImage = UIImage(named: "square-text-align-middle-center", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareTextAlignMiddleLeft`: UIImage = UIImage(named: "square-text-align-middle-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareTextAlignMiddleRight`: UIImage = UIImage(named: "square-text-align-middle-right", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareTextAlignTopCenter`: UIImage = UIImage(named: "square-text-align-top-center", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareTextAlignTopLeft`: UIImage = UIImage(named: "square-text-align-top-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `squareTextAlignTopRight`: UIImage = UIImage(named: "square-text-align-top-right", in: Bundle.module, compatibleWith: nil)!
   public static let `squareText`: UIImage = UIImage(named: "square-text", in: Bundle.module, compatibleWith: nil)!
   public static let `squareUserRound`: UIImage = UIImage(named: "square-user-round", in: Bundle.module, compatibleWith: nil)!
   public static let `squareUser`: UIImage = UIImage(named: "square-user", in: Bundle.module, compatibleWith: nil)!
@@ -1830,6 +1844,8 @@ extension Lucide {
   public static let `squircleDashed`: UIImage = UIImage(named: "squircle-dashed", in: Bundle.module, compatibleWith: nil)!
   public static let `squircle`: UIImage = UIImage(named: "squircle", in: Bundle.module, compatibleWith: nil)!
   public static let `squirrel`: UIImage = UIImage(named: "squirrel", in: Bundle.module, compatibleWith: nil)!
+  public static let `stairsArrowDownLeft`: UIImage = UIImage(named: "stairs-arrow-down-left", in: Bundle.module, compatibleWith: nil)!
+  public static let `stairsArrowUpRight`: UIImage = UIImage(named: "stairs-arrow-up-right", in: Bundle.module, compatibleWith: nil)!
   public static let `stamp`: UIImage = UIImage(named: "stamp", in: Bundle.module, compatibleWith: nil)!
   public static let `starCheck`: UIImage = UIImage(named: "star-check", in: Bundle.module, compatibleWith: nil)!
   public static let `starHalf`: UIImage = UIImage(named: "star-half", in: Bundle.module, compatibleWith: nil)!
